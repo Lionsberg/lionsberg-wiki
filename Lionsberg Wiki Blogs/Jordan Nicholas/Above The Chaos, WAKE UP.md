@@ -44,15 +44,15 @@ Over the last 7 years, I convened the wisest people I could find to forge a New 
 
 [[The LIØNSBERG Strategy and Plan]] proposes that *without dishonoring or forsaking our existing citizenships and affiliations*, during the summer of 2024 we ratify a New Alliance and a New System of Governance transcendent of the lines that divided us in the past, connect and empower the first 3% of the population (250 million leaders strong) by 2026, and reallocate 2/3 of the $30 Trillion currently budgeted for an omnicidal World War III towards the greatest healing and rebuilding project in human history. 
 
-The 250 Million strong Lionsberg Alliance / Force For Good will lead neighborhoods, communities, watersheds, and bioregions around the planet through a coordinated process of reimagining, redesigning, and rebuilding their lives and their world. 
+The 250 Million strong LIØNSBERG Alliance / Force For Good will lead neighborhoods, communities, watersheds, and bioregions around the planet through a coordinated process of reimagining, redesigning, and rebuilding their lives and their world. 
 
 We will ensure that every family and community has the opportunity to forge coordinated Disaster Resilience and Recovery Plans to ensure that continuity of food, water, shelter, and necessities as the world transforms. 
 
-The Lionsberg System, Commons, and Platform will connect every individual, family and locality on Earth to a world class array of solutions and technologies, and a lifelong journey of learning, wellness, and development. 
+The LIØNSBERG System, Commons, and Platform will connect every individual, family and locality on Earth to a world class array of solutions and technologies, and a lifelong journey of learning, wellness, and development. 
 
 The Networked Instantiation Hubs will equip every community and watershed with the pragmatic physical and digital systems, tools, and technologies required to continually regenerate local social, economic, and ecological health. 
 
-The Lionsberg Platform will enable intelligent supply chain management for critical goods and services, monitoring surpluses and needs, stocks and flows across the networked localities. 
+The LIØNSBERG Platform will enable intelligent supply chain management for critical goods and services, monitoring surpluses and needs, stocks and flows across the networked localities. 
 
 And the New Covenant will ensure that all individuals and localities Help One Another develop towards the fullness of their unique potential, and flourish in harmony. 
 
@@ -66,7 +66,7 @@ To avert a collapse of the Existing Order, the world must promptly ratify, embod
 
 If we are not meeting this moment in history with *at least* the basic competence, resources and focus with which we approached the Apollo Project or any significant Joint Venture, at planetary scale, we are not even in the ballpark of averting [[Collapse]].  
 
-We plan to convene the first [[Lionsberg General Assembly]] on or about Sunday September 22, 2024 to ratify the New System and the [[10 Year Grand Strategy]].  
+We plan to convene the first [[LIØNSBERG General Assembly]] on or about Sunday September 22, 2024 to ratify the New System and the [[10 Year Grand Strategy]].  
 
 To avoid World War III and reallocate the world's largest military, defense, and logistical capacity towards co-creative ends, the world must help the Citizens of America sweep an independent President into office in 2024 who is committed to dissolving the abjectly corrupt Deep State and leading the world through a progressive disarmament over the coming decade. 
 

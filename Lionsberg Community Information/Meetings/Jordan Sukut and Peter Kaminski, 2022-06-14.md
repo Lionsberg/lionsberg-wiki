@@ -2,7 +2,7 @@
 
 ## To Do / Topics
 
-- [x] set up lionsberg.wiki
+- [x] set up LIØNSBERG.wiki
 - [ ] work on project management
 - [ ] Quick chat on which sovereigns when? 
 - [ ] talk over Massive Decentralization and other abstraction layers

@@ -226,4 +226,4 @@ ___
 Forward to [[An Image Of Righteousness And Its Reward - If, Then]]  
 Back to [[The Patterns Of Spiraling Up, And Spiraling Down]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

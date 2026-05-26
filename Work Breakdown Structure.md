@@ -23,4 +23,4 @@ It is important to note that the WBS should be reviewed and updated regularly th
 
 By using a WBS, project managers and teams can ensure that all project activities are properly defined and accounted for, and that the project is delivered within the desired time, budget, and quality constraints.
 
-The first level of the Lionsberg Work Breakdown Structure is [[The 12 Pillars of Lionsberg]]. 
+The first level of the LIØNSBERG Work Breakdown Structure is [[The 12 Pillars of LIØNSBERG]]. 

@@ -278,7 +278,7 @@ If even 3% of humanity organizes and coordinates, they can guide the remaining 9
 - [[The LIØNSBERG Strategy and Plan]] - Universal pattern and framework
 - [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]] - Current strategic assessment
 - [[The Nameless Strategy and Plan]] - First instance implementation approach  
-- [[Lionsberg Wiki Books]] - broader context and analysis  
+- [[LIØNSBERG Wiki Books]] - broader context and analysis  
 
 *For the complete story:*  
 - [[The Story of LIØNSBERG]] - Cosmic context and true myth

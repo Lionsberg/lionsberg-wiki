@@ -40,7 +40,7 @@ Yet, within this profound darkness lies the Divine Seed of an extraordinary **Li
 
 With absolute devotion and lifetimes of careful preparation, We have crafted a transcendent platform—a practical, **protective ark** and **sacred bridge** designed to guide Us safely Together beyond the collapsing Old World and into a radiant New Civilization. Its name is **LIØNSBERG**.
 
-**No one owns Lionsberg.**  
+**No one owns LIØNSBERG.**  
 **It is an archetypal blueprint.**  
 **It is a living, emerging reality.**  
 **It is a sacred gift from the One, freely and equally offered to All.**  
@@ -61,7 +61,7 @@ Those who respond this May will receive:
     
 3. A complimentary digital copy of ***The Great UnVeiling*** upon release.
     
-4. Clear and loving support on how to officially **Join Us** as an equal **One Citizen One Voice** member of Lionsberg when you are ready.
+4. Clear and loving support on how to officially **Join Us** as an equal **One Citizen One Voice** member of LIØNSBERG when you are ready.
 
 Finally, if you sense this message might benefit or help protect someone you love or trust, please freely share this invitational link. Together, we will ensure in a Spirit of absolute and unconditional Love that no one is involuntarily left behind in this extraordinary moment of humanity’s rebirth as conscious co-creators of a bright and  harmonious future.
 
@@ -72,7 +72,7 @@ The Future is Ours.
 We Rise Together as One.**  
 
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
-<script src='https://lionsberg-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
+<script src='https://LIØNSBERG-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
 
 With Love, Clarity, and Courage,  
 ~ J

@@ -1,4 +1,4 @@
-# Why the Founder of Lionsberg Begins with the NASB
+# Why the Founder of LIØNSBERG Begins with the NASB
 
 The choice of how to pursue Wisdom and Truth is ultimately a personal decision. For that reason, we here articulate why [[Jordan]] has chosen to primarily use the NASB as an anchor and touchstone in the vast sea of interpretative possibilities. There are nuanced and multi-layered reasons for this preference, which harmonize with the quest for Divine Wisdom, Knowledge, and Truth.
 
@@ -21,4 +21,4 @@ _____
 Forward to [[Circumambulation and Progressive Illumination - The Benefits of Multiple Lamps]]  
 Back to [[From the Vast Array of Translations to a Trinity of Approximate Fidelity]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

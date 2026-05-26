@@ -10,11 +10,11 @@ I am writing this post to be transparent and accountable to what I have heard, t
 
 **What I heard from US / Canada / Europe / Australia was**:  
 1. Celebrate individual efforts that empower the whole to thrive. 
-2. Organize a team to work out practical and prioritized next steps for 1) Lionsberg (System / Structure / Organization / Planning / Emergence / Action) and 2) the universal movement (unstructurable, messy, stories, concepts) 
-3. Create a patterned structure for the various types of meetings we engage in based on the principles of the Lionsberg System  
-4. Define concrete milestones and goals for the movement and for Lionsberg, and then figure out how to organize and accomplish the associated work. 
+2. Organize a team to work out practical and prioritized next steps for 1) LIØNSBERG (System / Structure / Organization / Planning / Emergence / Action) and 2) the universal movement (unstructurable, messy, stories, concepts) 
+3. Create a patterned structure for the various types of meetings we engage in based on the principles of the LIØNSBERG System  
+4. Define concrete milestones and goals for the movement and for LIØNSBERG, and then figure out how to organize and accomplish the associated work. 
 5. Help make visible what (everyone) is doing now and into the future 
-6. Help make visible what (everyone) wants to do to advance the emergence and work on layers 1) the movement, 2) the Meta Project, and 3) Lionsberg vision / system / structure / strategy / platform / plan 
+6. Help make visible what (everyone) wants to do to advance the emergence and work on layers 1) the movement, 2) the Meta Project, and 3) LIØNSBERG vision / system / structure / strategy / platform / plan 
 7. Figure out how to reduce the number of paths where I am the bottleneck 
 8. Create a map with action potentials around people I know, in the context of the 3 layers of analysis, and articulate how I see "us" fitting, and where there are matches and disconnects. 
 9. Improve your communication, feedback, and tracking and closing of loops that you open. 
@@ -34,7 +34,7 @@ I am writing this post to be transparent and accountable to what I have heard, t
 
 In response to these requests, I commit to the following in 2023: 
 
-1. I will do my best to organize a team of teams to execute against the clear vision, strategy, and plan to serve and empower level 1, the unstructurable universal movement, and level 2, the heroic sovereign autonomous efforts, by succeeding in level 3 and forging a concrete and powerful Lionsberg System and Platform to connect, serve, celebrate and empower all.  
+1. I will do my best to organize a team of teams to execute against the clear vision, strategy, and plan to serve and empower level 1, the unstructurable universal movement, and level 2, the heroic sovereign autonomous efforts, by succeeding in level 3 and forging a concrete and powerful LIØNSBERG System and Platform to connect, serve, celebrate and empower all.  
 2. I will do my best to ensure that wise and practical milestones, goals, and pragmatic next steps are visible, understandable, and actionable to everyone engaged 
 3. I will do my best to define and facilitate well-structured meetings for work and play, being and doing, community building and executing 
 4. I will do my best to co-create maps and visualizations that make the invisible and emergent transparent visible to everyone engaged 

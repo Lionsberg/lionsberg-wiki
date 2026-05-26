@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [system, integration, lionsberg-architecture]
+themes: [system, integration, LIØNSBERG-architecture]
 ---
 
 # The LIØNSBERG System
@@ -35,5 +35,5 @@ The System is one rendering. Every part of it is held within [[The Holarchy of t
 - [[The LIØNSBERG Universe(ity)]] — where the System cultivates
 - [[The Cohering Spirit]] — what holds the System together
 - [[The 12 Pillars of LIØNSBERG]] — the civilizational architecture within the System
-- [[The Lionsberg Pattern Language]] — the grammar through which the System operates
+- [[The LIØNSBERG Pattern Language]] — the grammar through which the System operates
 - [[What LIØNSBERG Is]] — the wider identity within which the System operates

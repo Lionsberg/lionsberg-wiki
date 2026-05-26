@@ -1,6 +1,6 @@
-# Lionsberg Cycles of Growth
+# LIØNSBERG Cycles of Growth
 
-The **Lionsberg Cycles of Growth** chart the Fibonacci sequence and model the progression of [[The Movement]] as Co-Creators join and advance along the [[Critical Path]] [[FROM the Old TO the New]]. Each cycle represents an unfolding of unity, purpose, and co-creation, starting from the Source and spiraling outward into a flourishing, interconnected world.
+The **LIØNSBERG Cycles of Growth** chart the Fibonacci sequence and model the progression of [[The Movement]] as Co-Creators join and advance along the [[Critical Path]] [[FROM the Old TO the New]]. Each cycle represents an unfolding of unity, purpose, and co-creation, starting from the Source and spiraling outward into a flourishing, interconnected world.
 
 This model not only symbolizes natural growth and harmony but also serves as a strategic guide for tracking the expansion of [[The Movement]] in real time.
 
@@ -68,9 +68,9 @@ This model not only symbolizes natural growth and harmony but also serves as a s
 - **Cycle 49:** [[The 3-Year Lag]] _(Joining + 3 Years, or Age 15 + 3 Years)_
 - **Cycle 50:** The New Era Begins
 
-At least the first 144 people will be added to the [[Lionsberg Co-Creators]] page. 
+At least the first 144 people will be added to the [[LIØNSBERG Co-Creators]] page. 
 
-The [[Lionsberg Cycle Time]] measures the rate of growth of The Sacred Tree. 
+The [[LIØNSBERG Cycle Time]] measures the rate of growth of The Sacred Tree. 
 
 ---
 
@@ -81,4 +81,4 @@ For a sense of scale:
 1. [Cartogram of World Population](https://ourworldindata.org/world-population-cartogram)  
 2. [List of Countries by Population](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population)  
 
-By the completion of the 40th cycle, as [[The First Three Percent]] are engaged, Lionsberg will represent the 5th largest sovereignty on Earth—exceeding the population of all but the world’s most populous nations and establishing a transformative [[New]] global presence.
+By the completion of the 40th cycle, as [[The First Three Percent]] are engaged, LIØNSBERG will represent the 5th largest sovereignty on Earth—exceeding the population of all but the world’s most populous nations and establishing a transformative [[New]] global presence.

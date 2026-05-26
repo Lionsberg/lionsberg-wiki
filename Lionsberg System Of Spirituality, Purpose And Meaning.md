@@ -1,1 +1,1 @@
-# Lionsberg System Of Spirituality, Purpose And Meaning
+# LIØNSBERG System Of Spirituality, Purpose And Meaning

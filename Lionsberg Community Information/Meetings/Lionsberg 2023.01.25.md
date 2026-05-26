@@ -1,4 +1,4 @@
-# Lionsberg 2023.01.25
+# LIØNSBERG 2023.01.25
 
 ## Misc Notes from Coffee Time
 - Triangulating towards answers 

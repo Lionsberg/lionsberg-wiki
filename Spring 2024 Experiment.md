@@ -2,13 +2,13 @@
 
 In Spring 2024 (March - June), [[Jordan]] launched his final experiment.  
 
-Carefully monitoring the cycles of growth, an organism emerged through ***8 [[Lionsberg Cycles of Growth]] cycles in about 80 to 90 days, for a [[Lionsberg Cycle Time]] of 10 to 11 days***. 
+Carefully monitoring the cycles of growth, an organism emerged through ***8 [[LIØNSBERG Cycles of Growth]] cycles in about 80 to 90 days, for a [[LIØNSBERG Cycle Time]] of 10 to 11 days***. 
 
 By June, there was an additional invitation list of ~150 on this list + hundreds of others on adjacent lists and projects of various co-creators. 
 
 [[Jordan]] had set a trigger / restriction, whereby he could not personally invite in more than the first ~100, after which the cycles would need to become self sustaining. 
 
-In the end, despite an 80%+ [[Lionsberg Acceptance Rate]] of [[The Invitation]], the Spring 2024 [[Lionsberg Co-Creators]] lacked the leadership, clarity and commitment required to become, out of many, [[ØNE Body]]. 
+In the end, despite an 80%+ [[LIØNSBERG Acceptance Rate]] of [[The Invitation]], the Spring 2024 [[LIØNSBERG Co-Creators]] lacked the leadership, clarity and commitment required to become, out of many, [[ØNE Body]]. 
 
 During the experiment, [[Jordan]] began to be reminded of the vast diversity of highly advanced [[Non-Human Intelligence (NHI)]] influencing the affairs of humanity, and being contacted by representatives thereof. 
 
@@ -17,7 +17,7 @@ His Journey through the summer UnVeiled [[The Greatest Fraud, Deception, and Exi
 ___
 ## Cycle Time Summary
 
-To accomplish this by 2026, a [[Lionsberg Cycle Time]] of no more than 3.66 Weeks / Cycle is required for the first 40 Cycles.  
+To accomplish this by 2026, a [[LIØNSBERG Cycle Time]] of no more than 3.66 Weeks / Cycle is required for the first 40 Cycles.  
 (March 2024 to December 2026 = 34 Months x 4.3 Weeks / Month = 146 Weeks Divided by 40 Cycles = 3.66 Weeks / Cycle).
 
 After this has been accomplished, the decentralized [[Force For Good]] has (365 weeks - 146 weeks = 219 weeks remaining) to accomplish the remaining 8 Cycles of Growth. 
@@ -26,7 +26,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 
 ## Spring 2024 Experiment 
 
-- [[Lionsberg History and Inception]]  
+- [[LIØNSBERG History and Inception]]  
 - Cycle 1: 2 Co-Creators - 1 Day  
 - Cycle 2: 3 Co-Creators  - 1 Day  
 - Cycle 3: 5 Co-Creators - 1 Day  
@@ -75,7 +75,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 - 4. [[Peter Kaminski]] 
 	- Invited by: Jordan
 	- Introduced to Jordan by: Jerry Michalski 
-	- Agreed to join Lionsberg Critical Path team, working with Jordan and Massive Wiki team on core technological infrastructure   
+	- Agreed to join LIØNSBERG Critical Path team, working with Jordan and Massive Wiki team on core technological infrastructure   
 - 5. George Orbelian
 	- Invited by: Jordan 
 	- Introduced to Jordan by: Kaitlin Archambault and Jamaica Stevens  
@@ -87,7 +87,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 - 6. Helene Lindmark
 	- Invited by: Jordan
 	- Introduced to Jordan by: Yanik
-	- Working with Jordan on Kiva 2025 Pilgrimage, and agreed to join Lionsberg Critical Path Team - [[Case Study - Kiva Pilgrimage 2025]]  
+	- Working with Jordan on Kiva 2025 Pilgrimage, and agreed to join LIØNSBERG Critical Path Team - [[Case Study - Kiva Pilgrimage 2025]]  
 - 7. Rob Farjado
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Killu Sanborn 
@@ -104,7 +104,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 - 9. Ken Homer
 	- Invited by: Jordan
 	- Introduced to Jordan by: Jerry Michalski and Judy Bentham 
-	- Agreed to join Lionsberg Critical Path Team, deep knowledge in human collaboration +++, making intros and thinking of additional women and diverse voices to invite in 
+	- Agreed to join LIØNSBERG Critical Path Team, deep knowledge in human collaboration +++, making intros and thinking of additional women and diverse voices to invite in 
 - 10. Judy Bentham  
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Jerry Michalski 
@@ -120,7 +120,7 @@ After this has been accomplished, the decentralized [[Force For Good]] has (365 
 - 13. Joel Stone  
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Klaus Mager  
-	- Program management for Bioregional Demonstration project, helping Jordan raise $100k funds for the project + $2M to $10M working capital for Lionsberg 
+	- Program management for Bioregional Demonstration project, helping Jordan raise $100k funds for the project + $2M to $10M working capital for LIØNSBERG 
 Cycle Completed March 7, 2024  
 - Cycle Time - 1 Day
 ## Joined In Cycle 6 - 21 Co-Creators 
@@ -140,7 +140,7 @@ Cycle Completed March 7, 2024
 - 17. [[Daniel Jones]] 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: RockForce  
-	- Working with Jordan to build a Team of Teams in the heavy civil construction industry - first company in the Lionsberg North America Federation  
+	- Working with Jordan to build a Team of Teams in the heavy civil construction industry - first company in the LIØNSBERG North America Federation  
 - 18. [[Caleb Reynoldson]] 
 	- Invited by: Jordan  
 	- Introduced to Jordan by: RockForce  
@@ -148,7 +148,7 @@ Cycle Completed March 7, 2024
 - 19. [[Daniel Musembi]]  
 	- Invited by: Jordan  
 	- Introduced to Jordan by: Estelle Kabithi  
-	- First company in the Lionsberg Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
+	- First company in the LIØNSBERG Africa Federation - Woni Foodstore, recently purchased existing foodstore with a vision to begin working on supply chains and becoming supply hub for smaller local food stores in the area. 
 - 20. [[Daniel Friedman]] 
 	- Invited by: Jordan 
 	- Introduced to Jordan by: ? 
@@ -214,10 +214,10 @@ In ~two weeks on tour (part with family), the Cycle 7 Co-Creators were identifie
 
 ## Cycle 8: Expansion Out To 55 Co-Creators   
 
-- Completing [[Lionsberg Cycles of Growth]] **Cycle 8** requires adding 21 additional co-creators. 
+- Completing [[LIØNSBERG Cycles of Growth]] **Cycle 8** requires adding 21 additional co-creators. 
 - Prepare for acceptance rate to drop towards 30% to 50%. 
 - Against the ~40 to 60 invitations required, we now have a running list of ~130 well qualified candidates and a significantly compelling center of gravity.   
-- Additionally, for the first time we have the [[The Invitation Pool]] composed *primarily* of names surfaced through the collective wisdom and discernment of the Lionsberg Co-Creators, and not merely Jordan. 
+- Additionally, for the first time we have the [[The Invitation Pool]] composed *primarily* of names surfaced through the collective wisdom and discernment of the LIØNSBERG Co-Creators, and not merely Jordan. 
 
 35. Erik Willekens 
 	1. Invited by [[Jordan]]  

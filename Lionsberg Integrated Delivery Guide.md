@@ -1,11 +1,11 @@
 # Integrated Delivery Guide
 
-The majority of this guide has been moved to [[The Lionsberg Handbook]]. 
+The majority of this guide has been moved to [[The LIØNSBERG Handbook]]. 
 
 
 Also feel free to skip down to [[Project Delivery Guide]] and [[Template For Project]], and [[3.3 Communications and Reporting]] if you would like to quick start a project.
 
-And don't forget to review [[Organizations The Lionsberg Way]] to help ensure your team gets off on the right track.
+And don't forget to review [[Organizations The LIØNSBERG Way]] to help ensure your team gets off on the right track.
 
 ## 1. Introduction
 [[1.0 Introduction]]  

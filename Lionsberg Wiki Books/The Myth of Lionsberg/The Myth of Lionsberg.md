@@ -1,4 +1,4 @@
-# The Myth of Lionsberg
+# The Myth of LIØNSBERG
 
 ## Genesis 
 

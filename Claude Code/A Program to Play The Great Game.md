@@ -103,7 +103,7 @@ The Great Game is described across hundreds of pages. A game engine would:
 - Parse all 2.5M words
 - Extract key concepts, entities, patterns
 - Map `[[wiki links]]` as semantic relationships
-- Identify core vocabulary (The Lionsberg Lexicon)
+- Identify core vocabulary (The LIØNSBERG Lexicon)
 - Build initial knowledge graph
 
 **1.2 Pattern Language Extraction**  

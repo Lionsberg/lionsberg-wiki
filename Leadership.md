@@ -20,7 +20,7 @@ Leadership faces challenges such as managing diverse perspectives, resolving con
 
 Cultivating leadership involves developing skills like effective communication, decision-making, emotional intelligence, and strategic thinking. It also requires self-awareness, resilience, and the ability to learn from failure and criticism.
 
-**Leadership in the Context of Lionsberg**
+**Leadership in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, leadership becomes a collective endeavor. It moves away from the old models of hierarchical, power-centric leadership towards a model of shared, distributed leadership that values and harnesses the unique contributions of each individual.
 

@@ -60,4 +60,4 @@ ___
 Forward to [[Conclusion - A Choice for Humanity]]  
 Back to [[Chapter 13 - Debt, Property, and Economic Reset]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

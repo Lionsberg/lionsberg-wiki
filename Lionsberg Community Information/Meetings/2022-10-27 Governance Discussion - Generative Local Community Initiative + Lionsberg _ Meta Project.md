@@ -1,10 +1,10 @@
-# October 27, 2022 Governance Discussion - Generative Local Community Initiative + Lionsberg / Meta Project 
+# October 27, 2022 Governance Discussion - Generative Local Community Initiative + LIØNSBERG / Meta Project 
 
 ## Agenda
 
 - Share Generative local community model and governance needs – Jason and Ted
 - Review Mondragon and other researched governance models 
-- Lionsberg model - Jordan and Bill 
+- LIØNSBERG model - Jordan and Bill 
 - Questions/feedback/ next steps - All
 
 
@@ -27,7 +27,7 @@
     - Generative Local Community Institute
     - Imiagine Fox Cities 
 - Jordan Sukut
-    - Lionsberg and meta project
+    - LIØNSBERG and meta project
     - Mondregon
 - John Brogan
     - CEO of Bank of Kaukauna

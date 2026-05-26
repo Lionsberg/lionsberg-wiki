@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 23 - The Whisper Campaign]]  
 Back to: [[Scene 21 - An Intruder in the Secret Place]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

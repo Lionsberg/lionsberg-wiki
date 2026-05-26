@@ -630,7 +630,7 @@ Massive multi-day session encompassing the grand reframing of LIØNSBERG as Stor
 
 **Files Created:**
 - [[The LIØNSBERG Pattern Language]] — 22,787-word definitive articulation
-- 16 new PDG sections (16.1 through 16.16) in `LIØNSBERG Wiki Books/The Book of Lionsberg/The Program Delivery Guide/`
+- 16 new PDG sections (16.1 through 16.16) in `LIØNSBERG Wiki Books/The Book of LIØNSBERG/The Program Delivery Guide/`
 
 **Files Modified:**
 - ~455 files across The Book of LIØNSBERG (copy-edit)
@@ -755,7 +755,7 @@ Continuation session completing two major maintenance tasks (global two-space sw
 
 **Technical Challenges:**
 - `xargs` command line too long with 4,418 files — switched to `find -exec`
-- Git case-sensitivity on macOS: `LIØNSBERG` vs `Lionsberg` path mismatch — re-added with correct case
+- Git case-sensitivity on macOS: `LIØNSBERG` vs `LIØNSBERG` path mismatch — re-added with correct case
 - Agent permission failures for Bash — ran poetic file scan directly from main session
 
 **Session Themes:**
@@ -800,7 +800,7 @@ Major pruning session removing 121 obsolete files across three books that no lon
 - **American Political Books Deletion**: 49 files deleted across two books — [[A New American Revolution]] (35 files) and [[The Battle for the Spirit of America]] (14 files). Both written during phase when Jordan was evaluating whether the American experiment could be salvaged. Now that we know it cannot, these are historical artifacts superseded by the current architecture.
 - **Broken Link Cleanup**: Fixed 5 wiki links across 4 files pointing to deleted content:
   - [[TKTK Program Notes]] — marked deletions as complete
-  - [[Lionsberg Wiki Books]] — removed book reference, renumbered
+  - [[LIØNSBERG Wiki Books]] — removed book reference, renumbered
   - [[Above The Chaos, An Invitation]] — removed book reference
   - [[Above The Chaos, A Note To The First 50]] — removed book reference
 - **Wiki-Wide Nation-State Audit**: Searched entire wiki for nation-state reform logic. Found campaign-era blog posts and Blueprint Ch20 — user decided to leave as historical record for now.
@@ -817,14 +817,14 @@ Major pruning session removing 121 obsolete files across three books that no lon
 - [[Topics for Future Incorporation]] — 11 tracked conceptual threads from deleted books
 
 **Files Deleted:**
-- 72 files from `LIØNSBERG Wiki Books/The Great Game of Lionsberg/` (entire old Great Game book)
+- 72 files from `LIØNSBERG Wiki Books/The Great Game of LIØNSBERG/` (entire old Great Game book)
 - 35 files from `LIØNSBERG Wiki Books/A New American Revolution/` (entire book)
 - 14 files from `LIØNSBERG Wiki Books/The Battle for the Spirit of America/` (entire book)
 - 3 empty directories and associated .DS_Store files
 
 **Files Modified:**
 - [[TKTK Program Notes]] — marked deletions complete, added "Most People" review item
-- [[Lionsberg Wiki Books]] — removed broken link to deleted book
+- [[LIØNSBERG Wiki Books]] — removed broken link to deleted book
 - [[Above The Chaos, An Invitation]] — removed broken link
 - [[Above The Chaos, A Note To The First 50]] — removed broken link
 
@@ -924,7 +924,7 @@ The old book covered finance deeply but left government, media, education, food,
 - Parallel agent execution (12 agents across 5 phases) can produce ~73,700 words of high-quality, voice-consistent content in a single session
 - The Startup Country allegory is pedagogical gold — the most accessible explanation of fractional reserve banking in the entire body of work
 - Navigation link chains across 45 chapters require careful verification at part boundaries (different agents may handle different naming conventions)
-- macOS case-insensitive filesystem creates git path confusion when directory names change case ("Lionsberg" vs "LIØNSBERG") — old deletions and new creations must be staged separately
+- macOS case-insensitive filesystem creates git path confusion when directory names change case ("LIØNSBERG" vs "LIØNSBERG") — old deletions and new creations must be staged separately
 
 **Next Session Considerations:**
 - Jordan review of the complete work for resonance and accuracy
@@ -951,11 +951,11 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 - Articulated the Eternal Provisions, Structural Immunity, and Amendment Process with Spirit-Conformance test
 - Scaffolded [[The LIØNSBERG Universe Guide]] (Story Bible + Convention Manual) with six Parts: Cosmos / Voice / Pattern / Decisions / For Future Authors / Production Conventions
 - Renamed the Pirsig Method to [[The Card Method]]; added list-Card sub-rule formally
-- Restructured `Lionsberg Wiki Books.md` index around the new architecture (Sacred Codex → Card Substrate → Universe Guide → Strategy and Plan → historical layers)
+- Restructured `LIØNSBERG Wiki Books.md` index around the new architecture (Sacred Codex → Card Substrate → Universe Guide → Strategy and Plan → historical layers)
 - Decided extraction of Book Chapters 15 (Great Game → Volume III) and 16 (PDG → Volume VII) as standalone Codex Volumes; queued the file moves for Phase 2.8 execution
 - Resolved Story dual-functional structure (standalone Volume II AND woven through Volume IX)
 - Resolved Theory of Everything as culminating chapter of Volume IX (NOT Volume V)
-- Deleted `Lionsberg - A Biblical Perspective` book (17 files, ~17,500 words) after extraction-scan confirmed no unique conceptual material
+- Deleted `LIØNSBERG - A Biblical Perspective` book (17 files, ~17,500 words) after extraction-scan confirmed no unique conceptual material
 - Deleted 40 LC Constitution articles after absorbing 8 unique substantive items into the new Constitution
 - Gathered 36 root-orphan numbered files into synthesis folders (29 Playbook fragments + 7 PM fragments) with explanatory README-style files
 - Moved [[The Sacred Ascent]] file into its wiki book folder per the file-structure policy
@@ -977,9 +977,9 @@ A dense, multi-hour decision-resolution session that closed all 16 Open Strategi
 
 **Files Created/Modified:**
 - **Created:** [[The Kingdom of LIØNSBERG — Plans and Specifications]] · [[The LIØNSBERG Universe Guide]] (scaffold) · [[The Card Method]] (renamed from Pirsig Method) · README files for Playbook Fragments and PDG Fragments synthesis folders
-- **Substantially rewritten:** [[The LIØNSBERG Sacred Codex]] (8-Volume reorganization, dual-Story articulation, maturation framing) · [[The LIØNSBERG Constitution]] (full cosmic-grade rebuild — 12 Parts, ~87 Articles, Eternal Provisions, Structural Immunity, Amendment Process) · `Lionsberg Wiki Books.md` (index restructured around new architecture)
+- **Substantially rewritten:** [[The LIØNSBERG Sacred Codex]] (8-Volume reorganization, dual-Story articulation, maturation framing) · [[The LIØNSBERG Constitution]] (full cosmic-grade rebuild — 12 Parts, ~87 Articles, Eternal Provisions, Structural Immunity, Amendment Process) · `LIØNSBERG Wiki Books.md` (index restructured around new architecture)
 - **Updated:** [[The LIØNSBERG Wiki — One Clear Vision]] (8-Volume order, Seven-Layer framing) · `The Great Spring 2026 Wiki Turn.md` (16 decision resolutions, reassessment, Phase 2.8/3 work item updates)
-- **Deleted:** `LIØNSBERG Wiki Books/Lionsberg - A Biblical Perspective/` (entire folder, 17 files) · 40 LC Constitution articles · Demonstrator Constitutional Cards · Empty Constitutional Cards folder
+- **Deleted:** `LIØNSBERG Wiki Books/LIØNSBERG - A Biblical Perspective/` (entire folder, 17 files) · 40 LC Constitution articles · Demonstrator Constitutional Cards · Empty Constitutional Cards folder
 - **Moved:** [[The Sacred Ascent]] (root → wiki book folder) · 29 Playbook fragments (root → Playbook synthesis folder) · 7 PM fragments (root → PDG synthesis folder)
 
 **User Teaching Moments (Critical Voice and Discipline Refinements):**

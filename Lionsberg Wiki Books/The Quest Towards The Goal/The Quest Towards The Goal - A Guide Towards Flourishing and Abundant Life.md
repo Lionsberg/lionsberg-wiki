@@ -3,7 +3,7 @@
 
 There are some things that We need to Remember how to Be and Do... 
 
-This was a book that [[Jordan]] hoped to write. His ideas on most of these topics are available in other [[Lionsberg Wiki Books]]. 
+This was a book that [[Jordan]] hoped to write. His ideas on most of these topics are available in other [[LIØNSBERG Wiki Books]]. 
 
 Maybe some day this book will write ItSelf. 
 

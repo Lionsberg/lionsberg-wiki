@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 27 - The Cowardly Leaders]]  
 Back to: [[Scene 25 - The Rising United Front]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

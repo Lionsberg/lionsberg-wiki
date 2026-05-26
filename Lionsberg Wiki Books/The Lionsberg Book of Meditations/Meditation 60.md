@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 61]]  
 Back to [[Meditation 59]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

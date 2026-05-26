@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Who we are is a fundamental question at the heart of the Lionsberg journey. As we embark on this transformative quest, we are called to reflect on our individual and collective identities, exploring the narratives that have shaped us and envisioning who we aspire to become.
+Who we are is a fundamental question at the heart of the LIØNSBERG journey. As we embark on this transformative quest, we are called to reflect on our individual and collective identities, exploring the narratives that have shaped us and envisioning who we aspire to become.
 
 ## The Importance of Identity
 
@@ -14,9 +14,9 @@ Identity is our understanding of who we are. It's shaped by various factors such
 
 **Aspirational Identity:** This is our vision of [[Who We Are Becoming]]. It inspires our growth, guides our choices, and motivates our actions.
 
-## Lionsberg and Identity
+## LIØNSBERG and Identity
 
-Understanding and consciously shaping our identities are key aspects of personal and societal transformation. As part of the Lionsberg journey, we engage in reflective practices to explore our identities, foster self-awareness, and envision our individual and collective futures.
+Understanding and consciously shaping our identities are key aspects of personal and societal transformation. As part of the LIØNSBERG journey, we engage in reflective practices to explore our identities, foster self-awareness, and envision our individual and collective futures.
 
 ## Key Concepts
 
@@ -24,7 +24,7 @@ Understanding and consciously shaping our identities are key aspects of personal
 
 **Identity Transformation:** This is the process of consciously evolving our identities in alignment with our growth, values, and aspirations. It involves making choices and taking actions that reflect our evolving understanding of who we are and who we aspire to become.
 
-**Co-Creation of Identity:** Every participant in the Lionsberg journey contributes to the collective identity of Lionsberg. By sharing our unique perspectives and experiences, we shape and enrich our shared identity.
+**Co-Creation of Identity:** Every participant in the LIØNSBERG journey contributes to the collective identity of LIØNSBERG. By sharing our unique perspectives and experiences, we shape and enrich our shared identity.
 
 ## Activity for Today
 

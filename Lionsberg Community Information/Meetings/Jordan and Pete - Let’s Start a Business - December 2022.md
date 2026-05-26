@@ -7,7 +7,7 @@
 ## Ideas
 - Value Points
     - You don't have to do the annoying work you dont want to do
-    - Connecting to the right platforms over time (optional) - perhpas Catalist / OI - Lionsberg / Massive - leads to more technologies... 
+    - Connecting to the right platforms over time (optional) - perhpas Catalist / OI - LIØNSBERG / Massive - leads to more technologies... 
         - Extracting chats 
         - extracting links 
     - Maybe develop a hash tagging system 
@@ -23,7 +23,7 @@
 - "Bloomerang" / email system template
 - Wendy / Pete / Co - transcript and story sensemaking 
 - Tie out to revenue generation 
-- Lionsberg Ecosystem Approach 
+- LIØNSBERG Ecosystem Approach 
     - Member groups (who are paying monthly dues in the form of donations) - receive discounts... and a different level of access to what's happening across the network
     - vs. non member groups / companies etc. who could just be paying clients of the basic service.. 
 - Long term storage of perhaps multiple copies in case a service like YouTube decides to freeze the account... 
@@ -42,8 +42,8 @@
 - Jerry and Pete spent some time brainstorming a similar service offering, under the name "krav" and "kravving": [OGM Tile - Krav - OGM Wiki](https://wiki.openglobalmind.com/ogm_operations/ogm_tiles/ogm_tile_-_krav)
 - Pete's scapple diagram (in conversation with Jerry and Stacey): http://peterkaminski.com/krav-workflow-2021-12-06-001.png
 - Publishing examples
-    - [Lionsberg Special Session on Flow, 2022-12-07 call artifacts](https://chat.collectivesensecommons.org/agora/pl/yefc4ynfnbgztmq6578ekjskew) (Lionsberg Town Square)
-    - [The recordings of the Meta Project Navigation 2022-05-11 call are now up](https://chat.collectivesensecommons.org/agora/pl/jy76w1qra3y58cr9dj9epxpyto) (Lionsberg Town Square)
+    - [LIØNSBERG Special Session on Flow, 2022-12-07 call artifacts](https://chat.collectivesensecommons.org/agora/pl/yefc4ynfnbgztmq6578ekjskew) (LIØNSBERG Town Square)
+    - [The recordings of the Meta Project Navigation 2022-05-11 call are now up](https://chat.collectivesensecommons.org/agora/pl/jy76w1qra3y58cr9dj9epxpyto) (LIØNSBERG Town Square)
 
 
 ## What Pete Needs
@@ -53,14 +53,14 @@
     - peer member customers
     - later customers looking for commercial service and service level guarantees 
 3. Marketing to progressively larger orgs over tiime 
-4. Clarity on how the business feeds into and benefits from the Lionsberg ecosystem - hands and feet ops people, marketing people, billing and admin, 
+4. Clarity on how the business feeds into and benefits from the LIØNSBERG ecosystem - hands and feet ops people, marketing people, billing and admin, 
 5. Sharing value with member groups... 
 
 ## What Jordan Needs 
 - Meeting Flow 
 - Podcast / Interview Flow 
 - Individual members 
-- Lionsberg member orgs 
+- LIØNSBERG member orgs 
 
 ## Bootstrapping up a Federation 
 - Responsiblity trust and faith 
@@ -78,7 +78,7 @@
         - causing people to forget... 
         - what it means to be cooperative and reciprocal rather than selfish and extractive... 
 
-## Jordan / Lionsberg 
+## Jordan / LIØNSBERG 
 
 - Engagement Ladder 
     - Speaking / Inspiring / Broadcasting / Traveling 
@@ -105,7 +105,7 @@
 - operations plan
 - product/service/pricing plan
 - marketing plan
-    - Help Jordan build Lionsberg 
+    - Help Jordan build LIØNSBERG 
 
 ## ACTION / NEXT STEPS
 

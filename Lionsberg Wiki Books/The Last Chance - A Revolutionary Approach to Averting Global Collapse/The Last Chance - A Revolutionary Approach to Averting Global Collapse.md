@@ -51,16 +51,16 @@
 [[6.4 The Role of Grassroots Movements]]  
 [[6.5 Education and Preparation for Positive Participation]]  
 
-## 7. The Lionsberg System: A New Operating System for Humanity
+## 7. The LIØNSBERG System: A New Operating System for Humanity
 
 [[7.1 Naming the New Way]]  
-[[7.2 Introduction to the Lionsberg System - A Comprehensive Solution]]  
-[[7.3 How the Lionsberg System Addresses the Shortcoming of Existing Systems]]  
-[[7.4 The Lionsberg Economy and Stewardship]]  
-[[7.5 The Lionsberg System of Governance]]  
-[[7.6 The Lionsberg System of Ecology]]  
-[[7.7 Emergence, Transformation, and Co-Creation in the Lionsberg System]]  
-[[7.8 Why is Lionsberg Uniquely Positioned for this Moment in History?]]  
+[[7.2 Introduction to the LIØNSBERG System - A Comprehensive Solution]]  
+[[7.3 How the LIØNSBERG System Addresses the Shortcoming of Existing Systems]]  
+[[7.4 The LIØNSBERG Economy and Stewardship]]  
+[[7.5 The LIØNSBERG System of Governance]]  
+[[7.6 The LIØNSBERG System of Ecology]]  
+[[7.7 Emergence, Transformation, and Co-Creation in the LIØNSBERG System]]  
+[[7.8 Why is LIØNSBERG Uniquely Positioned for this Moment in History?]]  
 
 ## 8. The Path Forward
 

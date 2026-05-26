@@ -1,4 +1,4 @@
-# Lionsberg Process List
+# LIØNSBERG Process List
 
 1. [[The Way]]
 2. [[Process of Processes]] 

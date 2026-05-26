@@ -22,7 +22,7 @@ Local communities serve as the crucibles for societal transformation. It is in l
 
 #### Decentralized Networks of Change
 
-In our interconnected world, local communities can collaborate through decentralized-yet-aligned-and-interoperable-networks or federations that bypass traditional power structures. These networks can disseminate best practices, pool resources, and mobilize collective action, making them highly effective agents of change. Connecting and empowering theses decentralized nodes is one of the principle Missions of Lionsberg. 
+In our interconnected world, local communities can collaborate through decentralized-yet-aligned-and-interoperable-networks or federations that bypass traditional power structures. These networks can disseminate best practices, pool resources, and mobilize collective action, making them highly effective agents of change. Connecting and empowering theses decentralized nodes is one of the principle Missions of LIØNSBERG. 
 
 ### Citizen-Led Initiatives
 
@@ -30,7 +30,7 @@ The transformation we seek requires pragmatic citizen-led initiatives that go be
 
 #### Role of Technology
 
-Advancements in technology offer unprecedented opportunities for citizen-led initiatives. Whether it is blockchain for transparent governance, social media for rapid mobilization, or the revolutionary Lionsberg Platform for forging Higher Order Functional Unity among Citizens of Goodwill—technology can be harnessed to connect and amplify the impact of individual and local agency.
+Advancements in technology offer unprecedented opportunities for citizen-led initiatives. Whether it is blockchain for transparent governance, social media for rapid mobilization, or the revolutionary LIØNSBERG Platform for forging Higher Order Functional Unity among Citizens of Goodwill—technology can be harnessed to connect and amplify the impact of individual and local agency.
 
 ### Higher Order Functional Unity
 

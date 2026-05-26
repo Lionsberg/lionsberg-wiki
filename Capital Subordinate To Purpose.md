@@ -45,7 +45,7 @@ ___
 The economic system is built around **[[Meaningful Work]] and time**, not profit extraction:
 
 - **[[Time Currency]]**: Each unit of Meaningful Work = one unit of value
-- **[[Lionsberg Units of Value]] (LUV)**: A currency of goodwill circulating within the system
+- **[[LIØNSBERG Units of Value]] (LUV)**: A currency of goodwill circulating within the system
 - **[[Voluntary Tithing]]**: Each sovereign freely contributes to the [[Commons]] they share — flowing inward to the center of whatever table they sit at. No imposed percentage. No central organization collecting dues. An invitation to resource shared abundance.
 - **[[Commons|Fractal Commonsing]]**: Each time sovereigns associate, a commons naturally emerges — resourced by voluntary contributions, governed by a [[Field of Agreements]], protected by a [[Selectively Permeable Membrane]]. The faster value circulates within these commons, the faster All rise together.
 - **Economic Sovereignty**: Progressive reduction of dependency on the Old World economy

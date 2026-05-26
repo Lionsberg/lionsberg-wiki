@@ -18,17 +18,17 @@ Micro Finance - Food and other emergency essentials can be acquired far more eff
 Each individual has a revolving loan fund that grows or shrinks over time in proportion to their faithfulness, integrity, and stewardship capability. j
 
 How it would work  
-1. Individuals and foundations grant resources to the Lionsberg Emergency Relief Fund 
-2. Lionsberg uses 10% of those resources to empower core infrastructure and services required to operate the program. 
-3. Lionsberg uses a percentage of the balance to set up a revolving loan fund that is expected to grow over time
-4. Lionsberg uses a percentage of the balance to set up logistics and supply lines to ensure emergency goods are available for purchase. 
+1. Individuals and foundations grant resources to the LIØNSBERG Emergency Relief Fund 
+2. LIØNSBERG uses 10% of those resources to empower core infrastructure and services required to operate the program. 
+3. LIØNSBERG uses a percentage of the balance to set up a revolving loan fund that is expected to grow over time
+4. LIØNSBERG uses a percentage of the balance to set up logistics and supply lines to ensure emergency goods are available for purchase. 
 
 By putting the funds directly in the hands of those in need, we can start with the lowest possible amount. 
 
 By encouraging them to pool resources, organize, and federate to solve problems and create solutions, we begin to create community and economic ties. 
 
 
-Every individual becomes a valued life-long member / citizen of the Lionsberg community, and thereby gains access to the services, infrastructure, and capabilities Lionsberg is co-creating. 
+Every individual becomes a valued life-long member / citizen of the LIØNSBERG community, and thereby gains access to the services, infrastructure, and capabilities LIØNSBERG is co-creating. 
 
 putting $ directly in hands, start with lowest possible amount, while then creating a marketplace of solutions and services they can access if they are helpful. 
 
@@ -66,4 +66,4 @@ Equip and empower with resources in the form of something the can grow, rather t
 
 ### Supply Side
 - Set up supply lines to provide access to anything necessary for life that is not present or affordable locally 
-- Set up supply lines according to [[Organizations The Lionsberg Way]]  to create decentralization, autonomy, and accountability
+- Set up supply lines according to [[Organizations The LIØNSBERG Way]]  to create decentralization, autonomy, and accountability

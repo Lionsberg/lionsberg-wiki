@@ -4,6 +4,6 @@
 ___  
 The deep understanding, insight, and knowledge that arises from intuition, experience, reflection, learning, and Divine revelation. 
 
-In the context of the [[Lionsberg System and Approach]], Wisdom is a guiding principle that helps inform decision-making and cultivate discernment in addressing complex challenges.
+In the context of the [[LIØNSBERG System and Approach]], Wisdom is a guiding principle that helps inform decision-making and cultivate discernment in addressing complex challenges.
 
 This value impels us to apply knowledge, principles, and [[Values]] in the [[Wise Right]] Way to our lives and circumstances. 

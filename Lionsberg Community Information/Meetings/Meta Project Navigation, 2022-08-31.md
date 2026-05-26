@@ -163,7 +163,7 @@ Create the New Economy
 
 ### Links
 
-- [Retro for needs and offers market, 2022\-08\-22 \- Lionsberg Wiki](https://lionsberg.wiki/lionsberg_community_information/meetings/retro_for_needs_and_offers_market,_2022-08-22)
+- [Retro for needs and offers market, 2022\-08\-22 \- LIØNSBERG Wiki](https://LIØNSBERG.wiki/LIØNSBERG_community_information/meetings/retro_for_needs_and_offers_market,_2022-08-22)
 
 ### "Scrum of Scrum" explanations
 

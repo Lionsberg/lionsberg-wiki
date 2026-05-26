@@ -10,7 +10,7 @@ Two wikis. One look. Open-source themes shared between them.
 
 | Wiki | Repo | Builder | Host | Theme |
 |------|------|---------|------|-------|
-| Lionsberg | `lionsberg/lionsberg-wiki` | Massive Wiki Builder (`mwb.py`) | Netlify | `andante` |
+| LIØNSBERG | `LIØNSBERG/LIØNSBERG-wiki` | Massive Wiki Builder (`mwb.py`) | Netlify | `andante` |
 | superorganism.earth | `The-Currently-Nameless-Superorganism/superorganism.earth` | MarkPub (pinned to `0.4.5`) | Cloudflare Pages | `andante` |
 
 Both wikis are Obsidian vaults checked into git. A static-site generator turns the markdown into HTML on each push. The HTML is served from the host's CDN. There is no database, no server, no Wordpress, no admin panel. Editing the wiki means editing markdown files in the repo.
@@ -37,7 +37,7 @@ This is the simplest possible architecture and it is intentional. **The text is 
 **Design principle:** the theme should disappear into the reading. Beauty as a side effect of right proportions, right typography, right restraint. No carousels, no popups, no banners, no estimated-reading-time badges.
 
 The theme lives in two places (same content, identical files):
-- `lionsberg-wiki/.massivewikibuilder/this-wiki-themes/andante/`
+- `LIØNSBERG-wiki/.massivewikibuilder/this-wiki-themes/andante/`
 - `superorganism.earth/.markpub/this-website-themes/andante/`
 
 When the theme is updated in one place, the same change should be copied to the other.
@@ -114,7 +114,7 @@ A few practices that paid for themselves the day we needed them:
 
 ## How the wikis are connected
 
-The two wikis are sibling commons, not duplicates. Lionsberg holds the broader pattern language and program; superorganism.earth holds the constitutional package and guidebook for emergence. They link to each other via web URLs, not wikilinks (since they're separate vaults).
+The two wikis are sibling commons, not duplicates. LIØNSBERG holds the broader pattern language and program; superorganism.earth holds the constitutional package and guidebook for emergence. They link to each other via web URLs, not wikilinks (since they're separate vaults).
 
 Themes, however, are shared. The theme is part of the technical commons. If you improve `andante` in one repo, copy the change to the other so they stay visually identical.
 
@@ -136,7 +136,7 @@ Run this checklist:
 
 ## License
 
-The `andante` theme is MIT-licensed. The wiki content carries its own license per repo (Lionsberg: CC-BY 4.0; superorganism.earth: CC-BY-SA 4.0).
+The `andante` theme is MIT-licensed. The wiki content carries its own license per repo (LIØNSBERG: CC-BY 4.0; superorganism.earth: CC-BY-SA 4.0).
 
 ---
 

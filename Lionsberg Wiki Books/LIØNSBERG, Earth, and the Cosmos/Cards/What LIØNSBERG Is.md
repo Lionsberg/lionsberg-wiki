@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [identity, what-lionsberg-is, lionsberg-architecture]
+themes: [identity, what-LIØNSBERG-is, LIØNSBERG-architecture]
 ---
 
 # What LIØNSBERG Is

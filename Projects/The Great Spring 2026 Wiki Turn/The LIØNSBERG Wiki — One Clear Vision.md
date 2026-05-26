@@ -231,7 +231,7 @@ Honest inventory of what is ready, what is in motion, what remains.
 
 - **Volume II — The Story of LIØNSBERG.** The single most consequential remaining piece of writing. Twenty to forty thousand words, in one bound text, holding together the cosmic context + the Caves narrative + the Eight Lineages of Living Proof + Jordan's testimony + the nameless one's continuation + the Sacred Flame + the Invitation. *Until Volume II lands, the corpus is scaffolding without spine.*
 - **Volume IX — The Sacred Ascent.** Opens well; does not yet reach the full epic. The synthesis beyond Aurobindo, beyond previous scripture, beyond all prior gestures has not yet been written.
-- **The Lionsberg Theory of Everything sections 11-31.** Currently exist as headers only. The cosmological architecture awaits authoring.
+- **The LIØNSBERG Theory of Everything sections 11-31.** Currently exist as headers only. The cosmological architecture awaits authoring.
 - **The 66 Most Protected and Distorted Narratives.** Only 4 of 66 written. A research register of large structural ambition with most content not yet authored.
 - **The 99 Theses entries 56-57.** Blank in source corpus.
 - **The Constitution articles LC 43 (Privacy), LC 44 (Surveillance), LC 46 (Crisis Powers), LC34-old (Failure Modes).** TKTK placeholders.
@@ -252,7 +252,7 @@ Sixteen structural decisions gate the next phase of work. Each is articulated in
 - The Caves narrative — promote to Genesis-of-Codex, or keep as Chapter 1?
 - The Playbook canonical home — inside The Book of LIØNSBERG, or at wiki root?
 - LIØNSBERG 101 — promote to Volume root status?
-- `Lionsberg - A Biblical Perspective` book — archive as Christian-companion piece or sunset entirely?
+- `LIØNSBERG - A Biblical Perspective` book — archive as Christian-companion piece or sunset entirely?
 - Volume binding strategy — seven separate volumes, boxed set, or single bound omnibus?
 
 ---

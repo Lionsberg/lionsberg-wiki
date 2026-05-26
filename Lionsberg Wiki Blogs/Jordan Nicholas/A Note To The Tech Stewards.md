@@ -150,7 +150,7 @@ This stack provides a blueprint to begin building resilient and decentralized sy
 ## Notes From J
 
 1. [[Jordan]] funded Gary + [[Open Future Coalition]] to co-create the [[Open Impact]], which subsequently gained additional grants and was tested with hundreds of groups in over 50 countries.  
-	1. Lionsberg has a unique agreement with Gary + OFC as a result. This could be a very valuable asset that could evolve towards a a backbone everything app enabling interoperable community currencies, resource flows, etc. across the ecosystem.  
+	1. LIØNSBERG has a unique agreement with Gary + OFC as a result. This could be a very valuable asset that could evolve towards a a backbone everything app enabling interoperable community currencies, resource flows, etc. across the ecosystem.  
 2. [[Jordan]] worked with [[Peter Kaminski]] to set up a Mattermost instance. This will be the primary comms channel for [[J]] and the [[Team of Teams]] he is directly working with. 
 	1. If other groups wanted to do the same, [[J]] and Pete desire to create interoperability across an array of [[Optimally Decentralized]] instances of Mattermost.  
 3. [[Jordan]] worked with [[Peter Kaminski]] to set up the [[LIØNSBERG Wiki]] (you are here) using Massive Wiki. This will be the primary documentation channel for [[J]] and the [[Team of Teams]] he is directly working with. 

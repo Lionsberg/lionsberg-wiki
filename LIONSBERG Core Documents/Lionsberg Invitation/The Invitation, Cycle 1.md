@@ -23,7 +23,7 @@ If you are only going to skim one, read [[Above The Chaos, Game Plan For March|G
 If you want to dive into more detail, explore: 
 
 - [[Above The Chaos]] for a stream of posts, interviews, etc.  
-- [[Lionsberg Wiki Books]] for more formalized and structured presentations of [[The Idea]].  
+- [[LIØNSBERG Wiki Books]] for more formalized and structured presentations of [[The Idea]].  
 
 This invitation is going to several select several individuals globally, as well as here locally in Sandpoint, Idaho. If a few Individuals in each group accept, we will be on the Path, and will work together to refine [[The Story of LIØNSBERG]] and craft the invitation to subsequent Individuals in our networks. 
 

@@ -2,7 +2,7 @@
 status: captured
 fold_target: VII
 themes: [sacred-ascent, identity, foundational]
-source: Phase 2.1 audit of The Lionsberg Meta Guide (Who We Are)
+source: Phase 2.1 audit of The LIØNSBERG Meta Guide (Who We Are)
 captured: 2026-05-18
 ---
 

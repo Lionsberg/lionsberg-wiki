@@ -1,4 +1,4 @@
-# What Is The Lionsberg Meta Project?
+# What Is The LIØNSBERG Meta Project?
 
 Hello! We are glad you asked. 
 
@@ -33,6 +33,6 @@ We are all, by the very fact that we are human actors, engaged in the total prog
 
 The basic idea is to [[Act As If]] we were all working towards one [[Meta Goal]] that integrated and united all other Goals, and to figure out how to organize ourselves in order to succeed. 
 
-The Lionsberg Meta Project is a place where we can gather and coordinate to attempt to act out our program of human action more competently. 
+The LIØNSBERG Meta Project is a place where we can gather and coordinate to attempt to act out our program of human action more competently. 
 
-Both Lionsberg and the Meta Project flow from one [[Spirit]] and [[Mind]], and speak to different levels of abstraction. 
+Both LIØNSBERG and the Meta Project flow from one [[Spirit]] and [[Mind]], and speak to different levels of abstraction. 

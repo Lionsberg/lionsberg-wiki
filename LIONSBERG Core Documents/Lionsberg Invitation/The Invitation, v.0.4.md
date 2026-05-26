@@ -15,7 +15,7 @@ To enable progress towards this Aim, over the last 7 years Jordan and a network 
 
 The next step is to invite a growing wave of citizens to forge or join self-governing small groups to learn [[The System]] and begin progressing together towards [[The Goal]]. 
 
-If you resonate and would like to [[Join Us]], email J@Lionsberg.org or visit [Jordan's Website](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).  
+If you resonate and would like to [[Join Us]], email J@LIØNSBERG.org or visit [Jordan's Website](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).  
 
 Onward Towards [[The Goal]], 
 
@@ -24,5 +24,5 @@ Onward Towards [[The Goal]],
 To learn more: 
 
 - See [[Above The Chaos, Jordan's January 2024 Manifesto]]  
-- Dive into the [[Lionsberg Wiki Books]]  
+- Dive into the [[LIØNSBERG Wiki Books]]  
 - Visit [[Above The Chaos]].  

@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [scales, chapters, holofractal, story, lionsberg-architecture]
+themes: [scales, chapters, holofractal, story, LIØNSBERG-architecture]
 ---
 
 # All Scales Of Chapters

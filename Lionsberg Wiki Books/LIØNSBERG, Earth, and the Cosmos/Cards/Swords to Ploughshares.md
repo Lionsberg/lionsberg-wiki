@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [strategy, finance, reallocation, foundational]
-source: Phase 2.1 audit of The Lionsberg Strategy and Plan of Action
+source: Phase 2.1 audit of The LIØNSBERG Strategy and Plan of Action
 captured: 2026-05-18
 ---
 
@@ -10,7 +10,7 @@ captured: 2026-05-18
 
 The financing thesis.
 
-The world spends an enormous portion of its resources on military, on weapons, on Force. The Lionsberg Strategy and Plan of Action articulates a **phased redirection** of these resources, year over year, into the infrastructure of life.
+The world spends an enormous portion of its resources on military, on weapons, on Force. The LIØNSBERG Strategy and Plan of Action articulates a **phased redirection** of these resources, year over year, into the infrastructure of life.
 
 The arithmetic, per the Strategy document:
 

@@ -177,7 +177,7 @@ Having no idea how people will respond to this, We have set up a simple [RSVP Fo
 
 ~ J  
 
-P.S. For those who desire more information, We have articulated nearly 2.3 million words in the LIØNSBERG Wiki. The most timely entry point is the [[Above The Chaos]] series. A more structured starting point can be found in the [[Lionsberg Wiki Books]]. If you encounter aliens, demons, and other challenging topics therein, do not be afraid.  
+P.S. For those who desire more information, We have articulated nearly 2.3 million words in the LIØNSBERG Wiki. The most timely entry point is the [[Above The Chaos]] series. A more structured starting point can be found in the [[LIØNSBERG Wiki Books]]. If you encounter aliens, demons, and other challenging topics therein, do not be afraid.  
 
 P.P.S. As [[The First Three Percent]] join Together, We will present the material in Wiki in a variety of more artistic, moving, and engaging ways.  
 

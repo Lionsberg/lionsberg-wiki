@@ -20,4 +20,4 @@ ___
 Forward to: [[Scene 24 - The New Vision Spreads]]  
 Back to: [[Scene 22 - A Shared Plan Takes Shape]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

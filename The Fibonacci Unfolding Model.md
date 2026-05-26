@@ -1,6 +1,6 @@
 # The Fibonacci Unfolding Model
 
-**The Fibonacci Unfolding Model** outlines a framework for exponential yet harmonious and coherent growth, inspired by the sacred Fibonacci sequence. In the Lionsberg mission, it illustrates how [[The Golden Seed]] can catalyze the co-creation of a [[New Civilization]] by progressively engaging humanity in the co-creation of [[Heaven on Earth]].
+**The Fibonacci Unfolding Model** outlines a framework for exponential yet harmonious and coherent growth, inspired by the sacred Fibonacci sequence. In the LIØNSBERG mission, it illustrates how [[The Golden Seed]] can catalyze the co-creation of a [[New Civilization]] by progressively engaging humanity in the co-creation of [[Heaven on Earth]].
 
 ## **How It Works**
 
@@ -34,11 +34,11 @@ The model provides clear milestones aligned with societal transformation:
 
 To achieve 3% engagement by 2026, and assuming 13 engaged by February 2025, each growth cycle must be completed in approximately ***19 days***. This rapid unfolding requires intentional, relational invitations and collective momentum.
 
-See [[Lionsberg Cycles of Growth]] and [[Lionsberg Cycle Time]]. 
+See [[LIØNSBERG Cycles of Growth]] and [[LIØNSBERG Cycle Time]]. 
 
 ## **Why Fibonacci?**
 
-The Fibonacci sequence reflects natural growth patterns—from galaxies to hurricanes to sunflowers and tree branches—symbolizing balance, harmony, and resilience. By mirroring this sacred geometry, Lionsberg ensures scalable, sustainable expansion rooted in [[Truth]], [[Love]], and [[Harmony]].
+The Fibonacci sequence reflects natural growth patterns—from galaxies to hurricanes to sunflowers and tree branches—symbolizing balance, harmony, and resilience. By mirroring this sacred geometry, LIØNSBERG ensures scalable, sustainable expansion rooted in [[Truth]], [[Love]], and [[Harmony]].
 
 ## **A Path to Transformation**
 
@@ -56,6 +56,6 @@ Each person is invited to take their place in the sequence, contributing their u
 
 - [[The Golden Seed]]
 - [[The Sacred Tree]]
-- [[Lionsberg Cycles of Growth]]
+- [[LIØNSBERG Cycles of Growth]]
 - [[The First Three Percent]]  
 - [[The Vision]]  

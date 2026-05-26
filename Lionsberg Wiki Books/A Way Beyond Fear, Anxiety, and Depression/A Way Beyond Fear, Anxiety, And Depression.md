@@ -2,7 +2,7 @@
 
 By [[Jordan Nicholas Sukut]]  
 
-This [[Lionsberg Wiki Book]] is a [[Work In Progress]]. 
+This [[LIØNSBERG Wiki Book]] is a [[Work In Progress]]. 
 
 ## About  
 

@@ -1,6 +1,6 @@
-# Lionsberg One Pager (v.04)
+# LIØNSBERG One Pager (v.04)
 
-Welcome to Lionsberg. 
+Welcome to LIØNSBERG. 
 
 ## The Quest of Humanity 
 
@@ -34,13 +34,13 @@ Realizing that the solutions to the [[Meta Crisis]] cannot emerge from the corru
 
 We are **Raising A Standard** by setting forth the [[LIØNSBERG Manifesto]] and the [[New Vision and Plan]] - a bold, transformative and comprehensive strategy empowering [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global levels while navigating us toward a regenerative, just, and thriving future.
 
-We are also unveiling a gamified infrastructure for [[The Movement]] called [[The Great Game of LIØNSBERG]] and the [[Lionsberg Platform]], created to serve, strengthen, equip and unite the decentralized [[Force For Good]].
+We are also unveiling a gamified infrastructure for [[The Movement]] called [[The Great Game of LIØNSBERG]] and the [[LIØNSBERG Platform]], created to serve, strengthen, equip and unite the decentralized [[Force For Good]].
 
 ## A Call to Arms 
 
 This is not the time for division or complacency. We must unite, harnessing our collective wisdom, strength, and resources to confront the challenges at hand and co-create [[The Future]] we seek. 
 
-Lionsberg is an independent **Vision, Strategy, System, Platform and Plan of Action** that we, the Citizens of Earth, can immediately implement with [[No Dependencies]] to vanquish the [[Meta Crisis]] and build a [[Brighter Future]] for our children, our grandchildren, and generations to come. 
+LIØNSBERG is an independent **Vision, Strategy, System, Platform and Plan of Action** that we, the Citizens of Earth, can immediately implement with [[No Dependencies]] to vanquish the [[Meta Crisis]] and build a [[Brighter Future]] for our children, our grandchildren, and generations to come. 
 
 To take immediate action: 
 

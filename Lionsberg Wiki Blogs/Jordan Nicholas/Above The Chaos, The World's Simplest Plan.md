@@ -22,4 +22,4 @@ _____
 If you are one of Us, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement). 
 
 ___  
-P.S. Of course, as [[The Movement]] grows, we will still do (something like) everything called for in [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]. 
+P.S. Of course, as [[The Movement]] grows, we will still do (something like) everything called for in [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]]. 

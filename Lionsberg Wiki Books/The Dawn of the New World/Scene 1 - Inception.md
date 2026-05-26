@@ -25,4 +25,4 @@ The radiance of Spirit and Imagination from the Creator was the source of All [[
 ___  
 Forward to: [[Scene 2 - Humanity Awakens]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

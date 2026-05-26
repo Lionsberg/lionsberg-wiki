@@ -21,4 +21,4 @@ _____
 Forward to [[The Logos - The Eternal, Universal and Unwritten Word of God]]  
 Back to [[A Starting Point - Navigating Biblical Translations in Pursuit of Spiritual Illumination - a Case Study]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

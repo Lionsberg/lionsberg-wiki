@@ -2,11 +2,11 @@
 status: captured
 fold_target: II
 themes: [pattern-language, pillar-iv, academy, formation, institutional-architecture, foundational]
-source: Phase 2.1 audit of The Lionsberg Academy + Pillar IV + The Sacred Onboarding Arc
+source: Phase 2.1 audit of The LIØNSBERG Academy + Pillar IV + The Sacred Onboarding Arc
 captured: 2026-05-19
 ---
 
-# The Lionsberg Academy
+# The LIØNSBERG Academy
 
 The institutional shape of Pillar IV. The formation-engine of the New Civilization.
 

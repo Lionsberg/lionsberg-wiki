@@ -124,7 +124,7 @@ This same seven-step process applies at every scale — from personal transforma
 
 ### Track and Validate
 
-Each Circle tracks the time and creative energy its members invest in [[Meaningful Work]]. This is the basis for [[Lionsberg Units of Value]] (LUV) — currency rooted in **proof of meaningful work** actually advancing [[Meta Goal|The Goal]]. LUV circulates within the living economy of the [[New Civilization]], enabling exchange, recognition, and coordination without dependence on the [[Old World]] economy.
+Each Circle tracks the time and creative energy its members invest in [[Meaningful Work]]. This is the basis for [[LIØNSBERG Units of Value]] (LUV) — currency rooted in **proof of meaningful work** actually advancing [[Meta Goal|The Goal]]. LUV circulates within the living economy of the [[New Civilization]], enabling exchange, recognition, and coordination without dependence on the [[Old World]] economy.
 
 ---
 

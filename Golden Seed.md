@@ -27,7 +27,7 @@ ___
 
 The Golden Seed is distributed through a single shared link — passed from person to person, [[Circle]] to [[Circle]], community to community. Each person who receives it becomes a carrier of the full DNA.
 
-In just 50 [[Lionsberg Cycles of Growth|cycles]] — 50 growth rings on the tree emerging from the Golden Seed — every person on Earth receives an invitation from someone they know and trust.
+In just 50 [[LIØNSBERG Cycles of Growth|cycles]] — 50 growth rings on the tree emerging from the Golden Seed — every person on Earth receives an invitation from someone they know and trust.
 
 **The Seed awaits your hands.**
 

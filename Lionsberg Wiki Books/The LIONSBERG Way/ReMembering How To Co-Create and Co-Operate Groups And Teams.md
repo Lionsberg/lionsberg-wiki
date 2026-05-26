@@ -2,5 +2,5 @@
 
 [[Forging Or Joining A Team]]  
 [[Co-Operation]]  
-[[Lionsberg System of Governance]]  
-[[Organizations The Lionsberg Way]]  
+[[LIØNSBERG System of Governance]]  
+[[Organizations The LIØNSBERG Way]]  

@@ -1,5 +1,5 @@
 
-# The Lionsberg Rules 
+# The LIØNSBERG Rules 
 
 ## The One Meta Rule
 1. [[Rule Number One]]  

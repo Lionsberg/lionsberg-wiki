@@ -8,7 +8,7 @@ Esteemed Friend,
 
 I have been thinking and meditating on some things I find valuable, important, and perhaps even crucial to our ongoing survival as a species. 
 
-I decided to begin structuring them in a Lionsberg Wiki Book called [[The Lionsberg Book of Meditations]]. 
+I decided to begin structuring them in a LIØNSBERG Wiki Book called [[The LIØNSBERG Book of Meditations]]. 
 
 There are 170 of them so far, I imagine there will be 1,000 or so in the future. 
 
@@ -18,4 +18,4 @@ Blessings,
 
 ~ J 
 
-P.S. if you want to know more of what I have in mind, feel free to explore the other [[Lionsberg Wiki Books]]. 
+P.S. if you want to know more of what I have in mind, feel free to explore the other [[LIØNSBERG Wiki Books]]. 

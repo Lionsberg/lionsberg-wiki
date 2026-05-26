@@ -6,15 +6,15 @@ Why: This convention began due to the polarization, division, and co-opting of w
 By creating "space" between the Word Tools being used, and the underlying Reality they were pointing towards, we aim to open up space for genuine communication to occur. 
 
 ____
-## Word Tool in the Lionsberg System - A Deeper Look
+## Word Tool in the LIØNSBERG System - A Deeper Look
 
 ## Introduction
 
-Understanding the concept of a "Word Tool" as used in the Lionsberg System is essential for engaging in meaningful dialogue, particularly on matters of profound importance. This article delves into the philosophical and practical underpinnings of the term, and why it plays such a crucial role in facilitating genuine communication.
+Understanding the concept of a "Word Tool" as used in the LIØNSBERG System is essential for engaging in meaningful dialogue, particularly on matters of profound importance. This article delves into the philosophical and practical underpinnings of the term, and why it plays such a crucial role in facilitating genuine communication.
 
 ## Definition
 
-In the Lionsberg System, the term "Word Tool" is used to signify that words are not ends in themselves, but rather tools employed to point towards a deeper, underlying Reality.
+In the LIØNSBERG System, the term "Word Tool" is used to signify that words are not ends in themselves, but rather tools employed to point towards a deeper, underlying Reality.
 
 ## Contextual Importance: The Old World
 
@@ -36,4 +36,4 @@ In matters of spirituality and the exploration of the divine, the "Word Tool" co
 
 ## Conclusion
 
-The concept of "Word Tools" in the Lionsberg System serves as both a reminder and an invitation. It reminds us that words, no matter how precise, are always approximations of the Realities they aim to describe. It invites us into a space of open-hearted dialogue, where the limitations of language are acknowledged, and the pursuit of understanding is shared communally. In a world fraught with misunderstandings and divisions, this nuanced approach to language offers a path towards more authentic and meaningful communication.
+The concept of "Word Tools" in the LIØNSBERG System serves as both a reminder and an invitation. It reminds us that words, no matter how precise, are always approximations of the Realities they aim to describe. It invites us into a space of open-hearted dialogue, where the limitations of language are acknowledged, and the pursuit of understanding is shared communally. In a world fraught with misunderstandings and divisions, this nuanced approach to language offers a path towards more authentic and meaningful communication.

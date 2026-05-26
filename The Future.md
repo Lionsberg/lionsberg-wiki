@@ -9,6 +9,6 @@ In the context of the [[LIØNSBERG System]] and [[The Great Game of LIØNSBERG]]
 -   Advancements in science and technology that are used for the multi-generational benefit of All, rather the short term profit of a privileged few
 -   A deep and abiding sense of spirituality, rooted in a recognition of the interconnectedness of all life and the shared responsibility of all  life to rightly relate to one another and our common Source 
 
-This Positive Vision of the future is not only aspirational, but it is also necessary for the survival and well-being of humanity and the planet. The Lionsberg System and The Great Game of Lionsberg aim to co-create this future by empowering citizens around the world to take individual and collective action to address the challenges of the Meta Crisis and co-create a better world for [[All]].
+This Positive Vision of the future is not only aspirational, but it is also necessary for the survival and well-being of humanity and the planet. The LIØNSBERG System and The Great Game of LIØNSBERG aim to co-create this future by empowering citizens around the world to take individual and collective action to address the challenges of the Meta Crisis and co-create a better world for [[All]].
 
 See also [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  

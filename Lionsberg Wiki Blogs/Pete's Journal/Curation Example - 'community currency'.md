@@ -4,7 +4,7 @@ _a post in [[Pete's Journal]]_
 
 by [[Peter Kaminski]], 2022-07-25
 
-Over on [[Lionsberg Town Square]], we're having a discussion about [[Curating]], including via [[Hashtags]] and [[Linking]].
+Over on [[LIØNSBERG Town Square]], we're having a discussion about [[Curating]], including via [[Hashtags]] and [[Linking]].
 
 I wanted to demonstrate some linking-to-curate in this post, using a simple search for "community currency".
 

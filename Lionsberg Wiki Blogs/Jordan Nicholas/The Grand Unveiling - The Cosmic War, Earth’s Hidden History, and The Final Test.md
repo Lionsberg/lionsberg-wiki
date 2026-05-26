@@ -128,7 +128,7 @@ The time of waiting is over.
 
 ---
 
-### **VII. Conclusion: The Lionsberg Prophecy**
+### **VII. Conclusion: The LIØNSBERG Prophecy**
 
 LIØNSBERG stands as a beacon of **Truth, Resistance, and Rebirth**. It is the New Story, the Cosmic Chronicle, the framework through which humanity can **see clearly, unite, and pass the test**.
 

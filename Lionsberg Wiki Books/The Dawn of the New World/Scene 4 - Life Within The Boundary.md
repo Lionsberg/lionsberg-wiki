@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 5 - The Threshold Of Knowing]]  
 Back to: [[Scene 3 - The Boundary]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

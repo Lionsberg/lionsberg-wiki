@@ -1,4 +1,4 @@
-# Above The Chaos, Lionsberg Wiki Repairs and Update
+# Above The Chaos, LIØNSBERG Wiki Repairs and Update
 
 By [[Jordan Nicholas Sukut]], 2024.01.17 _(updated 2024.01.17)_
 

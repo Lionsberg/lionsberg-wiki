@@ -52,4 +52,4 @@ ___
 Forward to [[Chapter 13 - Debt, Property, and Economic Reset]]  
 Back to [[Chapter 11 - Actively Resisting All That is Opposed to the Spirit and Wisdom of God]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

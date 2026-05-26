@@ -12,7 +12,7 @@ Once we rediscover our True Identity, we awaken to our Co-Creative Potential –
 
 There could not be a more significant shift. This is the pivotal moment of our existence. The point on the arc of self-discovery and self-realization where we reach the end of our efforts to emerge, individuate and protect our perceived self, and begin The Great Return towards Unity and Co-Creation with One Another and the One Creating and Sustaining our lives and Universe. 
 
-This is not only an individual journey, it is a collective one as well. The core defining issue at this crucial moment in history is whether enough of us around the world can simultaneously waken, arise, and unite as the One Body we are destined to be, and advance towards our One Mission and Goal. This is the sole mission, purpose, and Goal of Lionsberg, and of our lives - to Help One Another become who we were created to be. 
+This is not only an individual journey, it is a collective one as well. The core defining issue at this crucial moment in history is whether enough of us around the world can simultaneously waken, arise, and unite as the One Body we are destined to be, and advance towards our One Mission and Goal. This is the sole mission, purpose, and Goal of LIØNSBERG, and of our lives - to Help One Another become who we were created to be. 
 
 As Conscious Co-Creators, we bear a sacred responsibility to be the living embodiment of the Highest Divine Will and Intention. This is not a burdensome duty, but an honor and privilege, for it aligns us with our True Nature and brings us into ever-more-perfect-harmony with the Supreme Divine Order, the [[Logos]] of the universe, and its Source. 
 
@@ -124,7 +124,7 @@ Break the overarching and uniting Meta Vision down into its constituent elements
 - What aspects of the Old World do you Value the most, that you would like to carry forward and accentuate in the New World?  
 - What aspects of the Old World are Anti-Values, that you would like to see transcended and left behind?  
 
-Imagine a **Selectively Permeable Membrane** around a clean, New space, where you can bring things in and fill it up with everything required for flourishing and abundant life, and remove anything that doesn't belong. This is what we are Co-Creating through Lionsberg. 
+Imagine a **Selectively Permeable Membrane** around a clean, New space, where you can bring things in and fill it up with everything required for flourishing and abundant life, and remove anything that doesn't belong. This is what we are Co-Creating through LIØNSBERG. 
 
 Now, ask yourself: What is one small step I can take today towards the realization of this Vision? It could be as small as a thought, a word, or an action. It could be as simple as planting a seed, speaking a word of kindness, or performing an act of service. Whatever it is, ensure that it is specific, tangible, and small enough to be completed and celebrated today. 
 
@@ -132,7 +132,7 @@ Whatever it is, commit to taking that step today. And remember, each small step 
 
 Next, ask yourself: What is one meaningful step I can take this week towards the realization of this Vision? This gives you the opportunity to compose a few smaller daily steps into larger and more meaningful step Forward. 
 
-Finally, ask yourself: Can I do this alone? The unique thing about the New World is that none of us can experience it, unless and until all of us experience it. That is Why we are co-creating Lionsberg, and preparing to invite in the Second Wave. To progress towards the New World, the Second, Third, Fourth, and Fiftieth Waves must awaken, arise, and join The Movement towards The Goal. 
+Finally, ask yourself: Can I do this alone? The unique thing about the New World is that none of us can experience it, unless and until all of us experience it. That is Why we are co-creating LIØNSBERG, and preparing to invite in the Second Wave. To progress towards the New World, the Second, Third, Fourth, and Fiftieth Waves must awaken, arise, and join The Movement towards The Goal. 
 
 And as the Subsequent Waves arise, each person must ***self-organize*** and [[Forge or Join a Group]], and begin enacting and embodying their unique function. This is how the Body emerges. 
 

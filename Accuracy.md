@@ -20,7 +20,7 @@ Several factors can challenge accuracy, such as cognitive biases, misinformation
 
 Cultivating accuracy involves developing strong critical thinking skills, fostering intellectual curiosity, and committing to truth and learning. It also requires patience, humility, and diligence to overcome cognitive biases, gather relevant information, and correct errors.
 
-**Accuracy in the Context of Lionsberg**
+**Accuracy in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, accuracy serves as a guiding principle. It underscores the importance of understanding our current situation correctly, recognizing the challenges we face, and making informed decisions about the path forward.
 

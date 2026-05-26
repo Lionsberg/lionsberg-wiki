@@ -1,4 +1,4 @@
-# Lionsberg Wiki Books
+# LIØNSBERG Wiki Books
 
 The books below all explore the same core Challenges, Mission, Vision, and Goal, examining it from a variety of angles and possibilities. [[All]] centers around the [[ØNE]].
 
@@ -31,7 +31,7 @@ _Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into t
 
 1. [[LIØNSBERG 101]] — The complete pattern in concentric rings. The fastest path from ØNE to All
 2. [[Most People Have No Idea What Is Coming]]
-3. [[The Lionsberg Book of Meditations]]
+3. [[The LIØNSBERG Book of Meditations]]
 4. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
 
 ## Something Powerful, New, and Good (Post-August 2025)
@@ -45,7 +45,7 @@ _Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into t
 3. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]
 4. [[The Greatest Fraud, Deception, and Existential Threat in History]]
 5. [[The Cosmic Chronicles - Illuminating the Hidden Knowledge of Universal Consciousness and Contact]]
-6. [[The Chronicles of Lionsberg]]
+6. [[The Chronicles of LIØNSBERG]]
 7. [[The Chronicles of J]]
 8. [[Beyond Earth - The Secret Wars, Ancient Alliances, and the Future of Humanity]]
 
@@ -58,18 +58,18 @@ _Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into t
 5. [[Harvested by Aliens, Kontrolled by Fascists, and Hunted by Dogs - The Plight of the Children of Earth]]
 6. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]
 7. [[The LIØNSBERG Strategy and Plan]]
-8. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]
+8. [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]]
 9. [[The Dawn of the New World]]
-10. [[The Lionsberg Book of Meditations]]
+10. [[The LIØNSBERG Book of Meditations]]
 11. [[Beyond The Meta Crisis - A Blueprint for a Better Future]]
 12. [[Most People Have No Idea What Is Coming]]
 13. [[An Alternative to Apocalypse - The New Covenant]]
 14. [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]]
 15. [[The LIØNSBERG Theses]]
-16. [[The Lionsberg Approach to Citizen Led Governance]]
+16. [[The LIØNSBERG Approach to Citizen Led Governance]]
 18. [[A Way Beyond Fear, Anxiety, And Depression]]
 19. [[The Way of God]]
-20. [[The Lionsberg Book of Quotes]]
+20. [[The LIØNSBERG Book of Quotes]]
 22. [[The Great Game of LIØNSBERG]]
 23. [[The Power of Today]]
 24. [[The Power of One]]
@@ -82,7 +82,7 @@ _Pre-Great-Spring-2026-Turn featured listings. Several have been promoted into t
 1. [[Transmedium Ark Exploration]]
 2. [[A New Sovereignty]]
 3. [[Resourcing Guide]]
-4. [[J's Guide to Lionsberg]]
+4. [[J's Guide to LIØNSBERG]]
 5. [[The One - A Sacred Blueprint for Awakening All Consciousness]]
 6. [[UnVeiling The Sacred Texts]]
 7. [[Threads of Eternity]]

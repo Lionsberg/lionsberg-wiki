@@ -10,4 +10,4 @@ See [[Realizations]] for a quick write up.
 
 The [[Divine Blueprints]] call for a [[New]] program of [[Lifelong Learning and Development]] to be made equally available to [[All]]. 
 
-[[The 12 Pillars of Lionsberg]] reflect this in Pillar 4: Holistic Education and Lifelong Learning. 
+[[The 12 Pillars of LIØNSBERG]] reflect this in Pillar 4: Holistic Education and Lifelong Learning. 

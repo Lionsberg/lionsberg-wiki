@@ -37,4 +37,4 @@ The intent is for the System to organically emerge and complexify from seed stat
 
 Thus, at any given time during growth many of these functional Groups may be handled informally, developing into formal Groups as the need arises. 
 
-[[Lionsberg System of Governance]]  
+[[LIØNSBERG System of Governance]]  

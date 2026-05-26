@@ -31,7 +31,7 @@ The New Era is sustained by pillars that are essentially the applied aspects of 
 
 Just as the pragmatic mind, body, and wings of the butterfly must actually and pragmatically be built according to the Divine Blueprint, so too must we consciously Co-Create the structures and pillars of the New Era. 
 
-While they could be expressed in thousands of different ways, [[The 12 Pillars of Lionsberg]], discussed more full elsewhere in the Blueprint, aim to provide a pragmatic and actionable guide for implementation of the essentials and main organ systems that allow our New Life to function and flourish. 
+While they could be expressed in thousands of different ways, [[The 12 Pillars of LIØNSBERG]], discussed more full elsewhere in the Blueprint, aim to provide a pragmatic and actionable guide for implementation of the essentials and main organ systems that allow our New Life to function and flourish. 
 
 The pillars are: 
 
@@ -85,13 +85,13 @@ The realization of the New Era requires tools and mechanisms for its manifestati
     
 4. **Art and Culture**: Utilizing the arts to reflect and propagate the Divine, influencing societal norms and attitudes, and helping to establish the cultural processes and practices that both inaugurate and sustain the New Era. 
     
-4. **A New Operating System**: Co-Operating in a New Way requires the pragmatic systems, processes, and technologies of a New Operating System for humanity. The Lionsberg System has been created as a starting point and Blueprint. 
+4. **A New Operating System**: Co-Operating in a New Way requires the pragmatic systems, processes, and technologies of a New Operating System for humanity. The LIØNSBERG System has been created as a starting point and Blueprint. 
     
 
 ### Conclusion: The Symphony of Rebirth
 
 The Dawn of the New Era is akin to the orchestration of a cosmic symphony, each individual, community, and institution a unique instrument in the hands of the Divine Conductor. Though we face a multitude of challenges, we are imbued with a Divine Imperative to proceed, trusting in the unfolding Divine Plan.
 
-As we conclude Part I, let us shift our hearts and minds towards action and embodiment. In Part II the tension will continue to build as we discuss the mandate for a New System and Approach. From there we will progress towards the Foundations and Pillars of Lionsberg in Part III, before moving from Ideation into Action in Part IV. Each word and line of this Blueprint is meant not to achieve mere intellectual assent, but to guide and impel us together towards wise and unified action, implementation, and embodiment of the New Covenant. 
+As we conclude Part I, let us shift our hearts and minds towards action and embodiment. In Part II the tension will continue to build as we discuss the mandate for a New System and Approach. From there we will progress towards the Foundations and Pillars of LIØNSBERG in Part III, before moving from Ideation into Action in Part IV. Each word and line of this Blueprint is meant not to achieve mere intellectual assent, but to guide and impel us together towards wise and unified action, implementation, and embodiment of the New Covenant. 
 
 As we advance, may each note we play in this grand Symphony of Rebirth resonate with the eternal frequencies of Love, Wisdom, and Justice. In doing so, we don't merely witness the New Dawn; we become the New Dawn—arising, Uniting As One, and ushering in a New Era that reflects the ineffable beauty and perfection of the Divine Kingdom, on Earth as it is in Heaven.

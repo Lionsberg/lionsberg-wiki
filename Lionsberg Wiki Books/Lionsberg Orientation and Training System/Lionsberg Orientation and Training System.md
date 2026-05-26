@@ -1,8 +1,8 @@
-# Lionsberg Orientation and Training System
+# LIØNSBERG Orientation and Training System
 
 Folded into [[The LIØNSBERG Experience]]  
 
 ## Old Drafts
 
-- [[Lionsberg Orientation and Training System - v0.1]]  
-- [[Lionsberg Orientation and Training System (brainstorm)]] 
+- [[LIØNSBERG Orientation and Training System - v0.1]]  
+- [[LIØNSBERG Orientation and Training System (brainstorm)]] 

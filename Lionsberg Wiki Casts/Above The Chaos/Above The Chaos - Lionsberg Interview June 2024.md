@@ -1,4 +1,4 @@
-# Above The Chaos - Lionsberg Interview June 2024
+# Above The Chaos - LIØNSBERG Interview June 2024
 
 A WikiCast post in [[Above The Chaos]] and [[Above the Chaos - WikiCast]]  
 

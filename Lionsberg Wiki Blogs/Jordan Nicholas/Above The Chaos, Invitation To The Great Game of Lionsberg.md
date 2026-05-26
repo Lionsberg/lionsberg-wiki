@@ -1,4 +1,4 @@
-# Above The Chaos, Invitation To The Great Game of Lionsberg
+# Above The Chaos, Invitation To The Great Game of LIØNSBERG
 
 Esteemed Friends, 
 
@@ -64,7 +64,7 @@ This is possible if just 3 to 13 small groups begin learning [[How To Play The G
 
 This strategy, if successful, will result in an invitation being extended to all 8 billion humans, by someone they love and trust, to forge or join a small group that can help them progress towards the fullness of their unique potential and flourish in a harmonious and properly ordered society. 
 
-## Welcome To The Great Game Of Lionsberg 
+## Welcome To The Great Game Of LIØNSBERG 
 
 We have spent the last 5 years synthesizing lifetimes of preparation into a complete System / Ark to help humanity and the [[Living System]] escape its current bondage to a corrupted and failing [[Old System]], cross the [[Chasm]], and [[Progress]] towards a [[New World]] that can be superior in every way to the [[Old World]] we are leaving behind. 
 

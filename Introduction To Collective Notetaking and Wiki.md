@@ -14,7 +14,7 @@
     - Acquisition... future acquiring company makes a decision 
     - Solar storms take out electronics... 
     - Natural disasters take out electronics... 
-    - This technology _does not require a functioning cloud_ - this is a super critical design element for certain parts of the Lionsberg platform. In particular our collective memory. 
+    - This technology _does not require a functioning cloud_ - this is a super critical design element for certain parts of the LIØNSBERG platform. In particular our collective memory. 
     - It does not require internet... 
     - If the entire internet falls down... everyone has a copy of the whole wiki on their computer... which will contain the complete plans, specifications, and solutions for how to rebuild or advance society. 
 	    - See [[Above The Chaos, Curating Solutions To Build (Or Rebuild) Life And Society]]. 
@@ -35,7 +35,7 @@
 - Same tech can be used for personal writing, knowledge management
 - Two parts of wiki
     - One - cohesive and fairly architected content
-    - Two - free form, group knowledge individual perspectives on Lionsberg / Meta Project etc., 
+    - Two - free form, group knowledge individual perspectives on LIØNSBERG / Meta Project etc., 
     - Also - a PROCESS for moving from individual blogs up into the group brain part of the wiki. 
     - Think of the more fluid section to be a scaffold to develop material to bring to more formal architected section
     - There is a social process for accepting content to transfer

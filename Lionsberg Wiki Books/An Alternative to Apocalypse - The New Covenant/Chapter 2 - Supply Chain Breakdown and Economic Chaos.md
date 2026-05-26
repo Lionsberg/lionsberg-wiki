@@ -53,4 +53,4 @@ ___
 Forward to [[Chapter 3 - Famine, Migration, and Plague]]  
 Back to [[Chapter 1 - The Collapse of the American Order]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

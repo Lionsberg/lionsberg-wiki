@@ -4,9 +4,9 @@ Voice notes are a fascinating distiller of [[What Matters]]. As we wander, think
 
 In 2018, [[Jordan]] began recording a series of voice notes as the [[New Vision and Plan]] was unfurling. They are transcribed and presented here in roughly chronological form for those who are interested in watching thought and insight unfold and cross-pollinate.  
 
-Many of these concepts have been reflected in the [[Lionsberg Wiki Books]] and cross-woven through the [[LIØNSBERG Wiki]].  
+Many of these concepts have been reflected in the [[LIØNSBERG Wiki Books]] and cross-woven through the [[LIØNSBERG Wiki]].  
 
-This Wikibook can be thought of as a harvest of 5 years of some potentially noteworthy ideas. It is Jordan's hope and intention to work in community to separate the wheat from the chaff, process what is of [[Value]] into the [[LIØNSBERG System]] and [[Lionsberg Commons]], and compost the rest.  
+This Wikibook can be thought of as a harvest of 5 years of some potentially noteworthy ideas. It is Jordan's hope and intention to work in community to separate the wheat from the chaff, process what is of [[Value]] into the [[LIØNSBERG System]] and [[LIØNSBERG Commons]], and compost the rest.  
 
 We are also in the process of developing AI that will be able to query this book as part of the broader [[LIØNSBERG Wiki]].  
 
@@ -633,11 +633,11 @@ Reading lists for each person.
 
   
 
-**Lionsberg - co-creating a better world**.  
+**LIØNSBERG - co-creating a better world**.  
 
   
 
-Lionsberg is born out of the premise that God has called us to co-create with Him, in community, a better world in accordance with the timeless advice He has given us throughout the millennia.  
+LIØNSBERG is born out of the premise that God has called us to co-create with Him, in community, a better world in accordance with the timeless advice He has given us throughout the millennia.  
 
   
 
@@ -750,7 +750,7 @@ A very efficient fund of funds that funds only organizations that are operating 
 
   
 
-I am working on a project called Lionsberg, which is the creation of a platform and gathering place for indivdiuals, organizations, and resources united for the purpose of designing and building a better world.  
+I am working on a project called LIØNSBERG, which is the creation of a platform and gathering place for indivdiuals, organizations, and resources united for the purpose of designing and building a better world.  
 
 Why? Our observation is that we are at a significant inflection point in the course of human history. A groundswell of education, knowledge, information sharing, and interconnectedness as a global community has led to a new collective consciousness and zeitgeist in which a whole generation is rising up, questioning the existing institutions and operating systems of humanity, and demanding a change in those areas they perceive as out of alignment with their core values and fundamental Truth.  
 
@@ -837,17 +837,17 @@ Explore merging, acquiring - a platform to make the Human Development Initiative
 
   
 
-Lionsberg is a growing confederation of individuals and organizations united for the purpose of designing and building a better world.  
+LIØNSBERG is a growing confederation of individuals and organizations united for the purpose of designing and building a better world.  
 
   
 
-Operating in accordance with the Lionsberg Way, on the Lionsberg Platform.  
+Operating in accordance with the LIØNSBERG Way, on the LIØNSBERG Platform.  
 
   
 
-Lionsberg consists of multiple elements  
+LIØNSBERG consists of multiple elements  
 
-1. Spiritual Community - a global spiritual community comprised of individuals and organizations operating in accordance with the Lionsberg Way. Spiritual community - open with an initial network of churches - what we can offer to churches - financial solidarity, support each other through x, y, z, maintaining the individual autonomy of groups within the network, but sharing resources, profits and losses at the second degree level to help weather storms, downturns, etc.
+1. Spiritual Community - a global spiritual community comprised of individuals and organizations operating in accordance with the LIØNSBERG Way. Spiritual community - open with an initial network of churches - what we can offer to churches - financial solidarity, support each other through x, y, z, maintaining the individual autonomy of groups within the network, but sharing resources, profits and losses at the second degree level to help weather storms, downturns, etc.
     
 2. Schools - We are setting out to transform education through the establishment of primary and secondary education around the world, starting with schools for disadvantaged youth.
     
@@ -915,11 +915,11 @@ Idea - create a clock / dashboard tracking the project manhours and measurable i
 
   
 
-Every person who interacts with Lionsberg is given a Identity.  
+Every person who interacts with LIØNSBERG is given a Identity.  
 
   
 
-Put groups of pastors, teachers, seniors through training to become Lionsberg Guides.  
+Put groups of pastors, teachers, seniors through training to become LIØNSBERG Guides.  
 
 - in app each day, ask how are you? do you need help?
     
@@ -1000,15 +1000,15 @@ Thought leadership for humanity.
 
   
 
-Vision. Strategy. Design. Planning. Catalyze - finance, development, incubation. Build - Execute. Evolve. Consulting, evaluation, and continuous improvement... on the OneLionsberg Platform. Operate and Maintain.  
+Vision. Strategy. Design. Planning. Catalyze - finance, development, incubation. Build - Execute. Evolve. Consulting, evaluation, and continuous improvement... on the OneLIØNSBERG Platform. Operate and Maintain.  
 
   
 
 EnVision. Plan. Catalyze. Design. Build. Operate. Maintain. Evolve.  
 
-The Lionsberg Way - including IPD.  
+The LIØNSBERG Way - including IPD.  
 
-The Lionsberg Platform.  
+The LIØNSBERG Platform.  
 
   
 
@@ -1032,7 +1032,7 @@ Vision.
 
   
 
-Evolve - organizational coaching and development in accordance with the Lionsberg Way - in exchange for 10% of increased profitability to the NP fund.  
+Evolve - organizational coaching and development in accordance with the LIØNSBERG Way - in exchange for 10% of increased profitability to the NP fund.  
 
   
 
@@ -1078,11 +1078,11 @@ A gathering place and operating system for individuals and organizations united 
 
   
 
-Lionsberg is the operating system for a new era of social and economic solidarity.  
+LIØNSBERG is the operating system for a new era of social and economic solidarity.  
 
   
 
-Lionsberg an operating platform for a new era of social and economic organization.  
+LIØNSBERG an operating platform for a new era of social and economic organization.  
 
   
 
@@ -1101,7 +1101,7 @@ Define the operating system from the ground up...
 
   
 
-Lionsberg Identity. Individual, Team, Entity IDs.  
+LIØNSBERG Identity. Individual, Team, Entity IDs.  
 
 Map the different ways we can work, different configurations.  
 
@@ -1155,11 +1155,11 @@ The question for each person is what are you doing to be a net positive to the r
 
   
 
-Lionsberg is a platform and operating system for a new era of (wisdom and values driven social and economic (stewardship)(organization).  
+LIØNSBERG is a platform and operating system for a new era of (wisdom and values driven social and economic (stewardship)(organization).  
 
   
 
-Lionsberg is an operating platform for a New Era of ()  
+LIØNSBERG is an operating platform for a New Era of ()  
 
 - Collaboration
     
@@ -1196,7 +1196,7 @@ Work, organize, develop, dream, serve, organize, steward our shared resources in
 
   
 
-Lionsberg - Operating platform for a New Era of Wisdom, Values, and Flourishing in Community.  
+LIØNSBERG - Operating platform for a New Era of Wisdom, Values, and Flourishing in Community.  
 
   
 
@@ -1253,7 +1253,7 @@ Our communities are led and informed by 1. Timeless Wisdom 2. Cross-cultural sha
 
   
 
-Lionsberg is an operating platform for a New Era of Mission and Values driven social and economic organization led and informed by 1. Timeless Wisdom 2. Cross-cultural shared Values 3. The Common Journey of humanity.  
+LIØNSBERG is an operating platform for a New Era of Mission and Values driven social and economic organization led and informed by 1. Timeless Wisdom 2. Cross-cultural shared Values 3. The Common Journey of humanity.  
 
   
 
@@ -1261,7 +1261,7 @@ We operate on the basis of transparent multi-generational stewardship, rather th
 
   
 
-Lionsberg stewards a growing portfolio of for-profit and non-profit endeavors, led and informed by ().  
+LIØNSBERG stewards a growing portfolio of for-profit and non-profit endeavors, led and informed by ().  
 
   
 
@@ -1281,7 +1281,7 @@ Our goal is to be the #1 preferred operating platform for our trade partners, cl
 
   
 
-Lionsberg is an operating platform that enables mission and values-driven individuals, teams, and communities to work together for the good of humanity.  
+LIØNSBERG is an operating platform that enables mission and values-driven individuals, teams, and communities to work together for the good of humanity.  
 
   
 
@@ -1301,7 +1301,7 @@ Demonstrate that there is a better Way to design and build better lives and a be
 
   
 
-For Individuals, Lionsberg offers the opportunity to co-operate within a community constructed to be completely consistent with our shared values, eternal principles, and our common human journeys. Rather than going to work in a privately or publicly owned structure for the benefit of capital, we get to work together in community to help one another progress as humans, generate resources to care for our families and one another, and steward the excess resources that are created for the long term growth of our community and the betterment of humanity.  
+For Individuals, LIØNSBERG offers the opportunity to co-operate within a community constructed to be completely consistent with our shared values, eternal principles, and our common human journeys. Rather than going to work in a privately or publicly owned structure for the benefit of capital, we get to work together in community to help one another progress as humans, generate resources to care for our families and one another, and steward the excess resources that are created for the long term growth of our community and the betterment of humanity.  
 
   
 
@@ -1343,7 +1343,7 @@ At this most critical juncture in human history, we must turn away from the dysf
 
   
 
-Lionsberg is a prototype and a starting point for that metamorphosis towards becoming a New Creation.  
+LIØNSBERG is a prototype and a starting point for that metamorphosis towards becoming a New Creation.  
 
   
 
@@ -1383,7 +1383,7 @@ Coordinated, joint non-profit plan, nested within the System Wide Master Plan.
 
   
 
-Lionsberg is a mission-driven global communication dedicated to the elevation of Wisdom, Values, Humanity, and our Planet. We equip and empower a global network of for-profit and non-profit projects and teams, who share gifts, talents, and resources, and operate according to a coordinated global Vision, Strategy, and Plan.  
+LIØNSBERG is a mission-driven global communication dedicated to the elevation of Wisdom, Values, Humanity, and our Planet. We equip and empower a global network of for-profit and non-profit projects and teams, who share gifts, talents, and resources, and operate according to a coordinated global Vision, Strategy, and Plan.  
 
   
 
@@ -1393,7 +1393,7 @@ Lionsberg is a mission-driven global communication dedicated to the elevation of
 
 **Define an aspirational identity. Associate brand with that identity. Help people step into it. The products and services are what help them _become_ that person.**  
 
-The core identity is God. Unity under God. Lionsberg - One Citizenship, Under God, Indivisible, with Liberty and Justice for All.  
+The core identity is God. Unity under God. LIØNSBERG - One Citizenship, Under God, Indivisible, with Liberty and Justice for All.  
 
   
 
@@ -1425,11 +1425,11 @@ It is important to not conflate the actual people with the Functional Accountabi
 
   
 
-Lionsberg elevates humanity, builds transformational communities to work together in, creates exceptional value, transparently stewards resources to elevate humanity and our planet.  
+LIØNSBERG elevates humanity, builds transformational communities to work together in, creates exceptional value, transparently stewards resources to elevate humanity and our planet.  
 
   
 
-Lionsberg is a community that is a team of teams. Each team has a Mission. If you lead a team, you are an Integrator. Integrators are responsible for two things - 1) integrating the activities of the individual team members into the coordinated whole of their Team, and 2) integrating the Work of the Team into the coordinated Whole of Lionsberg.  
+LIØNSBERG is a community that is a team of teams. Each team has a Mission. If you lead a team, you are an Integrator. Integrators are responsible for two things - 1) integrating the activities of the individual team members into the coordinated whole of their Team, and 2) integrating the Work of the Team into the coordinated Whole of LIØNSBERG.  
 
   
 
@@ -1500,7 +1500,7 @@ Value measured in Quality and Quantity.
 
   
 
-Corporations, institutions, and money are all things that we created to serve us. Unfortunately, in many cases, they have come to employ and exploit us as human resources. We are turning this paradigm on its head. The organizations and economy of Lionsberg exist to serve you and to support your unique Mission and Journey.  
+Corporations, institutions, and money are all things that we created to serve us. Unfortunately, in many cases, they have come to employ and exploit us as human resources. We are turning this paradigm on its head. The organizations and economy of LIØNSBERG exist to serve you and to support your unique Mission and Journey.  
 
   
 
@@ -1534,15 +1534,15 @@ The key to thriving is to find a Team that shares your Vision and Mission, and w
 
   
 
-If the Lionsberg Community does not currently have a Team in your area of passion or expertise, you can wait and watch until it is created, or you, as an empowered co-creator can Create a Manifesto, nail it to the wall, present it to the others, and see if you can condense the support to forge a team.  
+If the LIØNSBERG Community does not currently have a Team in your area of passion or expertise, you can wait and watch until it is created, or you, as an empowered co-creator can Create a Manifesto, nail it to the wall, present it to the others, and see if you can condense the support to forge a team.  
 
   
 
-Critically, the Team must align with the overall Vision, Mission, and Values of Lionsberg, and create a symbiotic and reciprocal exchange of Value.  
+Critically, the Team must align with the overall Vision, Mission, and Values of LIØNSBERG, and create a symbiotic and reciprocal exchange of Value.  
 
   
 
-Do not be discouraged if your long term passion is not currently represented in the Community. The Lionsberg Community will be expanding, both organically, and through Mergers and Acquisitions of other Teams across an increasing array of for-profit and non-profit domains.  
+Do not be discouraged if your long term passion is not currently represented in the Community. The LIØNSBERG Community will be expanding, both organically, and through Mergers and Acquisitions of other Teams across an increasing array of for-profit and non-profit domains.  
 
   
 
@@ -1566,7 +1566,7 @@ Our core expertise is in partnering with One Another and our Partners to co-crea
 
   
 
-Lionsberg is a thriving community of co-creators dedicated to elevating you and your mission.  
+LIØNSBERG is a thriving community of co-creators dedicated to elevating you and your mission.  
 
   
 
@@ -1598,7 +1598,7 @@ A Community and Guide, dedicated to helping you accomplish your Mission, and Bec
 
   
 
-Everything but The Foundation of Lionsberg is built to transform according to the co-creative forces of those who interact with it.  
+Everything but The Foundation of LIØNSBERG is built to transform according to the co-creative forces of those who interact with it.  
 
   
 
@@ -1614,7 +1614,7 @@ We come alongside you as co-stewards of your Mission and Goals, and engage in a 
 
   
 
-Lionsberg was created to engage humanity in a transformational journey towards its Destiny.  
+LIØNSBERG was created to engage humanity in a transformational journey towards its Destiny.  
 
   
 
@@ -1770,7 +1770,7 @@ We spent a couple years as a community working to define our core values, before
 
   
 
-Lionsberg is not about religious formation and teaching people to be a good member of any particular religious denomination. It is far transcendent of that. Looking at our common humanity, our common Living System, the Creator of the universe that is not boxed into any manmade religion, and the timeless Wisdom and Values He has written on our hearts, that we can find at the heart of every reasonable wisdom tradition, and in the spirits and hearts of all people of Goodwill. Spirituality is just that - the existence not from categorized propositional knowledge, but rather existence from, through, and by the Spirit of God that creates and sustains every breath and heartbeat of every life.  
+LIØNSBERG is not about religious formation and teaching people to be a good member of any particular religious denomination. It is far transcendent of that. Looking at our common humanity, our common Living System, the Creator of the universe that is not boxed into any manmade religion, and the timeless Wisdom and Values He has written on our hearts, that we can find at the heart of every reasonable wisdom tradition, and in the spirits and hearts of all people of Goodwill. Spirituality is just that - the existence not from categorized propositional knowledge, but rather existence from, through, and by the Spirit of God that creates and sustains every breath and heartbeat of every life.  
 
   
 
@@ -1786,7 +1786,7 @@ An interesting thing to note is that Christ did not attempt to convert people to
 
   
 
-Lionsberg is merely a name that needed to be formed, to create a recognizable identity, rooted in timeless symbols of strength, solidarity, and courage. Its name is not what matters. Its Spirit, that is one with the Spirit of Christ and God, is what matters. It unites spiritual symbols in an accessible name capable of crossing linguistic boundaries and uniting people together as One Under God.  
+LIØNSBERG is merely a name that needed to be formed, to create a recognizable identity, rooted in timeless symbols of strength, solidarity, and courage. Its name is not what matters. Its Spirit, that is one with the Spirit of Christ and God, is what matters. It unites spiritual symbols in an accessible name capable of crossing linguistic boundaries and uniting people together as One Under God.  
 
   
 
@@ -1794,11 +1794,11 @@ Lion is a word recognized in most languages as converying strength, courage, and
 
 Berg is a word for mountain, or place, that spans multiple languages.  
 
-Lionsberg is a community, a fortress, a kingdom, a gathering place for humanity to rediscover, redesign, and rebuild their lives and their world. It is a kingdom whose King is God.  
+LIØNSBERG is a community, a fortress, a kingdom, a gathering place for humanity to rediscover, redesign, and rebuild their lives and their world. It is a kingdom whose King is God.  
 
   
 
-We do not know what Lionsberg will become. We only know that it is our job to create as Faithful of a Microcosm of the eternal and universal Way as we can, in order to have the greatest impact on humanity and the living system that we can. This is just our flawed attempt to discern the Way, systematize it, and translate it into Reality.  
+We do not know what LIØNSBERG will become. We only know that it is our job to create as Faithful of a Microcosm of the eternal and universal Way as we can, in order to have the greatest impact on humanity and the living system that we can. This is just our flawed attempt to discern the Way, systematize it, and translate it into Reality.  
 
   
 
@@ -1856,7 +1856,7 @@ Discovering, designing, and building each asset and resource towards its best an
 
   
 
-Lionsberg is a transformational community dedicated to helping you achieve your mission in service of our shared Goals and Values.  
+LIØNSBERG is a transformational community dedicated to helping you achieve your mission in service of our shared Goals and Values.  
 
   
 
@@ -1872,11 +1872,11 @@ The problem is not the lack of resources. It is how they are distributed. to gai
 
   
 
-Who owns Lionsberg? Lionsberg functions more like a nation. Nobody owns it, and we all are citizens and stewards of it. Our governance and distribution of resources operates on the basis of co-stewardship of a Vision, Mission, and Community that is too important and transcendent for any of us to try to own or possess.  
+Who owns LIØNSBERG? LIØNSBERG functions more like a nation. Nobody owns it, and we all are citizens and stewards of it. Our governance and distribution of resources operates on the basis of co-stewardship of a Vision, Mission, and Community that is too important and transcendent for any of us to try to own or possess.  
 
   
 
-Lionsberg operates on a set of basic principles that can read in a minute each, and expanded into short videos and longer training and courses.  
+LIØNSBERG operates on a set of basic principles that can read in a minute each, and expanded into short videos and longer training and courses.  
 
   
 
@@ -1934,11 +1934,11 @@ Financial and non-profit plans, for if we had 1 or 100 billion dollars.
 
   
 
-Lionsberg is just a name, but it is a prototype and harbinger of something far greater that is coming after it. It is a gathering place of Truth, Love, and Justice for all humanity. Where timeless wisdom and cross-cultural shared values cause us to focus on elevating and transforming one another and our world, and co-creating thriving communities for us All to prosper in. Doing this requires an Operating System and a shared set of values that we see lacking in the world. So we are building a prototype, a city on a hill, as a first outpost of hope, that we hope and pray will grow and prosper into a mighty nation.  
+LIØNSBERG is just a name, but it is a prototype and harbinger of something far greater that is coming after it. It is a gathering place of Truth, Love, and Justice for all humanity. Where timeless wisdom and cross-cultural shared values cause us to focus on elevating and transforming one another and our world, and co-creating thriving communities for us All to prosper in. Doing this requires an Operating System and a shared set of values that we see lacking in the world. So we are building a prototype, a city on a hill, as a first outpost of hope, that we hope and pray will grow and prosper into a mighty nation.  
 
   
 
-Lionsberg is like a federation of sovereign city states. It is like an ecosystem of trees, developing into a mighty forest. It is like a reef, in which the substructure makes Way for flourishing, diverse, and abundant life.  
+LIØNSBERG is like a federation of sovereign city states. It is like an ecosystem of trees, developing into a mighty forest. It is like a reef, in which the substructure makes Way for flourishing, diverse, and abundant life.  
 
   
 
@@ -2012,7 +2012,7 @@ Every day your job is to get up and do something that you want to do, that makes
 
   
 
-Rooted in timeless Wisdom and Values, Lionsberg is like a tree we believe has the DNA to grow into an mighty forest, providing a New Ecosystem in which humanity can flourish in harmony with Nature and God.  
+Rooted in timeless Wisdom and Values, LIØNSBERG is like a tree we believe has the DNA to grow into an mighty forest, providing a New Ecosystem in which humanity can flourish in harmony with Nature and God.  
 
   
 
@@ -2314,7 +2314,7 @@ New wine skins. Tenderness.
 
   
 
-The Lionsberg System - is that in each domain, we merge transcendent and timeless Wisdom and Values, with the modern best practices and learnings from human history, and apply it to a continuously improving community within that domain. It is a progressive rather than a fundamental approach, acknowleding timeless wisdom, while understanding that we must build on that timeless wisdom to co-create the best possible future.  
+The LIØNSBERG System - is that in each domain, we merge transcendent and timeless Wisdom and Values, with the modern best practices and learnings from human history, and apply it to a continuously improving community within that domain. It is a progressive rather than a fundamental approach, acknowleding timeless wisdom, while understanding that we must build on that timeless wisdom to co-create the best possible future.  
 
 We are taking timeless wisdom and values, merging them with the wisdom and best practices of humanity to date, and applying it to a growing series of domains as an integrated community.  
 
@@ -2352,7 +2352,7 @@ Why martial arts. We are starting with martial arts for a few reasons.
 
 everyone in the world requires physical exercise, health, and fitness to be healthy and fulfilled.  
 
-The Lionsberg System of Marital Arts is designed to be a lifelong system of spiritual, intellectual, and physical health to facilitate teh growth and discovery and becoming of the best and highest each individual was uniquely created to be. In defining what could become over time a national sport or pass time, martial arts stood out because of its application on many fronts.  
+The LIØNSBERG System of Marital Arts is designed to be a lifelong system of spiritual, intellectual, and physical health to facilitate teh growth and discovery and becoming of the best and highest each individual was uniquely created to be. In defining what could become over time a national sport or pass time, martial arts stood out because of its application on many fronts.  
 
 While exercising we are also building community.  
 
@@ -2401,7 +2401,7 @@ In each domain, we are trying to discern and align as closely as we can with The
 
   
 
-The Lionsberg Incubator and Accelerator - businesses started up based on a Plan from an entrepreneur. Backed with resources and support. Lionsberg has the right to carry it forward. If both parties decide it is not the right fit, entrepreneur has the right to buy out Lionsberg and remove the entity from the federation.  
+The LIØNSBERG Incubator and Accelerator - businesses started up based on a Plan from an entrepreneur. Backed with resources and support. LIØNSBERG has the right to carry it forward. If both parties decide it is not the right fit, entrepreneur has the right to buy out LIØNSBERG and remove the entity from the federation.  
 
   
 
@@ -2863,9 +2863,9 @@ In the same way there are natural laws that govern Creation, there are also deep
 
 The creation of real long term Value for society and the living system through principled behavior is the standard of success. There must be a positive, long term, reciprocal, symbiotic exchange of value between any member of an ecosystem and the Whole in order for it to endure in equilibrium.  
 
-The Lionsberg Way is a complete philosophy, theory, and practice to bring all these elements into harmony.  
+The LIØNSBERG Way is a complete philosophy, theory, and practice to bring all these elements into harmony.  
 
-Lionsberg is a learning laboratory for evaluating these principles, learning how to apply them, observing the results, and continuously improving the science of Wise Right thought / speech / action. The Way is an Art and a Science that encompasses all other art, science, and religion. It is the Absolute objective that philosophy, art, science, governance, economics, culture, society etc. are trying to understand. The reason we call it the Lionsberg System and the Lionsberg Way is to differentiate it from the Absolute, and take responsibility for continuously improving the errors in that separate it from the Absolute Way. The role of every named thing is to progressively realize and conform itself to the Absolute, that must eternally remain transcendent of all named things. Each of our models is a flawed human effort to translate the Absolute into Reality. Each political party, denomination, nation, institution, etc. is flawed in its own right. The Goal is for us All to rally around something Higher than us All in humility, recognizing that our group, like All others, does not have the answer. We are part of a global community pursuing The Answer from The Source of all Wisdom and Truth, recognizing that It is not something to be attained, but something to be eternally pursued.  
+LIØNSBERG is a learning laboratory for evaluating these principles, learning how to apply them, observing the results, and continuously improving the science of Wise Right thought / speech / action. The Way is an Art and a Science that encompasses all other art, science, and religion. It is the Absolute objective that philosophy, art, science, governance, economics, culture, society etc. are trying to understand. The reason we call it the LIØNSBERG System and the LIØNSBERG Way is to differentiate it from the Absolute, and take responsibility for continuously improving the errors in that separate it from the Absolute Way. The role of every named thing is to progressively realize and conform itself to the Absolute, that must eternally remain transcendent of all named things. Each of our models is a flawed human effort to translate the Absolute into Reality. Each political party, denomination, nation, institution, etc. is flawed in its own right. The Goal is for us All to rally around something Higher than us All in humility, recognizing that our group, like All others, does not have the answer. We are part of a global community pursuing The Answer from The Source of all Wisdom and Truth, recognizing that It is not something to be attained, but something to be eternally pursued.  
 
 If we can return to a fuller and more transcendent understanding of the nature of God, we can then start to co-operate in harmony around a shared Intention, Vision, and set of eternal and universal Wisdom, Principles, and Values that we can find at the heart of every genuine tradition.  
 
@@ -2891,11 +2891,11 @@ Partnership issues. Decades long lawsuits. Resulting from not having shared Visi
 
 What happens when a business reaches a point where it is perhaps successful but no longer providing a core capability or a platform for growth?  
 
-Developing systems, technology, and training to ensure every co-worker is capable of committed to carrying out the Lionsberg Way in all areas of the company, including legal, governance, communications, compliance, regulation, and public sector capability.  
+Developing systems, technology, and training to ensure every co-worker is capable of committed to carrying out the LIØNSBERG Way in all areas of the company, including legal, governance, communications, compliance, regulation, and public sector capability.  
 
 Compliance programs for all areas of the organization.  
 
-Every day as we grow and expand our network, we will be generating more opportunities than ever before. Our ability to translate the Lionsberg Way into action at scale and pull opportunities through the organization is what will be our limiting factor of growth - getting people co-operating in the Lionsberg Way at scale.  
+Every day as we grow and expand our network, we will be generating more opportunities than ever before. Our ability to translate the LIØNSBERG Way into action at scale and pull opportunities through the organization is what will be our limiting factor of growth - getting people co-operating in the LIØNSBERG Way at scale.  
 
 We must embrace transformation, change, and creative destruction. Nothing in the universe is static.  
 
@@ -2936,7 +2936,7 @@ Increase Throughput
 
 Systematically articulate the Framework, so that people can integrate philosophy, theory, and practice.  
 
-Training, developing, and elevating the ability of each individual and organization to understand and develop their unique value, and apply the Lionsberg Way in community to progressively realize the best and highest results and potential of the individual, organization, community, society, and living system.  
+Training, developing, and elevating the ability of each individual and organization to understand and develop their unique value, and apply the LIØNSBERG Way in community to progressively realize the best and highest results and potential of the individual, organization, community, society, and living system.  
 
 **The primary need is not more theory. The theory is self-evident. It is the development of PERSONAL KNOWLEDGE of how to APPLY the theory via PRACTICE**.  
 
@@ -2989,7 +2989,7 @@ It could be that in an infinite world, the more precisely we attempt to describe
 
 You cannot fulfill the law of God and serve humanity while your principle focus is making money. Focus on fulfilling the law of God, serving humanity, and establishing the Kingdom of God, and God will provide you with enough. _Seek first the Kingdom of God, and all these things will be added unto you._  
 
-What is the core business of Lionsberg? It is the Kingdom of God. It is the Way. We need to set up a series of industry specific domains, each uniquely focused with its own incubator that brings forth high quality enterprises of that type. We do not want to end up with something where if an individual is not in a particular industry, time, or place (domain), they have to fork and replicate the whole system. The System must function in harmony with the highest level of abstraction, networked across the globe, exchanging, reciprocating, transparently stewarded, just, in an appropriately decentralized yet united Way.  
+What is the core business of LIØNSBERG? It is the Kingdom of God. It is the Way. We need to set up a series of industry specific domains, each uniquely focused with its own incubator that brings forth high quality enterprises of that type. We do not want to end up with something where if an individual is not in a particular industry, time, or place (domain), they have to fork and replicate the whole system. The System must function in harmony with the highest level of abstraction, networked across the globe, exchanging, reciprocating, transparently stewarded, just, in an appropriately decentralized yet united Way.  
 
 First comply, then dialogue to demonstrate alternatives that are more mutually beneficial.  
 
@@ -3061,7 +3061,7 @@ Do the Right Wise thing, at the right time, for the right reasons, in light of t
 Accurately estimate each step, and build contingency in at the end.  
 How do we talk about the end date of a project, when end dates are unknown, and projects historically, due to complexity, tend to run over.  
 
-Lionsberg Agriculture - most people are becoming aware that our [[Food Systems]] globally are becoming hopelessly broken. Large corporations focused on quarterly profit have created marketing machines to push unhealthy processed foods into humanity to enrich their shareholders, while destroying the soil and environment. Lionsberg Agriculture is seeking to develop a mission and values driven agriculture community to develop smart, healthy, high quality foods that are sustainable and regenerative, to ensure that we are optimizing the health and wellbeing of the current generation, while leaving the earth better than we found it for future generations.  
+LIØNSBERG Agriculture - most people are becoming aware that our [[Food Systems]] globally are becoming hopelessly broken. Large corporations focused on quarterly profit have created marketing machines to push unhealthy processed foods into humanity to enrich their shareholders, while destroying the soil and environment. LIØNSBERG Agriculture is seeking to develop a mission and values driven agriculture community to develop smart, healthy, high quality foods that are sustainable and regenerative, to ensure that we are optimizing the health and wellbeing of the current generation, while leaving the earth better than we found it for future generations.  
 
 The Wise seek to understand God, their Selves, Society, and the nameless Way in which humans and society, in partnership with God and Nature, progressively discover and realize their best and highest state through co-creation with God.  
 
@@ -3093,7 +3093,7 @@ Regenerative agriculture - raising funds for acquiring and stewarding high quali
 
 Regenerative and transformational community and economy.  
 
-After decades of life experience and work, both domestically and internationally on charitable causes, a group has come together around a joint strategic plan that has been many years in development. We are calling it the Elevation Initiative, and we are calling the community that will convene its implementation Lionsberg.  
+After decades of life experience and work, both domestically and internationally on charitable causes, a group has come together around a joint strategic plan that has been many years in development. We are calling it the Elevation Initiative, and we are calling the community that will convene its implementation LIØNSBERG.  
 
 Visual - covering the Earth like floodwaters. When the Knowledge of God covers the Earth like floodwaters, then the lion will lie down with the lamb and peace, abundance, and justice will reign. A entirely renewed world is right behind the veil, closer than we could possibly imagine because it is within us. It is the result of human beings progressing in their individual journeys, finding their place in meaningful community, and working together to transform their lives and their world. Rather than fight wars over the definition of God, we are going to focus on going on a Quest to discover the Truth starting with what we can agree on. That there is a Higher Power, and a Higher Meaning to Life. That there is a spiritual element to us that propels us towards unity through Love. And that one of the most important things is to follow that inner spiritual spark. The Truth is never threatened. If we help people discover their spirituality and earnestly navigate towards the Truth, they will find it. We do not have to worry about protecting our understanding of God. If our understanding is closest to Ultimate Reality, people will find it as they search for God.  
 
@@ -3109,20 +3109,20 @@ Over Time we are moving from less integrated to more integrated, from less perfe
 
 The New Generation will be educated in what the best and higest potential is, and equipped and empowered with the specific tools, infrastructure and platform required to co-create it. They will learn to navigate together towards Truth, to discern right and wrong, to make wise right long term choices via the inner compass and external tools we provide for them. This will lead to profoundly different results than what we have got in the past, and in the course of 1 to 2 generations we can significantly transform and regenerate the world.  
 
-A group of people are coming together to build Lionsberg as a prototype to demonstrate what is possible.  
+A group of people are coming together to build LIØNSBERG as a prototype to demonstrate what is possible.  
 
 We are systematically examining every aspect of how the organism that we call society functions, and working to build a prototype of a different one.  
-There are three basic aspects - the lionsberg community, economy, and the elevation initiative.  
+There are three basic aspects - the LIØNSBERG community, economy, and the elevation initiative.  
 The infrastructure, services, support, education, chartiable non-profit activities that are the glue that holds society together.  
 The economy is the means to the end of providing abundant food, resources, meaningful work for a growing community.  
 The Goal is not the maximization of wealth, but creating meaningful work and the necessary resources to advance on our deeper mission of progressively realizing our potential, progressively discovering and becoming the best we can be, progressively realizing the Kingdom of God, on Earth as it is in Heaven.  
 It so happens that there are few more powerful ways to do that through the meaningful work and meaningful relationships we invest in each day.  
-We know that to achieve our best and highest, we must have adequate resources and materials that we secure via the Lionsberg Economy.  
-We know that we must have meaningful relationships and community, adn each be co-operating according to our unique gifts and talents as part of a broader Whole, that we fulfill through the Lionsberg community. And we know that fundamentally our pursuit of Love leads us to lay down our lives in service to God and our fellow humanity.  
+We know that to achieve our best and highest, we must have adequate resources and materials that we secure via the LIØNSBERG Economy.  
+We know that we must have meaningful relationships and community, adn each be co-operating according to our unique gifts and talents as part of a broader Whole, that we fulfill through the LIØNSBERG community. And we know that fundamentally our pursuit of Love leads us to lay down our lives in service to God and our fellow humanity.  
 We do this through the Elevation Initiative, which is our joint strategic plan to help every individual, organization, community, and ecosystem develop towards the fullness of their potential and flourish in diverse harmony.  
 Creating profound transformation in the world within 1 to 2 generations by addressing the root causes rather than the symptoms, and thereby ushering in a more loving, just, peaceful, and good society.  
 
-The Book of Lionsberg documents a little bit about our history, our understanding of this inflection point in history, and our best understanding of the timeless wisdom, princples, and values that we believe are the foundation upon which individuals and societies can rise and flourish. We also believe they are the only way for humanity to survive and thrive through this crucible, which will see humanity undergo changes unlike any that have been experienced in history before us.  
+The Book of LIØNSBERG documents a little bit about our history, our understanding of this inflection point in history, and our best understanding of the timeless wisdom, princples, and values that we believe are the foundation upon which individuals and societies can rise and flourish. We also believe they are the only way for humanity to survive and thrive through this crucible, which will see humanity undergo changes unlike any that have been experienced in history before us.  
 
 Starting today, every moment is urgent. Time is of the essence.  
 We have been equipped for the first time in history with the tools and technology to forge truly collective consciousness and awareness about the issues facing us in the world, and to forge wise solutions to those problems in a way that can transform humanity and the world. Those same tools are also capable of destroying the world, humanity, and our environment at a rate unlike anything we have seen in the past. New nuclear technologies, artificial intelligence, plasma, industrial waste, and our ability to create are unprecedented and approaching nearly divine abilities. We have immense responsibility over how we use these tools, and what we use our co-creative powers to co-create. For this reason we call our selves co-creators, who in partnership with God and One Another have the potential and power to bring into reality any future we can imagine, unite around, and act on.  
@@ -3209,7 +3209,7 @@ There is more than monetary value. The monetary system emerged to support the cr
 Living better and more fulfilling lives does not come primarily through the proliferation of money - it comes primarily through the betterment of society.  
 The betterment of society occurs by progressively bringing it into every greater harmony with and conformity to the Spirit and Intention of God, represented in the timeless wisdom, principles, and values we treasure.  
 
-Lionsberg is setting out to co-create a more accurate Way to measure and allocate Value. The total true Value created for society and the living system, over the long term. For example, we can create economic value by exploiting resources that have no monetary cost, but which deplete the regenerative capacity of the earth and leave it worse for future generations. We can also create economic value by exploiting people and society. Because the damage to people and society is not measured and accounted for, the damaging activity is "profitable". In reality, there is negative Value creation for society as a result of these activities. Measured properly in Kingdom terms, these activities that harm people, society, and the planet are anti-Value, and must be measured and recognized as such.  
+LIØNSBERG is setting out to co-create a more accurate Way to measure and allocate Value. The total true Value created for society and the living system, over the long term. For example, we can create economic value by exploiting resources that have no monetary cost, but which deplete the regenerative capacity of the earth and leave it worse for future generations. We can also create economic value by exploiting people and society. Because the damage to people and society is not measured and accounted for, the damaging activity is "profitable". In reality, there is negative Value creation for society as a result of these activities. Measured properly in Kingdom terms, these activities that harm people, society, and the planet are anti-Value, and must be measured and recognized as such.  
 
 Coming up with a Way to measure Kingdom Value, that operates for a period of time alongside our Old measures of economic value, so we have a more wise and balanced approach to the accurate co-creation, measurement, and exchange of Value.  
 
@@ -3318,7 +3318,7 @@ The reinforcing cycles between elevating and transforming our Selves and our Wor
 
 Each day the child grows in strength, capability, and talent, so they can render better service to God and All Creation that surrounds them. A baby channeling joy into the world. A 2 year picking up a spider and walking it outside. The unique gifts and skills of each child. Growing and abounding, destined for free and joyful service to God, Society, and All Creation, not corporate wage slavery.  
 
-When non-profit money flows into Lionsberg, there are two choices. One is to immediately channel it to non-profit causes, and thereby disperse it. The other is to wisely leverage it to fuel the growth of the Lionsberg Regenerative Economy, the growth of which strengthens the body for greater and more capable multi-generational service to God and society. This compounds the returns to the community over many years. Create mathematical and visual illustrations of the two courses of action.  
+When non-profit money flows into LIØNSBERG, there are two choices. One is to immediately channel it to non-profit causes, and thereby disperse it. The other is to wisely leverage it to fuel the growth of the LIØNSBERG Regenerative Economy, the growth of which strengthens the body for greater and more capable multi-generational service to God and society. This compounds the returns to the community over many years. Create mathematical and visual illustrations of the two courses of action.  
 
 The strength is that we are a coordinated body with diverse gifts and skills sets in a variety of areas, co-operating across a variety of for-profit and non-profit domains.  
 
@@ -3335,11 +3335,11 @@ A key aspect that drives is the creation of self-sustaining and self-replicating
 _____  
 (New Daw) brings in donations to catalyze economic development in a region around education, healthcare, vocational training, and basic infrastructure like water, sanitation, and clean energy.  
 
-We then use proven economic community development principles and models to develop follow-on construction, business, and other economic activity within the Lionsberg System.  
+We then use proven economic community development principles and models to develop follow-on construction, business, and other economic activity within the LIØNSBERG System.  
 
 These profits are in turn shared with those creating them, and reinvested to start the subsequent community.  
 
-The transformational individuals, organizations, and communities formed become part of the growing network effects of the international Lionsberg Community.  
+The transformational individuals, organizations, and communities formed become part of the growing network effects of the international LIØNSBERG Community.  
 ____  
 First Fridays - Dinner Series - video shown giving a monthly update, posted online with hosting toolkits so that anyone can host a dinner, show the video, field questions, and pull from and feed into FAQs.  
 
@@ -3399,7 +3399,7 @@ We are therefore setting out to create a more accurate System for allocating Val
 
 For instance, we can create false economic value by exploiting resources that have no cost in the market, but which leave the earth depleted for future generations.  
 
-The social and ecological damage of such activities far outweighs the measurable Economic Value rewarded by the Markets, therefore there is not only no True Value Creation, but in fact Negative Value Creation for Society and the Planet. In a [[Lionsberg System of Value]] where costs cannot be externalized across [[SpatioTemporal]] boundaries, these would be negative on the Balanced Statement of Profit and Loss.  
+The social and ecological damage of such activities far outweighs the measurable Economic Value rewarded by the Markets, therefore there is not only no True Value Creation, but in fact Negative Value Creation for Society and the Planet. In a [[LIØNSBERG System of Value]] where costs cannot be externalized across [[SpatioTemporal]] boundaries, these would be negative on the Balanced Statement of Profit and Loss.  
 
 By coming up with a Way to measure Social and Ecological Value that can operate in parallel with the way we measure Economic Value, we could have a more wise and balanced approach to creating the Value we truly seek; therefore aligning the co-creation of Economic Value with the Higher Goal of Co-Creation a flourishing and functioning Society and Planet that continues to get a little better ever day in service of One and All.  
 ___  
@@ -3618,25 +3618,25 @@ When non-profit money flows, there are three basic options:
 
 1. Channel it to individual organizations or causes, thereby dispersing it. 
 2. Channel it into the sectoral impact funds     
-3. Invest in the growth and sustainability of the Lionsberg Regenerative Economy (or better), compounding returns to Society over many years and creating sustained action in pursuit of shared Goals and Values  
+3. Invest in the growth and sustainability of the LIØNSBERG Regenerative Economy (or better), compounding returns to Society over many years and creating sustained action in pursuit of shared Goals and Values  
 
 Here is the net return on investment for each of the courses of action.  
 ____  
-The strength of Lionsberg is that it is a coordinated body of individuals, organizations and communities with diverse skill sets in many areas, acting in unison as a coordinated body touching all domains of Society and the Living System.  
+The strength of LIØNSBERG is that it is a coordinated body of individuals, organizations and communities with diverse skill sets in many areas, acting in unison as a coordinated body touching all domains of Society and the Living System.  
 ___  
 We value our for-profit and non-profit flows on a basis of 7x, giving us a comparative measure to the markets, and serving as a starting point for conversations with the institutions of the Old World.  
 ____  
-The Great Game of Lionsberg  
+The Great Game of LIØNSBERG  
 ___  
-Lionsberg is a guided Open Source System for individual, local, and global transformation. Its creators have given it away as a gift to humanity, the Creator, and All Creation, with the seeds of the New World embedded within it.  
+LIØNSBERG is a guided Open Source System for individual, local, and global transformation. Its creators have given it away as a gift to humanity, the Creator, and All Creation, with the seeds of the New World embedded within it.  
 ___  
 I have decided to lay down my life and all my creation for the sake of humanity and All Creation.  
 ___  
-Lionsberg is like a Society of Explorers - navigating towards Wisdom , Truth, and The Goal.  
+LIØNSBERG is like a Society of Explorers - navigating towards Wisdom , Truth, and The Goal.  
 ___  
-Lionsberg is like small Seed, that contains the DNA to grow into a Mighty Forest.  
+LIØNSBERG is like small Seed, that contains the DNA to grow into a Mighty Forest.  
 ___  
-Lionsberg is like a vine, growing across the Earth and establishing new and unique root structures in each locality it touches, each bearing uniquely Good Fruit. If even one small node remains, though the rest of the structure be destroyed, the Whole can always reemerge.  
+LIØNSBERG is like a vine, growing across the Earth and establishing new and unique root structures in each locality it touches, each bearing uniquely Good Fruit. If even one small node remains, though the rest of the structure be destroyed, the Whole can always reemerge.  
 ___  
 As people use the internet to find things, search results about self-aggrandizing people and companies get pushed further and further down. Interlinked ecosystems in which the Participants talk with and about One Another become more and more valuable. It is the interlinking, networking and synergy that unleashes the Network Effects.  
 ___  
@@ -3757,7 +3757,7 @@ Just as we do customer service, so too should we establish service, accountabili
 Becoming the preferred (Platform) for Collaboration.  
 
 ___  
-Lionsberg is about discovering and Progressively Realizing our best and highest potential at every level of individual, family, and community Life.  
+LIØNSBERG is about discovering and Progressively Realizing our best and highest potential at every level of individual, family, and community Life.  
 ___  
 Business and Economy should be built in service to people, communities, and the environment.  
 
@@ -3824,7 +3824,7 @@ We have in kind services, in kind products, relationships, and reosurces / money
 
 Our pitch, to those who hold these types of resources, will need to be clear.  
 
-We have a simple goal for the program in the next phase - which is to the to develop 1. The Lionsberg Intrapreneur Program, and 2. The Lionsberg Elevation Initiative.  
+We have a simple goal for the program in the next phase - which is to the to develop 1. The LIØNSBERG Intrapreneur Program, and 2. The LIØNSBERG Elevation Initiative.  
 
 Here is what the [[Values]] are.  
 
@@ -3840,7 +3840,7 @@ We can get
 
 As we said with Mergers and Acquisitions - there is no shortage of money in the world. There is a shortage of good deals, and entrepreneurial operators to actualize them.  
 
-If we are raising money from business sources and people who "get it" - we can say - we need to train, develop, and launch the Lionsberg Intrapreneur cadre of people across the world - and here is how we are going to do it.  
+If we are raising money from business sources and people who "get it" - we can say - we need to train, develop, and launch the LIØNSBERG Intrapreneur cadre of people across the world - and here is how we are going to do it.  
 
 More attractive than something more vague and abstract...  
 
@@ -3850,9 +3850,9 @@ Coupled with genuine Story.
 
 Part of the story - I was in Kenya... I was in Asia. I was in South America...  I met with the following people... here they are... names and faces... compelling stories...  
 
-All Lionsberg intrapreneur candidates - we could almost treat it as if it were scholarships, or fellowships.  
+All LIØNSBERG intrapreneur candidates - we could almost treat it as if it were scholarships, or fellowships.  
 
-We are building a System to support a school for transformational intrapreneurship - and paying the tuition for the students to help train them and launch their businesses - and become part of the self-sustaining and self-replicating Lionsberg Community.  
+We are building a System to support a school for transformational intrapreneurship - and paying the tuition for the students to help train them and launch their businesses - and become part of the self-sustaining and self-replicating LIØNSBERG Community.  
 
 For example - non-profit marketing people find they can attract donor money by having people attach a face to the donation - specific stories. Sponsor Rose... not sponsor "a child" in the abstract.  
 
@@ -3860,7 +3860,7 @@ We may not want to do it so literally... However we can replicate the success co
 
 When you put money into the System - you are helping us build this cadre of Leaders around the world... such as x, y, and z.  
 
-When someone does business with the Lionsberg company - part of that money goes to support the continual expansion of this cadre of Lionsberg Intrapreneurs and businesses.  
+When someone does business with the LIØNSBERG company - part of that money goes to support the continual expansion of this cadre of LIØNSBERG Intrapreneurs and businesses.  
 
 And they can help shape the expansion - Would you like to have it go to Healthcare, Agriculture, Logistics, Kenya?  
 
@@ -3880,7 +3880,7 @@ From the standpoint of attracting people to support financially and get involved
 
 We have to forge the Starting Point - that aggregates the Committed Individuals and Resources.  
 
-The FOCUS - is that one of the fungible dimensions of the Story - is to FOCUS it in on the Lionsberg Entrepreneurs - you have done the analysis - you know what the needs are - you are vetting the intrapreneurs - they know what the Values are - they are committed to Justice not Charity - they are committed to Self Realization - Self Sustaining - Self Replicating - holding to these Values...  
+The FOCUS - is that one of the fungible dimensions of the Story - is to FOCUS it in on the LIØNSBERG Entrepreneurs - you have done the analysis - you know what the needs are - you are vetting the intrapreneurs - they know what the Values are - they are committed to Justice not Charity - they are committed to Self Realization - Self Sustaining - Self Replicating - holding to these Values...  
 
 Creates the compelling Story that people can get behind.  
 
@@ -3888,13 +3888,13 @@ That is the Economic Side.
 
 Then there is the other side - which is the other 85% of the world - that is inviting all people everywhere to set their feet on the path of the Elevation Initiative. A massive number of people want to do that.  
 
-And as they are transformed they will likely have opportunities for meaningful work and relationships via the businesses and initiatives the Lionsberg Intrapreneurs are originating.  
+And as they are transformed they will likely have opportunities for meaningful work and relationships via the businesses and initiatives the LIØNSBERG Intrapreneurs are originating.  
 
-The broad path is parallel to and separate from - the more rigorous track for the Lionsberg Intrapreneurs.  
+The broad path is parallel to and separate from - the more rigorous track for the LIØNSBERG Intrapreneurs.  
 
 So we have the two things moving in parallel - both transparent - both fungible -  
-1. Provide some support - to use the money to leverage - supporting and developing the Lionsberg Intrapreneurs 
-2. Come on down and join in the Lionsberg Elevation Initiative your Self 
+1. Provide some support - to use the money to leverage - supporting and developing the LIØNSBERG Intrapreneurs 
+2. Come on down and join in the LIØNSBERG Elevation Initiative your Self 
 
 Invest in your own personal transformation - for your Self and the world around you - even your family.  
 
@@ -3912,13 +3912,13 @@ If you offer those two things to the world, we may get a very warm response.
 ___  
 If New Dawn Schools are part of this community...  
 
-A New Dawn School is a Lionsberg Intrapreneur venture - if they are not run by, producing, and surrounded by Lionsberg Intrapreneurs they are not going to work...  
+A New Dawn School is a LIØNSBERG Intrapreneur venture - if they are not run by, producing, and surrounded by LIØNSBERG Intrapreneurs they are not going to work...  
 
-We have an educational division, agriculture, education, healthcare, logistics... Lionsberg Intrapreneurs leading New Dawn Schools - and because we are doing economic development connected to the schools - we have other Lionsberg Intrapreneurs coming out of those schools and working with those schools to develop businesses around them, and contributing money back to support - replicating more schools and intrapreneurs...  
+We have an educational division, agriculture, education, healthcare, logistics... LIØNSBERG Intrapreneurs leading New Dawn Schools - and because we are doing economic development connected to the schools - we have other LIØNSBERG Intrapreneurs coming out of those schools and working with those schools to develop businesses around them, and contributing money back to support - replicating more schools and intrapreneurs...  
 
 Then people can understand how it works - how the pieces fit together.  
 
-And all of those Intrapreneurs and Collaborators in the businesses - all members of the Lionsberg Community - and all with their feet on the path of the Lionsberg Elevation Initiative.  
+And all of those Intrapreneurs and Collaborators in the businesses - all members of the LIØNSBERG Community - and all with their feet on the path of the LIØNSBERG Elevation Initiative.  
 
 Brings disparate pieces into a communicable structure that people can understand.  
 
@@ -3926,25 +3926,25 @@ Standing in front of potential donor / investors / crowd funders ... what are yo
 
 This is what it is... two dimensions...  
 
-Lionsberg Intrapreneurs - 15% of the population really cut out to lead businesses - and by building businesses and growing them over time... in a Mondragon like federation - hope that someday reach the point we have multi-billion dollar businesses operating in these countries - turning the economies of these countries upside down - reversing the pyramid - elevating people out of the bottom up to the top - and someday if we were really successful in Kenya - we would have a reverse pyramid - very few at the bottom and a lot at the top...  
+LIØNSBERG Intrapreneurs - 15% of the population really cut out to lead businesses - and by building businesses and growing them over time... in a Mondragon like federation - hope that someday reach the point we have multi-billion dollar businesses operating in these countries - turning the economies of these countries upside down - reversing the pyramid - elevating people out of the bottom up to the top - and someday if we were really successful in Kenya - we would have a reverse pyramid - very few at the bottom and a lot at the top...  
 
 At the same time - we are doing the elevation initiative for everyone - not just intrapreneurs - to come and work on their own personal transformation towards their best and highest potential, whatever that might be.  
 
 And here is what constitutes that...  
 
-All these things are designed to become self-sustaining and self-replicating - none of these designed to be permanently dependent or subsidized - Lionsberg is not based on that... Not based on charity - but Justice - that demands a self-sufficient, self-replicating model.  
+All these things are designed to become self-sustaining and self-replicating - none of these designed to be permanently dependent or subsidized - LIØNSBERG is not based on that... Not based on charity - but Justice - that demands a self-sufficient, self-replicating model.  
 
 What we need is capital and resources for priming the pump to help get these intrapreneurs and social communities off the ground.  
 
 To get the Elevation Initiative assembled and made available to a large number of people across the technological platform that is state of the art...  
 
-We have two schools - a school for Lionsberg Intrapreneurs - and another Elevation Initiative personal transformation school for everyone to be involved...  
+We have two schools - a school for LIØNSBERG Intrapreneurs - and another Elevation Initiative personal transformation school for everyone to be involved...  
 
 They both have shared values, but distinct curricula. The technological content is a bit different.  
 
 Then peer groups...  
 
-We are trying to transform and support everyone on their collective journey... and transform and support Lionsberg Intrapreneurs as part of that Community to build the leadership and Lionsberg Economic System.  
+We are trying to transform and support everyone on their collective journey... and transform and support LIØNSBERG Intrapreneurs as part of that Community to build the leadership and LIØNSBERG Economic System.  
 
 Clear and compelling story...  
 
@@ -3979,9 +3979,9 @@ We perpetually Narrate the world around us, fitting it within the beliefs, perce
 ___  
 Our current legal system is built largely around protecting the rights of equity and property holders. While this has been important to the cause of Freedom and preventing government overreach, the world has awakened to the fact that tolerating the exercise of Rights at the expense of other people, Society, or the Living System is not healthy, sustainable, wise, right, or good.  
 
-The Lionsberg Economy replaces the sole metric of shareholder profit with a holistic basket of metrics that fundamentally redefine the Way that Value is measured.  
+The LIØNSBERG Economy replaces the sole metric of shareholder profit with a holistic basket of metrics that fundamentally redefine the Way that Value is measured.  
 ___  
-Lionsberg was born out of the simple and profound observation that the world was not operating in accordance with the Wisdom, Principles, and Values found at the heart of nearly all cultures and wisdom traditions.  
+LIØNSBERG was born out of the simple and profound observation that the world was not operating in accordance with the Wisdom, Principles, and Values found at the heart of nearly all cultures and wisdom traditions.  
 
 Rather than accept and conform to this subpar Reality...  
 
@@ -4048,7 +4048,7 @@ At the core - perhaps it is about Identity.
 
 When I come to Know Who We are, detached from the past forms, hurts, and egoic layers, then we find Freedom and Power in Unity with our Creator.  
 ____  
-Lionsberg is our humble attempt to distill the Timeless Wisdom, Principles, and Values that God has revealed through cultures and traditions around the world, and to apply those to a wise and transcendent New Operating System for humanity, beyond the current corporate and national systems.  
+LIØNSBERG is our humble attempt to distill the Timeless Wisdom, Principles, and Values that God has revealed through cultures and traditions around the world, and to apply those to a wise and transcendent New Operating System for humanity, beyond the current corporate and national systems.  
 ____  
 Transcending religion, ideology and culture are universal and eternal laws that govern the world, revealed by the Spirit of God to All who listen and obey.  
 ___  
@@ -4123,7 +4123,7 @@ Founded on the Rock of the the Kingdom of God - enabling people to live lives of
 ___  
 Rather than blindly accepting the status quo of broken and corrupt systems and institutions, we are prayerfully conceptualizing a different and higher Reality, and then partnering with God and One Another to translate that Higher Reality into our Reality.  
 ___  
-We are flawed. Lionsberg is flawed. However we are attempting to take a substantial step forward from the existing systems and institutions.  
+We are flawed. LIØNSBERG is flawed. However we are attempting to take a substantial step forward from the existing systems and institutions.  
 Were this system to be implemented at global scale, it would be absolutely transformational.  
 ___  
 A System, a Community, a Philosophy, and a Way of life aimed at the total transformation of our Lives and our World.  
@@ -4165,13 +4165,13 @@ If we take capital and make that the ruler and organizing system, we will fail.
 If we take the state and make that the ruler and organizing system, we will fail.  
 
 ____  
-Organizations with Lionsberg are voluntary associations of business and non-profit entities of all types, stewarded in trust for the multi-generational benefit of humanity and the Living System.  
+Organizations with LIØNSBERG are voluntary associations of business and non-profit entities of all types, stewarded in trust for the multi-generational benefit of humanity and the Living System.  
 ___  
 Organizations must succeed on their own merits, and become self-sustaining and self-replicating.  
 ___  
 Saying - Your system is perfectly designed to get the result you are getting.  
 
-Lionsberg is a New System designed to get a New Result.  
+LIØNSBERG is a New System designed to get a New Result.  
 
 The Result we want is the Kingdom of God, on Earth as it is in Heaven.  
 

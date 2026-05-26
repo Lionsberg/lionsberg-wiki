@@ -8,6 +8,6 @@ It is the job of the [[Whole]] to build the [[Infrastructure]] and ladders, and 
 
 A lifelong process of learning and development, addressing all spiritual, intellectual, and physical components of the Whole Individual, organization, and community must therefore be at the core of the System.
 
-This function is provisionally called the Lionsberg | [[Elevation Initiative]]. 
+This function is provisionally called the LIØNSBERG | [[Elevation Initiative]]. 
 
 For many, this process of learning will require un-learning / de-programming from the [[Old]] system, culture, and contexts in which they were raised and trained.

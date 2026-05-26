@@ -1,6 +1,6 @@
 # Domains of Responsibility and Authority
 
-In the context of the Lionsberg System, Domains of Responsibility and Authority represent the various aspects of individual, community and societal functioning that require active stewardship, organization, and governance. 
+In the context of the LIØNSBERG System, Domains of Responsibility and Authority represent the various aspects of individual, community and societal functioning that require active stewardship, organization, and governance. 
 
 The idea behind these domains is to ensure that every aspect of life and society is properly governed and stewarded, and that responsibilities and authorities are clearly defined throughout the Whole. 
 
@@ -15,25 +15,25 @@ The domains are designed to be interdependent aspects of One Body or Whole, with
 
 From a functional perspective, domains of responsibility and authority include but not limited to:
 
-1.  **Governance:** This domain involves the creation and enforcement of rules, regulations, and policies to ensure the smooth functioning of Lionsberg, as well as navigation of each Domain and the Whole towards its Goals and Values. It includes areas like community leadership, discernment, dispute resolution, and policy development.
+1.  **Governance:** This domain involves the creation and enforcement of rules, regulations, and policies to ensure the smooth functioning of LIØNSBERG, as well as navigation of each Domain and the Whole towards its Goals and Values. It includes areas like community leadership, discernment, dispute resolution, and policy development.
     
 2.  **Education:** The education domain is responsible for facilitating learning opportunities for all members of the community, fostering a culture of continuous growth and development.
     
 3.  **Health & Wellness:** This domain focuses on maintaining and improving the physical, mental, and emotional health of the community members. This includes healthcare services, wellness programs, and initiatives promoting regenerative lifestyles.
     
-4.  **Environment & Regenerativity:** This domain is responsible for stewarding Lionsberg's natural environment, promoting practices that are sustainable and regenerative.
+4.  **Environment & Regenerativity:** This domain is responsible for stewarding LIØNSBERG's natural environment, promoting practices that are sustainable and regenerative.
     
-5.  **Economic Development:** This domain oversees the economic activities within Lionsberg and the procure, use, and alignment of resources, working towards a balanced and prosperous economy that benefits all members.
+5.  **Economic Development:** This domain oversees the economic activities within LIØNSBERG and the procure, use, and alignment of resources, working towards a balanced and prosperous economy that benefits all members.
     
 6.  **Culture & Arts:** This domain nurtures the cultural life and artistic expression within the community, celebrating diversity and fostering creativity.
     
-7.  **Science & Technology:** This domain is responsible for promoting scientific research and technological innovation that aligns with the values and goals of Lionsberg.
+7.  **Science & Technology:** This domain is responsible for promoting scientific research and technological innovation that aligns with the values and goals of LIØNSBERG.
     
 8.  **Spirituality & Ethics:** This domain guides the community's spiritual growth and ethical behavior, fostering a deep connection with the Creator and a strong moral compass.
     
 9. **Meaningful Relationships and Community**: This domain guides the formation, growth and strengthening of meaningful relational bonds, cultivating a deep sense of belonging and community. 
 
-Each of these domains operates under the overarching philosophy and principles of Lionsberg, working in harmony to create a balanced, thriving community.
+Each of these domains operates under the overarching philosophy and principles of LIØNSBERG, working in harmony to create a balanced, thriving community.
 
 ## Integration Domains 
 
@@ -75,7 +75,7 @@ Leaders within each domain are responsible for:
     
 4.  **Communication:** Keeping the community informed about their domain's activities, progress, and plans.
     
-5.  **Collaboration:** Working in partnership with leaders from other domains to ensure integrated and coordinated efforts across Lionsberg.
+5.  **Collaboration:** Working in partnership with leaders from other domains to ensure integrated and coordinated efforts across LIØNSBERG.
 
 
 ## Formation From The Bottom Up
@@ -88,13 +88,13 @@ Domains can only emerge and co-create themselves through the [[Voluntary Consent
 
 ## Authority
 
-The authority within each domain is exercised in a way that aligns with Lionsberg's values of mutual respect, cooperation, and servant leadership. Leaders are granted the necessary authority to guide their domains effectively, but this authority is always exercised with a deep sense of responsibility and accountability to the community. Decision-making within each domain is participatory, involving community members in ways that are appropriate, generative, and feasible.
+The authority within each domain is exercised in a way that aligns with LIØNSBERG's values of mutual respect, cooperation, and servant leadership. Leaders are granted the necessary authority to guide their domains effectively, but this authority is always exercised with a deep sense of responsibility and accountability to the community. Decision-making within each domain is participatory, involving community members in ways that are appropriate, generative, and feasible.
 
 
 ## Fields of Agreement 
 
-Each domain is governed by an implicit or explicit [[Field of Agreements]]. Lionsberg encourages participants in each domain to make their Agreements more conscious and explicit, so that they can be evaluated, consciously consented to, and continuously improved. 
+Each domain is governed by an implicit or explicit [[Field of Agreements]]. LIØNSBERG encourages participants in each domain to make their Agreements more conscious and explicit, so that they can be evaluated, consciously consented to, and continuously improved. 
 
 ## Conclusion
 
-The Domains of Responsibility and Authority are a key component of Lionsberg's governance structure. They ensure that all aspects of community life are attended to and that the community functions in a harmonious and integrated way. Each domain, while having its unique focus, works towards the common goal of manifesting a new era of covenant relationship between the Creator and all creation, and regenerated, renewed, and restored world. 
+The Domains of Responsibility and Authority are a key component of LIØNSBERG's governance structure. They ensure that all aspects of community life are attended to and that the community functions in a harmonious and integrated way. Each domain, while having its unique focus, works towards the common goal of manifesting a new era of covenant relationship between the Creator and all creation, and regenerated, renewed, and restored world. 

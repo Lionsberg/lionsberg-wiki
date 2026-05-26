@@ -6,6 +6,6 @@ In essence, it is a vision and plan for [[Heaven On Earth]].
 
 To explore aspects of the New Vision and Plan in more detail, see: 
 
-- The [[Lionsberg Wiki Books]]  
+- The [[LIØNSBERG Wiki Books]]  
 - The [[Above The Chaos]] series  
 - [[The LIØNSBERG Strategy and Plan]]  

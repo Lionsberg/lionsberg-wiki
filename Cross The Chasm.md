@@ -1,6 +1,6 @@
 # Cross The Chasm
 
-The Chasm is a powerful metaphor in the Lionsberg System, representing the divide between our present state and our ideal future. Bridging this gap requires a deep understanding of the challenges we face and the values that will guide us on our journey towards transformation and growth. 
+The Chasm is a powerful metaphor in the LIØNSBERG System, representing the divide between our present state and our ideal future. Bridging this gap requires a deep understanding of the challenges we face and the values that will guide us on our journey towards transformation and growth. 
 
 This gap is defined by [[Where We Are]] and [[Where We Are Going]], and [[Who We Are]] and [[Who We Are Becoming]]. 
 

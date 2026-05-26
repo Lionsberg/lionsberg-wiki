@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, ethics, negative-axis, foundational]
-source: Phase 2.1 audit of A 200 Page Book + The Lionsberg Meta Guide
+source: Phase 2.1 audit of A 200 Page Book + The LIØNSBERG Meta Guide
 captured: 2026-05-18
 ---
 

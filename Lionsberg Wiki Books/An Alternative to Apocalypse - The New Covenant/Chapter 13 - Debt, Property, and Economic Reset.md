@@ -63,4 +63,4 @@ ___
 Forward to [[Chapter 14 - Co-Creating the Conditions for a New Era]]  
 Back to [[Chapter 12 - The Concept of Jubilee - A Radical Vision of a World Renewed]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

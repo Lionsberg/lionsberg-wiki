@@ -76,40 +76,40 @@ Investing in this network presents a unique opportunity to contribute to a parad
 
 **Join us in building a federated network for global transformation – a network that empowers communities, fosters collaboration, and co-creates a future where all life thrives.**
 
-## Appendix: The Lionsberg System - A Purpose-Built Engine for Global Transformation
+## Appendix: The LIØNSBERG System - A Purpose-Built Engine for Global Transformation
 
-The vision outlined in this white paper is not merely an aspirational dream; it is a carefully planned initiative bringing together lifetimes of work into a robust system designed to bring it to fruition. For the past seven years, a dedicated team has been developing the Lionsberg System – a comprehensive framework, operating system, and approach explicitly designed to empower humanity to realize the [[New Vision and Plan]] and regenerate society and the planet within a single generation, starting with the 10 Year Grand Strategy. 
+The vision outlined in this white paper is not merely an aspirational dream; it is a carefully planned initiative bringing together lifetimes of work into a robust system designed to bring it to fruition. For the past seven years, a dedicated team has been developing the LIØNSBERG System – a comprehensive framework, operating system, and approach explicitly designed to empower humanity to realize the [[New Vision and Plan]] and regenerate society and the planet within a single generation, starting with the 10 Year Grand Strategy. 
 
-**The Genesis of the Lionsberg System:**
+**The Genesis of the LIØNSBERG System:**
 
-Recognizing the limitations of existing systems in addressing the complex challenges facing humanity, the Lionsberg System was conceived as a new paradigm and new operating system for humanity – a decentralized, collaborative, and regenerative approach to socioeconomic organization, human and planetary flourishing, and collective governance and decision making. Inspired by successful models like Mondragon, the system draws upon principles of local self-governance, shared ownership, socioeconomic justice, ecological and social regenerativity, and multi-generational stewardship.
+Recognizing the limitations of existing systems in addressing the complex challenges facing humanity, the LIØNSBERG System was conceived as a new paradigm and new operating system for humanity – a decentralized, collaborative, and regenerative approach to socioeconomic organization, human and planetary flourishing, and collective governance and decision making. Inspired by successful models like Mondragon, the system draws upon principles of local self-governance, shared ownership, socioeconomic justice, ecological and social regenerativity, and multi-generational stewardship.
 
-**Key Elements of the Lionsberg System:**
+**Key Elements of the LIØNSBERG System:**
 
-1. **Lionsberg Manifesto and Constitution:** These foundational documents articulate thecore values and principles that guide the system, emphasizing omniconsideration, cooperation, and co-creation.
+1. **LIØNSBERG Manifesto and Constitution:** These foundational documents articulate thecore values and principles that guide the system, emphasizing omniconsideration, cooperation, and co-creation.
     
-2. **Lionsberg Wiki Books:** This open-source knowledge repository provides a comprehensive guide to the system's principles, structures, values, and implementation strategies.
+2. **LIØNSBERG Wiki Books:** This open-source knowledge repository provides a comprehensive guide to the system's principles, structures, values, and implementation strategies.
     
 3. **Federated Implementation Hubs:** A growing network of Georegional, Bioregional, Local, and Community Instantiation Hubs serves as catalysts for local development, offering training, resources, tools, coaching, and support to communities building their own local federations. 
     
 4. **Fractal Commonsing:** The system's fractal structure enables the creation of nested commons at various scales, fostering local autonomy while enabling voluntary collaboration and resource and knowledge sharing across regions and globally.
     
-5. **Technological Infrastructure:** The Lionsberg System recognizes the importance of a robust technological backbone and promotes the development of guided open-source platforms and tools for communication, collaboration, and data exchange.
+5. **Technological Infrastructure:** The LIØNSBERG System recognizes the importance of a robust technological backbone and promotes the development of guided open-source platforms and tools for communication, collaboration, and data exchange.
     
 
 **Enabling the 10-Year Grand Strategy:**
 
-The Lionsberg System is specifically designed to facilitate the rapid and simultaneous emergence of thousands of local federations within a decade:
+The LIØNSBERG System is specifically designed to facilitate the rapid and simultaneous emergence of thousands of local federations within a decade:
 
 - **Open-Source Resources and Knowledge Sharing:** The system provides readily available tools and resources for communities to learn, adapt, and implement the system and model in their own social, cultural, and ecological context.
     
-- **Community Building and Networking:** The Lionsberg System fosters connections between individuals and groups, creating a global community of support, collaboration, and right relationship.
+- **Community Building and Networking:** The LIØNSBERG System fosters connections between individuals and groups, creating a global community of support, collaboration, and right relationship.
     
 - **Scalability and Interoperability:** The system's modular design allows for easy replication and adaptation, while its emphasis on shared principles and open standards ensures interoperability between local federations.
     
-- **Holistic Approach:** By addressing all pillars of society – economic, social, cultural, environmental, governmental, and spiritual – the Lionsberg System provides a comprehensive framework for co-creating a flourishing and regenerative future. 
+- **Holistic Approach:** By addressing all pillars of society – economic, social, cultural, environmental, governmental, and spiritual – the LIØNSBERG System provides a comprehensive framework for co-creating a flourishing and regenerative future. 
     
 
 **A New Operating System for Humanity's Future:**
 
-The Lionsberg System represents a significant step towards realizing the vision of a globally interconnected network of responsible, harmonious self-governing and empowered communities. By providing a practical framework and operating system, it empowers humanity to co-create a future that is just and regenerative for all. This is not just a vision; it is a carefully planned regeneration of society and our planet, with a purpose-built engine to drive its manifestation.
+The LIØNSBERG System represents a significant step towards realizing the vision of a globally interconnected network of responsible, harmonious self-governing and empowered communities. By providing a practical framework and operating system, it empowers humanity to co-create a future that is just and regenerative for all. This is not just a vision; it is a carefully planned regeneration of society and our planet, with a purpose-built engine to drive its manifestation.

@@ -22,11 +22,11 @@ In general, Groups:
 - Have [[Links]] to other [[Groups]] that produce energy and information flow, and alignment.   
 
 ___
-## Snapshot of Lionsberg | Meta Project Groups
+## Snapshot of LIØNSBERG | Meta Project Groups
 
 To date, people have expressed interest in the following groups, which may emerge as resources, time, and attention are available to devote to them. 
 
-[Catalist Meta Project Groups Page](https://www.catalist.network/group-public/lionsberg-meta-project?tab=Groups) (catalist.network) 
+[Catalist Meta Project Groups Page](https://www.catalist.network/group-public/LIØNSBERG-meta-project?tab=Groups) (catalist.network) 
 
 [[Architect Working Group]]  
 [[Bootstrap Funding]]  
@@ -47,7 +47,7 @@ To date, people have expressed interest in the following groups, which may emerg
 [[Tech Working Group]]  
 [[Wiki Gardening]]  
 
-List of potential Meta Project groups from Catalist (click share arrow on [Overview](https://www.catalist.network/group/lionsberg-meta-project?tab=Overview) to get current list):
+List of potential Meta Project groups from Catalist (click share arrow on [Overview](https://www.catalist.network/group/LIØNSBERG-meta-project?tab=Overview) to get current list):
 
 Branding and Messaging  
 Call Artifacts Publishing  

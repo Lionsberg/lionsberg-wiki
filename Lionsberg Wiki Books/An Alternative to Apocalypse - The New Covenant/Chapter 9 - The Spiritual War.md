@@ -48,4 +48,4 @@ ___
 Forward to [[Chapter 10 - Building Bridges and Alliances]]  
 Back to [[Chapter 8 - Becoming One Citizenship Under God]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

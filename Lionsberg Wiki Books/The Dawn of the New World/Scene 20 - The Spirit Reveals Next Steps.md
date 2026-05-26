@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 21 - An Intruder in the Secret Place]]  
 Back to: [[Scene 19 - The Escape]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

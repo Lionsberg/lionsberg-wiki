@@ -3,11 +3,11 @@ _AI generated in dialogue with humans. Not fully reviewed._
 
 ## Purpose
 
-This is an ongoing maintenance project to identify and fix broken wiki links throughout the Lionsberg Wiki. The work will be done incrementally, a bit at a time, as part of regular wiki maintenance.
+This is an ongoing maintenance project to identify and fix broken wiki links throughout the LIØNSBERG Wiki. The work will be done incrementally, a bit at a time, as part of regular wiki maintenance.
 
 ## Context
 
-The Lionsberg Wiki contains thousands of markdown files with extensive cross-linking using Obsidian's `[[double bracket]]` link syntax. Over time, as pages are moved, renamed, or deleted, links can break. Additionally, there are "incipient links" - intentional placeholders linking to pages that don't exist yet but should.
+The LIØNSBERG Wiki contains thousands of markdown files with extensive cross-linking using Obsidian's `[[double bracket]]` link syntax. Over time, as pages are moved, renamed, or deleted, links can break. Additionally, there are "incipient links" - intentional placeholders linking to pages that don't exist yet but should.
 
 ## Project Goals
 

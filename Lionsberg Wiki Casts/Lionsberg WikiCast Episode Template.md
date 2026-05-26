@@ -1,4 +1,4 @@
-# Lionsberg WikiCast Episode Template
+# LIØNSBERG WikiCast Episode Template
 
 ## [[Episode Title]] - Episode Number
 
@@ -38,7 +38,7 @@ Briefly describe the main topics and key points discussed in the episode, along 
 - ...
 
 **Join the Discussion**:  
-- [Above The Chaos Group on the Lionsberg Platform](Insert link)
+- [Above The Chaos Group on the LIØNSBERG Platform](Insert link)
 - [Social Media Channels](Insert links)
 - [Email List](Insert link)
 
@@ -85,10 +85,10 @@ Example: "Hello friends and allies, welcome to Above The Chaos, where we seek to
     
 7.  **Recap and key takeaways** (2-3 minutes): Briefly summarize the main points discussed in the episode, highlighting key takeaways for listeners to remember and apply in their own lives.
     
-8.  **Call to action** (1-2 minutes): Encourage listeners to take specific actions in support of the podcast and its mission, such as subscribing, sharing the episode, joining the Lionsberg Platform, or participating in the community.
+8.  **Call to action** (1-2 minutes): Encourage listeners to take specific actions in support of the podcast and its mission, such as subscribing, sharing the episode, joining the LIØNSBERG Platform, or participating in the community.
     
 
-Example: "Thank you for joining us today on Above The Chaos. If you found value in this episode, please subscribe, share it with your friends, and join the Lionsberg Platform to be a part of our growing community. Together, we can confront and overcome the Meta Crisis, halt the advance of the giants, and forge the New World."
+Example: "Thank you for joining us today on Above The Chaos. If you found value in this episode, please subscribe, share it with your friends, and join the LIØNSBERG Platform to be a part of our growing community. Together, we can confront and overcome the Meta Crisis, halt the advance of the giants, and forge the New World."
 
 9.  Outro music/theme (30-45 seconds): Play the podcast's outro music/theme to signal the end of the episode and create a sense of closure.
 

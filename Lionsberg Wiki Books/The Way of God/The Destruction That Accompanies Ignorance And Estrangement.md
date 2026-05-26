@@ -41,4 +41,4 @@ ___
 Forward to [[The Green Shoot Of The Messiah]]  
 Back to [[The Knowledge Of God Is The Key]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

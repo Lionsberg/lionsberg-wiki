@@ -80,7 +80,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 #### **January 2019: LIØNSBERG Provisional Structure Approved, Platform Development Begins**
 
 - Informed by lifetimes of research and pilot projects such as [[Mondragon]], the LIØNSBERG [[Provisional Structure]] is approved by the United States IRS, enabling initial resources to flow to the non-profit / open-source side of the mission. 
-- The [[Provisional Structure]] is used to resource and accelerate the co-creation of the Lionsberg Platform. 
+- The [[Provisional Structure]] is used to resource and accelerate the co-creation of the LIØNSBERG Platform. 
 - Over subsequent years, the first 10% of the main technological platform is tested with hundreds of groups in dozens of countries under the Open Impact banner. 
 
 #### **2019: Collision with the Corruption of Church and State** 
@@ -121,7 +121,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - Additional social experiments and lessons learned.  
 - Retrospection and consolidation of learnings from social experiments.  
 - Ongoing weekly meetings with allies around the world.  
-- Additional [[Lionsberg Wiki Books]] published. 
+- Additional [[LIØNSBERG Wiki Books]] published. 
 - Jordan preserves legal transparency and optionality via a [Federal Civil Rights and Corruption Case](https://www.pacermonitor.com/public/case/49766123/Jordan_Nicholas_Sukut_v_County_of_San_Bernadino_et_al).  
 - 2022-2023 travel includes in person meetings with allies in New York, Egypt, Austin, Ecuador, Estonia, Barcelona, South Africa, and Dubai, as well as throughout the United States.  
 
@@ -252,7 +252,7 @@ ______
 2. Broadcast [[The Message]] to create a field of gravitational attraction 
 3. Extend [[The Invitation]] to those who resonate  
 4. Empower those who respond to form [[Circles]], engage in [[Quests]], and begin [[The Great Game of LIØNSBERG]].    
-5. Measure Time and Value via [[Lionsberg Units of Value (LUV)]]    
+5. Measure Time and Value via [[LIØNSBERG Units of Value (LUV)]]    
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  
 7. Move the entire population [[FROM the Old TO the New]] in a single generation, with no one [[Involuntarily Left Behind]].  
 

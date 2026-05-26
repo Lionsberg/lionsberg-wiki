@@ -1,6 +1,6 @@
 # Navigation
 
-The purpose of the [[Lionsberg System of Governance]] is to help Sovereign Individuals, Organizations and Communities Navigate: 
+The purpose of the [[LIØNSBERG System of Governance]] is to help Sovereign Individuals, Organizations and Communities Navigate: 
 
 FROM our present unnecessary suffering, dysfunction, and injustice... 
 

@@ -2,11 +2,11 @@
 status: captured
 fold_target: III
 themes: [great-game, fibonacci, tempo, strategy]
-source: Phase 2.1 audit of LIØNSBERG 101 + The Lionsberg Strategy and Plan
+source: Phase 2.1 audit of LIØNSBERG 101 + The LIØNSBERG Strategy and Plan
 captured: 2026-05-18
 ---
 
-# The Lionsberg Cycles of Growth
+# The LIØNSBERG Cycles of Growth
 
 The operational tempo of the Movement.
 

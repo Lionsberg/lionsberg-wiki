@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [economy, metric, foundational]
-source: Phase 2.1 audit of The Theses of Lionsberg (Economics)
+source: Phase 2.1 audit of The Theses of LIØNSBERG (Economics)
 captured: 2026-05-18
 ---
 

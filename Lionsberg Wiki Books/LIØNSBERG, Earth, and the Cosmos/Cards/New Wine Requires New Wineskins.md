@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, transformation, hospicing, foundational]
-source: Phase 2.1 audit of The Prophesy of Mondragon + Lionsberg - A Biblical Perspective
+source: Phase 2.1 audit of The Prophesy of Mondragon + LIØNSBERG - A Biblical Perspective
 captured: 2026-05-19
 ---
 
@@ -28,7 +28,7 @@ The principle applies at every scale:
 - **At the personal scale** — the awakening Sovereign cannot become the New Sovereign by being a better version of the Old Sovereign. The personality patterns, relational habits, identity-attachments of the Old must be released as the New becomes inhabitable. The [[The 3-Year Healing and Empowerment Cycle|3-Year Cycle]] is the time required for the new wineskin of the formed Sovereign to become flexible enough to hold the New that is fermenting within.
 - **At the family scale** — a family steeped in Old-World patterns cannot become a New family by adopting a few practices. The whole relational architecture often requires rebuilding. Some families do this gracefully; some have to release members who are not ready; some end and the members find new family structures.
 - **At the Circle scale** — a Circle cannot be retrofitted onto an existing group. The Circle is a specific covenanted structure; if you call your existing group "a Circle" without rebuilding it on the Pattern, you have a group calling itself a Circle, not a Circle.
-- **At the institutional scale** — the Old World's universities, hospitals, banks, governments, media, religions cannot be transformed into the New Civilization's [[The Lionsberg Academy|Academies]], [[Sacred Health and Wellness|Healing Centers]], [[Sacred Economics|sacred economies]], Hub governance bodies, or Sacred Communications. The New must be built fresh.
+- **At the institutional scale** — the Old World's universities, hospitals, banks, governments, media, religions cannot be transformed into the New Civilization's [[The LIØNSBERG Academy|Academies]], [[Sacred Health and Wellness|Healing Centers]], [[Sacred Economics|sacred economies]], Hub governance bodies, or Sacred Communications. The New must be built fresh.
 - **At the civilizational scale** — the Old World cannot be reformed into the New. The Pattern is built **alongside** the Old, in parallel, while the Old completes its collapse. [[Hospicing the Old Systems|Hospicing]] is the operational discipline that holds the Old with dignity while the New emerges.
 
 The principle has nuance:

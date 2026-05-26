@@ -1,8 +1,8 @@
 ---
 status: captured
 fold_target: VI
-themes: [book-of-lionsberg, lexicon, sacred-architecture, scriptural-anchor, foundational]
-source: Phase 2.1 audit of Lionsberg - A Biblical Perspective + Pass The Flame
+themes: [book-of-LIØNSBERG, lexicon, sacred-architecture, scriptural-anchor, foundational]
+source: Phase 2.1 audit of LIØNSBERG - A Biblical Perspective + Pass The Flame
 captured: 2026-05-19
 ---
 

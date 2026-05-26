@@ -36,4 +36,4 @@ ___
 Forward to [[The Prophetic Voice]]  
 Back to [[Getting To Know God]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

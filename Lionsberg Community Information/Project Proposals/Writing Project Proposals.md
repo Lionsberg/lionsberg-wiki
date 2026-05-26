@@ -58,4 +58,4 @@ SPIN selling (**s**ituation, **p**roblem, **i***mplications*, **n**eeds fulfillm
 - Judith Benham
 - Jonathan Sand
 
-We welcome additions and contributions from every [[Meta Project]] member, posted in our [[Lionsberg Town Square]]. 
+We welcome additions and contributions from every [[Meta Project]] member, posted in our [[LIØNSBERG Town Square]]. 

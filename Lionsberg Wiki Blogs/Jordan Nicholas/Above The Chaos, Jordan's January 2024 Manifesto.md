@@ -24,7 +24,7 @@ To start the year, I spent some time alone in the mountains and recorded three f
 2. The Probability of Collapse - [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)
 3. A Positive Vision, Strategy and Plan to forge the Best Possible Future - [Fireside Chat 3 - A Vision, Strategy, and Plan](https://youtu.be/DAcg7AV0RJg?si=6FZlrKswfHqOl9mk)
 
-Additionally, over the last few years I developed a series of interlinked writings that explore the [[Meta Crisis]] and the [[New Vision and Plan]] from a variety of angles - see the [[Lionsberg Wiki Books]] and the [[LIØNSBERG Manifesto]]. 
+Additionally, over the last few years I developed a series of interlinked writings that explore the [[Meta Crisis]] and the [[New Vision and Plan]] from a variety of angles - see the [[LIØNSBERG Wiki Books]] and the [[LIØNSBERG Manifesto]]. 
 
 And now let me offer a humble and candid assessment of the efforts to date and where we stand now in January 2024. 
 
@@ -34,7 +34,7 @@ I remain convinced that none of us can succeed in isolation, and the only Way to
 
 We are rapidly approaching the end of our personal resource runway and continuing to do our best to Seek First The Kingdom of God and trust that all other provision will follow. The Critical Path of the universal project can advance in proportion to the time, energy, attention, and resources directed at it. 
 
-If you are one of Us, we invite you to join us for the adventure of a lifetime. Visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).  Or email at J@Lionsberg.org with your ideas, inspirations, and what you might be able to bring to the table. 
+If you are one of Us, we invite you to join us for the adventure of a lifetime. Visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement).  Or email at J@LIØNSBERG.org with your ideas, inspirations, and what you might be able to bring to the table. 
 
 My intention is to forge a persistent and growing community helping one another and all creation advance beyond the [[Meta Crisis]] towards The Goal. 
 
@@ -55,4 +55,4 @@ In the event Americans decide to forgo  what is likely the final opportunity to 
 
 It would be incredibly foolish and likely genocidal to consciously allow the existing order to undergo a disorderly collapse. A voluntary and consciously designed transcendence into an intentionally designed Future is a far superior and less risky strategy. However it is up to Us, the people, to decide. Those of us who desire to do so can immediately find One Another and begin regardless of the outcome for any specific tribe or nation. I will be on the battlefield if you would like to join us. 
 
-Visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement),  or email me at J@Lionsberg.org. 
+Visit [www.JordanNicholas.org](https://jordannicholas.org) and [Join The Movement](https://jordannicholas.org/join_the_movement),  or email me at J@LIØNSBERG.org. 

@@ -1,6 +1,6 @@
 # III.C. Steps for effective communication and collaboration
 
-Effective communication and collaboration is essential for the success of individuals, teams, organizations, and communities within the Lionsberg System. Each individual and team connected to the Lionsberg System must view itself as co-operating and continuously improving the Lionsberg System of Communication so that the entire community can share and make sense of information, knowledge, and wisdom. The following steps can be used as guidelines to help ensure that everyone is communicating effectively:
+Effective communication and collaboration is essential for the success of individuals, teams, organizations, and communities within the LIØNSBERG System. Each individual and team connected to the LIØNSBERG System must view itself as co-operating and continuously improving the LIØNSBERG System of Communication so that the entire community can share and make sense of information, knowledge, and wisdom. The following steps can be used as guidelines to help ensure that everyone is communicating effectively:
 
 1.  Establish clear lines of communication: Clearly define who is responsible for communicating what information, to whom, and when. Ensure that everyone knows how to reach the right people and how to get the information they need in a timely and effective manner.
     
@@ -17,4 +17,4 @@ Effective communication and collaboration is essential for the success of indivi
 7.  Use retrospectives to continuously improve: Regularly conduct retrospectives to evaluate the effectiveness of communication and collaboration, and to identify areas for improvement. Celebrate successes and acknowledge areas for improvement, and continuously work to improve the way that everyone communicates and collaborates.
     
 
-By following these steps, individuals, teams, organizations, and communities can ensure that everyone is communicating effectively, and that everyone is working together towards shared goals and objectives. Effective communication and collaboration are key components of the Lionsberg System and are essential for the success of each team and the System as a whole. 
+By following these steps, individuals, teams, organizations, and communities can ensure that everyone is communicating effectively, and that everyone is working together towards shared goals and objectives. Effective communication and collaboration are key components of the LIØNSBERG System and are essential for the success of each team and the System as a whole. 

@@ -17,4 +17,4 @@ _____
 Forward to [[Word Tools - Our Feeble Attempts to Describe the Underlying Realities]]  
 Back to [[The Logos - The Eternal, Universal and Unwritten Word of God]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

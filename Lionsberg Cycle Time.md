@@ -1,6 +1,6 @@
-# Lionsberg Cycle Time
+# LIØNSBERG Cycle Time
 
-The **Lionsberg Cycle Time** refers to the [[Rate]] at which [[The Body]] assembles itself. Each cycle represents a step in the [[Lionsberg Cycles of Growth]], akin to the growth rings of [[The Sacred Tree]] unfurling from [[The Golden Seed]].
+The **LIØNSBERG Cycle Time** refers to the [[Rate]] at which [[The Body]] assembles itself. Each cycle represents a step in the [[LIØNSBERG Cycles of Growth]], akin to the growth rings of [[The Sacred Tree]] unfurling from [[The Golden Seed]].
 
 ## Milestones
 
@@ -16,16 +16,16 @@ However, to achieve **[[The 2026 Milestone]]** of reaching **3% of the populatio
     During this phase, a cycle time of **3.66 weeks per cycle** (140 weeks for 40 cycles) was required. In comparison: 
     
     - **8 cycles** were completed in approximately **11 weeks** for an average cycle time of **1.4 weeks per cycle**.
-    - The [[Lionsberg Acceptance Rate]] for [[The Invitation]] exceeded **80%**, affirming the scalability of the model.
+    - The [[LIØNSBERG Acceptance Rate]] for [[The Invitation]] exceeded **80%**, affirming the scalability of the model.
 2. **2025 - Season 1 - Rising From The Ashes:**  
 	Entering February 2025, We have only 23 months remain to reach **3% of the population (~250 million)** by **2026**.
 
 	- This milestone requires a more rapid average cycle time of **17 days per cycle** for the first 40 cycles.
 	- The 2024 experiment proved this is possible. 
 
-## Lionsberg Cycles of Growth
+## LIØNSBERG Cycles of Growth
 
-The specific numerical patterns guiding these cycles can be found in [[Lionsberg Cycles of Growth]].
+The specific numerical patterns guiding these cycles can be found in [[LIØNSBERG Cycles of Growth]].
 
 ## Experiments and Context
 
@@ -37,4 +37,4 @@ The specific numerical patterns guiding these cycles can be found in [[Lionsberg
 
 ## Historical Context
 
-To understand the broader narrative and foundational principles guiding this effort, see [[Lionsberg History and Inception]].
+To understand the broader narrative and foundational principles guiding this effort, see [[LIØNSBERG History and Inception]].

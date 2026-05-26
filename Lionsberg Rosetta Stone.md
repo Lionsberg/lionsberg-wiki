@@ -1,4 +1,4 @@
-# Lionsberg Rosetta Stone
+# LIØNSBERG Rosetta Stone
 
 
 - [[English Welcome]] - [[English Welcome|Welcome, we are glad you are here]]. 
@@ -84,4 +84,4 @@ Our current idea is to create simple welcome pages in each of these languages, s
 
 See [Wikipedia List of Languages by Total Number of Speakers](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers)
 
-Based on this we are creating simple portals to allow billions to connect to Lionsberg, initially through English, then cross pollinating the Wisdom and Knowledge back out into every language and culture of the world. 
+Based on this we are creating simple portals to allow billions to connect to LIØNSBERG, initially through English, then cross pollinating the Wisdom and Knowledge back out into every language and culture of the world. 

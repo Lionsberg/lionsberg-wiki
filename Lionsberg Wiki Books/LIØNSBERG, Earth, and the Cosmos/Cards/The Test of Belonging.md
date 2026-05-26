@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, discernment, criterion, foundational]
-source: Phase 2.1 audit of The Lionsberg Meta Guide (Elements Of The New)
+source: Phase 2.1 audit of The LIØNSBERG Meta Guide (Elements Of The New)
 captured: 2026-05-18
 ---
 

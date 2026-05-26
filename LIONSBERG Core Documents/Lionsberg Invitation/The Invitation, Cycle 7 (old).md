@@ -38,13 +38,13 @@ This allows for the local, decentralized and poly-centric implementation of the 
 
 Groups and teams grow by balancing being and doing, connecting, building community, and supporting one another, while engaging together in [[Meaningful Conversations and Quests]] organized around the challenges and needs at hand in their locality or domain of passion and expertise. 
 
-We are leveraging the Lionsberg System, infrastructure and technology to connect and empower The Movement, equipping groups and teams with the platforms, systems, and tools they need to succeed in the Quests they choose to tackle. 
+We are leveraging the LIØNSBERG System, infrastructure and technology to connect and empower The Movement, equipping groups and teams with the platforms, systems, and tools they need to succeed in the Quests they choose to tackle. 
 
 Should you choose to accept, Your Mission is to [[Join The Movement]], forge or join a team, choose a meaningful first conversation or quest to tackle, and [[Pass The Flame]]. 
 
 ## The First 6 Cycles of Growth 
 
-In ~ the first two weeks, we completed ~ the first six [[Lionsberg Cycles of Growth]] out to approximately 21 Co-Creators. We finally became a living, growing "Us". 
+In ~ the first two weeks, we completed ~ the first six [[LIØNSBERG Cycles of Growth]] out to approximately 21 Co-Creators. We finally became a living, growing "Us". 
 
 Now, we see if we can Become a living, growing, flourishing organism. 
 
@@ -56,7 +56,7 @@ At present, We are a tiny green shoot growing by invitation only. However within
 
 The Conditions we have spent years co-creating, and the legacies and lifetimes of work we are curating together, afford us the opportunity to emerge and succeed. 
 
-The [[Lionsberg Co-Creators]] page tracks the Cycles of Growth to date, and provides an initial list 40 individual candidates to mutually-select the next 13 co-creators from. [[Jordan]] could add another 100+ individuals to the list, however the success of The Movement depends on us all learning together how to discern Who is next, how to [[Pass The Flame]], and how to self-organize into healthy groups and teams. 
+The [[LIØNSBERG Co-Creators]] page tracks the Cycles of Growth to date, and provides an initial list 40 individual candidates to mutually-select the next 13 co-creators from. [[Jordan]] could add another 100+ individuals to the list, however the success of The Movement depends on us all learning together how to discern Who is next, how to [[Pass The Flame]], and how to self-organize into healthy groups and teams. 
 
 When you join us, your wisdom and discernment will help shape The Future as we [[Pass The Flame]]  to the wise right people, at the wise right time, as The Movement grows and advances. 
 
@@ -83,7 +83,7 @@ If you are only going to skim one, read [[Above The Chaos, Game Plan For March|G
 If you want to dive into more detail, explore: 
 
 - [[Above The Chaos]] for a stream of posts, interviews, etc.  
-- [[Lionsberg Wiki Books]] for more formalized and structured presentations of [[The Idea]].  
+- [[LIØNSBERG Wiki Books]] for more formalized and structured presentations of [[The Idea]].  
 
 ## The Invitation
 

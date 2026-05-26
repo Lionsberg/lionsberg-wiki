@@ -18,7 +18,7 @@ The Constitution may not be changed except by 85% supermajority vote of each of 
 
 ## Localization
 
-Each Individual, Circle, Organization, and Community in the System is encouraged to localize, adapt, and adopt their own unique Constitution in alignment with the Lionsberg Constitution. 
+Each Individual, Circle, Organization, and Community in the System is encouraged to localize, adapt, and adopt their own unique Constitution in alignment with the LIØNSBERG Constitution. 
 
 ## Sequence 
 
@@ -26,7 +26,7 @@ Formal constitutions are often preceded by Provisional Declarations that hold sp
 
 A typical sequence might be: 
 
-1. Assenting to the Lionsberg Constitution  
+1. Assenting to the LIØNSBERG Constitution  
 2. Issuing a Local Declaration  
 3. Developing a Local Constitution  
 

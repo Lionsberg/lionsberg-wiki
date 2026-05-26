@@ -46,18 +46,18 @@ Will you answer the call? Will you climb the Sacred Mountain? Will you become pa
 
 **The Chronicles are not finished. You are the next chapter.**  
 
-_Onward, into [[The Chronicles of Lionsberg]]._
+_Onward, into [[The Chronicles of LIØNSBERG]]._
 
 ## Metaphors
 
-[[Lionsberg Metaphors]]  
+[[LIØNSBERG Metaphors]]  
 
 ## Characteristics 
 
-[[Lionsberg Spirit]]  
-[[Lionsberg Intention]]  
-[[Lionsberg Mission]]  
-[[Lionsberg Personality]]  
+[[LIØNSBERG Spirit]]  
+[[LIØNSBERG Intention]]  
+[[LIØNSBERG Mission]]  
+[[LIØNSBERG Personality]]  
 [[LIØNSBERG Values]]  
 
 ## Story 
@@ -65,11 +65,11 @@ _Onward, into [[The Chronicles of Lionsberg]]._
 [[The Story of LIØNSBERG]]  
 ## System 
 
-[[Lionsberg System and Approach]]  
+[[LIØNSBERG System and Approach]]  
 
 ## Structure 
 
-[[Lionsberg Structure]]  
+[[LIØNSBERG Structure]]  
 
 ## Strategy and Plan 
 

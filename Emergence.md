@@ -1,6 +1,6 @@
 # Emergence
 
-Emergence describes the phenomenon where the collective behaviors of a system's components lead to outcomes that are greater than the sum of individual actions. It's a foundational concept for understanding complex systems within the Lionsberg framework.
+Emergence describes the phenomenon where the collective behaviors of a system's components lead to outcomes that are greater than the sum of individual actions. It's a foundational concept for understanding complex systems within the LIØNSBERG framework.
 
 In the [[LIØNSBERG System]], [[Emergence]] is a [[Word Tool]] we use to point at creative process through which [[New]] things come into [[Being]] / [[Reality]]. 
 

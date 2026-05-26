@@ -26,6 +26,6 @@ The United Front plays a critical role in implementing the New Vision and Plan f
 
 ___
 
-Forward to [[27 The Role of the Lionsberg System]]  
+Forward to [[27 The Role of the LIØNSBERG System]]  
 Back to [[25 The Role of Individuals and Communities]]  
 Back to table of contents [[Beyond The Meta Crisis - A Blueprint for a Better Future]] 

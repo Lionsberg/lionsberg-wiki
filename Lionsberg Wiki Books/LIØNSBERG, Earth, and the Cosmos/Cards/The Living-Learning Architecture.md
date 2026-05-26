@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [map, intelligence, meta-science, library, living-learning, lionsberg-architecture]
+themes: [map, intelligence, meta-science, library, living-learning, LIØNSBERG-architecture]
 ---
 
 # The Living-Learning Architecture

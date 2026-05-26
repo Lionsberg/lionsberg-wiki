@@ -141,7 +141,7 @@ The group is more than the group that there's a an elevation of shared wisdom sh
 - [x] needs and issues trackers
     - [x] can include links between catalist to social dimensions group by story data
 - [x] meta project groups, how they show up in Catalist
-- [x] [Lionsberg Wiki](https://lionsberg.wiki/)
+- [x] [LIØNSBERG Wiki](https://LIØNSBERG.wiki/)
 - [x] zeek
     - can help with a variety of things, planning, tech specs
     - bringing a few more people in a group to help in ways they can

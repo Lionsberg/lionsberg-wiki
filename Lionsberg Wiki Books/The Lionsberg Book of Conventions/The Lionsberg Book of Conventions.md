@@ -1,4 +1,4 @@
-# The Lionsberg Book of Conventions
+# The LIØNSBERG Book of Conventions
 
 [[We Have Heard]]  
 [[Everything Is A Project]]  

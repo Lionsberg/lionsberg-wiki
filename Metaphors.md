@@ -1,3 +1,3 @@
 # Metaphors
 
-See [[Metaphor]] and [[The Lionsberg Book of Metaphors]]  
+See [[Metaphor]] and [[The LIØNSBERG Book of Metaphors]]  

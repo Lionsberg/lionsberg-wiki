@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [capacity-development, sovereign-path, axis, lionsberg-architecture]
+themes: [capacity-development, sovereign-path, axis, LIØNSBERG-architecture]
 ---
 
 # The LIØNSBERG Capacity Development Axis

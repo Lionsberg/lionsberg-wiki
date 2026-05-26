@@ -127,7 +127,7 @@ And at the level of action, we are taking concrete steps to achieve our goals.
 19. Solar Systems  
 20. The Human System  
 21. The Living System  
-22. The Lionsberg System  
+22. The LIØNSBERG System  
 23. The Meta System  
 24. Source  
 
@@ -162,7 +162,7 @@ The categories and differentiated levels of abstraction / analysis allow for the
 
 Properly viewed, the [[Left Hemisphere]] / Analytical / Differentiated view affords the opportunity to serve and support by aligning and supporting each element of the Whole correctly and usefully for All, without losing the [[Right Hemisphere]] / Intuitive / Receptive perception of the Whole as the interexistent Mystery that it is.  
 
-The Lionsberg System attempts to afford a useful philosophical and conceptual hierarchy to promote understanding and organization, while protecting the primacy of right relationship in the Whole.  
+The LIØNSBERG System attempts to afford a useful philosophical and conceptual hierarchy to promote understanding and organization, while protecting the primacy of right relationship in the Whole.  
 
 ## Maps In Service Of Spirit
 

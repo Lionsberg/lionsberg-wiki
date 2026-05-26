@@ -1,4 +1,4 @@
-# The Lionsberg Book of Meditations
+# The LIØNSBERG Book of Meditations
 
 This is a book of things to meditate on. I pray these aphorisms will spark inner dialogue, and help illuminate your Way and liberate your Spirit, Mind, Body, and Soul.  
 
@@ -671,7 +671,7 @@ This is a book of things to meditate on. I pray these aphorisms will spark inner
 
 This is a [[Work In Progress]] - More to come. 
 
-Explore other [[Lionsberg Wiki Books]].
+Explore other [[LIØNSBERG Wiki Books]].
 
 
 

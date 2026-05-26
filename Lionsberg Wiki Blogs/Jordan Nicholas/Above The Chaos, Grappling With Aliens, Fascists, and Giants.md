@@ -9,7 +9,7 @@ The findings, if True, affect your family and loved ones more than you may be ab
 
 As [[The Story of LIØNSBERG]] predicts, it turns out that [[The Promised Land]] We are advancing towards is guarded by quite an array of fearsome creatures and giants, representing multiple advanced civilizations. Life-in-Universe turns out to be quite a bit more diverse and inter-active than most humans have been led to believe. 
 
-I have begun to summarize some of what is being revealed in a new [[Lionsberg Wiki Books|Lionsberg Wiki Book]] called [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]. 
+I have begun to summarize some of what is being revealed in a new [[LIØNSBERG Wiki Books|LIØNSBERG Wiki Book]] called [[Aliens, Fascists, and Giants  - Our Epic Battle for The Future of Civilization]]. 
 
 ## The Epic Story
 

@@ -2,7 +2,7 @@
 
 ## Welcome, Pioneers!
 
-Welcome to Day 7 of our transformative Quest, a day of Rest, Regeneration, and Retrospection. Just as in the Lionsberg Battle Rhythm, our collective ethos demands that we take a pause from our forward motion to reflect on our journey, regenerate our energies, and deepen our understanding and commitment to [[The Quest]]. After six days of intensive exploration, learning, and practice, this pause becomes a much-needed opportunity to rejuvenate our bodies, minds, and spirits, and to assimilate the insights and experiences we've gathered.
+Welcome to Day 7 of our transformative Quest, a day of Rest, Regeneration, and Retrospection. Just as in the LIØNSBERG Battle Rhythm, our collective ethos demands that we take a pause from our forward motion to reflect on our journey, regenerate our energies, and deepen our understanding and commitment to [[The Quest]]. After six days of intensive exploration, learning, and practice, this pause becomes a much-needed opportunity to rejuvenate our bodies, minds, and spirits, and to assimilate the insights and experiences we've gathered.
 
 During this day, we are not providing a new theme or concept to focus on. Instead, we invite you to use this time to be present with and deepen your relationship with your loved ones, Nature, and Nature's Generative Source. 
 

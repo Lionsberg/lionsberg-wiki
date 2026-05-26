@@ -2,7 +2,7 @@ I have substantial coverage now to assemble the memo. Let me finalize.
 
 ---
 
-# WB-1 Audit Memo — The Book of Lionsberg (560 files)
+# WB-1 Audit Memo — The Book of LIØNSBERG (560 files)
 
 ## Coverage Statement
 
@@ -558,7 +558,7 @@ Genuinely problematic in this book:
 
 1. **The book has two distinct voice registers and the architecture currently muddles them.** Chapters 1, 12, 13 are **prophetic narrative** ("we went…", "the Spirit grips you…", "Scarlett stepped bravely forward…"). Chapters 4, 7, 10, 11, 16 are **operational/systems** voice. Chapters 2, 3, 5, 6 are **philosophical/contemplative**. Chapter 14 is brief recipe. Chapter 15 is **definitive prophetic-operational** (the rare register that fuses both). The book may benefit from explicit labels at the section level that name what register the reader is entering, or — in Phase 3 — splitting into a Narrative arc and an Operational arc that are read in parallel rather than sequence.
 
-2. **Chapter 15 (Great Game) and Chapter 16 (PDG) are the most recently and definitively articulated.** Their prose-quality is markedly higher than the surrounding chapters. They feel like Volume-root material — not chapters buried in Book 1. Strong candidate for promotion: extract Chapter 15 + Chapter 16 (combined ~43 files) as their own short, standalone book in the Sacred Codex, leaving Chapters 0–14 as the **Prophetic-Philosophical Body** of The Book of Lionsberg proper.
+2. **Chapter 15 (Great Game) and Chapter 16 (PDG) are the most recently and definitively articulated.** Their prose-quality is markedly higher than the surrounding chapters. They feel like Volume-root material — not chapters buried in Book 1. Strong candidate for promotion: extract Chapter 15 + Chapter 16 (combined ~43 files) as their own short, standalone book in the Sacred Codex, leaving Chapters 0–14 as the **Prophetic-Philosophical Body** of The Book of LIØNSBERG proper.
 
 3. **Chapter 11 is a buried treasure.** With 85 files, it is the largest chapter and contains many concept-Cards that the PDG (Ch 16) later operationalizes. It functions as the **conceptual bridge** between the philosophical body (Ch 2–10) and the operational close (Ch 15–16). Some of Ch 11 was likely written before Ch 16 existed; it may now contain ideas that Ch 16 supersedes with cleaner operational language. Worth a Phase 3 pass to identify which Ch 11 content is superseded vs which still carries unique weight.
 
@@ -586,7 +586,7 @@ Genuinely problematic in this book:
 
 15. **The book's tone shifts dramatically between the early Genesis chapters (deeply mythic) and the closing PDG chapters (operationally precise).** This is intentional and powerful — but Phase 3 should consider whether to articulate this shift explicitly with section labels, or whether to lean into the shift as the book's signature architecture (the journey from mythic-perception to operational-delivery, mirroring the journey from Cave to Heaven On Earth).
 
-16. **Several Cards from this book directly explain the wiki's overall meta-structure:** "The Five Methodological Backbone Ideas" (16.1), "The Three Depths of the Seed" (16.3), "The Twelve Irreducible Elements" (16.4), "The Seven Domains" (16.2). These could be promoted to the wiki's top-level navigation architecture, not just to The Book of Lionsberg.
+16. **Several Cards from this book directly explain the wiki's overall meta-structure:** "The Five Methodological Backbone Ideas" (16.1), "The Three Depths of the Seed" (16.3), "The Twelve Irreducible Elements" (16.4), "The Seven Domains" (16.2). These could be promoted to the wiki's top-level navigation architecture, not just to The Book of LIØNSBERG.
 
 17. **Internal cross-linking from Chapter 15 and 16 to the philosophical chapters (2-11) is sparse.** The Great Game and PDG read as nearly self-contained; they reference each other heavily but cite back to the earlier chapters infrequently. Phase 3 might add explicit "the philosophical foundation for this is found in [[Chapter X]]" links to make the integrity of the book visible.
 

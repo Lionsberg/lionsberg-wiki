@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 82]]  
 Back to [[Meditation 80]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

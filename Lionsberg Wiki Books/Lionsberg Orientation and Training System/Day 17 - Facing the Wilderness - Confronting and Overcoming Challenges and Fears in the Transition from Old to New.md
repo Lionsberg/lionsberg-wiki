@@ -4,7 +4,7 @@ Greetings, Visionary Pioneering Co-Creators,
 
 And welcome to Day 17 of our [[Quest]] Beyond The Boundary. It is not surprising that a few are growing weary. It is hard work out here. 
 
-By now, after being immersed for 16 days in The Story of Lionsberg, many of us may be experiencing psychological and emotional dissonance and fear, perhaps even deeply. 
+By now, after being immersed for 16 days in The Story of LIØNSBERG, many of us may be experiencing psychological and emotional dissonance and fear, perhaps even deeply. 
 
 We find our Selves suddenly being swept up in (something), away from (something), and towards (something), and encountering language that is New and feels strange to our senses and ears. We are exploring issues of Truth, Wisdom, Reality, and Ultimate Reality, using a language that is not the language of any one of The Caves of the Old World. That means that it may be inherently alarming to everyone. But fear not! 
 
@@ -106,9 +106,9 @@ Part of Your Story is about the Challenges and Fears that you must confront and 
 
 Reflect on the fears you feel as you consider The Wilderness that separates [[Where We Are]] from the Destiny that is [[Where We Are Going]]. Are they fears of the unknown, change, isolation, rejection, responsibility, scarcity or failure? Or perhaps a different fear entirely? Are they fears around the New Language you are hearing, and questions around alignment with your Values and Beliefs? Acknowledge these fears, not as barriers, but as signposts on your journey. See them as indicators that you are stepping out of your comfort zone and into a place of growth. Take some time today to journal about these fears, and how you might navigate through them with courage and wisdom.
 
-If there are any fears that you have around issues of language, alignment, or beliefs, and how [[Jordan]] and Lionsberg align or don't align with your deepest Values based on the little that you have read so far, please suspend judgment, write down your specific questions, and feel free to submit them to Jordan for response. 
+If there are any fears that you have around issues of language, alignment, or beliefs, and how [[Jordan]] and LIØNSBERG align or don't align with your deepest Values based on the little that you have read so far, please suspend judgment, write down your specific questions, and feel free to submit them to Jordan for response. 
 
-Above all, understand that Wisdom and Truth are never threatened. Neither Jordan or Lionsberg are asking you to give up any belief, or take up any belief. This is about humbly navigating together towards Wisdom, Truth, and the Wellspirng from which Truth, Love, Justice, Wisdom, and every other Good thing flows. 
+Above all, understand that Wisdom and Truth are never threatened. Neither Jordan or LIØNSBERG are asking you to give up any belief, or take up any belief. This is about humbly navigating together towards Wisdom, Truth, and the Wellspirng from which Truth, Love, Justice, Wisdom, and every other Good thing flows. 
 
 Beyond that, it is about rolling up our sleeves, getting into action together, and doing what must be done to regenerate the world, heal society, feed the hungry, give drink to the thirsty, clothe the naked, house the homeless, reintegrate the lost, and help All Creation develop towards the fullness of its potential and flourish in harmony. 
 

@@ -2,7 +2,7 @@
 
 ## **Purpose**
 
-To catalyze the Lionsberg movement by engaging the first cycles of growth, building foundational infrastructure, and setting the trajectory for engaging [[The First Three Percent]] by 2026. 
+To catalyze the LIØNSBERG movement by engaging the first cycles of growth, building foundational infrastructure, and setting the trajectory for engaging [[The First Three Percent]] by 2026. 
 
 ## **Objectives**
 
@@ -85,6 +85,6 @@ To catalyze the Lionsberg movement by engaging the first cycles of growth, build
 
 ## **The Call to Action**
 
-The time is now. Each Co-Creator in [[The Sacred Tree]] has a unique and sacred role to play in this unfolding. Together, through this 90-day sprint, We will establish the roots and trunk of Lionsberg, ensuring it grows strong enough to shelter, sustain, and transform humanity.
+The time is now. Each Co-Creator in [[The Sacred Tree]] has a unique and sacred role to play in this unfolding. Together, through this 90-day sprint, We will establish the roots and trunk of LIØNSBERG, ensuring it grows strong enough to shelter, sustain, and transform humanity.
 
 Let’s begin

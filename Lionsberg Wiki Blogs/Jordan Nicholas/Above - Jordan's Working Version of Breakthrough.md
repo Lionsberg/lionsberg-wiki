@@ -1,11 +1,11 @@
-# Above - Jordan's Working Version of Breakthrough for Processing into the Lionsberg System 
+# Above - Jordan's Working Version of Breakthrough for Processing into the LIØNSBERG System 
 
 
 **If this page is ever public - ignore it - it will be incoherent, incomplete and a waste of time to review.**  
 
 Instead see [[Above The Chaos, Breakthrough With George Orbelian]].  
 
-Jordan's working version - progressively processing and integrating the best ideas of [[Above The Chaos, Breakthrough With George Orbelian]] into the Lionsberg System and Approach.  
+Jordan's working version - progressively processing and integrating the best ideas of [[Above The Chaos, Breakthrough With George Orbelian]] into the LIØNSBERG System and Approach.  
 
 # Ignore Everything Below...
 

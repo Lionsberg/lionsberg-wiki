@@ -1,6 +1,6 @@
-# Lionsberg Name
+# LIØNSBERG Name
 
-The name Lionsberg synergizes two mythical symbols 
+The name LIØNSBERG synergizes two mythical symbols 
 
 1. The Lion - a symbol of power and strength 
 2. Berg (Mountain, or Place) - a symbol of the sacred mountain, or [[City on a Hill]] 

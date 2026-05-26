@@ -16,7 +16,7 @@ You have been chosen to be among the first to lead this change and shape [[The F
 
 ### The Growing Wave
 
-In just two weeks, we ignited [[The Flame]] with 21 [[Lionsberg Co-Creators|Co-Creators]]. After pausing to regroup, it is time to [[Pass The Flame]] and begin building [[The Movement]] towards [[The Goal]]. With everything at stake, we are aiming for a rapid invitation-only growth that could rapidly unite billions in [[The Cause]]. We are at the beginning of something extraordinary, with the potential to reshape our future.
+In just two weeks, we ignited [[The Flame]] with 21 [[LIØNSBERG Co-Creators|Co-Creators]]. After pausing to regroup, it is time to [[Pass The Flame]] and begin building [[The Movement]] towards [[The Goal]]. With everything at stake, we are aiming for a rapid invitation-only growth that could rapidly unite billions in [[The Cause]]. We are at the beginning of something extraordinary, with the potential to reshape our future.
 
 ### The Invitation: Join Us in Shaping the Future
 

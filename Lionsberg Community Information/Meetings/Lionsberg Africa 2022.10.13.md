@@ -1,4 +1,4 @@
-# Lionsberg Africa 2022.10.13
+# LIØNSBERG Africa 2022.10.13
 
 ## Topics
 - Loan

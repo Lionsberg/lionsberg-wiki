@@ -1,8 +1,8 @@
-# The Lionsberg Handbook
+# The LIØNSBERG Handbook
 
-The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together various guides into a comprehensive handbook. Please be patient with tones, tenses and voices that are not coherent as we work to bring a vast conceptual landscape into form. 
+The LIØNSBERG Handbook was a [[Work In Progress]] that aimed to bring together various guides into a comprehensive handbook. Please be patient with tones, tenses and voices that are not coherent as we work to bring a vast conceptual landscape into form. 
 
-***The Lionsberg Handbook is in the process of migrating its pieces into [[The LIØNSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.***
+***The LIØNSBERG Handbook is in the process of migrating its pieces into [[The LIØNSBERG Way]]. As a consequence, both may appear fragmented for a period of Time.***
 
 ## Welcome 
 
@@ -68,7 +68,7 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 
 *Migrated to [[The LIØNSBERG Way]]*  
 
-## The Lionsberg System of Self-Governance 
+## The LIØNSBERG System of Self-Governance 
 
 *Migrated to [[The LIØNSBERG Way]]*  
 
@@ -109,7 +109,7 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 [[The LIØNSBERG Constitution]]  
 
 [[Structure]]  
-[[Lionsberg Structure]]  
+[[LIØNSBERG Structure]]  
 [[Flexibility And Compatibility]]  
 [[Legal Infrastructure]]  
 
@@ -122,7 +122,7 @@ The Lionsberg Handbook was a [[Work In Progress]] that aimed to bring together v
 
 [[Separation Of Power]]  
 [[Executive Branch]]  
-[[Lionsberg Legislative Branch]]  
+[[LIØNSBERG Legislative Branch]]  
 [[Judicial Branch]]  
 [[Regulatory Branch]]  
 [[Core, Official, and Ancillary Groups]]  
@@ -139,20 +139,20 @@ Interoperation among a diverse array of structures and approaches
 ### Common Governance Issues 
 [[Campaigning and Making Promises]]  
 
-## The Lionsberg Economic System 
+## The LIØNSBERG Economic System 
 
-The [[Lionsberg Economic System]]  
+The [[LIØNSBERG Economic System]]  
 
-## The Lionsberg System of Justice 
+## The LIØNSBERG System of Justice 
 
-The [[Lionsberg System of Justice]]  
-The [[Lionsberg System of Reconciliation]] 
+The [[LIØNSBERG System of Justice]]  
+The [[LIØNSBERG System of Reconciliation]] 
 
-## The Lionsberg System of Work 
+## The LIØNSBERG System of Work 
 
-The [[Lionsberg System of Work]] 
+The [[LIØNSBERG System of Work]] 
 
-## The Lionsberg Integrated Delivery System 
+## The LIØNSBERG Integrated Delivery System 
 
 The [[LIØNSBERG System]] includes an [[Integrated Delivery System]] purpose-built to produce [[Throughput]] (or delivery) of flourishing and abundant life for [[All]]. 
 
@@ -163,14 +163,14 @@ The [[LIØNSBERG System]] includes an [[Integrated Delivery System]] purpose-bui
 The [[Meta Project]]  
 [[The Prototype]]  
 
-## The Lionsberg System of Culture And Community 
+## The LIØNSBERG System of Culture And Community 
 
-[[Lionsberg System of Culture and Community]]  
-[[Lionsberg Community]]  
-[[Lionsberg Culture]]  
-[[Lionsberg Code]]  
+[[LIØNSBERG System of Culture and Community]]  
+[[LIØNSBERG Community]]  
+[[LIØNSBERG Culture]]  
+[[LIØNSBERG Code]]  
 
-## The Lionsberg System of Flow 
+## The LIØNSBERG System of Flow 
 
 Flow State  
 Individual Flow  
@@ -181,7 +181,7 @@ Information Flow (Data Structure to Facilitate)
 Knowledge Flow  
 Wisdom Flow 
 
-## The Lionsberg System of Story
+## The LIØNSBERG System of Story
 
 [[Forward Looking Story]]  
 [[Backward Looking Story]]  
@@ -216,10 +216,10 @@ Wisdom Flow
 
 ## Shared Infrastructure, Services, and Support 
 
-[[Lionsberg System of Infrastructure, Services, and Support]]  
+[[LIØNSBERG System of Infrastructure, Services, and Support]]  
  
 
-## The Lionsberg Integrated Delivery System 
+## The LIØNSBERG Integrated Delivery System 
 
 ### Introduction 
 [[Introduction To Integrated Delivery]]  
@@ -257,8 +257,8 @@ Wisdom Flow
 [[LIØNSBERG Integrated Delivery System]]  
 [[Value]]  
 [[Waste]]  
-[[Lionsberg Integrated Delivery System Warning]]  
-[[Lionsberg Integrated Delivery System Starting Point]]  
+[[LIØNSBERG Integrated Delivery System Warning]]  
+[[LIØNSBERG Integrated Delivery System Starting Point]]  
 [[Handoff Points]]  
 
 ### Program Development  
@@ -274,16 +274,16 @@ Wisdom Flow
 [[Meta Project Framework]]  
 [[Meta Community Framework]]  
 [[Embodying The Abstract]]  
-[[The Myth Of Lionsberg]]  
+[[The Myth Of LIØNSBERG]]  
 A Story, System, Structure, Community, Platform, Project, Game, Way - moved to [[ReProcessing the LIØNSBERG Wiki]]  
 [[New Language]]  
-[[The Lionsberg Critical Path]]  
-[[The Lionsberg System And Structure]]  
+[[The LIØNSBERG Critical Path]]  
+[[The LIØNSBERG System And Structure]]  
 [[Provisional Structure]]  
-[[The Lionsberg Platform]]  
+[[The LIØNSBERG Platform]]  
 [[Social Dimensions]]  
 [[Social Experiment]]  
-[[Lionsberg Launch]]  
+[[LIØNSBERG Launch]]  
 [[Receiver]]  
 [[Acting As If We All Are The Receivers]]  
 [[The Charge Of The Receiver]]  
@@ -334,24 +334,24 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 ## Systems
 
 
-1. The [[Lionsberg System of Governance]]  
+1. The [[LIØNSBERG System of Governance]]  
 2. The [[LIØNSBERG Integrated Delivery System]]  
-3. The [[Lionsberg System of Work]]  
-4. The [[Lionsberg Economic System]]  
-5. The [[Lionsberg System of Culture and Community]] 
-6. The [[Lionsberg System Of Spirituality, Purpose And Meaning]]  
-7. The [[Lionsberg Energy System]]  
-8. The [[Lionsberg Water System]]  
-9. The [[Lionsberg Information System]]  
-10. The [[Lionsberg Intellectual Content System]]  
-11. The [[Lionsberg Publishing System]] 
-12. The [[Lionsberg Dynamic Exchange System]]
-13. The [[Lionsberg Integrated Wellbeing and Development System]]  
-14. The [[Lionsberg House of Wisdom]]    
-15. The [[Lionsberg House of Culture]]  
+3. The [[LIØNSBERG System of Work]]  
+4. The [[LIØNSBERG Economic System]]  
+5. The [[LIØNSBERG System of Culture and Community]] 
+6. The [[LIØNSBERG System Of Spirituality, Purpose And Meaning]]  
+7. The [[LIØNSBERG Energy System]]  
+8. The [[LIØNSBERG Water System]]  
+9. The [[LIØNSBERG Information System]]  
+10. The [[LIØNSBERG Intellectual Content System]]  
+11. The [[LIØNSBERG Publishing System]] 
+12. The [[LIØNSBERG Dynamic Exchange System]]
+13. The [[LIØNSBERG Integrated Wellbeing and Development System]]  
+14. The [[LIØNSBERG House of Wisdom]]    
+15. The [[LIØNSBERG House of Culture]]  
 16. The [[LIØNSBERG Academy]]  
-17. The [[Lionsberg Outreach and Broadcast System]] 
-18. The [[Lionsberg Integrated Wellbeing and Development System]]  
+17. The [[LIØNSBERG Outreach and Broadcast System]] 
+18. The [[LIØNSBERG Integrated Wellbeing and Development System]]  
 19. The [[Human System Living System Interface]]
 20. +++ (all core interoperable "organ systems" of the human system, across all pillars of society, reintegrated synergistically with the living system that contains it)  
 
@@ -383,48 +383,48 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Question
 
-[[Lionsberg Question]]  
+[[LIØNSBERG Question]]  
 
 ## The Name 
 
-[[Lionsberg Name]]  
+[[LIØNSBERG Name]]  
 
 ## The Metaphor 
 
-[[Lionsberg Metaphor]]  
+[[LIØNSBERG Metaphor]]  
 
 ## The Purpose 
 
-[[Lionsberg Purpose]]  
+[[LIØNSBERG Purpose]]  
 
 ## The Intention
 
-[[Lionsberg Intention]]  
+[[LIØNSBERG Intention]]  
 
 ## The Mission 
 
-[[Lionsberg Mission]]  
+[[LIØNSBERG Mission]]  
 
 ## The Process 
 
 [[LIØNSBERG Process]]  
 
-## The Lionsberg Way
+## The LIØNSBERG Way
 
-[[Lionsberg Way]]  
+[[LIØNSBERG Way]]  
 
-## The Lionsberg System and Approach 
+## The LIØNSBERG System and Approach 
 
-[[Lionsberg System and Approach]]  
+[[LIØNSBERG System and Approach]]  
 [[LIØNSBERG System]]  
 
 ## The Transformative Quest 
 
-[[Lionsberg Quest]]  
+[[LIØNSBERG Quest]]  
 
 ## The Movement 
 
-[[Lionsberg Movement]]  
+[[LIØNSBERG Movement]]  
 
 ## The Game 
 
@@ -432,7 +432,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 
 ## The Economy 
 
-[[Lionsberg Economic System]]  
+[[LIØNSBERG Economic System]]  
 
 ## Success and Failure 
 
@@ -454,11 +454,11 @@ All collaboration and [[Decision Making]] occurs on the basis of [[Voluntary Con
 
 ## A Decentralized Federation
 
-Lionsberg is emerging as a decentralized federation. Decentralization will ensure [[Sovereignty]], [[Autonomy]], and [[Anti-Fragility]]. Federation will afford [[Higher Order Functional Unity]] among Sovereigns. 
+LIØNSBERG is emerging as a decentralized federation. Decentralization will ensure [[Sovereignty]], [[Autonomy]], and [[Anti-Fragility]]. Federation will afford [[Higher Order Functional Unity]] among Sovereigns. 
 
 ## Shared Infrastructure, Resources, and Support 
 
-Lionsberg will continuously improve a [[Commons]] of shared infrastructure resources, and support to connect and empower [[Sovereigns]]. 
+LIØNSBERG will continuously improve a [[Commons]] of shared infrastructure resources, and support to connect and empower [[Sovereigns]]. 
 
 ## Reciprocal Contributions 
 
@@ -466,9 +466,9 @@ The current [[Hypothesis]] is that we should voluntarily allocate ~10% of the [[
 
 ## Universal Wisdom, Principles, and Values 
 
-Lionsberg and [[The Movement]] are bounded by universal [[Wisdom]], [[Principles]], and [[Values]] that govern the domain and our progress. 
+LIØNSBERG and [[The Movement]] are bounded by universal [[Wisdom]], [[Principles]], and [[Values]] that govern the domain and our progress. 
 
-## The Great Game of Lionsberg 
+## The Great Game of LIØNSBERG 
 
 To invite the spirit of play and ensure [[The Movement]] is accessible to [[All]], we are [[Co-Creating]] [[The Great Game of LIØNSBERG]]. 
 
@@ -486,7 +486,7 @@ While we have forged a hypothesis and charted some milestones, the reality is th
 
 ## Governance and Navigation 
 
-To help us [[Navigate]] towards [[The Goal]], we will continuously improve the [[Lionsberg System of Governance]]. 
+To help us [[Navigate]] towards [[The Goal]], we will continuously improve the [[LIØNSBERG System of Governance]]. 
 
 ## Obstacles and Opportunities 
 
@@ -508,34 +508,34 @@ Our hypothesis is that we are now in [[The 7 Year Window of Crisis and Opportuni
 
 The first 18 months, from May 2023 to November 2024, are particularly critical. During this time, [[The Movement]] must reach escape velocity and elect an independent U.S. President with a global mandate to implement the [[New Vision and Plan]]. This makes all subsequent milestones possible. 
 
-## The Lionsberg Communications System 
+## The LIØNSBERG Communications System 
 
-We will communicate via the [[Lionsberg Communications System]].  This provides an archivable, searchable, harvestable, indexible place where what we think and know can emerge. 
+We will communicate via the [[LIØNSBERG Communications System]].  This provides an archivable, searchable, harvestable, indexible place where what we think and know can emerge. 
 
 ## The System Wide Master Plan 
 
 We will continuously improve a [[System Wide Master Plan]] to ensure that every individual, group, and community understands the [[New Vision and Plan]], and the [[Critical Path]]. 
 
-## The Lionsberg Navigation System 
+## The LIØNSBERG Navigation System 
 
-We will navigate together by continuously improving the [[Lionsberg Navigation System]]. In its minimum viable form, this consists of: 
+We will navigate together by continuously improving the [[LIØNSBERG Navigation System]]. In its minimum viable form, this consists of: 
 
-1. Periodic [[Requests For Guidance]] from Lionsberg out to the array of autonomous groups, and reciprocal [[Requests For Guidance]] from each group back to Lionsberg.  
-2. Progressive implementation of the [[Lionsberg System of Governance]].  
+1. Periodic [[Requests For Guidance]] from LIØNSBERG out to the array of autonomous groups, and reciprocal [[Requests For Guidance]] from each group back to LIØNSBERG.  
+2. Progressive implementation of the [[LIØNSBERG System of Governance]].  
 
 
-## The Lionsberg Integrated Delivery System 
+## The LIØNSBERG Integrated Delivery System 
 
 We will progressively implement the [[LIØNSBERG Integrated Delivery System]] to stack up, align, and resource [[Throughput]] of [[The Goal]]. 
 
-The Lionsberg Integrated Delivery System will track the [[Network of Commitments]] between [[Groups]] relative to the [[Critical Path]]. 
+The LIØNSBERG Integrated Delivery System will track the [[Network of Commitments]] between [[Groups]] relative to the [[Critical Path]]. 
 
 
 [[The LIØNSBERG Constitution]]  
 
 
 
-## More to Migrate and / or Delete formerly linked in [[Lionsberg Governance Guide]]: 
+## More to Migrate and / or Delete formerly linked in [[LIØNSBERG Governance Guide]]: 
 
 [[Co-Operation]]  
 [[Communities]]  
@@ -553,12 +553,12 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 [[Levels of Analysis]]  
 [[Levels of Abstraction]]  
 [[Limitations of the Old Systems]]  
-[[Lionsberg Governance Guide]]  
-[[Lionsberg System of Governance]]  
+[[LIØNSBERG Governance Guide]]  
+[[LIØNSBERG System of Governance]]  
 [[Meta Aspiration]]  
 [[Navigate]]  
 [[Navigation]]  
-[[Organizations The Lionsberg Way]]  
+[[Organizations The LIØNSBERG Way]]  
 [[Problems and Needs]]  
 [[Provisional Legal and Governance Structure]]  
 [[Retrospectives]]  
@@ -576,7 +576,7 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 [[x.x Minimum Standards of Interoperability]]  
 [[x.x Timeless Wisdom, Principles, and Values]]  
 
-## More to Migrate and / or Delete formerly linked in [[Lionsberg Integrated Delivery Guide]]:
+## More to Migrate and / or Delete formerly linked in [[LIØNSBERG Integrated Delivery Guide]]:
 
 [[2.0 Program Development]]  
 [[3.0 Program Delivery]]  
@@ -585,6 +585,6 @@ The Lionsberg Integrated Delivery System will track the [[Network of Commitments
 [[3.3 Communications and Reporting]]  
 [[3.4 Project Management Foundations]]  
 [[Agreements]]  
-[[Lionsberg Integrated Delivery Guide]]  
+[[LIØNSBERG Integrated Delivery Guide]]  
 [[Project Delivery Guide]]  
 [[Template For Project]]  

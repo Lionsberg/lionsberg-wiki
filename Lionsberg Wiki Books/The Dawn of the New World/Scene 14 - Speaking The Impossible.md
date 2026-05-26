@@ -16,4 +16,4 @@ ___
 Forward to: [[Scene 15 - Writing In The Spirit]]  
 Back to: [[Scene 13 - Rising Above The Chaos]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

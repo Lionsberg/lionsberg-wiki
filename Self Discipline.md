@@ -20,7 +20,7 @@ Several factors can challenge self-discipline, such as lack of motivation, diffi
 
 Cultivating self-discipline involves setting clear, achievable goals, developing effective time management and task prioritization strategies, and fostering a mindset of resilience and persistence. It also involves mindfulness and self-awareness, as understanding one's impulses and triggers can help in managing them effectively.
 
-**Self-Discipline in the Context of Lionsberg**
+**Self-Discipline in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, self-discipline becomes a key attribute. It enables us to maintain focus on our collective vision and make consistent efforts towards it, even when the journey becomes challenging or the outcome uncertain.
 

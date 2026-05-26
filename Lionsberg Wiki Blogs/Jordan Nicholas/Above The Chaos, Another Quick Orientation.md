@@ -42,7 +42,7 @@ It became clear we would need a governance and legal system that no one owned, w
 
 It became clear we would need an Integrated Delivery System... 
 
-...so we adapted an [[Lionsberg Integrated Delivery Guide]].  
+...so we adapted an [[LIØNSBERG Integrated Delivery Guide]].  
 
 It became clear we would need some backbone Technology Infrastructure...
 
@@ -50,7 +50,7 @@ It became clear we would need some backbone Technology Infrastructure...
 
 It became that we would need a complete philosophy, language, system, community, and culture... 
 
-...so we combined lifetimes of work and resources to co-create the [[Lionsberg Community]] and the [[LIØNSBERG System]].  
+...so we combined lifetimes of work and resources to co-create the [[LIØNSBERG Community]] and the [[LIØNSBERG System]].  
 
 [[LIØNSBERG]] has been convening around the idea of a “Meta Project” (the universal ethical imperative at this moment of history that is bigger than any one organization / institution). Including the themes above. 
 

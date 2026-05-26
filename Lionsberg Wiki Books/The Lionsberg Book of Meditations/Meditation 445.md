@@ -8,4 +8,4 @@ ___
 
 Forward to [[Meditation 446]]  
 Back to [[Meditation 444]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

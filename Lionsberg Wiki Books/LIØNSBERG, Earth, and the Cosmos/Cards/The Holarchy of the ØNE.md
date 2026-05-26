@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [metaphysics, holarchy, ontology, lionsberg-architecture]
+themes: [metaphysics, holarchy, ontology, LIØNSBERG-architecture]
 ---
 
 # The Holarchy of the ØNE

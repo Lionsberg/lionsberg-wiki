@@ -36,7 +36,7 @@
 	
 - [[The Great Game Beckons]]  
 	
-- Major work on [[The LIØNSBERG Lexicon|the Lexicon]] as a semantic key to [[The 12 Pillars of Lionsberg]] and [[The Story of LIØNSBERG]]  
+- Major work on [[The LIØNSBERG Lexicon|the Lexicon]] as a semantic key to [[The 12 Pillars of LIØNSBERG]] and [[The Story of LIØNSBERG]]  
 	
 - [[Look WithIn]]  
 	

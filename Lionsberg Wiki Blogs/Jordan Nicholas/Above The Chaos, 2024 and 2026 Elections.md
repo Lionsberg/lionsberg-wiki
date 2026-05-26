@@ -24,7 +24,7 @@ While we anticipate that the legislatures will be largely dominated by the corru
 
 The strategy that we are evaluating involves building a Vision and Values based movement fast enough to be able to essentially write in any candidate to the White House we choose while dealing with the complexities of the electoral college, and running front and back end Citizen Led blockchain-based checks on election integrity. 
 
-The US President, in concert with a coalition of governors, mayors, and a wise administration, would wield significant influence to begin addressing the issues plaguing the nation, repairing its Foundations, and placing the might of the United States back in service of its citizens and the world, while inviting other resonant tribes and nations to join [[The Lionsberg Alliance]]. 
+The US President, in concert with a coalition of governors, mayors, and a wise administration, would wield significant influence to begin addressing the issues plaguing the nation, repairing its Foundations, and placing the might of the United States back in service of its citizens and the world, while inviting other resonant tribes and nations to join [[The LIØNSBERG Alliance]]. 
 
 This strategy would be coupled to building a functional executive team / cabinet to begin actively serving The Movement in advance of the election, such that the public could choose to vote for a comprehensive [[New Vision and Plan]] founded on universal and eternal Wisdom, Principles, Values, coupled with an entire functioning slate of leaders, governors, and mayors capable of working together towards the [[Progressive Realization]] of [[The Goal]]. 
 

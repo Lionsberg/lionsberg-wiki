@@ -8,4 +8,4 @@ As Co-Creators, individuals and groups contribute their unique talents, perspect
 
 The Creator is inviting us to become Co-Creators of a Better World. 
 
-For a directory, see [[Lionsberg Co-Creators]].  
+For a directory, see [[LIØNSBERG Co-Creators]].  

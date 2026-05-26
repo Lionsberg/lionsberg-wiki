@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 195]]  
 Back to [[Meditation 193]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

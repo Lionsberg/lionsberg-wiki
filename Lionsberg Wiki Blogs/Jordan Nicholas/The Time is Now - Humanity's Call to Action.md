@@ -78,4 +78,4 @@ With love, hope, and unwavering faith that Together we can overcome,
 
 P.S. P.S. Once the tsunami arrives, [[The Window]] to build the network of Arks will have closed. **The Time is Now.**
 
-P.P.S. For deeper insight, explore the **[[Above The Chaos]]** series and **[[Lionsberg Wiki Books]]**—resources designed to inspire and inform action.
+P.P.S. For deeper insight, explore the **[[Above The Chaos]]** series and **[[LIØNSBERG Wiki Books]]**—resources designed to inspire and inform action.

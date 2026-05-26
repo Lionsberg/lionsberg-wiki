@@ -10,4 +10,4 @@ The 10 Year Grand Strategy will therefore be complete about 3 years after the la
 
 Because this kind of a Movement would be unprecedented in human history, the 10 Year Grand Strategy encompassing [[The 7 Year Window of Crisis and Opportunity]] and [[The 3 Year Lag]] is coupled to a [[20 Year Generational Contingency]]. 
 
-Details of The Grand Strategy are more fully reflected in [[The LIØNSBERG Strategy and Plan]] and the [[Lionsberg Wiki Books]]. 
+Details of The Grand Strategy are more fully reflected in [[The LIØNSBERG Strategy and Plan]] and the [[LIØNSBERG Wiki Books]]. 

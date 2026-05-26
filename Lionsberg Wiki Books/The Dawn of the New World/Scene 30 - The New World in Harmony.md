@@ -30,4 +30,4 @@ ___
 Forward to: [[Scene 31 - A Bright Future]]  
 Back to: [[Scene 29 - Co-creating the New World]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

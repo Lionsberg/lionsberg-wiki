@@ -1,4 +1,4 @@
-# **Invitation to Join the Lionsberg Alliance**
+# **Invitation to Join the LIØNSBERG Alliance**
 
 **Beloved Allies,**
 
@@ -16,9 +16,9 @@ But in isolation, even the most gifted among Us lack the resources, relationship
 
 ____
 
-### **The Lionsberg Alliance**
+### **The LIØNSBERG Alliance**
 
-This is your invitation to step out of isolation and join an evolving framework of unity and co-creation. The Lionsberg Alliance is a voluntary federation of sovereign individuals, communities, and organizations, built to connect and empower [[The First Three Percent]] as they guide humanity through this historic moment.
+This is your invitation to step out of isolation and join an evolving framework of unity and co-creation. The LIØNSBERG Alliance is a voluntary federation of sovereign individuals, communities, and organizations, built to connect and empower [[The First Three Percent]] as they guide humanity through this historic moment.
 
 This is not about centralization or control. It is about voluntarily weaving together Our diverse strengths, wisdom, resources, and relationships into a powerful and united [[Force For Good]]—a body far greater than the sum of its parts. It is about rising into a [[New Paradigm]] of co-creation and collaboration, becoming Stronger Together than any of Us can be in isolation. It is about building resilience and interoperability into an ecosystem diverse and powerful enough to not only survive, but thrive through all that lies ahead.
 
@@ -48,15 +48,15 @@ Together, We can:
 
 ---
 
-### **What the Lionsberg Alliance Offers**
+### **What the LIØNSBERG Alliance Offers**
 
-While models like [[Mondragon]] in Spain offer glimpses of what is possible at scale, We must co-create Our future Our Selves. The Lionsberg Alliance offers:
+While models like [[Mondragon]] in Spain offer glimpses of what is possible at scale, We must co-create Our future Our Selves. The LIØNSBERG Alliance offers:
 
 - **Mutual Empowerment**: Autonomous teams united in shared wisdom and strength.
 - **Offers and Needs Exchange**: A dynamic marketplace of resources, skills, and support.
 - **Peer Coaching Circles**: Leaders growing together through dialogue, problem-solving, and knowledge-sharing.
 - **Diversity and Resilience**: Unique gifts woven into a [[Whole]] far greater than the sum of its parts.
-- **The Lionsberg System**: A New Operating System enabling interoperability and resource flow across the emerging ecosystem / [[Team of Teams]]. 
+- **The LIØNSBERG System**: A New Operating System enabling interoperability and resource flow across the emerging ecosystem / [[Team of Teams]]. 
 - **Mentorship**: J will personally mentor the top 12 team leaders in 90-day [[The LIØNSBERG Calendar]], deepening relationships and empowering aligned collective action.
 
 ---
@@ -78,7 +78,7 @@ While models like [[Mondragon]] in Spain offer glimpses of what is possible at s
     Begin integrating your strengths into The Alliance through aligned 90-day [[The LIØNSBERG Calendar]], receiving coaching and support to overcome challenges and succeed.
     
 6. **Evolve the System**  
-    The Lionsberg System is a living, emergent body of wisdom and action. Help continuously improve and expand it as We transform together towards [[The Goal]].
+    The LIØNSBERG System is a living, emergent body of wisdom and action. Help continuously improve and expand it as We transform together towards [[The Goal]].
     
 7. **Federate Everything and Thrive Together**  
     Have fun, federate everything, and [[Help One Another]] flourish in harmony.
@@ -96,5 +96,5 @@ To take the first step, [RSVP Here](https://docs.google.com/forms/d/e/1FAIpQLSeR
 In Service of [[ØNE]] and [[All]],  
 ~ [[J]]  
 ____  
-Please review the [[Agreement to Join The Lionsberg Alliance]]  
+Please review the [[Agreement to Join The LIØNSBERG Alliance]]  
 ____

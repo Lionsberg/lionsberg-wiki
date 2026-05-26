@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 535]]  
 Back to [[Meditation 533]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

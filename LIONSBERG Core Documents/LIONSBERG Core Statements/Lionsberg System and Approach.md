@@ -1,9 +1,9 @@
-# Lionsberg System and Approach
+# LIØNSBERG System and Approach
 
-For more information on the Lionsberg System and Approach, see: 
+For more information on the LIØNSBERG System and Approach, see: 
 
-- [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+- [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]]  
 - [[Beyond The Meta Crisis - A Blueprint for a Better Future]], particularly Chapter 13 
 - [[The LIØNSBERG Strategy and Plan]]  
 - [[The LIØNSBERG Co-Creator's Handbook]]  
-- [[Lionsberg Wiki Books]]  
+- [[LIØNSBERG Wiki Books]]  

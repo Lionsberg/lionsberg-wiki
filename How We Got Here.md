@@ -4,7 +4,7 @@ The [[LIØNSBERG System]] operates on a [[Narrative Framework]] married up to Sy
 
 [[How We Got Here]] corresponds to Step 2 in the System - Analysis, specifically relative to the [[Backward Looking Story]]. 
 
-It invokes the [[Lionsberg Story System]].  
+It invokes the [[LIØNSBERG Story System]].  
 
 Narrative Framework:  
 1. [[Where We Are Going]] and [[Why]]  
@@ -22,4 +22,4 @@ Integrated Delivery Framework (Parallel):
 5. Action  
 6. Continuous Improvement  
 
-For [[LIØNSBERG]] as a Whole, How We Got Here is covered in the [[Lionsberg Trust Manifesto]] and the [[Lionsberg History and Inception]].  
+For [[LIØNSBERG]] as a Whole, How We Got Here is covered in the [[LIØNSBERG Trust Manifesto]] and the [[LIØNSBERG History and Inception]].  

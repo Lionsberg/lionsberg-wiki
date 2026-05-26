@@ -1,15 +1,15 @@
 # LIØNSBERG Wiki
 
-Hello! You are here on the Lionsberg Wiki. 
+Hello! You are here on the LIØNSBERG Wiki. 
 
 [[README]] will take you Home. 
 
-If you'd like to hear Jordan and Pete discussing some of the background, genesis, and technology behind the Lionsberg Wiki, you may be interested in Above The Chaos Episode 5, available on your favorite podcast platform, YouTube [Here](https://www.youtube.com/watch?v=IwLu5tT3cNs&list=PLLjjoevj7u2YJXdYKAeSxuTL_zs81pSvB&index=1), or X [Here](https://twitter.com/JNicholasOne/status/1710097546436083855). 
+If you'd like to hear Jordan and Pete discussing some of the background, genesis, and technology behind the LIØNSBERG Wiki, you may be interested in Above The Chaos Episode 5, available on your favorite podcast platform, YouTube [Here](https://www.youtube.com/watch?v=IwLu5tT3cNs&list=PLLjjoevj7u2YJXdYKAeSxuTL_zs81pSvB&index=1), or X [Here](https://twitter.com/JNicholasOne/status/1710097546436083855). 
 
 Below are a couple former draft homepages for the wiki :)  
 ______
 
-**To glimpse what is emerging**, see [[Something Powerful, New, and Good]]. For **deeper context**, explore [[Above the Chaos]], the [[Lionsberg Wiki Books]], or the earlier [[LIØNSBERG Wiki]] homepage. Everything, everywhere, is a [[Work In Progress]]. 
+**To glimpse what is emerging**, see [[Something Powerful, New, and Good]]. For **deeper context**, explore [[Above the Chaos]], the [[LIØNSBERG Wiki Books]], or the earlier [[LIØNSBERG Wiki]] homepage. Everything, everywhere, is a [[Work In Progress]]. 
 
 *We are working towards resynthesizing the millions of words and thousands of files on the wiki into a comprehensive new wiki structure that enables the complete decentralized propagation and adoption of the **LIØNSBERG System & Way**.*
 
@@ -395,7 +395,7 @@ These millions of words are categorized, organized, and amplified by a myriad of
 
 The **[[Above The Chaos]]** series narrates the unfolding Story from **[[J]]'s** perspective, taking you behind the scenes and beyond the fray of this seemingly monumental journey.
 
-Within the **[[Lionsberg Wiki Books]]**, you will find more structured pathways for diving deep into key concepts and ideas. The tables of contents provide an accessible map for those seeking to orient themselves in this vast field, and find New pathways of interest, passion, and resonance. Whether you are just beginning or deep into the journey, there is always more to discover.
+Within the **[[LIØNSBERG Wiki Books]]**, you will find more structured pathways for diving deep into key concepts and ideas. The tables of contents provide an accessible map for those seeking to orient themselves in this vast field, and find New pathways of interest, passion, and resonance. Whether you are just beginning or deep into the journey, there is always more to discover.
 
 ### Your Guide to the LIØNSBERG Universe
 

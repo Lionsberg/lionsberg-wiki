@@ -49,7 +49,7 @@ What began as several years of focused preparation and social experimentation le
 
 ### Progress Against Fibonacci Cycles
 
-According to [[The LIØNSBERG Strategy and Plan]], reaching [[The First Three Percent]] requires achieving **Cycle 40** of the Lionsberg Cycles of Growth:
+According to [[The LIØNSBERG Strategy and Plan]], reaching [[The First Three Percent]] requires achieving **Cycle 40** of the LIØNSBERG Cycles of Growth:
 
 | Target Cycle | Members Required | Percentage | Target Date | Status |
 |--------------|-----------------|------------|-------------|---------|
@@ -88,7 +88,7 @@ This clarification eliminates strategic questions about how and whether to work 
 - ✅ [[The LIØNSBERG Playbook]] - Practical guidance for circles, quests, embodiment
 - ✅ [[The 12 Pillars of LIØNSBERG]] - Complete civilizational work breakdown structure
 - ✅ [[The LIØNSBERG Pattern Language]] - Domain-independent patterns of success  
-- ✅ [[Lionsberg Wiki Books]] - Deep additional detail, philosophy, and frameworks   
+- ✅ [[LIØNSBERG Wiki Books]] - Deep additional detail, philosophy, and frameworks   
 
 **The Entry Experience:**  
 - ✅ [[README]] as an entry into [[The Gates of LIØNSBERG]] 
@@ -238,7 +238,7 @@ This is no longer about following a plan created by someone else. This is about 
 
 ### A. The 10-Month Critical Sprint
 
-**Objective:** Reach Cycle 40 (~268 million awakened individuals organized into ~50 million teams) by December 31, 2026. See [[Lionsberg Cycles of Growth]].  
+**Objective:** Reach Cycle 40 (~268 million awakened individuals organized into ~50 million teams) by December 31, 2026. See [[LIØNSBERG Cycles of Growth]].  
 
 **What This Requires:**
 

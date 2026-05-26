@@ -1,4 +1,4 @@
-# Lionsberg Treaty
+# LIØNSBERG Treaty
 
 _(2023.04.14 Draft For Continuous Improvement)_
 
@@ -6,7 +6,7 @@ Preamble:
 
 We, the free and united [[Citizens]] of the world, recognizing the monumental task that lies ahead as we navigate the challenges and opportunities presented by the [[Meta Crisis]], hereby affirm our commitment to the principles, values, and actions outlined in the [[LIØNSBERG Manifesto]] and the [[New Vision and Plan]]. As we embark on this transformative [[Quest]], we pledge to stand together in solidarity, guided by the principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Liberty]] for [[All]].
 
-Recognizing our interconnectedness, shared destiny, and inherent unity, we hereby agree to the following provisions of the **Lionsberg Treaty**:
+Recognizing our interconnectedness, shared destiny, and inherent unity, we hereby agree to the following provisions of the **LIØNSBERG Treaty**:
 
 Article 1: Commitment to Unity and Collaboration
 
@@ -38,8 +38,8 @@ Article 6: Forgiveness, Reconciliation, and Atonement
 1.  We commit to forgive one another for past harms, recognizing that healing and reconciliation are essential for the well-being and progress of our global community.
 2.  We pledge to actively work towards atonement, seeking to address and redress the consequences of past actions and to foster healing, understanding, unity and [[Right Relationship]] between [[ØNE]] and [[All]]. 
 
-By signing this Treaty, we, the [[Citizens]] of the world, affirm our allegiance to the ideals and aspirations set forth in the **Lionsberg Manifesto** and the [[New Vision and Plan]], and pledge our individual and collective energies, talents, and resources to the pursuit of a brighter, more prosperous, and regenerative future for all.
+By signing this Treaty, we, the [[Citizens]] of the world, affirm our allegiance to the ideals and aspirations set forth in the **LIØNSBERG Manifesto** and the [[New Vision and Plan]], and pledge our individual and collective energies, talents, and resources to the pursuit of a brighter, more prosperous, and regenerative future for all.
 
 ## Next Steps
 
-1.  To express your consent to the Lionsberg Treaty, please [[Respond to The Invitation]].
+1.  To express your consent to the LIØNSBERG Treaty, please [[Respond to The Invitation]].

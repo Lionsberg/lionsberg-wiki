@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [coherence, spirit, lionsberg-architecture]
+themes: [coherence, spirit, LIØNSBERG-architecture]
 ---
 
 # The Cohering Spirit

@@ -1,3 +1,3 @@
-# Lionsberg Purpose
+# LIØNSBERG Purpose
 
-The [[Purpose]] of Lionsberg is to [[Progressively Realize]] [[The Goal]].
+The [[Purpose]] of LIØNSBERG is to [[Progressively Realize]] [[The Goal]].

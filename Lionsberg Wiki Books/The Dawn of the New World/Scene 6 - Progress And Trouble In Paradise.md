@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 7 - The Beginning of the Perilous Descent]]  
 Back to: [[Scene 5 - The Threshold Of Knowing]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

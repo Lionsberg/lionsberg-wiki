@@ -56,6 +56,6 @@ It does not require permission from existing authorities. It does not depend on 
 
 ___
 
-_See [[The Lionsberg Approach to Citizen Led Governance]] for the full governance pattern language._  
+_See [[The LIØNSBERG Approach to Citizen Led Governance]] for the full governance pattern language._  
 _See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] and [[Total Nested Hierarchy of Sovereignties]]._  
 _See [[LIØNSBERG 101]]._

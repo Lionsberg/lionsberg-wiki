@@ -2,9 +2,9 @@
 
 A traditional definition of food might be [[Something Like]] *any substance consumed to provide nutritional support for an organism in order to aid life and growth*.
 
-In the context of the Lionsberg System, 'Food' extends beyond its traditional definition of physical sustenance to examine the [[Whole Being]] as a system of systems, at least including the physical, mental, emotional, energetic, and spiritual bodies. It encompasses all inputs, whether material, spiritual, or informational, that contribute positively to the growth, development, and well-being of an individual or a system. This holistic view integrates physical nourishment with mental, emotional, energetic and spiritual enrichment.
+In the context of the LIØNSBERG System, 'Food' extends beyond its traditional definition of physical sustenance to examine the [[Whole Being]] as a system of systems, at least including the physical, mental, emotional, energetic, and spiritual bodies. It encompasses all inputs, whether material, spiritual, or informational, that contribute positively to the growth, development, and well-being of an individual or a system. This holistic view integrates physical nourishment with mental, emotional, energetic and spiritual enrichment.
 
-In the Lionsberg System, Food is contrasted with [[Anti-Food]]. 
+In the LIØNSBERG System, Food is contrasted with [[Anti-Food]]. 
 
 **Conceptual Framework:**
 
@@ -14,7 +14,7 @@ In the Lionsberg System, Food is contrasted with [[Anti-Food]].
 - **Spiritual Food**: Practices, beliefs, and experiences that contribute to an individual’s spiritual growth and inner peace, ideally integrating and aligning personal, community, social, and natural values. 
 - **Energetic Food**: Practices or experiences that cultivate, enhance and balance the body's energy systems, such as edibles, Chi Gong, yoga, and acupuncture. 
 
-**Applications in the Lionsberg System:**
+**Applications in the LIØNSBERG System:**
 
 - **Holistic Wellbeing**: Emphasizing the balance of physical, mental, emotional, energetic and spiritual nourishment.
 - **Personal Development**: Guiding individuals towards sources of 'Food' that contribute to their overall well-being and growth.

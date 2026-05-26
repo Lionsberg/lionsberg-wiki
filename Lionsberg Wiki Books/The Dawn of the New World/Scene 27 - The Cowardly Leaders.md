@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 28 - Discovering the Hidden Treasure]]  
 Back to: [[Scene 26 - The Day of Battle]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

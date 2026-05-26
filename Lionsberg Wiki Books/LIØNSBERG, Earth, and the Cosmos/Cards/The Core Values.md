@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, values, foundational]
-source: Phase 2.1 audit of The Lionsberg System of Values
+source: Phase 2.1 audit of The LIØNSBERG System of Values
 captured: 2026-05-18
 ---
 

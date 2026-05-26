@@ -1,12 +1,12 @@
 # LIØNSBERG Website Theme — Project Plan
 
-_A proposal for lifting the visual presentation of **lionsberg.wiki** to match the weight of the work it carries._
+_A proposal for lifting the visual presentation of **LIØNSBERG.wiki** to match the weight of the work it carries._
 
 ---
 
 ## I. Synopsis — What This Is
 
-The LIØNSBERG Wiki contains a millennial text — prophetic register with operational precision, scripture that contains program management. Roughly 3 million words across ~3,000 files, built by **Massive Wiki Builder** into a static site and served at **lionsberg.wiki**.
+The LIØNSBERG Wiki contains a millennial text — prophetic register with operational precision, scripture that contains program management. Roughly 3 million words across ~3,000 files, built by **Massive Wiki Builder** into a static site and served at **LIØNSBERG.wiki**.
 
 The current shell is a stock [Bulma](https://bulma.io) starter: a teal `is-info` navbar, GitHub-style markdown CSS, system sans-serif body, a one-fifth sidebar column, no hero, no imagery, no motif, no visual identity. `custom.css` is a single empty comment.
 
@@ -37,7 +37,7 @@ The gap between the content's ambition and the visual presentation is the first 
 
 ## IV. Output, Goals, Value Created
 
-A production-ready `lionsberg` theme inside `.massivewikibuilder/this-wiki-themes/` that:
+A production-ready `LIØNSBERG` theme inside `.massivewikibuilder/this-wiki-themes/` that:
 
 - Carries the gravitas of a millennial text without decoration or ornament
 - Treats the homepage (README) as a **threshold** — a moment of arrival
@@ -61,7 +61,7 @@ The current `basso` theme stays untouched as a working fallback until the swap i
 2. Sidebar reflects actual book architecture (chapters, sections), not a flat link list.
 3. Dark and light modes both feel intentional, not inverted.
 4. No regression across the ~3,000 existing pages — every markdown file inherits the new theme cleanly.
-5. Swap from `basso` to `lionsberg` is a single config change, instantly revertible.
+5. Swap from `basso` to `LIØNSBERG` is a single config change, instantly revertible.
 
 ---
 
@@ -78,11 +78,11 @@ The current `basso` theme stays untouched as a working fallback until the swap i
 
 ### Phase 0 — Resolve the Build Dependency _(blocking)_
 
-**Find where `lionsberg.wiki` actually builds from.** No `.github/workflows/` entry exists in this repo, so Massive Wiki Builder is invoked externally — Netlify, Cloudflare Pages, GitHub Pages from a sibling repo, or another service. Before cutting a new theme, the Steward confirms where the build is triggered and how it picks its theme, so the eventual swap is one line rather than a hunt.
+**Find where `LIØNSBERG.wiki` actually builds from.** No `.github/workflows/` entry exists in this repo, so Massive Wiki Builder is invoked externally — Netlify, Cloudflare Pages, GitHub Pages from a sibling repo, or another service. Before cutting a new theme, the Steward confirms where the build is triggered and how it picks its theme, so the eventual swap is one line rather than a hunt.
 
 ### Phase 1 — Fork the Theme
 
-Copy `.massivewikibuilder/this-wiki-themes/basso/` → `.massivewikibuilder/this-wiki-themes/lionsberg/`. Clean git history around all design changes. `basso` remains untouched as fallback.
+Copy `.massivewikibuilder/this-wiki-themes/basso/` → `.massivewikibuilder/this-wiki-themes/LIØNSBERG/`. Clean git history around all design changes. `basso` remains untouched as fallback.
 
 ### Phase 2 — Design System
 
@@ -113,7 +113,7 @@ Design targets:
 
 ### Phase 5 — Swap
 
-Repoint the build config from `basso` to `lionsberg`. Verify the deployed build across the five page types. Keep `basso` in place for instant rollback.
+Repoint the build config from `basso` to `LIØNSBERG`. Verify the deployed build across the five page types. Keep `basso` in place for instant rollback.
 
 ### Phase 6 — Post-launch Refinement
 
@@ -146,8 +146,8 @@ Every design decision returns to one question: does this carry the weight of the
 
 | # | Work | Owner | Status |
 |---|---|---|---|
-| 0 | Confirm where `lionsberg.wiki` builds from and how theme is selected | Steward | **Blocking** |
-| 1 | Fork `basso` → `lionsberg` theme | Claude | Pending |
+| 0 | Confirm where `LIØNSBERG.wiki` builds from and how theme is selected | Steward | **Blocking** |
+| 1 | Fork `basso` → `LIØNSBERG` theme | Claude | Pending |
 | 2 | Design system: type, color, motif, spacing | Claude + Steward | Pending |
 | 3 | Iterate five representative page types on preview branch | Claude + Steward | Pending |
 | 4 | Navigation architecture + reading chrome | Claude | Pending |
@@ -167,7 +167,7 @@ Every design decision returns to one question: does this carry the weight of the
 
 ## XII. Notes and Open Questions
 
-- Should the navbar read **LIØNSBERG** (all caps, matching the canonical spelling) instead of "Lionsberg Wiki"?
+- Should the navbar read **LIØNSBERG** (all caps, matching the canonical spelling) instead of "LIØNSBERG Wiki"?
 - Is there an existing logo or visual mark the theme should incorporate, or do we commission/design the motif fresh?
 - Does the Steward want the book pages to carry a visible chapter identifier (e.g., small ornament or color tint per chapter), or should all chapters render identically?
 - Should blog posts have a visually distinct treatment from the book chapters (different type color, slightly different chrome) to preserve individual voice?

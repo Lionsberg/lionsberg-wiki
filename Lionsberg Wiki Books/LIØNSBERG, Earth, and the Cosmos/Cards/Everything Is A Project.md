@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, convention, integrated-delivery, foundational]
-source: Phase 2.1 audit of The Lionsberg Book of Conventions
+source: Phase 2.1 audit of The LIØNSBERG Book of Conventions
 captured: 2026-05-18
 ---
 

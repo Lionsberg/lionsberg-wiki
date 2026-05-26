@@ -95,7 +95,7 @@ _The orienting telos. Equated to **Creator's Intent for Worksite Earth**. The re
 **Articulation:**
 
 - The full articulation of [[Heaven On Earth]] as the telos of Worksite Earth — what it actually means, what it actually looks like, how it is recognized when present and how it is recognized when absent.
-- The cosmic arc — from [[ØNE]] through procession, through fragmentation, through the long passage, through the [[Sacred Ascent]] back toward [[ØNE]]. The brief metaphysical context (the full articulation lives in [[The Story of LIØNSBERG]] and the [[Lionsberg Theory of Everything]] chapter of [[The Book of LIØNSBERG]]).
+- The cosmic arc — from [[ØNE]] through procession, through fragmentation, through the long passage, through the [[Sacred Ascent]] back toward [[ØNE]]. The brief metaphysical context (the full articulation lives in [[The Story of LIØNSBERG]] and the [[LIØNSBERG Theory of Everything]] chapter of [[The Book of LIØNSBERG]]).
 - **Worksite Earth as a Specific Local Articulation of Designer's Intent** — Earth is one world within a vast cosmic Story. The Plans and Specifications of Volume V are tuned to this world's specific conditions: the Meta Crisis, the Wilderness passage, the planetary grid emerging, the awakening population, the technological inflection. Volume V is universal in its DNA and specific in its present form.
 - **The Reference Test** — every Plan, every Specification, every Pattern is tested against this Intent. Does this move toward [[Heaven On Earth]] for [[All]] in [[Right Relationship]] — or away from it? Does it honor sovereignty, the voluntary, and Love as supreme — or compromise them? The Intent is the canonical reference.
 
@@ -119,7 +119,7 @@ _The Constitutional Charter face of Volume V is fulfilled by [[The LIØNSBERG Co
 
 **Articulation:**
 
-- Pointer to and integration with [[The LIØNSBERG Constitution]] (canonical location: `LIØNSBERG Core Documents/Lionsberg Constitution/The LIØNSBERG Constitution.md`).
+- Pointer to and integration with [[The LIØNSBERG Constitution]] (canonical location: `LIØNSBERG Core Documents/LIØNSBERG Constitution/The LIØNSBERG Constitution.md`).
 - The mapping of Constitution Parts (I–XII) to Volume V Parts — which constitutional provisions are operationalized in which Volume V Part.
 - The amendment relationship — how Volume V is amended; how the Constitution is amended (per Article XII.3); the Spirit-Conformance Test in practice.
 
@@ -199,10 +199,10 @@ _The 12 Sacred Pillars operationalized. The substantive systems through which a 
 
 **Principles:**
 
-- **The Twelvefold Cut** — the 12 Pillars are the canonical structural decomposition of civilization. The same twelvefold cut threads [[The LIØNSBERG Lexicon|the Lexicon]] (vocabulary), this Volume (specifications), and [[The Theses of Lionsberg|the Theses]] (normative content).
+- **The Twelvefold Cut** — the 12 Pillars are the canonical structural decomposition of civilization. The same twelvefold cut threads [[The LIØNSBERG Lexicon|the Lexicon]] (vocabulary), this Volume (specifications), and [[The Theses of LIØNSBERG|the Theses]] (normative content).
 - **Each Pillar as a Sacred System** — every domain is held _sacredly_. There is no merely-secular Pillar. Economy is sacred. Governance is sacred. Science is sacred. Each Pillar is the structural articulation of how the [[ØNE]] Order of Reality manifests within that domain.
 - **The Twelve Form ØNE Body** — the Pillars are not independent. Governance constrains Economy. Economy constrains Architecture. Culture suffuses all. Each Pillar operates in [[Right Relationship]] with every other Pillar.
-- **The ~144 Theses** — approximately 12 Theses per Pillar, articulated from Old → New (the existing 144/156 Theses corpus lives under each Pillar; canonical home: [[The Theses of Lionsberg|the Theses wiki book]] nested under [[The 12 Pillars of LIØNSBERG]]).
+- **The ~144 Theses** — approximately 12 Theses per Pillar, articulated from Old → New (the existing 144/156 Theses corpus lives under each Pillar; canonical home: [[The Theses of LIØNSBERG|the Theses wiki book]] nested under [[The 12 Pillars of LIØNSBERG]]).
 
 **Articulation:** Each Pillar receives its own canonical section below, following the section template (Intent · Principles · Theses · Patterns). Pattern pointers reference Part VI.
 
@@ -212,7 +212,7 @@ _What is. The orienting recognitions of Reality. The patterns by which sovereign
 
 - **Intent:** Anchor every other Pillar in clear sight of what is actually Real. No Plan, no Specification, no Pattern can be true if it is built on illusion about the nature of Reality.
 - **Principles:** The [[ØNE]] as ground. Sacred Interconnection across all beings and scales. The refusal of dogma. The holding open of the deepest questions. The recognition that articulation is provisional; what articulation points to is not.
-- **Articulation:** The ~12 Theses for Sacred Ontology and Metaphysics (canonical home: [[The Theses of Lionsberg]] under this Pillar). The contemplative disciplines; the practices of truth-seeking; the canonical recognitions of [[ØNE]].
+- **Articulation:** The ~12 Theses for Sacred Ontology and Metaphysics (canonical home: [[The Theses of LIØNSBERG]] under this Pillar). The contemplative disciplines; the practices of truth-seeking; the canonical recognitions of [[ØNE]].
 - **Patterns:** Pointers to Part VI's Foundational Patterns of ontology and the Pattern Cards specific to this domain.
 
 ### Pillar II — Sacred Governance and Stewardship
@@ -341,7 +341,7 @@ _The cross-cutting design grammar that threads every Part and every Pillar. The 
 
 **Articulation:**
 
-Volume V Part VI integrates by pointer with the canonical Pattern Language wiki book: [[The LIØNSBERG Pattern Language]] (`LIØNSBERG Wiki Books/The Lionsberg Pattern Language/The LIØNSBERG Pattern Language.md`). The Pattern Language is the substantive design-grammar subset of Volume V; the wiki book is its canonical home; this Part is its integration into the Plans and Specifications.
+Volume V Part VI integrates by pointer with the canonical Pattern Language wiki book: [[The LIØNSBERG Pattern Language]] (`LIØNSBERG Wiki Books/The LIØNSBERG Pattern Language/The LIØNSBERG Pattern Language.md`). The Pattern Language is the substantive design-grammar subset of Volume V; the wiki book is its canonical home; this Part is its integration into the Plans and Specifications.
 
 The full Pattern Language rebuild is Phase 4 work. The current canonical structure:
 

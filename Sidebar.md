@@ -12,7 +12,7 @@ This site is a [[Work In Progress]]
 [[The LIØNSBERG Living Library]]  
 
 # The Wider Wiki
-[[Lionsberg Wiki Books]]  
+[[LIØNSBERG Wiki Books]]  
 [[Above The Chaos]]  
 [[Something Powerful, New, and Good]]  
 

@@ -4,4 +4,4 @@ ___
 
 Forward to [[Meditation 262]]  
 Back to [[Meditation 260]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

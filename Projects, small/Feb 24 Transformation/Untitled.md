@@ -7,7 +7,7 @@ _The last major update before inviting the first 12._
 
 Transform the entire LIØNSBERG user journey into a totally coherent, omniconsiderate experience that will work to reach The First Three Percent. Every document the first 12 people will encounter — from first click to weekly play — must be at absolute peak: systemically rigorous AND full of heart, beauty, dance, and play.
 
-**The test**: If 12 people receive the link lionsberg.wiki tomorrow, can they read through, form circles, begin playing, and pass the flame within one week — with everything they need in place and nothing that breaks their trust or loses their momentum?
+**The test**: If 12 people receive the link LIØNSBERG.wiki tomorrow, can they read through, form circles, begin playing, and pass the flame within one week — with everything they need in place and nothing that breaks their trust or loses their momentum?
 
 ---
 

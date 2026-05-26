@@ -13,4 +13,4 @@ ___
 Forward to [[Our Response To The Goodness Of God]]  
 Back to [[The Exodus, And Crossing The Chasm]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

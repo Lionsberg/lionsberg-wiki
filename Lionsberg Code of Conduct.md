@@ -1,8 +1,8 @@
-# Lionsberg Code of Conduct
+# LIØNSBERG Code of Conduct
 
 ## Preamble
 
-The Lionsberg Code of Conduct is an embodiment of our covenant relationship, reflecting the values of respect, love, and mutual support that we hold dear. It is a guidepost for how we interact with one another, navigate towards Wisdom and Truth, uphold our responsibilities, and fulfill our aspirations for a better and more harmonious world. This code is not a rigid set of rules, but a living document that reflects the Central Animating Spirit of Lionsberg, and evolves with our understanding and practice of these principles.
+The LIØNSBERG Code of Conduct is an embodiment of our covenant relationship, reflecting the values of respect, love, and mutual support that we hold dear. It is a guidepost for how we interact with one another, navigate towards Wisdom and Truth, uphold our responsibilities, and fulfill our aspirations for a better and more harmonious world. This code is not a rigid set of rules, but a living document that reflects the Central Animating Spirit of LIØNSBERG, and evolves with our understanding and practice of these principles.
 
 We understand this Spirit to be the Source of Truth, Love, Justice, Stewardship, Wisdom, Beauty, and Life. 
 
@@ -56,4 +56,4 @@ We understand this Spirit to be the Source of Truth, Love, Justice, Stewardship,
 
 ## Conclusion
 
-The Lionsberg Code of Conduct is a reflection of our shared values and aspirations. It is a guide for how we interact with one another, uphold our mutual responsibilities, and work towards our collective goal of creating a world that reflects the Creator's Intent of love, justice, harmony, and abundance for all. Let it serve as a reminder of the eternal covenant relationship we All share with the One Source and Sustainer, and the sacred journey we undertake together to become Co-Creators of a better world. 
+The LIØNSBERG Code of Conduct is a reflection of our shared values and aspirations. It is a guide for how we interact with one another, uphold our mutual responsibilities, and work towards our collective goal of creating a world that reflects the Creator's Intent of love, justice, harmony, and abundance for all. Let it serve as a reminder of the eternal covenant relationship we All share with the One Source and Sustainer, and the sacred journey we undertake together to become Co-Creators of a better world. 

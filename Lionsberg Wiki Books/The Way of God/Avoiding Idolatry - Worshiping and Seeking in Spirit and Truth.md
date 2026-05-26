@@ -17,4 +17,4 @@ _____
 Forward to [[No Translation is Perfect]]  
 Back to [[Wisdom, Principles, and Values - the Universal and Eternal Truths Applicable in any Time and Space]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

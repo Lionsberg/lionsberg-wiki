@@ -15,4 +15,4 @@ Key elements of Catalytic Resources include:
 5.  **Mentorship and Support**: Providing guidance, mentorship, and support to individuals, communities, and organizations as they navigate the challenges and opportunities associated with implementing the New Vision and Plan. This can help to build resilience, foster innovation, and ensure long-term success.
     
 
-The [[Lionsberg Platform]] and [[Citizen Led]] movement aim to mobilize and distribute Catalytic Resources across various sectors, regions, and stakeholder groups. By doing so, they can help to accelerate the transition to a more just, regenerative, and thriving world, and ensure that everyone has the opportunity to participate in and benefit from this transformation.
+The [[LIØNSBERG Platform]] and [[Citizen Led]] movement aim to mobilize and distribute Catalytic Resources across various sectors, regions, and stakeholder groups. By doing so, they can help to accelerate the transition to a more just, regenerative, and thriving world, and ensure that everyone has the opportunity to participate in and benefit from this transformation.

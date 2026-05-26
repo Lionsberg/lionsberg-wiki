@@ -10,7 +10,7 @@ _One of the four frames of [[The LIØNSBERG Experience|The Experience]]._
 
 **Receive.**
 
-A trusted person sends a link. The Sovereign arrives at `lionsberg.wiki`. They land at the Golden Seed. Something in them recognizes what they are seeing — not because they were convinced, but because they already knew.
+A trusted person sends a link. The Sovereign arrives at `LIØNSBERG.wiki`. They land at the Golden Seed. Something in them recognizes what they are seeing — not because they were convinced, but because they already knew.
 
 Discovery is the moment the Seed is first received. Nothing more is required.
 

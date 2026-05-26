@@ -33,4 +33,4 @@ ___
 Forward to [[God And Justice Will Prevail - In Strength]]  
 Back to [[The Case Study Of Jerusalem]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

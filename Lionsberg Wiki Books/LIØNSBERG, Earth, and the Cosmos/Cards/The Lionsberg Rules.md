@@ -2,17 +2,17 @@
 status: captured
 fold_target: II
 themes: [pattern-language, rule-of-life, foundational]
-source: Phase 2.1 audit of The Lionsberg Rules
+source: Phase 2.1 audit of The LIØNSBERG Rules
 captured: 2026-05-18
 ---
 
-# The Lionsberg Rules
+# The LIØNSBERG Rules
 
 The minimal Rule of life — Benedictine-spare, sufficient to begin again from anywhere.
 
 Like the Rule of Benedict, like the Twelve Traditions of AA, like the Great Law of Peace — the Pattern needs a **short, transmissible document** that can fit on one page, be read aloud in one breath, and be remembered across generations.
 
-The Lionsberg Rules are two.
+The LIØNSBERG Rules are two.
 
 **The Meta Rule:**
 

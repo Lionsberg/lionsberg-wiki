@@ -6,7 +6,7 @@
 
 ## Transcript Mapping
 
-All twelve transcripts located at `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/`:
+All twelve transcripts located at `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/`:
 
 | Batch | Transcript file | Size | Lines | Status |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ Extracted final memos staged at `Workspaces/Phase 2.7 Transcription/_extracts/PK
 
 **Ledger:** Lines 2776-2837. Reports ~33 net-new Cards + ~12 refinements across 463 files.
 
-**Transcript:** Returned 2026-05-19. Read in depth: 144 Theses, Ordo Omnia V3, The Great Synthesis, The Nameless Way, The Great Refounding, Exiting The Kontrolle Structure, Phase I Philosophical and Conceptual Exploration, Lionsberg Constitution, Constitution Cuts, Properly Designed Incentives, Designing and Building a Better World, The Big Ideas, A Gamified Substructure, Beyond the Meta Crisis, Life & Conscious Engineering, JORDAN'S STORY, notes for Existential Threat alien book, ~30 sampled voice notes.
+**Transcript:** Returned 2026-05-19. Read in depth: 144 Theses, Ordo Omnia V3, The Great Synthesis, The Nameless Way, The Great Refounding, Exiting The Kontrolle Structure, Phase I Philosophical and Conceptual Exploration, LIØNSBERG Constitution, Constitution Cuts, Properly Designed Incentives, Designing and Building a Better World, The Big Ideas, A Gamified Substructure, Beyond the Meta Crisis, Life & Conscious Engineering, JORDAN'S STORY, notes for Existential Threat alien book, ~30 sampled voice notes.
 
 **Net-new Card count in transcript:** 33. **Net-new in ledger:** 33. **Match: 100%.**
 
@@ -202,7 +202,7 @@ All Cards verbatim-match. Refinement table (15 entries) matches ledger line 4002
 8. **Auditable by Default (No Black Boxes)** — **MISSING**
 9. **HAAH (Human-Agent-Agent-Human)** — already in PKM-1 ledger, so dedup OK
 10. **Progressive Trust (Four Authentication Levels)** — **MISSING**
-11. **The Three Supreme Agreements (Lionsberg Form)** — present in ledger line 3877
+11. **The Three Supreme Agreements (LIØNSBERG Form)** — present in ledger line 3877
 12. **The Eleven Application Platforms** — already in PKM-1 ledger, dedup OK
 13. **The Adaptive vs. Technical Challenge Distinction** — present in ledger
 14. **The Six Pillars of Ergodic Execution** — present in ledger

@@ -29,9 +29,9 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | Beyond The Meta Crisis | 108 | Policy-facing blueprint with 10 justice/reform domains and discussion-group questions |
 | The Last Chance | 55 | Dialogue format, probabilistic collapse analysis, post-collapse scenario fiction |
 | An Alternative to Apocalypse | 18 | Abrahamic/Jubilee theological-political frame |
-| The Lionsberg Blueprint | 37 | Manifesto. "Worksite Earth 2.0" framing. Architecture from crisis through measurement. |
+| The LIØNSBERG Blueprint | 37 | Manifesto. "Worksite Earth 2.0" framing. Architecture from crisis through measurement. |
 | Pass The Flame | 4 | Raw parable pamphlet — confessional, personal, emotionally immediate |
-| Lionsberg, Simple and Clear | 18 | Full overview in accessible language — "LIØNSBERG in one book" |
+| LIØNSBERG, Simple and Clear | 18 | Full overview in accessible language — "LIØNSBERG in one book" |
 | When It's All On The Line | 9 | Crisis survival/embodiment guide — how to eat, sleep, fight, love during collapse |
 
 **Assessment:** Most People now covers the "how it works" domain comprehensively. The _unique_ thought in the others that is NOT captured includes: the explicit Jubilee framework (Alt to Apocalypse), the probabilistic reasoning and post-collapse fiction (Last Chance), the 10 justice/reform domain analysis (Beyond Meta Crisis), the Worksite Earth framing (Blueprint), the "how to live during crisis" embodiment curriculum (When It's All On The Line), and the raw emotional pamphlet energy (Pass The Flame).
@@ -63,9 +63,9 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 |------|-------|-------------------|
 | The Book of LIØNSBERG | 560 | **The canonical scripture.** 15 Quests covering every dimension — perception, navigation, purpose, creativity, sovereignty, unity, heroism. The sourcebook. |
 | The Way of God | 48 | Theological scholarship — Isaiah, Jesus, canonical hermeneutics |
-| Lionsberg - A Biblical Perspective | 17 | Apologetic bridge for evangelical/conservative audiences |
+| LIØNSBERG - A Biblical Perspective | 17 | Apologetic bridge for evangelical/conservative audiences |
 | The One | 3 | Pure metaphysical consciousness activation text |
-| The Myth of Lionsberg | 1 | Creation myth in the register of sacred scripture |
+| The Myth of LIØNSBERG | 1 | Creation myth in the register of sacred scripture |
 | A 200 Page Book | 1 | Cosmic creation/war/liberation myth in verse (Gates 1-35+) |
 | The Sacred Ascent | 1 | The grand arc narrative — 7 movements at every scale |
 | Rediscovering the Way | 35 | Martial/spiritual philosophy — universal warrior path |
@@ -82,19 +82,19 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
 | LIØNSBERG 101 | 9 | **The compressed golden seed.** Concentric rings from ØNE to action. |
-| The Lionsberg Playbook | 30+ | Current operational field guide — specific plays for every phase |
+| The LIØNSBERG Playbook | 30+ | Current operational field guide — specific plays for every phase |
 | The LIØNSBERG Way | 17 | Operational philosophy — the reasoning behind the plays |
 | Citizen Led Governance | 46 | Step-by-step governance at every scale — patterns, case studies, monitoring |
-| The Lionsberg Pattern Language | 1 | DNA documentation of The Golden Seed |
+| The LIØNSBERG Pattern Language | 1 | DNA documentation of The Golden Seed |
 | The 12 Pillars | 14 | Civilizational domain architecture — the complete work breakdown |
 | The Program Delivery Guide | 15 | External methodology: lean construction mapped to LIØNSBERG |
 | The Meta Project | 30 | Program management discipline applied to civilization-building |
 | Kingdom Plans & Specs | 2 | Complete civilization blueprint — the most architecturally complete single document |
-| The Lionsberg Strategy and Plan | 35 | Living operational strategy with quarterly updates |
-| Lionsberg Elevation Initiative | 23 | Human development and education architecture |
-| Lionsberg Academy | 1 | Free world-class education pathway |
-| The Lionsberg System Toolkit | 5 | Operational tools and templates |
-| The Lionsberg Rules | 3 | Axiomatic ruleset (Rule One + derivatives) |
+| The LIØNSBERG Strategy and Plan | 35 | Living operational strategy with quarterly updates |
+| LIØNSBERG Elevation Initiative | 23 | Human development and education architecture |
+| LIØNSBERG Academy | 1 | Free world-class education pathway |
+| The LIØNSBERG System Toolkit | 5 | Operational tools and templates |
+| The LIØNSBERG Rules | 3 | Axiomatic ruleset (Rule One + derivatives) |
 
 **Assessment:** LIØNSBERG 101, the Playbook, and the PDG are already strong. The unique thought scattered across the others includes: the full governance manual (Citizen Led Governance), the civilizational WBS (12 Pillars), the Kingdom Plans & Specs (the "if you could only have one document" blueprint), and the human development architecture (Elevation Initiative).
 
@@ -104,7 +104,7 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
-| The Lionsberg Book of Meditations | 664 | Daily devotional — 664 contemplative fragments |
+| The LIØNSBERG Book of Meditations | 664 | Daily devotional — 664 contemplative fragments |
 | A Way Beyond Fear, Anxiety, and Depression | 58 | Psychology/neuroscience of emotional healing |
 | The Power of Today | 47 | Daily practice guide — today as the fundamental lever |
 | The Power of One | 11 | Atomic unit — one person, one hour |
@@ -121,10 +121,10 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
 | The Dawn of the New World | 32 | The only full fiction — screenplay with named characters |
-| The Chronicles of Lionsberg | 6 | Mythological history of LIØNSBERG as cosmic archetype |
+| The Chronicles of LIØNSBERG | 6 | Mythological history of LIØNSBERG as cosmic archetype |
 | The Chronicles of J | 5 | Jordan's personal memoir |
 | Playing With Poetry | 1 | Pure poetry |
-| The Lionsberg Book of Parables | 8 | Teaching parables |
+| The LIØNSBERG Book of Parables | 8 | Teaching parables |
 | 144 Threads | 147 | Encyclopedic synthesis in threaded format |
 
 ### Cluster 7: "Reference Materials"
@@ -133,27 +133,27 @@ Having read the TOC/index of every single book, seven natural clusters emerge. T
 
 | Book | Files | Unique Contribution |
 |------|-------|-------------------|
-| The Lionsberg Book of Quotes | 1 | Curated wisdom quotations |
-| The Lionsberg Book of Metaphors | 1 | Core symbolic infrastructure |
-| The Lionsberg Book of Emotions | 1 | Emotional vocabulary |
-| The Lionsberg Book of People | 1 | Hall of exemplars |
-| The Lionsberg System of Values | 1 | Value ontology |
+| The LIØNSBERG Book of Quotes | 1 | Curated wisdom quotations |
+| The LIØNSBERG Book of Metaphors | 1 | Core symbolic infrastructure |
+| The LIØNSBERG Book of Emotions | 1 | Emotional vocabulary |
+| The LIØNSBERG Book of People | 1 | Hall of exemplars |
+| The LIØNSBERG System of Values | 1 | Value ontology |
 | Frequently Asked Questions | 41 | Objection handling |
 | Anomalies of Interest | 1 | Real-time intelligence |
 | The LIØNSBERG Codex | 1 | Meta-index / architecture map |
 
 ### The Deprecated, Empty, and Migrated:
 
-- The Lionsberg Co-Creator Handbook (2 files) — absorbed into Playbook
-- Lionsberg Orientation and Training (4 files) — migrated to LIØNSBERG Experience
-- The Lionsberg Meta Guide (10 files) — migrating
+- The LIØNSBERG Co-Creator Handbook (2 files) — absorbed into Playbook
+- LIØNSBERG Orientation and Training (4 files) — migrated to LIØNSBERG Experience
+- The LIØNSBERG Meta Guide (10 files) — migrating
 - MindWeaving The Life Divine (0 files) — empty
 - The Roving Temple Dojo (1 file) — concept seed
 - The Sandpoint 300 (1 file) — local seed
 - The LIØNSBERG (syn)Thesis — empty directory
 - The Quest Towards The Goal (1 file) — index only
 - Transmedium Ark Exploration (1 file) — speculative AI exploration
-- Lionsberg Guide to Movement Building (1 file) — methodology notes
+- LIØNSBERG Guide to Movement Building (1 file) — methodology notes
 
 ---
 
@@ -177,7 +177,7 @@ When someone arrives at the LIØNSBERG Wiki Books page, they should encounter so
 7. **[[The LIØNSBERG Strategy and Plan]]** — The 10 Year Grand Strategy with rolling quarterly updates.
 
 **Tier 4: Daily Practice and Contemplation**
-8. **[[The Lionsberg Book of Meditations]]** — 664 contemplative fragments for daily practice.
+8. **[[The LIØNSBERG Book of Meditations]]** — 664 contemplative fragments for daily practice.
 9. **[[144 Threads]]** — The encyclopedic synthesis. Every thread of the vision woven into a single tapestry.
 
 ---

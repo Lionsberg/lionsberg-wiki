@@ -33,6 +33,6 @@ The discipline is **not optional in the present hour**. [[Universal Assured Dest
 
 The discipline also has **everyday consequences**. A trained Practitioner enters a room and the room shifts. The conflict de-escalates. The grief in the corner softens. The child who was anxious becomes still. Not by intention or technique alone — by the **field the Practitioner's plasma body is sustaining**. This is what the wise elders across cultures have always offered. The Pattern names it now operationally, so the next generation can train deliberately what previous generations stumbled into.
 
-The discipline is **slow**. The fastest cultivation traditions still require years of daily practice to produce stable plasma formation. The slowest require decades. The Codex does not promise shortcuts. The Codex promises that the discipline is **real** and that the [[The Lionsberg Academy|Academy]] will hold the conditions for those who choose to walk it.
+The discipline is **slow**. The fastest cultivation traditions still require years of daily practice to produce stable plasma formation. The slowest require decades. The Codex does not promise shortcuts. The Codex promises that the discipline is **real** and that the [[The LIØNSBERG Academy|Academy]] will hold the conditions for those who choose to walk it.
 
 Lives canonically in [[The Sacred Ascent]] within the Warrior Codex as the foundational energetic anatomy of the trained Practitioner.

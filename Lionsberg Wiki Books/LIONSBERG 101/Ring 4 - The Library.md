@@ -36,8 +36,8 @@ These books describe **How It Works** — the practical patterns, governance str
 - **[[The Great Game of LIØNSBERG]]** — The comprehensive game framework. Circles, Quests, the Fibonacci pattern, the rules of the Meta Game, progression through the Seven Gates.
 - **[[The LIØNSBERG Playbook]]** — Operational guidance for forming Circles, undertaking Quests, governing communities, and playing the Game.
 - **[[The Program Delivery Guide]]** — The core document informing LIØNSBERG's production system and localization to Earth — drawing on Integrated Project Delivery, Lean Construction, the Toyota Production System, and decades of proven operational wisdom, distilled into the Prototype/Kit of Parts.
-- **[[The Lionsberg Approach to Citizen Led Governance]]** — The full governance pattern language: Stewarding the Commons, Citizen Led Self-Governance, Voluntarily Organizing and Federating, Voluntary Tithing, Exchanging Units of Value.
-- **[[Organizations The Lionsberg Way]]** — How organizations are structured within the federation.
+- **[[The LIØNSBERG Approach to Citizen Led Governance]]** — The full governance pattern language: Stewarding the Commons, Citizen Led Self-Governance, Voluntarily Organizing and Federating, Voluntary Tithing, Exchanging Units of Value.
+- **[[Organizations The LIØNSBERG Way]]** — How organizations are structured within the federation.
 
 ### The Core Pattern
 
@@ -69,7 +69,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 - **[[Central Animating Spirit]]** — The Spirit of Love from which all patterns flow
 - **[[Meta Goal]]** — The overarching goal of goals
 - **[[Meaningful Work]]** — What makes work meaningful and therefore valuable
-- **[[Lionsberg Units of Value]]** — The internal currency of contribution and reciprocity
+- **[[LIØNSBERG Units of Value]]** — The internal currency of contribution and reciprocity
 - **[[Citizen Led Self-Governance]]** — Governance from the ground up
 - **[[The Flame]]** — The living transmission of the Pattern from hand to hand
 - **[[The 300]]** — The archetypal role in every community of 10,000
@@ -105,9 +105,9 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 **If you want to form a Circle**: Go to [[The LIØNSBERG Playbook]] and [[The Great Game of LIØNSBERG]].
 
-**If you want to understand the governance**: Read [[The Lionsberg Approach to Citizen Led Governance]].
+**If you want to understand the governance**: Read [[The LIØNSBERG Approach to Citizen Led Governance]].
 
-**If you want to understand the economics**: Read about [[Meaningful Work]], [[Time Currency]], [[Lionsberg Units of Value]], and [[Voluntary Tithing]].
+**If you want to understand the economics**: Read about [[Meaningful Work]], [[Time Currency]], [[LIØNSBERG Units of Value]], and [[Voluntary Tithing]].
 
 **If you want to understand the historical evidence**: Read [[Mondragon]], [[The Prophesy of Mondragon]], and [[Ring 3 - The Living Proof]].
 

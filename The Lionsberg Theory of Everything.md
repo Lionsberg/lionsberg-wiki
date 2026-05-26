@@ -1,4 +1,4 @@
-# The Lionsberg Theory of Everything
+# The LIØNSBERG Theory of Everything
 
 ***Outline for a Omniharmonically Unified Cosmos and a [[New Civilization]]***
 

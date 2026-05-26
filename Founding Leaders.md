@@ -15,7 +15,7 @@ The Wisdom Council shall report to the Community / Federation no less than quart
 
 Depending on the complexity of the initiative, this special category and governance role is anticipated to last for the first 2 to 5 years of an initiative's lifecycle. 
 
-This phase ends when the Founding Leader, Core Team, and Wisdom Council are able to pass a Proposal activating the full Self-Governance of the emergent entity in accordance with the Lionsberg Constitution and the [[Minimum Standards of Interoperability]] set forth by the System and the Holding Entity.  
+This phase ends when the Founding Leader, Core Team, and Wisdom Council are able to pass a Proposal activating the full Self-Governance of the emergent entity in accordance with the LIØNSBERG Constitution and the [[Minimum Standards of Interoperability]] set forth by the System and the Holding Entity.  
 
 The Holding Entity has the right and obligation to send a Proposal back for improvement if it violates the Constitution or Standards of Interoperability, or if the Holding Entity reasonably believes it will harm the entity or system's ability to accomplish its Aim. This follows the same consent-based [[Decision Making Process]]. 
 

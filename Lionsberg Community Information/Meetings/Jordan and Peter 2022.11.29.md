@@ -77,12 +77,12 @@
 - work on building a mind 
     - Parts of that 
     - This month 
-- work on organizing Lionsberg 
+- work on organizing LIØNSBERG 
 
 ## Next Call - Jordan and Pete
-- Break building a mind and building Lionsberg down into parts... and discuss possible immediate next steps. 
+- Break building a mind and building LIØNSBERG down into parts... and discuss possible immediate next steps. 
 
-## Next Call - Lionsberg
+## Next Call - LIØNSBERG
 - Make it a social call... 
 
 ## Non-Violent Communication

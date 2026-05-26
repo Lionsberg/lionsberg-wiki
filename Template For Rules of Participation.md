@@ -13,8 +13,8 @@ The purpose of these Rules of Participation is to provide a clear and shared und
 1.  Respect for others: Participants are expected to treat all other Participants with respect and dignity, and to engage in respectful and productive communication at all times.
 2.  Collaboration and teamwork: Participants are expected to work together in a highly collaborative and adaptive manner, and to support each other in achieving shared goals and objectives.
 3.  Open and transparent communication: Participants are expected to communicate openly and transparently with each other, and to share information and knowledge freely.
-4.  Compliance with laws and regulations: Participants are expected to comply with all relevant laws and regulations, and to act in a lawful and ethical manner at all times so as not to put their Group members or the Lionsberg System at risk.
-5. Vision, Values, and Goal: Participants are expected to co-operate in a Way that is consistent with the Vision, Values, and Goal of this Group, and the Lionsberg System as a Whole. 
+4.  Compliance with laws and regulations: Participants are expected to comply with all relevant laws and regulations, and to act in a lawful and ethical manner at all times so as not to put their Group members or the LIØNSBERG System at risk.
+5. Vision, Values, and Goal: Participants are expected to co-operate in a Way that is consistent with the Vision, Values, and Goal of this Group, and the LIØNSBERG System as a Whole. 
 6.  Continuous improvement: Participants are expected to continuously improve their own practices and processes, and to contribute to the continuous improvement of the team, organization, group, or community.
 
 ## Mutual Consent

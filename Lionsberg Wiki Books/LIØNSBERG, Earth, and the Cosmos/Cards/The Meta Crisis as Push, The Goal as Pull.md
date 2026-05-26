@@ -2,7 +2,7 @@
 status: captured
 fold_target: I
 themes: [story, motivation, dynamics, foundational]
-source: Phase 2.1 audit of The Lionsberg Meta Guide
+source: Phase 2.1 audit of The LIØNSBERG Meta Guide
 captured: 2026-05-18
 ---
 

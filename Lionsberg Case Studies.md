@@ -1,4 +1,4 @@
-# Lionsberg Case Studies 
+# LIØNSBERG Case Studies 
 
 - [[Case Study - Palouse - Transforming Food Systems Through Regeneration - The Palouse Prototype]]  
 - [[Case Study - Kiva Pilgrimage 2025]]  

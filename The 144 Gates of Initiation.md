@@ -46,7 +46,7 @@ The first departure from the Old. Sovereignty reclaimed. Consent withdrawn. Iden
 The passage between Old and New. Trial and purification. Identity reforms. Trauma met. Old patterns dissolved. Trust built. The Trials of Body, Mind, Heart, Spirit, Circle. The People are named. The Sovereign becomes the kind of being who can consciously co-create the New.
 
 **Movement 6 — The Great ReLearning** _(Gates 61–72)_
-Recovery of the lost arts and wisdom. The [[The Lionsberg Pattern Language]] received as living grammar. The Daily Way embodied at depth. Right relationship relearned across all kin (Self · Circle · Community · Land · Ancestors · Future Generations · ØNE). The Sovereign learns how to live.
+Recovery of the lost arts and wisdom. The [[The LIØNSBERG Pattern Language]] received as living grammar. The Daily Way embodied at depth. Right relationship relearned across all kin (Self · Circle · Community · Land · Ancestors · Future Generations · ØNE). The Sovereign learns how to live.
 
 **Movement 7 — The Great ReBuilding** _(Gates 73–84)_
 The [[The 12 Pillars of LIØNSBERG]] met in lived form. The 12 Elements (eight of Cooperation, four of Production) lived. The New Civilization takes visible form in the Sovereign's life, Circle, Community, and outward. Quests chosen and walked. New commons, economy, governance, justice, education, culture — touched, tasted, contributed to.
@@ -263,7 +263,7 @@ By the close of the 144 Gates, the Sovereign:
 - Has walked the Old-to-New journey personally and in awareness of every scale
 - Stands at Blue Belt in [[The Way Of The One Body]] — recognized by Elders and Body
 
-The interior cultivations (Body · Heart · Mind · Spirit · Field · Voice · Hands) have been built as the medium of the walk — held in [[The Lionsberg Pattern Language]] at Card-level, invoked within Gates as needed.
+The interior cultivations (Body · Heart · Mind · Spirit · Field · Voice · Hands) have been built as the medium of the walk — held in [[The LIØNSBERG Pattern Language]] at Card-level, invoked within Gates as needed.
 
 The [[The Greatest Jubilee]] arrives when the last cohort of Earth-Sovereigns crosses this threshold — state-of-system event, not calendar date.
 
@@ -275,7 +275,7 @@ The [[The Greatest Jubilee]] arrives when the last cohort of Earth-Sovereigns cr
 - [[The Story of LIØNSBERG]] — the cosmic narrative; two faces of one Pattern
 - [[The Sacred Ascent]] — what opens after Blue Belt
 - [[The LIØNSBERG Belt System]] — Blue Belt and beyond
-- [[The Lionsberg Pattern Language]] — the Patterns invoked within Gate walking
+- [[The LIØNSBERG Pattern Language]] — the Patterns invoked within Gate walking
 - [[The LIØNSBERG Sacred Codex]] — the wider Codex within which the Gates sit
 - [[Pass The Flame]] — handing the Chapter forward
 - [[Share Your Stories]] — composing The Story across all scales

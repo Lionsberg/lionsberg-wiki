@@ -1,4 +1,4 @@
-# Above The Chaos, The Lionsberg Theory of Everything
+# Above The Chaos, The LIØNSBERG Theory of Everything
 
 By [[Jordan Nicholas Sukut]], 2024.01.11 _(updated 2024.01.11)_
 
@@ -65,7 +65,7 @@ While the realms of classical and quantum physics have dramatically advanced our
 
 
 
-## 5. The Lionsberg Theory of Everything
+## 5. The LIØNSBERG Theory of Everything
 
 In the pursuit of a Theory of Everything, our exploration takes us beyond the familiar territories of classical and quantum realms into the concept of [[Depth]] – probing what lies deeper and is more fundamental than these easily observable and well-charted areas.
 

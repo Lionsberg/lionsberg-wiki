@@ -15,7 +15,7 @@ Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
     
 	- **[[The Story of LIØNSBERG]]**  
         
-	- **[[The Chronicles of Lionsberg]]**  
+	- **[[The Chronicles of LIØNSBERG]]**  
         
 	- **[[The Great UnVeiling]]**  
     
@@ -41,7 +41,7 @@ Everything Is and Will Always Be a Living and Co-Creative [[Work In Progress]].
           
 	- **[[The Golden Seed of LIØNSBERG]]**
         
-    - **[[The 12 Pillars of Lionsberg]]**
+    - **[[The 12 Pillars of LIØNSBERG]]**
         
     - **[[The LIØNSBERG Pattern Language]]**
         
@@ -92,7 +92,7 @@ _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReU
     
 21. Circles, Councils, and Nested Self-Governance
     
-22. LUV (Lionsberg Units of Value) and Interoperable Local CurrentSees
+22. LUV (LIØNSBERG Units of Value) and Interoperable Local CurrentSees
     
 23. Project and Resource Synchronization
     

@@ -86,7 +86,7 @@ Where we left off:
   content.
 ◻ Merge and elevate The Sacred Ascent into canonical version…           
 ◻ Articulate The LIØNSBERG Pattern Language   
-- Evaluate [[Lionsberg Orientation and Training System]] and merge into something and delete  
+- Evaluate [[LIØNSBERG Orientation and Training System]] and merge into something and delete  
 - Review and update [[Most People Have No Idea What Is Coming]]  
 - Review and update [[A Way Beyond Fear, Anxiety, And Depression]]  
 - Draw on [[The Great UnVeiling]] and [[A Birthday Reflection on Jordan's Life, Death, and Work]] and all other LIØNSBERG work and external knowledge to complete [[The Great UnVeiling]] in its highest form while retaining the break associated with Jordan's death... this is a completion based on his notes and all additional information since learned... 
@@ -108,7 +108,7 @@ Where we left off:
 	1. [[Rediscovering The Way - A Guide For The Warrior Spirit]]  
 	2. [[Rediscovering The Way - Take 2]]  
 	3.  
-4. Fold [[Lionsberg Orientation and Training System]] into something else - the playbook? 
+4. Fold [[LIØNSBERG Orientation and Training System]] into something else - the playbook? 
 
 
 ### C Items 

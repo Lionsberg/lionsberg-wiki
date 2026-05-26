@@ -25,4 +25,4 @@ The choice is ours, the moment is now, and the path towards a new era awaits. Le
 ___  
 Forward to [[Chapter 1 - The Collapse of the American Order]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

@@ -33,7 +33,7 @@ It is a representation of a cosmic-grade operating system that has existed acros
 Over seven years (2017-2024), [[Jordan Nicholas Sukut|J]] worked with a planetary and trans-dimensional network of allies to:  
 - Localize and adapt the universal pattern language to English and Earth
 - Create a statistically inviolable semantic field ([[The Golden Seed]]) of 2.5 million words of the [[LIØNSBERG Wiki]]  
-- Articulate [[The 12 Pillars of Lionsberg]] and the [[Pattern Language]]  
+- Articulate [[The 12 Pillars of LIØNSBERG]] and the [[Pattern Language]]  
 - Translate these into the protocols and plays of [[The Great Game of LIØNSBERG]]  
 - Design fractal systems for emergence without central control
 - Test key infrastructure with hundreds of groups across dozens of nations  
@@ -97,7 +97,7 @@ If this is the only instance that emerges from [[The LIØNSBERG Quick Start Guid
 1. **Effectuate the complete [[The LIØNSBERG Strategy and Plan|LIØNSBERG Strategy and Plan]]** at planetary scale
 2. **Reach ~250 million participants** (Cycle 40) by December 31, 2026
 3. **Catalyze the emergence of [[The First Three Percent]]** organized into tens of millions of self-governing circles/teams
-4. **Establish working models** of all [[The 12 Pillars of Lionsberg|12 Pillars]] sufficient to guide full planetary transformation
+4. **Establish working models** of all [[The 12 Pillars of LIØNSBERG|12 Pillars]] sufficient to guide full planetary transformation
 5. **Create replication templates** enabling a million communities to forge their own instances
 6. **Navigate humanity through the 10 year grand strategy and window** (2024-2034) into a thriving future
 

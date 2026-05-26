@@ -17,7 +17,7 @@ Among the known streams:
 - **The LIØNSBERG Pattern Language proper** — the synthesis the Wiki now carries.
 - **Mondragon** — the cooperative federation of the Basque Country: ULGOR (1956) → 80,000+ worker-owners today, anchored by Arizmendi's Pedagogy of Trust.
 - **Fair Shares Commons** — Graham Boyd's articulation of ownership architecture that prevents enclosure.
-- **The Great Game / The Lionsberg Playbook** — the participatory form distilled from decades of cooperative practice.
+- **The Great Game / The LIØNSBERG Playbook** — the participatory form distilled from decades of cooperative practice.
 - **The Empirical Roster of Successful Movements** — Benedictines, Cooperatives, Alcoholics Anonymous, Iroquois, Swiss, Early Church, Open Source, Kibbutzim — all carrying the same shared DNA. (See [[Movements That Embodied the Pattern]].)
 - **The Program Delivery Guide (PDG)** — the Lean / Integrated Project Delivery / Theory-of-Constraints synthesis, $20 million of funded research, applied to civilization scale.
 

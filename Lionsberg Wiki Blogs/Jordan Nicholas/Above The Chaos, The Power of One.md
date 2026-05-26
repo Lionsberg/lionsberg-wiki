@@ -41,8 +41,8 @@ Our commitment to each other:
 
 My time: I offer up my Life as a free gift that you can engage with if it is helpful and meaningful. 
 
-Value Reciprocity: [[Participants]] will contribute weekly to fund hosted by the Lionsberg 501(c)(3) public charity. The amount of the contribution should reflect the value of the experience / experiment to you, and your desire to see it expanded to serve others. 
+Value Reciprocity: [[Participants]] will contribute weekly to fund hosted by the LIØNSBERG 501(c)(3) public charity. The amount of the contribution should reflect the value of the experience / experiment to you, and your desire to see it expanded to serve others. 
 
 If, after the 6 week experiment, we decide to expand it, the accumulated resources will be transparently used to improve or expand the Program in accordance with a strategic plan we will develop together. 
 
-If, after the 6 week experiment, we decide to end it, the donations will be merged into the Lionsberg General Fund. 
+If, after the 6 week experiment, we decide to end it, the donations will be merged into the LIØNSBERG General Fund. 

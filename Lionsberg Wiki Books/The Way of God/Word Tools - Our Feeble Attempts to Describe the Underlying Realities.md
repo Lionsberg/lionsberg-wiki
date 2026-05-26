@@ -17,4 +17,4 @@ _____
 Forward to [[Culture and Context - The Time and Place in Which Word Tools are Articulated]]  
 Back to [[Spiritual Inspiration - The Experience of Those Who Write the Sacred Words]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

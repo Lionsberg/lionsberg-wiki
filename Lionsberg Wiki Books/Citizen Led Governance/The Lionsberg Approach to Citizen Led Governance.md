@@ -1,15 +1,15 @@
-# The Lionsberg Approach to Citizen Led Governance
+# The LIØNSBERG Approach to Citizen Led Governance
 
 By [[Jordan Nicholas Sukut]]  
 
 ## Table of Contents
 
-[[0. Introduction to the Lionsberg Approach to Citizen Led Governance]]  
+[[0. Introduction to the LIØNSBERG Approach to Citizen Led Governance]]  
 
 ## 1. Introduction to Citizen Led Governance. 
 
 [[1.  Introduction to Citizen Led Governance]]  
-[[1.1. The Lionsberg Vision and Goal]]  
+[[1.1. The LIØNSBERG Vision and Goal]]  
 [[1.2. The 7 Year Window of Crisis and Opportunity]]  
 [[1.3. The Need for Fractal Self-Governance]]  
    
@@ -24,7 +24,7 @@ By [[Jordan Nicholas Sukut]]
 [[2.7. The Pattern for Voluntarily Organizing and Federating]]  
 [[2.8. The Pattern for Voluntary Tithing and Resource Allocation]]  
 [[2.9 The Pattern for Measuring and Quality and Quantity of Service, and Originating Units of Value]]  
-[[2.10. The Pattern for Exchanging Units of Value in the Lionsberg Federation]]  
+[[2.10. The Pattern for Exchanging Units of Value in the LIØNSBERG Federation]]  
 [[2.11. The Pattern for Transforming Towards a Wisdom and Stewardship Based System]]  
 [[2.12. The Pattern for Individual and Local Sovereignty and Universal Citizenship]]  
 [[2.13. The Pattern For Integrated Delivery of Shared Goals and Values]]  
@@ -66,7 +66,7 @@ By [[Jordan Nicholas Sukut]]
  
 ## 7.  Resources and Further Reading 
 
-[[7.1. Lionsberg Pattern Language Resources]]  
+[[7.1. LIØNSBERG Pattern Language Resources]]  
 [[7.2. Books and Articles on Citizen Led Governance]]  
 [[7.3. Online Resources and Communities]]  
 
@@ -74,4 +74,4 @@ By [[Jordan Nicholas Sukut]]
 
 [[8.0. Conclusion]]  
 
-[[Read The Books]], or discover additional [[Lionsberg Wiki Books]]  
+[[Read The Books]], or discover additional [[LIØNSBERG Wiki Books]]  

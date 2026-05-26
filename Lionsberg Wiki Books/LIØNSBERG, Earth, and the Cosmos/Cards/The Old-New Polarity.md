@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, rhetorical-engine, foundational]
-source: Phase 2.1 audit of The Theses of Lionsberg
+source: Phase 2.1 audit of The Theses of LIØNSBERG
 captured: 2026-05-18
 ---
 
@@ -13,7 +13,7 @@ The signature rhetorical engine of LIØNSBERG discourse:
 > **Old: {what is collapsing}.**
 > **New: {what is being co-created}.**
 
-Every Thesis follows this form. Every Pillar uses it. The 99 Theses of The Great UnVeiling use it. The 144 Theses across the 12 Pillars use it. The 172 numbered theses across the populated domains of [[The Theses of Lionsberg]] use it.
+Every Thesis follows this form. Every Pillar uses it. The 99 Theses of The Great UnVeiling use it. The 144 Theses across the 12 Pillars use it. The 172 numbered theses across the populated domains of [[The Theses of LIØNSBERG]] use it.
 
 The Old/New Polarity is **not a complaint about what was.** It is **a precise naming of the inflection**: this dies; that lives; here is what passes; here is what is born.
 

@@ -9,4 +9,4 @@ _____
 Forward to [[Spiritual Inspiration - The Experience of Those Who Write the Sacred Words]]  
 Back to [[In the Beginning, God - The Fount of Scripture]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

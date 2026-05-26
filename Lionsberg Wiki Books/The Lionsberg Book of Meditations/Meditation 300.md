@@ -4,4 +4,4 @@ ___
 
 Forward to [[Meditation 301]]  
 Back to [[Meditation 299]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

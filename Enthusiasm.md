@@ -20,7 +20,7 @@ Factors that can dampen enthusiasm include burnout, stress, discouragement, and 
 
 Cultivating enthusiasm involves identifying and pursuing what genuinely interests and excites you. It may also involve maintaining a positive outlook, setting meaningful goals, and fostering supportive relationships. Engaging in self-care practices can help sustain enthusiasm by preventing burnout and promoting overall well-being.
 
-**Enthusiasm in the Context of Lionsberg**
+**Enthusiasm in the Context of LIØNSBERG**
 
 In the journey towards the New World, enthusiasm serves as a powerful motivator and a source of energy. It propels us to explore, innovate, and co-create, despite the challenges and uncertainties that lie ahead.
 

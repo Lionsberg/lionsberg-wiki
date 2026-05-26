@@ -11,4 +11,4 @@ Some common types of responsibilities include:
 3.  Legal responsibilities: These are duties that individuals and groups have under the law, such as obeying the law, paying taxes, and fulfilling contractual obligations.
 4.  Environmental responsibilities: These are duties that individuals and groups have towards the natural world, such as reducing waste and pollution, conserving resources, and protecting and cultivating biodiversity for the benefit of current and [[Future Generations]].
 
-By embracing and fulfilling these responsibilities, the members of the Lionsberg System can co-create a diverse, just, and regenerative society that upholds the values of [[Right Relationship]] and [[Dignity]]. It is through the proper balance of [[Rights and Responsibilities]] that a harmonious and thriving society can be realized. 
+By embracing and fulfilling these responsibilities, the members of the LIØNSBERG System can co-create a diverse, just, and regenerative society that upholds the values of [[Right Relationship]] and [[Dignity]]. It is through the proper balance of [[Rights and Responsibilities]] that a harmonious and thriving society can be realized. 

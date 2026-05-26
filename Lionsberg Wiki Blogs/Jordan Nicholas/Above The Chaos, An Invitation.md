@@ -26,9 +26,9 @@ The alternative to the outdated models of the old world is for **responsible cit
 
 To date, there has been a lack of a space and structure where wisdom, common sense, and citizen-led thought, speech, and action can thrive.
 
-## Lionsberg
+## LIØNSBERG
 
-In anticipation of this need and crisis point, we have spent the last several years building an ark called Lionsberg—an independent system and structure designed to facilitate a decentralized citizen-led response to the current [[Meta Crisis]]. 
+In anticipation of this need and crisis point, we have spent the last several years building an ark called LIØNSBERG—an independent system and structure designed to facilitate a decentralized citizen-led response to the current [[Meta Crisis]]. 
 
 ## A Citizen Led Response 
 

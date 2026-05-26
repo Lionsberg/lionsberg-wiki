@@ -64,14 +64,14 @@ As we step into 2025, we are recommitting and raising the bar:
 
 The mandate is clear: We are building an [[Army of Leadership, Light, and Love]] to confront and overcome the challenges ahead.
 
-To ensure unity and efficiency in our efforts, we will be leveraging the Lionsberg System—a purpose-built framework designed to enable seamless coordination and growth as a [[Team of Teams]]. This system has been developed with the collective wisdom of years of experimentation and refinement, and it will serve as the foundation for Our shared efforts.
+To ensure unity and efficiency in our efforts, we will be leveraging the LIØNSBERG System—a purpose-built framework designed to enable seamless coordination and growth as a [[Team of Teams]]. This system has been developed with the collective wisdom of years of experimentation and refinement, and it will serve as the foundation for Our shared efforts.
 
  ### **We Are Seeking Two Key Relationships:**
 
 1. **Members of [[The First Three Percent]]** (Nomination and Invitation Only)  
 2. **Stewards of Resources** to fund progress along the [[Critical Path]]  
 
-We will be leveraging the purpose-built Lionsberg System to coordinate and move as a [[Team of Teams]]. 
+We will be leveraging the purpose-built LIØNSBERG System to coordinate and move as a [[Team of Teams]]. 
 
 If you are part of [[The First Three Percent]], a steward of resources, or know someone who fits either role, we ask you to reach out and begin the conversation.
 

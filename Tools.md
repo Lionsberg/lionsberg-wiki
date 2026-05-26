@@ -1,10 +1,10 @@
 # Tools
 
-See also [[The Lionsberg Toolkit]]. 
+See also [[The LIØNSBERG Toolkit]]. 
 
-In the context of the Lionsberg System, [[Tools]] are objects, concepts, or systems that serve to facilitate the achievement of individual or collective goals. They provide specific [[Affordances]], or opportunities for action, that enable individuals and groups to navigate the various dimensions of their lives, including physical, mental, social, and spiritual aspects.
+In the context of the LIØNSBERG System, [[Tools]] are objects, concepts, or systems that serve to facilitate the achievement of individual or collective goals. They provide specific [[Affordances]], or opportunities for action, that enable individuals and groups to navigate the various dimensions of their lives, including physical, mental, social, and spiritual aspects.
 
-Tools within the Lionsberg System can be categorized in various ways, such as:
+Tools within the LIØNSBERG System can be categorized in various ways, such as:
 
 1.  Physical Tools: These include tangible objects or equipment that can be used to perform tasks, solve problems, or complete projects. Examples include a hammer, a computer, or a vehicle.
     
@@ -22,6 +22,6 @@ Tools also facilitate the elimination of [[Waste]].
 
 [[Tools]] used improperly or merely for form usually create [[Waste]] rather than [[Value]]. 
 
-Tools are stored and continuously improved in the [[The Lionsberg Toolkit]]. 
+Tools are stored and continuously improved in the [[The LIØNSBERG Toolkit]]. 
 
 Tools help individuals, groups, and localities embody [[The LIØNSBERG Pattern Language]]

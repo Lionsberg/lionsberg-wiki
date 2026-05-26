@@ -1,4 +1,4 @@
-# Lionsberg Platform Features & Roadmap
+# LIØNSBERG Platform Features & Roadmap
 
 We are developing a platform to enable collaboration across the distributed community. 
 

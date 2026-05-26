@@ -1,8 +1,8 @@
 ---
 status: captured
 fold_target: VI
-themes: [book-of-lionsberg, citizenship, governance, allegiance, foundational]
-source: Phase 2.1 audit of An Alternative to Apocalypse - The New Covenant + The Lionsberg Blueprint
+themes: [book-of-LIØNSBERG, citizenship, governance, allegiance, foundational]
+source: Phase 2.1 audit of An Alternative to Apocalypse - The New Covenant + The LIØNSBERG Blueprint
 captured: 2026-05-19
 ---
 

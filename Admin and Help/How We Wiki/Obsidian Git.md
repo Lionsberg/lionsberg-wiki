@@ -1,5 +1,5 @@
 # Obsidian Git
-On July 8, 2022, we transitioned the Lionsberg Wiki to Git. 
+On July 8, 2022, we transitioned the LIØNSBERG Wiki to Git. 
 
 ## Some common commands
 

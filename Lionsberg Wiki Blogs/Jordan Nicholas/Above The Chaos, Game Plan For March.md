@@ -55,13 +55,13 @@ Because [[ØNE]] Spirit is inspiring the Diverse Many of [[Us]], amazing people 
 
 The feminine principle chooses among all those on offer, which of them are Selected, and brought into Being, Cultivated, and Replicated for the Good of All. 
 
-I therefore offer Lionsberg and all that I am as one solution among many, and only desire for the unique solution I am offering to be selected and brought into being if it is most in service to the [[Highest Intention and Greatest Good]] for [[All]]. 
+I therefore offer LIØNSBERG and all that I am as one solution among many, and only desire for the unique solution I am offering to be selected and brought into being if it is most in service to the [[Highest Intention and Greatest Good]] for [[All]]. 
 
 ## Offering and Invitation 
 
 I therefore extend an offering and invitation: 
 
-Through great effort and expense, I have formulated Lionsberg to reflect, to the best of my individuated understanding and ability, the [[Logos]], DNA and Structure of [[The Golden Seed]]. 
+Through great effort and expense, I have formulated LIØNSBERG to reflect, to the best of my individuated understanding and ability, the [[Logos]], DNA and Structure of [[The Golden Seed]]. 
 
 The next step of Faith requires me to risk rejection and offer it, so that it can be selected or rejected from among the Many. 
 
@@ -80,13 +80,13 @@ The [[Way]] towards [[The Goal]] is [[The Quest]] towards Unity through Love.
 
 The Quest [[Towards Oneness Through Love]] is measured by a set of [[Milestones]] that mark the [[Way]]. 
 
-The Highest Order set of Milestones are the [[Lionsberg Cycles of Growth]]. These follow the Fibonacci sequence, and serve like growth rings on [[The Sacred Tree]] that is growing out of [[The Golden Seed]]. 
+The Highest Order set of Milestones are the [[LIØNSBERG Cycles of Growth]]. These follow the Fibonacci sequence, and serve like growth rings on [[The Sacred Tree]] that is growing out of [[The Golden Seed]]. 
 
-March 1, 2024 marks the pivotal point where everything in [[The 7 Year Window of Preparatory Work and Learning]] is put behind us, [[The Conditions]] are considered adequate, [[The Golden Seed]] is planted invitationally, and we begin to Cultivate, Measure, and Monitor the [[Lionsberg Cycles of Growth]], and the [[Lionsberg Cycle Time]]. Together, these two simple metrics help us to understand at any given time whether we are on track with the [[10 Year Grand Strategy]]. 
+March 1, 2024 marks the pivotal point where everything in [[The 7 Year Window of Preparatory Work and Learning]] is put behind us, [[The Conditions]] are considered adequate, [[The Golden Seed]] is planted invitationally, and we begin to Cultivate, Measure, and Monitor the [[LIØNSBERG Cycles of Growth]], and the [[LIØNSBERG Cycle Time]]. Together, these two simple metrics help us to understand at any given time whether we are on track with the [[10 Year Grand Strategy]]. 
 
 ## The Unity That Makes Everything Else Possible 
 
-The [[Lionsberg Cycles of Growth]] mark the [[Progress]] along the Path [[Towards Oneness Through Love]]. They measure the growth of [[The Sacred Tree]] springing up from [[The Golden Seed]]. 
+The [[LIØNSBERG Cycles of Growth]] mark the [[Progress]] along the Path [[Towards Oneness Through Love]]. They measure the growth of [[The Sacred Tree]] springing up from [[The Golden Seed]]. 
 
 *As [[The Body]] grows and becomes more capable, everything else becomes [[Possible]].* 
 
@@ -94,27 +94,27 @@ As [[The Body]] grows, we will begin tackling [[Quests]] in self-governing, self
 
 Each of those Teams will take on as much [[Responsibility]] as they are able to each Quarter, while stacking up and aligning [[Quests]] across the decentralized [[Team of Teams]] to ensure we are collectively making [[Critical Path]] [[Progress]] towards [[The Goal]]. 
 
-Over the course of the [[10 Year Grand Strategy]], those [[Quests]] are intended to grow dramatically in scope and complexity as [[The Body]] becomes more capable, including major [[Citizen Led Joint Ventures]] encompassing the [[The 12 Pillars of Lionsberg]]. 
+Over the course of the [[10 Year Grand Strategy]], those [[Quests]] are intended to grow dramatically in scope and complexity as [[The Body]] becomes more capable, including major [[Citizen Led Joint Ventures]] encompassing the [[The 12 Pillars of LIØNSBERG]]. 
 
 But before we can change the world, we need to heal and transform our Selves, Commit, come into Unity, and begin learning how to Co-Create. 
 ## Game Plan For March 
 
 As mentioned above, March is the pivotal month where The Seed formulated during [[The 7 Year Window of Preparatory Work and Learning]] will be planted into the ground, and hopefully spring to life and begin self-sustaining and self-replicating. 
 
-In March, the game plan is for [[Jordan]] first, and then [[Us]], to extend [[The Invitation]] so that the offering can be accepted or rejected, and see if it is possible to get through the first 5 [[Lionsberg Cycles of Growth]] that form the initial 12+1 [[Co-Creators]]. 
+In March, the game plan is for [[Jordan]] first, and then [[Us]], to extend [[The Invitation]] so that the offering can be accepted or rejected, and see if it is possible to get through the first 5 [[LIØNSBERG Cycles of Growth]] that form the initial 12+1 [[Co-Creators]]. 
 
 [[Jordan]] is going to initiate the individual invitations on two polar  fronts: 
 
 1. Universally (to people around the world)  
 2. Locally (to people in Sandpoint, Idaho)  
 
-The role of the Sandpoint [[Instantiation]] is to force the hard work of testing how to bring the [[Lionsberg System and Approach]] to bear locally / bioregionally, while Jordan is available to personally guide it through [[Inception]] phase as a Prototype. 
+The role of the Sandpoint [[Instantiation]] is to force the hard work of testing how to bring the [[LIØNSBERG System and Approach]] to bear locally / bioregionally, while Jordan is available to personally guide it through [[Inception]] phase as a Prototype. 
 
 The role of the universal invitation is to begin to forge from the outset the broadest voluntary association of Individuals of Goodwill, to support group formation and implementation by [[Individuals and Localities]] around the world. 
 
 ## Smart Goals For March 
 
-The Lionsberg System encourages [[Groups]] / [[Teams]] to engage in [[Quarterly Quests]]. These Quests should generally have no more than 3 primary goals, with other things that need to be done requested as [[Commitments]] from other [[Teams]]. 
+The LIØNSBERG System encourages [[Groups]] / [[Teams]] to engage in [[Quarterly Quests]]. These Quests should generally have no more than 3 primary goals, with other things that need to be done requested as [[Commitments]] from other [[Teams]]. 
 
 Goals should be SMART - Specific, Measurable, Achievable, Relevant and Time bound. 
 
@@ -124,7 +124,7 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 
 ### Goal 1: Invitation, Inception, and 3 to 5 Cycles of Growth (Complete) 
 
-1. Plant [[The Golden Seed]] via [[The Invitation]], and complete the first three to five [[Lionsberg Cycles of Growth]].  
+1. Plant [[The Golden Seed]] via [[The Invitation]], and complete the first three to five [[LIØNSBERG Cycles of Growth]].  
 	1. Bonus: Complete three to five cycles locally, AND three to five cycles universally, so two parallel starting points are growing.  
 	2. Cycle Structure  
 		1. Cycle 1: 2 Co-Creators  
@@ -139,14 +139,14 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 2. Host the first Sandpoint Community Meeting  
 	1. Bonus - with at least 3 co-creators present 
 
-### Goal 3: Lionsberg Co-Creator Handbook (Complete) 
+### Goal 3: LIØNSBERG Co-Creator Handbook (Complete) 
 
 3. Complete and distribute v0.1 of [[The LIØNSBERG Co-Creator's Handbook]]  
 	1. Bonus - 2 or 3 co-creators provide feedback, incorporate, and publish v0.2
 
 ### Goal 4: Publish a Book (Scheduled For First Week of April) 
 
-4. Finish consolidating a summary of Jordan's writing on [[Lionsberg Wiki Books]] and [[Above The Chaos]], and Publish a 20k to 30k word book (2 to 4 hour read) to paperbook, e-book, and global distribution. Can accompany [[The Invitation]] in future cycles to help [[Individuals]] get up to speed. 
+4. Finish consolidating a summary of Jordan's writing on [[LIØNSBERG Wiki Books]] and [[Above The Chaos]], and Publish a 20k to 30k word book (2 to 4 hour read) to paperbook, e-book, and global distribution. Can accompany [[The Invitation]] in future cycles to help [[Individuals]] get up to speed. 
 	1. Bonus - Get one local store in Sandpoint to agree to carry physical copies 
 
 ### Goal 5: Resource Runway 
@@ -159,7 +159,7 @@ The individuals accepting [[The Invitation]] and helping accomplish The Goals fo
 If we can achieve these 5 goals over the coming 30 days: 
 
 - We will be able to continue to Focus full time on serving and supporting The Movement   
-- Lionsberg will Live    
+- LIØNSBERG will Live    
 - We will have the initial critical mass to carefully selected Individuals advance towards 50 to 100 Individuals engaged by the end of Q2  
 - 50 to 100 carefully selected individuals engaged within 4 months:
 	- will bring together the diversity of perspective, wisdom, insight, and skill required to refine the [[New Vision and Plan]] into a truly wise and comprehensive Vision, Strategy, and Plan  

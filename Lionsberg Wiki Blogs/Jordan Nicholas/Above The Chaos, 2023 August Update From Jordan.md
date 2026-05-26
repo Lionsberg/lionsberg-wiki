@@ -62,11 +62,11 @@ This will require building the capability to get members of the movement elected
 
 To lead by example, I am taking responsibility for running for US President and battling in federal court, and building **the machine** in such a way that it becomes capable of winning many court battles, and electing many aligned citizens throughout the land. 
 
-## The Jordan and Lionsberg Brands
+## The Jordan and LIØNSBERG Brands
 
-Because Lionsberg is presently not comprehensible or accessible, I am going to set it aside, leverage its purpose-built infrastructure, and lead with my personal brand. 
+Because LIØNSBERG is presently not comprehensible or accessible, I am going to set it aside, leverage its purpose-built infrastructure, and lead with my personal brand. 
 
-The three fronts of battle described in last summer's [public update](https://lionsberg.wiki/lionsberg_wiki_blogs/jordan_nicholas/above_the_chaos,_2022.07.16_public_update) remain the same - the main adjustment is leading with the campaign and court battle I can personally control and which are now urgent, and inviting the unity and collaboration to organically emerge in the wake of that energy and the transformational [[The Program|programming]]. 
+The three fronts of battle described in last summer's [public update](https://LIØNSBERG.wiki/LIØNSBERG_wiki_blogs/jordan_nicholas/above_the_chaos,_2022.07.16_public_update) remain the same - the main adjustment is leading with the campaign and court battle I can personally control and which are now urgent, and inviting the unity and collaboration to organically emerge in the wake of that energy and the transformational [[The Program|programming]]. 
 
 We hope this crucial adjustment will speed the process by forcing citizens to accept or reject me on the basis of Spiritual discernment and resonance, rather than a set of abstract ideas on the basis of intellect. 
 

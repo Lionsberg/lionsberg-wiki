@@ -1,8 +1,8 @@
 # The Solution
 
-See [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+See [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]]  
 
-- [[Chapter 5 - The Lionsberg Meta Project - Transforming Our Lives and Our World Within a Single Generation]]  
+- [[Chapter 5 - The LIØNSBERG Meta Project - Transforming Our Lives and Our World Within a Single Generation]]  
 - [[Chapter 6 - The Paradigmatic Tipping Point - A Shift in Spirit and Consciousness]]  
 - [[Chapter 7 - A Divine Blueprint for the Best Possible Future - Articulating the Creator's Intent]]  
 - [[Chapter 8 - Worksite Earth - Operationalizing the Divine Blueprint and Bringing Intention Into Reality]]  

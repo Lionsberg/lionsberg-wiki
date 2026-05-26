@@ -57,7 +57,7 @@ How are we Co-Operating our Nations?
 
 How are we as a human species Co-Operating the [[SpatioTemporal]] [[Domain]] we call [[Earth]]? It may be one of the [[Right Questions]] that deserves to be Continually Asked. 
 
-The Lionsberg System is built to be deployed through a process of [[Localization and Instantiation]] that adapts [[The System]] to any [[Domain]]. 
+The LIØNSBERG System is built to be deployed through a process of [[Localization and Instantiation]] that adapts [[The System]] to any [[Domain]]. 
 
 Any Individual. Any Family. Any Team. Any Group. Any Organization. Any Project. Any Community. Any Tribe. Any Nation. Any Planet. Any Galactic Confederation of Unknown Civilizations. 
 

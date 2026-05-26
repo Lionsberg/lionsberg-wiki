@@ -40,4 +40,4 @@ ___
 Forward to [[Chapter 12 - The Concept of Jubilee - A Radical Vision of a World Renewed]]  
 Back to [[Chapter 10 - Building Bridges and Alliances]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

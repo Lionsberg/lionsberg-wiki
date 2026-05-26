@@ -1,6 +1,6 @@
 # New Era
 
-As the New Era progressed, individuals and communities began to thrive in ways that had previously seemed unimaginable. With the implementation of the Lionsberg System, which provided a framework for addressing the root causes of the grand challenges facing humanity, people were able to take ownership of their own lives and communities in a way that was not possible before.
+As the New Era progressed, individuals and communities began to thrive in ways that had previously seemed unimaginable. With the implementation of the LIØNSBERG System, which provided a framework for addressing the root causes of the grand challenges facing humanity, people were able to take ownership of their own lives and communities in a way that was not possible before.
 
 The world was transformed into a place of abundance and prosperity, with resources being shared and used sustainably. People were liberated to pursue their passions and dreams, each individual was encouraged in their unique areas of genius, and there was a sense of connection and community that transcended borders and cultural differences.
 

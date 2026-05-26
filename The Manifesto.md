@@ -1,8 +1,8 @@
 # The Manifesto
 
-In the context of the Lionsberg System, **The Manifesto** refers to the [[LIØNSBERG Manifesto]]. 
+In the context of the LIØNSBERG System, **The Manifesto** refers to the [[LIØNSBERG Manifesto]]. 
 
-The Lionsberg Manifesto, along with the [[New Vision and Plan]], serves as a guiding document for [[The Movement]], articulating the shared vision, values, and objectives that unite [[Citizens]] in their collective quest to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. The manifesto aims to inspire, motivate, and empower [[Citizens]] to take action and contribute their diverse skills, knowledge, and passion in pursuit of a more just, regenerative, and thriving future for [[All]].
+The LIØNSBERG Manifesto, along with the [[New Vision and Plan]], serves as a guiding document for [[The Movement]], articulating the shared vision, values, and objectives that unite [[Citizens]] in their collective quest to confront and overcome the [[Meta Crisis]], halt [[The Advance of The Giants]], and co-create the [[New World]]. The manifesto aims to inspire, motivate, and empower [[Citizens]] to take action and contribute their diverse skills, knowledge, and passion in pursuit of a more just, regenerative, and thriving future for [[All]].
 
 The Manifesto is grounded in the following principles:
 

@@ -128,7 +128,7 @@ And then, then, when the team says okay, i'll do that by this date they have a c
 - Same tech can be used for personal writing, knowledge management
 - Two parts of wiki
     - One - cohesive and fairly architected content
-    - Two - free form, group knowledge individual perspectives on Lionsberg / Meta Project etc., 
+    - Two - free form, group knowledge individual perspectives on LIØNSBERG / Meta Project etc., 
     - Also - a PROCESS for moving from individual blogs up into the group brain part of the wiki. 
     - Think of the more fluid section to be a scaffold to develop material to bring to more formal architected section
     - There is a social process for accepting content to transfer
@@ -151,7 +151,7 @@ And then, then, when the team says okay, i'll do that by this date they have a c
 - Forrist
 
 ## Roles
-- Pete has agreed for now to help us set up the HackMD and then upload to the meeting section of the Lionsberg Wiki. 
+- Pete has agreed for now to help us set up the HackMD and then upload to the meeting section of the LIØNSBERG Wiki. 
 
 ## Kinds of Meetings
 
@@ -367,7 +367,7 @@ See Mountain Goat Software, [User Stories and User Story Examples by Mike Cohn](
 
 ### Commitments 
 - Where the rubber meets the roads is in Actors making and securing Commitments from one another.
-- In the Lionsberg System, commitments are made as a TEAM. 
+- In the LIØNSBERG System, commitments are made as a TEAM. 
 - Inside of the Team, rich internal human dynamics determine how things get done or not. 
 - Teams self select, and teams have a duty to elevate and transform towards thier potential, including changing the team as required. 
 - The System relies on strong Teams to autonomously govern themselves. 

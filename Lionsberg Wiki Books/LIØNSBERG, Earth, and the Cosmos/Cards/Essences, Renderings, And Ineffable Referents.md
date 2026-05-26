@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [metaphysics, renderings, ineffable, holarchy, lionsberg-architecture]
+themes: [metaphysics, renderings, ineffable, holarchy, LIØNSBERG-architecture]
 ---
 
 # Essences, Renderings, And Ineffable Referents

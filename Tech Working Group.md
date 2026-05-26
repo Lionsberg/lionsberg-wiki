@@ -2,4 +2,4 @@
 
 _needs more information_
 
-Mattermost channel: [\[Lionsberg\] Tech Working Group](https://chat.collectivesensecommons.org/agora/channels/lionsberg-tech-working-group)
+Mattermost channel: [\[LIØNSBERG\] Tech Working Group](https://chat.collectivesensecommons.org/agora/channels/LIØNSBERG-tech-working-group)

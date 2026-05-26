@@ -10,7 +10,7 @@ I know these words may provoke confusion, anger, or even [[Ontological Shock]]. 
 
 I ask you, with love and respect, to suspend judgment and consider what follows with an open heart and mind. If True, it changes everything. If True, We are awakening together to [[The Greatest Fraud, Deception, and Existential Threat in History]]. And Time is short. 
 
-Capturing the existential threats and opportunities at hand in less than 2,000 words feels impossible. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] and the other [[Lionsberg Wiki Books]] explore in more detail. 
+Capturing the existential threats and opportunities at hand in less than 2,000 words feels impossible. [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] and the other [[LIØNSBERG Wiki Books]] explore in more detail. 
 
 ## The Journey That Led Here 
 
@@ -134,4 +134,4 @@ With love,
 
 ~ [[J]]
 
-To explore these topics in more detail, visit [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] or the library of [[Lionsberg Wiki Books]]. 
+To explore these topics in more detail, visit [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] or the library of [[LIØNSBERG Wiki Books]]. 

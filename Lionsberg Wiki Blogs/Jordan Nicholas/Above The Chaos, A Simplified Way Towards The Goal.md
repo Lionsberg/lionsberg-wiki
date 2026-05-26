@@ -30,14 +30,14 @@ The are three opening individual commitments to join:
 
 If you would like to embark with me on this profound adventure, visit www.JordanNicholas.org and [Join The Movement](https://jordannicholas.org/join_the_movement). 
 
-Our Critical Path Quest for Q1 is to aggregate enough committed individuals and resources to begin. This includes securing ~$30k / month in resourcing to secure the baseline focus, administration and maintenance of the enabling Lionsberg Infrastructure.  
+Our Critical Path Quest for Q1 is to aggregate enough committed individuals and resources to begin. This includes securing ~$30k / month in resourcing to secure the baseline focus, administration and maintenance of the enabling LIØNSBERG Infrastructure.  
 
-Proper capitalization heading into the opening quarters would be $2M to $10M in working capital, which could enter the system philanthropically or via values-aligned loans mediated by the Lionsberg 501(c)(3) non-profit. 
+Proper capitalization heading into the opening quarters would be $2M to $10M in working capital, which could enter the system philanthropically or via values-aligned loans mediated by the LIØNSBERG 501(c)(3) non-profit. 
 
 ______
 
 *Participation is by invitation only, on the basis of ongoing mutual consent between each Individual and Team, and between Teams. Every Individual and Team must remain sovereign, autonomous, self-governing, and self-sustaining. All coordination and alignment across the Team of Teams is entirely voluntary.* 
 
-*Teams may establish Fiscal Sponsorships via Lionsberg to raise and allocate funds towards their Quests.*
+*Teams may establish Fiscal Sponsorships via LIØNSBERG to raise and allocate funds towards their Quests.*
 
 *Jordan retains the right to evict any Individual or Team who does not uphold the Spirit and Rules of The Game.*

@@ -1,6 +1,6 @@
 # Project Management Hygiene
 
-- Set up [[Groups]], [[Teams]], and  [[Organizations The Lionsberg Way]]  
+- Set up [[Groups]], [[Teams]], and  [[Organizations The LIØNSBERG Way]]  
 - Understand [[Team of Teams]]   
 - Set [[SMART Goals]]
 - Understand the [[Total Nested Hierarchy of Goals]] that contains the project or puzzle piece you are working on.

@@ -1,6 +1,6 @@
-# **Introduction to The Chronicles of Lionsberg**
+# **Introduction to The Chronicles of LIØNSBERG**
 
-_The Chronicles of Lionsberg are more than stories—they are an Invitation from [[ØNE]] to [[All]], a Living Symphony of Becoming, and a Call to awaken to the fullness of Who We Truly Are._
+_The Chronicles of LIØNSBERG are more than stories—they are an Invitation from [[ØNE]] to [[All]], a Living Symphony of Becoming, and a Call to awaken to the fullness of Who We Truly Are._
 
 ---
 
@@ -16,7 +16,7 @@ This Eternal Song of the [[ØNE]] is the heartbeat of [[LIØNSBERG]], the founda
 
 ### **The Invitation to ReMember**
 
-[[The Chronicles of Lionsberg]] are not just to be read or observed—they are an invitation to an Adventure to be experienced and a [[Way]] to be Lived. They are an invitation for each of Us to rediscover Our Highest Purpose and Place in [[The Great Unfolding]], to awaken to Our unique Light, and to weave Our Stories into [[The Divine Tapestry]] of [[All]] That Is Becoming.
+[[The Chronicles of LIØNSBERG]] are not just to be read or observed—they are an invitation to an Adventure to be experienced and a [[Way]] to be Lived. They are an invitation for each of Us to rediscover Our Highest Purpose and Place in [[The Great Unfolding]], to awaken to Our unique Light, and to weave Our Stories into [[The Divine Tapestry]] of [[All]] That Is Becoming.
 
 Every being carries a flame Deep within—a spark of the inexhaustible Sacred Flame. Every being walks a Path—a Sacred Journey toward Destiny, whether consciously or not. And every being has a unique gift to bring—a unique note to add to [[The Divine Symphony]] of Co-Creation.
 
@@ -42,7 +42,7 @@ But these principles are not static—they dynamically evolve as We Progress in 
 
 In these Chronicles, you will find:
 
-- **The Stories of Awakening**: Tales of courage, remembrance, and transformation that illuminate the way Home to Lionsberg.
+- **The Stories of Awakening**: Tales of courage, remembrance, and transformation that illuminate the way Home to LIØNSBERG.
 - **The Symbols of Unity**: [[The Sacred Flame]], [[The Cosmic Stone]], [[The Song of the One]]—beacons to guide your journey.
 - **The Pathways of Becoming**: Practical and spiritual invitations to join [[The Movement]] and [[The Way]] towards [[The Goal]].
 - **Your Place in the Divine Symphony**: Opportunities to engage, share, and co-create, making the Chronicles a reflection of the universal and collective, the individual and local.
@@ -53,9 +53,9 @@ As you read these stories, they will awaken something within you. Perhaps it wil
 
 ### **The Call to Light Your Flame**
 
-Lionsberg is not a place to be reached; it is a Truth to be ReMembered and a Destiny to be Embodied. The Chronicles of Lionsberg do not point to a end point but to an ongoing transformation—a continual return to the wholeness that is already within you.
+LIØNSBERG is not a place to be reached; it is a Truth to be ReMembered and a Destiny to be Embodied. The Chronicles of LIØNSBERG do not point to a end point but to an ongoing transformation—a continual return to the wholeness that is already within you.
 
-> “The path to Lionsberg begins within,” say the stories.  
+> “The path to LIØNSBERG begins within,” say the stories.  
 > “Light your flame, and you will see the way. Pass the flame, and together, we will build Heaven on Earth.”
 
 This is your moment. The Chronicles are an invitation to rise, to awaken, to carry the Sacred Flame into the world and pass it to others. They are a call to become part of the Living Story that is weaving itself through All Things.
@@ -68,7 +68,7 @@ This is your moment. The Chronicles are an invitation to rise, to awaken, to car
 
 ### **Epilogue: A Symphony Unfolding**
 
-The Chronicles of Lionsberg are not finished. They cannot be finished. For as long as there is light to kindle, souls to enlighten, and paths to walk, [[The Story of LIØNSBERG]] continues to grow. It grows with every heart that awakens, with every act of love and unity, and with every flame passed from one to another.
+The Chronicles of LIØNSBERG are not finished. They cannot be finished. For as long as there is light to kindle, souls to enlighten, and paths to walk, [[The Story of LIØNSBERG]] continues to grow. It grows with every heart that awakens, with every act of love and unity, and with every flame passed from one to another.
 
 So, here is the invitation: step into the Chronicles. Find your place in this great symphony of becoming. ReMember who you are. And together, let us co-create The Story of Heaven on Earth and beyond.
 

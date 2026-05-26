@@ -1,4 +1,4 @@
-# Lionsberg - Meta Project Meeting 2022.07.2022
+# LIØNSBERG - Meta Project Meeting 2022.07.2022
 
 ## 12 week series starting January 
 - Presenting out patterns and ideas

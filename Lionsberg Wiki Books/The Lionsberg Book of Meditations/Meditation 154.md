@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 155]]  
 Back to [[Meditation 153]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

@@ -20,7 +20,7 @@ Several factors can challenge adaptability, such as fear of change, rigid mindse
 
 Cultivating adaptability involves fostering an open and curious mind, embracing change, and building resilience. It also involves developing problem-solving skills and learning to manage uncertainty and discomfort.
 
-**Adaptability in the Context of Lionsberg**
+**Adaptability in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, adaptability becomes a guiding principle. It acknowledges that the path is not fixed or linear, and that we must be willing to learn, grow, and change course as needed.
 

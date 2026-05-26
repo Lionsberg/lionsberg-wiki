@@ -267,7 +267,7 @@ You have everything you need to play — you are sovereign, self-governing, and 
 - [[the nameless strategy and plan]] - The first instance implementation
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Context on what was discovered and what is at stake
 - [[Above The Chaos]] - Weekly reflections and strategic analysis
-- [[Lionsberg Wiki Books]] - A library of deeper architecture and wisdom  
+- [[LIØNSBERG Wiki Books]] - A library of deeper architecture and wisdom  
 
 ### Advanced Initiatory Paths (For Later)
 - [[The 144 Gates of Initiation]] - Progressive deepening as circles mature

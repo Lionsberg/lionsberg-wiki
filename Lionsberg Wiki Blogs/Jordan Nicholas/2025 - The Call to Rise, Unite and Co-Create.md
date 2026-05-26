@@ -20,25 +20,25 @@ The diversity of individuals and teams will reflect the infinite diversity of li
 
 Each Individual, Team, Community, and Bioregion will cultivate its own unique identity, governance, economy, and culture. All remain sovereign, autonomous, and free. 
 
-Yet, _**Powered by Lionsberg**_, shared protocols, patterns, and [[Minimum Standards of Interoperability]] will enable resources, wisdom, and relationships to flow seamlessly, uplifting and empowering [[All]].
+Yet, _**Powered by LIØNSBERG**_, shared protocols, patterns, and [[Minimum Standards of Interoperability]] will enable resources, wisdom, and relationships to flow seamlessly, uplifting and empowering [[All]].
 
 ---
 ### **Passing The Flame**
 
 At the heart of this Mission lies one sacred act: [[Passing The Flame]].
 
-The Quest to connect and empower [[The First Three Percent]] by 2026 is Our [[Critical Path]]. Each of Us must become a beacon—identifying those awakening, sharing this Vision, and inviting them to join [[The Lionsberg Alliance]]. Without this act of multiplication and unity, _**humanity cannot succeed.**_
+The Quest to connect and empower [[The First Three Percent]] by 2026 is Our [[Critical Path]]. Each of Us must become a beacon—identifying those awakening, sharing this Vision, and inviting them to join [[The LIØNSBERG Alliance]]. Without this act of multiplication and unity, _**humanity cannot succeed.**_
 
 [[Passing The Flame]] is not optional; it is vital. Together, We can awaken and unite the leaders humanity desperately needs. But it begins today, with Us.
 
 ---
 ### **The Call to Commit**
 
-This year must not repeat the patterns of idle meetings, explorations, or commitments in word but not deed. It demands a **bold commitment**—a resolute choice to rise into [[Higher Order Functional Unity]] and actively co-create [[The Lionsberg Alliance]]. This is your moment to step forward as a beacon of light, purpose, and love. As you feel the Spirit move you, We invite you to take the first step: review the materials below and [RSVP Here](x).
+This year must not repeat the patterns of idle meetings, explorations, or commitments in word but not deed. It demands a **bold commitment**—a resolute choice to rise into [[Higher Order Functional Unity]] and actively co-create [[The LIØNSBERG Alliance]]. This is your moment to step forward as a beacon of light, purpose, and love. As you feel the Spirit move you, We invite you to take the first step: review the materials below and [RSVP Here](x).
 
 What will be different this time? We have transformed. We have dismantled illusions. We have tried and failed, and We have learned. This time, We demand far greater **COMMITMENT** from a more selective group.
 
-If you are ready to join [[The Lionsberg Alliance]], forge or join a Team, embark on meaningful [[The LIØNSBERG Calendar]], and [[Pass The Flame]] to [[The First Three Percent]], please see one or more of the invitations below and [RSVP Here](x).
+If you are ready to join [[The LIØNSBERG Alliance]], forge or join a Team, embark on meaningful [[The LIØNSBERG Calendar]], and [[Pass The Flame]] to [[The First Three Percent]], please see one or more of the invitations below and [RSVP Here](x).
 
 **You do not need to read everything.** If you feel the Spirit move you, simply answer [[The Call]] and [RSVP Here](x) to Join Us.  
 ___
@@ -56,9 +56,9 @@ This is more than an invitation—it is the opportunity and adventure of a lifet
 ___
 ### **Related Materials**
 
-- [[Invitation to Join the Lionsberg Alliance]] (For existing teams)
+- [[Invitation to Join the LIØNSBERG Alliance]] (For existing teams)
 - [[The Invitation - 2025 - Season 1]] (For individuals)  
-- [[Agreement to Join The Lionsberg Alliance]] (Principles and Rules of Engagement)  
+- [[Agreement to Join The LIØNSBERG Alliance]] (Principles and Rules of Engagement)  
 - [[Sounding The Alarm]] (Because _**the building is on fire**_ and all life on Earth is at stake)  
 - [[The Bottom Line - Humanity's Final Test, and the Path to Unity]] (5 minutes of clarity)
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] (For a more complete picture of what We have been contemplating)

@@ -7,4 +7,4 @@ The idea of the [[Meta Community]] is critical because it provides a framework i
 
 All of our communities, whether we acknowledge it or not, are part of the total set of communities. The only question is how consciously and competently we are participating in the Whole. 
 
-To connect to our attempt to progressively Realize / Embody this idea, see the [[Lionsberg Community]]. 
+To connect to our attempt to progressively Realize / Embody this idea, see the [[LIØNSBERG Community]]. 

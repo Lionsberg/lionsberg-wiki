@@ -58,7 +58,7 @@
 - A hierarchy or depth of engagement... 
     - From meta project (loose mapping of all similar things that may or may not want to play together but maybe should)
     - To Meta Project (people who are starting to vaguely work together...)
-    - To Lionsberg or another named thing that is a closely co-operating community... 
+    - To LIØNSBERG or another named thing that is a closely co-operating community... 
     - and how we progressively invite people deeper into right relationship with one another
 - Where do I fit in? 
     - From curiosity
@@ -74,8 +74,8 @@ How do we invite participation from visionaries without making them feel like th
 
 ## Existing wiki material
 
-- https://lionsberg.wiki/lionsberg_community_information/groups/onboarding/onboarding_process 
-- https://lionsberg.wiki/lionsberg_community_information/groups/map_weavers/interviewers_group 
+- https://LIØNSBERG.wiki/LIØNSBERG_community_information/groups/onboarding/onboarding_process 
+- https://LIØNSBERG.wiki/LIØNSBERG_community_information/groups/map_weavers/interviewers_group 
 
 ## Generative Commons
 - Where can gems be gathered, dropped, tagged... super essential... 

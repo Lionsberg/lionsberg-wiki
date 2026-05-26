@@ -16,4 +16,4 @@ ___
 Forward to: [[Scene 6 - Progress And Trouble In Paradise]]  
 Back to: [[Scene 4 - Life Within The Boundary]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

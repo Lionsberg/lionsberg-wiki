@@ -17,4 +17,4 @@ ___
 
 Forward to [[Roles]]  
 Back to [[6.8 Organizations]]  
-Back to Table of Contents [[The Lionsberg Handbook]]  
+Back to Table of Contents [[The LIØNSBERG Handbook]]  

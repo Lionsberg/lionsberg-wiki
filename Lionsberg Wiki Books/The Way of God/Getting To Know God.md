@@ -39,4 +39,4 @@ ___
 Forward to [[Waking Up, Paying Attention, And Listening]]  
 Back to [[Our Shared Mission and Goal]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

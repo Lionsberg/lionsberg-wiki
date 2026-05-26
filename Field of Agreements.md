@@ -44,7 +44,7 @@ The same structure applies at every scale:
 - **Circle**: The Circle's shared agreements governing purpose, rhythm, decision-making, and mutual accountability
 - **Community**: Agreements between federated Circles governing shared resources, coordination, and collective action
 - **Bioregion**: Agreements between federated communities governing food systems, education, healthcare, and ecological stewardship
-- **Planetary**: The agreements governing the [[Lionsberg Commons]] — the highest-level field in service of [[ØNE]] and [[All]]
+- **Planetary**: The agreements governing the [[LIØNSBERG Commons]] — the highest-level field in service of [[ØNE]] and [[All]]
 
 At every level, the agreements are freely consented to by the sovereign members of that domain. At every level, members are free to leave. At every level, the agreements can be consciously evaluated and continuously improved.
 

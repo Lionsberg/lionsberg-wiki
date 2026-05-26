@@ -1,5 +1,5 @@
 # Rule Number One
-*From [[The Lionsberg Rules]]*  
+*From [[The LIØNSBERG Rules]]*  
 
 *There is only [[ØNE]] rule. Everything is [[ØNE]].*  
 

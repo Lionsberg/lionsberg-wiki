@@ -1,4 +1,4 @@
-# Lionsberg Orientation and Training System (brainstorm)
+# LIØNSBERG Orientation and Training System (brainstorm)
 
 Brainstorm on possible modules / topics / pathways.  
 
@@ -9,7 +9,7 @@ Brainstorm on possible modules / topics / pathways.
 ## One: Onboarding and Orientation
 
 ### Module 1 - Welcome to the Adventure and Opportunity of a Lifetime
-###  Module 2 - Story - The Narrative Structure of Lionsberg and Consciousness  
+###  Module 2 - Story - The Narrative Structure of LIØNSBERG and Consciousness  
 
 ### Module 3 - (Y)our Story  
 
@@ -33,13 +33,13 @@ Brainstorm on possible modules / topics / pathways.
 
 ## Two: Embarking on the First Quest 
 
-### Module 13 - The Great Game of Lionsberg 
+### Module 13 - The Great Game of LIØNSBERG 
 
 ### Module 14 - Choosing an Aim, Forging a Team, and Embarking on Your First Quest  
 
 ### Module 14 - General Issues and Specific Issues  
 
-### Module 15 - Co-Operating The Lionsberg System  
+### Module 15 - Co-Operating The LIØNSBERG System  
 
 ### Module 16 - Self Governance and Team Governance  
 
@@ -47,7 +47,7 @@ Brainstorm on possible modules / topics / pathways.
 
 ### Module 18 - Team Disciplines, Practice, and Play  
 
-### Module 19 - The Lionsberg Toolkit 
+### Module 19 - The LIØNSBERG Toolkit 
 
 ### Module 20 - The Phenomenal Calling  
 
@@ -140,7 +140,7 @@ Brainstorm on possible modules / topics / pathways.
 
 ### Module 61 - Co-Creating Our Future - Actively Reimagining, Redesigning, and Rebuilding Our Reality  
 
-### Module 62 - Mastering the Lionsberg System - Why a Comprehensive System and Approach is Required  
+### Module 62 - Mastering the LIØNSBERG System - Why a Comprehensive System and Approach is Required  
 
 ### Module 63 - The Seven Steps of Transformation
 
@@ -158,9 +158,9 @@ Brainstorm on possible modules / topics / pathways.
 
 ### Module 70 - Step 7 - Measurement, Retrospection, and Continuous Improvement  
 
-### Module 71 - The Work Breakdown Structure - The 12 Pillars of Lionsberg 
+### Module 71 - The Work Breakdown Structure - The 12 Pillars of LIØNSBERG 
 
-### Module 72 - Teams and Organizations the Lionsberg Way 
+### Module 72 - Teams and Organizations the LIØNSBERG Way 
 
 
 
@@ -213,7 +213,7 @@ Build prerequisite structure so people can choose any modules that they have acc
 - Developing a Theory of Evil and Malevolence  
 - Citizen Led Joint Ventures  
 - A Federated Ecosystem of Opportunity and Impact 
-- Mastering the Lionsberg System  
+- Mastering the LIØNSBERG System  
 - Systems, Process, and Technology 
 - Information 
 - People 

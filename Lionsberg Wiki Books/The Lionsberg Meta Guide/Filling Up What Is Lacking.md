@@ -14,6 +14,6 @@ If [[LIØNSBERG]] / the [[New World]] is lacking in anything, we work together t
 
 If it belongs in the [[New World]], it belongs in [[LIØNSBERG]].  
 
-If we see anything that is missing, we check to see if it in already contained in the [[Lionsberg Plans and Specifications]]. If it is, we make sure it is appropriately prioritized and linked in the [[System Wide Master Plan]]. 
+If we see anything that is missing, we check to see if it in already contained in the [[LIØNSBERG Plans and Specifications]]. If it is, we make sure it is appropriately prioritized and linked in the [[System Wide Master Plan]]. 
 
 If it is not, we add it to the [[Issue Tracker]].  

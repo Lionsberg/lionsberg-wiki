@@ -8,4 +8,4 @@ ___
 
 Forward to [[Meditation 329]]  
 Back to [[Meditation 327]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

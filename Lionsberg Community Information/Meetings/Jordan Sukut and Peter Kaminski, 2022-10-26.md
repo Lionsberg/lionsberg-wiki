@@ -5,24 +5,24 @@
 - harvesting and minor composting of value we've created
 - we have the best start to the next season
     - have all the set-up
-- Pete helping with Lionsberg
+- Pete helping with LIØNSBERG
 - time currency
 - Wednesday group
 
 ## Wednesday Group 
 - Don't force a reformulation... 
-- See notes below, space will remain open for those who want to join... as a Lionsberg Call hosted by Jordan
+- See notes below, space will remain open for those who want to join... as a LIØNSBERG Call hosted by Jordan
 - Some in the group - may start other calls at other times for specific purposes - which is exactly the right thing to happen. 
 
 ## Wednesday Call
-- Maybe can become a very open space that whoever is involved in Lionsberg works together to open up and facilitate for anyone who wants to build community, talk about what's happening in the (network / plex / meta project) etc. 
+- Maybe can become a very open space that whoever is involved in LIØNSBERG works together to open up and facilitate for anyone who wants to build community, talk about what's happening in the (network / plex / meta project) etc. 
 - What we are each doing, what is happening in the broader world, and how we might be able to work together... 
 - Pete - likely has too much baggage - so close it out and restart a new rhythm 
 - Pete suggests we purposely burn that bridge... 
-- Keep the topic... I host... have it be a Lionsberg call... 
+- Keep the topic... I host... have it be a LIØNSBERG call... 
     - Open and friendly for Quaker meeting style presence
-- It is not a meta project call - it is a Lionsberg call - and we will create a reverant call... 
-- Lionsberg Meeting
+- It is not a meta project call - it is a LIØNSBERG call - and we will create a reverant call... 
+- LIØNSBERG Meeting
 
 ## Calls
 - It is generally bad to have calls without purpose... 
@@ -31,14 +31,14 @@
     - Feels like a reverent space into which each of us are called to speak a truth... and we all come away enlightened. 
     - 
 
-## Lionsberg
+## LIØNSBERG
 - Jordan is going to start working with a team... 
 - Tracking time currency and investment... 
-- Weekly Lionsberg Meeting space on Wednesday... 
+- Weekly LIØNSBERG Meeting space on Wednesday... 
 - Other meetings as necessary to progress specific work. 
 
-## Jordan and Pete / Lionsberg and Massive
-- Start weekly meeting next week to begin iterating on the Lionsberg Mind... 
+## Jordan and Pete / LIØNSBERG and Massive
+- Start weekly meeting next week to begin iterating on the LIØNSBERG Mind... 
 - Start tracking Time Currency and Value Creation... in a way that can lead towards funding that can accelerate the team.. 
 
 ## Time and Value 
@@ -97,7 +97,7 @@
     - When the individual and community make a co-commitment to one another
     - Here is the level of commitment to the project
     - and here is the level of values I think I can create relative to the goals of the community... 
-    - Lionsberg has particular goals it is working towards
+    - LIØNSBERG has particular goals it is working towards
     - Is something is contributing a lot but not ADVANCING THE OBJECTIVES... it is essentially an advisor bonus
     - co-commitment... 
     - Here is the level of commitment I am going to make... 
@@ -129,8 +129,8 @@
 - net net thing is commitment towards higher purpose and the only way to judge that is in community... 
 
 ## Jordan's Summary to Incorporate... 
-- The [[Lionsberg Time Currency]] was a concept that was a stepping stone.
-- Our [[Current Best Understanding]] is that the [[Lionsberg Currency]] should begin with a simple [[Level Of Commitment]] on a scale from 1 to 7, made as an agreement between the individual and the Community. 
+- The [[LIØNSBERG Time Currency]] was a concept that was a stepping stone.
+- Our [[Current Best Understanding]] is that the [[LIØNSBERG Currency]] should begin with a simple [[Level Of Commitment]] on a scale from 1 to 7, made as an agreement between the individual and the Community. 
 - If this scales out to all humanity, our entire society would operate on a 1 to 7 level of income equality, that could allow for resources and standards of living to adjusted as appropriate across all various contexts as we grapple with the currency systems of the [[Old World]]. 
 
 

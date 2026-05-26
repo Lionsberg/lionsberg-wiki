@@ -143,4 +143,4 @@ There is no "them" out there to govern us, provision us, or permission us. We ar
 
 ___
 
-Return to [[Lionsberg Orientation and Training System]]  
+Return to [[LIØNSBERG Orientation and Training System]]  

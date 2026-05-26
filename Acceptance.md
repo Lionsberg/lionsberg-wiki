@@ -20,7 +20,7 @@ Several factors can challenge acceptance, such as fear, judgment, prejudice, or 
 
 Cultivating acceptance involves self-awareness, mindfulness, compassion, and patience. It requires the courage to face reality as it is, the wisdom to discern what can and cannot be changed, and the strength to engage constructively with the aspects of reality that can be influenced.
 
-**Acceptance in the Context of Lionsberg**
+**Acceptance in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, acceptance serves as a cornerstone. It enables us to acknowledge the realities of the Old World without denial or evasion, understanding its challenges, appreciating its achievements, and learning from its mistakes. Acceptance impels us to engage constructively with the process of transition, embracing change without unnecessary resistance, and finding a path towards the New World that respects the complexities of the present.
 

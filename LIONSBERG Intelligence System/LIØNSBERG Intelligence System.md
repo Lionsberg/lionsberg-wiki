@@ -78,7 +78,7 @@ The system will be made up of several synergistic layers:
 ## Translation 
 
 Translation across all languages.  
-[[Lionsberg Rosetta Stone]] - AI. 
+[[LIØNSBERG Rosetta Stone]] - AI. 
 
 ---
 

@@ -5,7 +5,7 @@ Requests For Guidance are tracked in the [[Request For Guidance Tracker]].
 
 One primary function function of Requests For Guidance is to clarify [[Designer's Intent]] among co-creators. If you are unsure, please ask for Guidance. 
 
-A second primary function is to ensure that the distributed array of autonomous groups is aware of everything that Lionsberg is aware of, and that Lionsberg is aware of everything the distributed array of autonomous groups are aware of. 
+A second primary function is to ensure that the distributed array of autonomous groups is aware of everything that LIØNSBERG is aware of, and that LIØNSBERG is aware of everything the distributed array of autonomous groups are aware of. 
 
 ___
 

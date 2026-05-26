@@ -6,7 +6,7 @@ A post in [[Above The Chaos]]
 
 Greetings Esteemed Allies, 
 
-Congratulations and thank you for being a part of the successful completion of the first 7 [[Lionsberg Cycles of Growth]] within 7 weeks. 
+Congratulations and thank you for being a part of the successful completion of the first 7 [[LIØNSBERG Cycles of Growth]] within 7 weeks. 
 
 With that important milestone behind us, [[The Invitation, Cycle 8]] is live. 
 
@@ -16,7 +16,7 @@ It contains a link to a new video shot by Zachary Marlow.
 
 [[The Invitation]] is designed to be improved with each cycle. If you see anything that could be improved, please suggest changes and resources to help implement. 
 
-To advance [[The Movement]] via the collective discernment of the [[Lionsberg Co-Creators]], each individual is invited to extend The Invitation to one other individual a week, and to nominate additional members as you see fit to [[Jordan]] for collective discernment. 
+To advance [[The Movement]] via the collective discernment of the [[LIØNSBERG Co-Creators]], each individual is invited to extend The Invitation to one other individual a week, and to nominate additional members as you see fit to [[Jordan]] for collective discernment. 
 
 Love and Blessings, 
 

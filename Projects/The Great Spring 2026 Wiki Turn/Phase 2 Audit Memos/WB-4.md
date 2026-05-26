@@ -24,7 +24,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 
 **144 Threads** — 147 files, 600K. Read both root-level index files (`144 Threads — A Desperate Prayer…` and `144 Threads — A Final Call…`), the predecessor blog file ([[144 Threads … (Full Draft)]], 1,037 lines), and ~6 individual numbered thread files spanning Sections I, IV, V, VI. Coverage: deep enough to make the version-comparison call.
 
-**Beyond The Meta Crisis** — 108 files, 576K. Read TOC, abstract, Chapter 1 opening, root-cause chapters (3.2, 3.3, 4.2), Acceptance Criteria 6.5 (44 criteria — major source-document), Awakening 9.1, Lionsberg System 13.2, United Front 14.1, Vision Components 16.5.1, 16.5.4, 16.5.5, 16.5.8, 16.5.10, Vision of New Earth 16.7 (138-item enumeration — major source-document), Way Forward 29.2, Resourcing 31.4. Coverage: every major architectural file plus enough operational chapters to identify net-new Card seams.
+**Beyond The Meta Crisis** — 108 files, 576K. Read TOC, abstract, Chapter 1 opening, root-cause chapters (3.2, 3.3, 4.2), Acceptance Criteria 6.5 (44 criteria — major source-document), Awakening 9.1, LIØNSBERG System 13.2, United Front 14.1, Vision Components 16.5.1, 16.5.4, 16.5.5, 16.5.8, 16.5.10, Vision of New Earth 16.7 (138-item enumeration — major source-document), Way Forward 29.2, Resourcing 31.4. Coverage: every major architectural file plus enough operational chapters to identify net-new Card seams.
 
 ---
 
@@ -132,9 +132,9 @@ The book contains **161 Cards** (the index file states 160; the actual file coun
 | 92 | The Lahaina Principle | The principle named after the Lahaina event | C |
 | 93 | The Law of Omniconsideration | Universal consideration as design principle | C |
 | 94 | The Layered Architecture | The codex/wiki layered architecture | C |
-| 95 | The Lionsberg Academy | The educational arm | C |
-| 96 | The Lionsberg Cycles of Growth | The cyclical growth pattern | C |
-| 97 | The Lionsberg Rules | The Meta Rule + Operating Rule — Benedictine-spare | C |
+| 95 | The LIØNSBERG Academy | The educational arm | C |
+| 96 | The LIØNSBERG Cycles of Growth | The cyclical growth pattern | C |
+| 97 | The LIØNSBERG Rules | The Meta Rule + Operating Rule — Benedictine-spare | C |
 | 98 | The Means Are The Ends | Path = destination; how is what | C |
 | 99 | The Meta Community | The community-of-communities | C |
 | 100 | The Meta Crisis as Push, The Goal as Pull | Crisis pushes, Goal pulls — both required | C |
@@ -269,7 +269,7 @@ The book is dense with Card-grade material not yet captured. The following table
 | The 50 Anti-Values | The corresponding list of what does NOT belong in the New World (Tyranny, Chaos, Injustice, etc.) — pairs with the 138 as the filtering instrument | 16.7 |
 | The Total Nested Hierarchy of Issues | The taxonomic frame for organizing the meta-crisis into addressable layers | 16.7, 6.5 |
 | Root Causes vs Symptoms | The diagnostic discipline that distinguishes treating roots from treating manifestations | 3.2, 4.1-4.3 |
-| The Lionsberg Integrated Development Goals (IDGs) | The named successor to the UN SDGs — universal, just, holistic, adaptive | 16.5.8, 16.5.10 |
+| The LIØNSBERG Integrated Development Goals (IDGs) | The named successor to the UN SDGs — universal, just, holistic, adaptive | 16.5.8, 16.5.10 |
 | The Grand Challenges | The named set of macro-challenges the New System addresses | 16.5.9, multiple |
 | The 7-Year Meta Project | The originally-named 2023-2030 frame (now revised to 2024-2030 in current Codex) — useful as historical anchor | 6.5 |
 | Subsidiarity | Decisions at the smallest competent scale — already implicit in `Subsidiarity and the Swiss Pattern` but the BTMC formulation is more operationally precise | 16.5.4, 16.5.8 |
@@ -283,7 +283,7 @@ The book is dense with Card-grade material not yet captured. The following table
 | The Ontological Shock | The trauma of foundational beliefs unmasked; pairs with `Trauma as Master Key of Slavery` but specifically about the awakening shock | 144 Threads §2, also in BTMC |
 | Discussion Group → Action Group | The arc by which deliberation becomes action; pairs with Form-A-Circle but adds the dialogue-to-action transition | 2.4 |
 | The Pilot Project Discipline | Pilots and experiments as bridge between theory and practice | 29.2 §3 |
-| The United Front | The named planetary coalition emerging from the Lionsberg System | 14.1-14.3 |
+| The United Front | The named planetary coalition emerging from the LIØNSBERG System | 14.1-14.3 |
 | The Rising Movement (as concept) | Already in Cards as `The Rising Movement` but BTMC contains the most operational articulation (Ch 12, 31) | 12, 31 |
 | Mobilizing Multiple Capitals | Philanthropy + impact investment + grants + PPP as ensemble | 31.4 §1 |
 | Resource Efficiency as Movement Discipline | Internal regenerativity — the Movement modeling what it advocates | 31.4 §8 |
@@ -322,7 +322,7 @@ The following BTMC files should be treated as **foundational source-documents** 
 1. **`6.5 Acceptance Criteria for the New System and Approach`** — the 44-criteria document. This is among the most operationally compressed strategic articulations in the entire corpus. The criteria function as a discernment instrument the Codex can offer to any reader weighing systems.
 2. **`16.7 A Vision of the New Earth`** — the 138 aspects + 50 anti-values enumeration. The closest the corpus has to a "complete picture of Heaven On Earth" in one file.
 3. **`16.5.10 A Measurable and Accountable Way`** — articulates the measurement architecture (Live Dashboards, IDGs, gamified Pattern Language, citizen-led oversight). This is the operational spine of `Throughput of The Goal`.
-4. **`13.2 The concept of the Lionsberg System`** — the cleanest single-paragraph articulation of what the System actually is, operationally.
+4. **`13.2 The concept of the LIØNSBERG System`** — the cleanest single-paragraph articulation of what the System actually is, operationally.
 5. **`Chapter 9 (9.1-9.4) The Awakening of Humanity`** — supplies the human-development articulation of the Awakening that the Codex's cosmic-scale articulation can ground in.
 6. **`Chapter 4 The Causes of the Meta Crisis`** — historical/structural/behavioral root-cause taxonomy.
 7. **[[Beyond The Meta Crisis - A Blueprint for a Better Future]]** (the root TOC) — the architectural index itself is a foundational reference.
@@ -348,7 +348,7 @@ The following BTMC files should be treated as **foundational source-documents** 
 
 1. **The Codex Card-Book is the single most-important active wiki book in the repository.** It is where the canonical voice of the nameless one is being articulated, in Pirsig-discipline, in real time. Every other wiki book is either historical record (Jordan-pre-August-2025), source-material being audited (144 Threads, Beyond The Meta Crisis, etc.), or downstream synthesis (the eventual Seven Volumes). The Card-Book is the present-tense edge of the work.
 
-2. **Promotion: yes, but carefully.** The Card-Book should be promoted to second-position in [[Lionsberg Wiki Books]] (currently it is not yet listed in the Featured Works section). First position remains `LIØNSBERG 101` (the irreducible-pattern Card). Second position should be `LIØNSBERG, Earth, and the Cosmos` as "the living Card-book where the Codex is being articulated." This visible promotion signals to other Sovereigns (and to future AI sessions) that this is the active edge.
+2. **Promotion: yes, but carefully.** The Card-Book should be promoted to second-position in [[LIØNSBERG Wiki Books]] (currently it is not yet listed in the Featured Works section). First position remains `LIØNSBERG 101` (the irreducible-pattern Card). Second position should be `LIØNSBERG, Earth, and the Cosmos` as "the living Card-book where the Codex is being articulated." This visible promotion signals to other Sovereigns (and to future AI sessions) that this is the active edge.
 
 3. **The Card-Book should absorb the other "card-collection" prototypes in the wiki**, namely:
    - The 144 Threads (each thread is essentially a Card-stub — many already have Card-equivalents in the Card-Book, the rest can become Cards)
@@ -389,7 +389,7 @@ The following files stood out during the audit and warrant particular attention:
 
 - **[[The Death of Jordan and the Rising of the Nameless One]]** — The personal-historical anchor that grounds the Codex's voice in direct witness. Cannot be voiced by anyone else; uniquely irreplaceable.
 
-- **[[The Lionsberg Rules]]** — The compressed Rule-of-life ("There is only ØNE rule. Everything is ØNE." + "Do the Wise Right Thing..."). This is the irreducible compression-test of the Codex. Every other Card should survive being reduced to these two rules and re-derived.
+- **[[The LIØNSBERG Rules]]** — The compressed Rule-of-life ("There is only ØNE rule. Everything is ØNE." + "Do the Wise Right Thing..."). This is the irreducible compression-test of the Codex. Every other Card should survive being reduced to these two rules and re-derived.
 
 - **[[6.5 Acceptance criteria for the New System and Approach]]** — The 44 criteria are the operational filter the Codex offers Sovereigns weighing competing systems. This file should be a foundational source-document anchor for the Card-Book's strategic dimension.
 
@@ -408,4 +408,4 @@ The following files stood out during the audit and warrant particular attention:
 - The voice-discipline concerns flagged (especially the Yahweh card) should be prioritized for the next refinement pass — they violate the universal-articulation discipline more visibly than any other voice issue in the audited corpus.
 - The hypothesis-grade epistemic flagging is the single structural feature most needed; recommend adding to the canonical frontmatter schema before Phase 2.8.
 - Projection of 3,000-5,000 Cards by Phase 2 completion implies ~20-30× current Card count; the BTMC and 144 Threads audits each contribute ~30-60 strong Card-candidates. Other unaudited books will contribute hundreds more.
-- The Codex Card-Book deserves promotion to Featured Works in [[Lionsberg Wiki Books]]. It is the present-tense edge of the Great Spring 2026 Wiki Turn and the canonical home of the nameless one's voice.
+- The Codex Card-Book deserves promotion to Featured Works in [[LIØNSBERG Wiki Books]]. It is the present-tense edge of the Great Spring 2026 Wiki Turn and the canonical home of the nameless one's voice.

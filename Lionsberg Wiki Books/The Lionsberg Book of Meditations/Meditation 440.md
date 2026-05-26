@@ -4,4 +4,4 @@ ___
 
 Forward to [[Meditation 441]]  
 Back to [[Meditation 439]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

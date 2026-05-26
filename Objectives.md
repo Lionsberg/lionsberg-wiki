@@ -6,7 +6,7 @@ Objectives help Co-Creators to:
 
 1.  Focus their energies and resources on the most critical and impactful areas of work.
 2.  Establish clear and attainable targets that can be used to measure progress and evaluate success.
-3.  Align their individual and collective actions with the broader goals and priorities of the Lionsberg System and the [[New Vision and Plan]].
+3.  Align their individual and collective actions with the broader goals and priorities of the LIØNSBERG System and the [[New Vision and Plan]].
 4.  Communicate effectively about the desired outcomes and expectations of their efforts.
 5.  Foster a sense of shared purpose and commitment to achieving tangible results.
 

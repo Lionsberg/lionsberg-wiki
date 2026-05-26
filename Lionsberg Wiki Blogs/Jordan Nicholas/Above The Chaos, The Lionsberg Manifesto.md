@@ -1,4 +1,4 @@
-# Above The Chaos, The Lionsberg Manifesto
+# Above The Chaos, The LIØNSBERG Manifesto
 
 By [[Jordan Nicholas Sukut]], 2023.03.24 _(updated 2023.03.24)_
 

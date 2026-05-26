@@ -22,7 +22,7 @@ In a holofractal Universe, the same could be said about any individual, tribe, c
 
 "And by the way, **there is only *One Goal***, no matter what the ***planet*** is."
 
-The Lionsberg System, Strategy, and Plan is [[Purpose-Built]] to bring [[The Goal]] into [[Reality]] in any [[Domain]] it is Incarnated. 
+The LIØNSBERG System, Strategy, and Plan is [[Purpose-Built]] to bring [[The Goal]] into [[Reality]] in any [[Domain]] it is Incarnated. 
 
 ___  
 If [[The Goal]] of any [[ØNE]] who Loves is to Co-Create [[Heaven]] for [[All]], an extraordinary cosmic opportunity opens up, whereby [[All Creation]] is invited to take up their unique [[SpatioTemporal Place]] and [[Functional Role]] in [[The Divine Symphony]] of Heaven. 

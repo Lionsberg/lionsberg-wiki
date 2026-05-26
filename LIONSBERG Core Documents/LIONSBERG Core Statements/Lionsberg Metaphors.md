@@ -1,6 +1,6 @@
-# Lionsberg Metaphors
+# LIØNSBERG Metaphors
 
-Lionsberg is like... 
+LIØNSBERG is like... 
 ## 1
 
 ...a Movement / Force For Good uniting to confront and overcome the [[Meta Crisis]] and [[Co-Create]] the [[Best Possible Future]] for [[All]].    
@@ -25,7 +25,7 @@ The True Kingdom
 ...a Sacred Tree emerging from [[The Golden Seed]].  
 [[The Sacred Tree]]  
 
-See also [[The Lionsberg Book of Metaphors]]  
+See also [[The LIØNSBERG Book of Metaphors]]  
 
 ____  
 An entry in [[LIØNSBERG Core Statements]]  

@@ -1,4 +1,4 @@
-# Lionsberg, 2022.11.02
+# LIØNSBERG, 2022.11.02
 
 ## Trips Away
 - Pilgrimage... doing something different... transforms how you see the world and think about it... 
@@ -40,7 +40,7 @@
 - then trust
 - small scale cooperation
 - broader cooperation
-- Use Lionsberg development to date as a starting point
+- Use LIØNSBERG development to date as a starting point
 
 ## Judy
 - How to balance for myself personally and others - theexpansion potential, the enablement of the expansion, and what is needed... in terms of what we can provide to support the expanded impact... 

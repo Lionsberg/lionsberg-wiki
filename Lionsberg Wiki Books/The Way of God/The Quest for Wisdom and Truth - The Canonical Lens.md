@@ -27,4 +27,4 @@ _____
 Forward to [[Towards an Objective Analysis of the 10 Most Canonical Texts in Human History, Sorted by Depth]]  
 Back to [[Part III - The Canonical Lens]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

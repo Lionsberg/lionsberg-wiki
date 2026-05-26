@@ -6,8 +6,8 @@ This is a living [[Work In Progress]]...
 
 ### Introduction
 [[0.0 Work In Progress]]  
-[[0.1 Book of Lionsberg Title Page]]  
-[[0.2 Book of Lionsberg Legal Page]]  
+[[0.1 Book of LIØNSBERG Title Page]]  
+[[0.2 Book of LIØNSBERG Legal Page]]  
 [[0.3 Author's Note]]  
 [[0.4 The Meta Story]]  
 [[0.5 Attribution]]  
@@ -741,9 +741,9 @@ _The following companion volumes support and deepen the journey through The Book
 
 **[[The LIØNSBERG Pattern Language]]** — _The Pattern behind all patterns — the living grammar of co-creation_
 
-**[[The Lionsberg Book of Meditations]]** — _Daily contemplations for the Way_
+**[[The LIØNSBERG Book of Meditations]]** — _Daily contemplations for the Way_
 
-**[[The Lionsberg Book of Quotes]]** — _Voices of wisdom across ages and traditions_
+**[[The LIØNSBERG Book of Quotes]]** — _Voices of wisdom across ages and traditions_
 
 **[[The LIØNSBERG Book of Emotions]]** — _The vocabulary of the inner life_
 

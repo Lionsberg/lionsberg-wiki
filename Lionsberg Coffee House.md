@@ -1,5 +1,5 @@
-# Lionsberg Coffee House
+# LIØNSBERG Coffee House
 
-The Lionsberg Coffee House is a virtual space in which community members can drop by, see if anyone is present, and connect. 
+The LIØNSBERG Coffee House is a virtual space in which community members can drop by, see if anyone is present, and connect. 
 
-The schedule can be found on the [[Lionsberg Battle Rhythm]]. 
+The schedule can be found on the [[LIØNSBERG Battle Rhythm]]. 

@@ -20,7 +20,7 @@ Several factors can challenge At-One-Ment, such as ego-centric thinking, feeling
 
 Cultivating At-One-Ment involves introspection, self-awareness, and the cultivation of empathy and compassion. It also involves practices that promote mindfulness, acceptance, and unity, such as meditation, prayer, and community service. It also involves taking responsibility for ones past transgressions, setting things right to the best of ones ability, and committing to do better in the future. 
 
-**At-One-Ment in the Context of Lionsberg**
+**At-One-Ment in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, At-One-Ment becomes a key guiding principle. It encourages us to move beyond divisive narratives and towards a realization of our inherent interconnectedness and unity.
 

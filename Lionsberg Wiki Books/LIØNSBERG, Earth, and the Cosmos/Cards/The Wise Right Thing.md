@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, meta-rule, discernment, foundational]
-source: Phase 2.1 audit of The Book of Meditations + The Lionsberg Rules + The LIØNSBERG Way
+source: Phase 2.1 audit of The Book of Meditations + The LIØNSBERG Rules + The LIØNSBERG Way
 captured: 2026-05-19
 ---
 
@@ -14,7 +14,7 @@ When the Sovereign faces a decision, the Sovereign does not ask "what is permitt
 
 The phrase is precise. Not merely the **right** thing — correct, lawful, ethical — because the Old World has produced many corrupted moralities that issue "correct" answers leading to disaster. Not merely the **wise** thing — clever, strategic, advantageous — because cleverness without rightness becomes manipulation. The integration is the test: **wise** AND **right**, fused, answered in the present moment, under the standard of [[The Goal]] and the gaze of [[ØNE]].
 
-The phrase recurs throughout the Codex with deliberate weight. The Book of Meditations (Med 1, 10, 90, and dozens of subsequent meditations) returns to it as a refrain. [[The Lionsberg Rules]] articulates the Operating Rule precisely:
+The phrase recurs throughout the Codex with deliberate weight. The Book of Meditations (Med 1, 10, 90, and dozens of subsequent meditations) returns to it as a refrain. [[The LIØNSBERG Rules]] articulates the Operating Rule precisely:
 
 > _Do the Wise Right Thing at the Wise Right Time with the Wise Right People to Progressively Realize the Goal._
 

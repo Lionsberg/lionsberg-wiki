@@ -2,7 +2,7 @@
 
 [[Consciousness]] fundamentally lays itself out in narrative structure. 
 
-In the context of the Lionsberg System, **The Story** refers to the all-encompassing story of our existence as a human species in a vast intelligible universe, presently aboard [[Worksite Earth]]... 
+In the context of the LIØNSBERG System, **The Story** refers to the all-encompassing story of our existence as a human species in a vast intelligible universe, presently aboard [[Worksite Earth]]... 
 
 [[The Story of LIØNSBERG]] is one telling of [[The Story of LIØNSBERG]], encompassing: 
 

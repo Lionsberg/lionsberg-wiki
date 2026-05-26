@@ -58,7 +58,7 @@ Our host Jordan Nicholas and attorney and advisor Bill Larson discuss corruption
 - 35:10 We’re here on this earth to...  
 - 39:04 Building a better world  
 - 49:20 How do you develop patience in people?  
-- 1:03:07 Lionsberg experiments  
+- 1:03:07 LIØNSBERG experiments  
 - 1:10:46 Bringing people together  
 
 **Key Concepts and Ideas**:  
@@ -70,11 +70,11 @@ Our host Jordan Nicholas and attorney and advisor Bill Larson discuss corruption
 - Painful Experiences 
 - Deception  
 - Designing and Building a Better World 
-- Lionsberg  
+- LIØNSBERG  
 
 **Resources and Links**:  
-- [Lionsberg Wiki](https://lionsberg.wiki) 
-- [Lionsberg Website](https://www.Lionsberg.org)  
+- [LIØNSBERG Wiki](https://LIØNSBERG.wiki) 
+- [LIØNSBERG Website](https://www.LIØNSBERG.org)  
 
 ### Rough Transcript  - Auto Generated and Unedited - Contains Errors 
 

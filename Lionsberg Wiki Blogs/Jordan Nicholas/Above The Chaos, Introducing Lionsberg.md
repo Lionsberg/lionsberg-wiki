@@ -1,4 +1,4 @@
-# Above The Chaos, Introducing Lionsberg
+# Above The Chaos, Introducing LIØNSBERG
 
 By [[Jordan Nicholas Sukut]], 2022.11.01 _(updated 2022.11.01)_
 
@@ -33,7 +33,7 @@ In preparation for this moment, we have been preparing.
 
 That preparation included co-creating an incarnation of the [[Meta Idea]] called [[LIØNSBERG]].  
 
-Lionsberg is a mythical [[Word Tool]] we use to point at three deeper realities: 
+LIØNSBERG is a mythical [[Word Tool]] we use to point at three deeper realities: 
 
 1. The [[New World]] we are co-creating and "pulling" into [[Reality]]. 
 2. The Platform and System that connects, elevates, and empowers [[Conscious Agents]] in the [[Story]].  
@@ -54,15 +54,15 @@ There is only one possible outcome that constitutes [[Success]] for this very un
 
 We will know the [[Meta Goal]] has been accomplished and can continue to be accomplished throughout the [[New Millennium]] when each of 8 billion individuals has been invited, 7 times if necessary, by someone they love and trust, to take up their citizenship in the [[New World]] [[LIØNSBERG]] is co-creating and becoming, and 97% acceptance has been achieved.  
 ____  
-Why 97%? While we hope it is not true and [[All]] will voluntarily take up their citizenship in the [[New World]], because the [[Lionsberg System of Governance]] is entirely based on [[Consent]] and Voluntary  [[Participation]], our [[Current Best Understanding]] is that there are some who are so corrupted by the [[Old World]] that they will decline the offer and die while bitterly and resentfully clinging to the [[Old]]. 
+Why 97%? While we hope it is not true and [[All]] will voluntarily take up their citizenship in the [[New World]], because the [[LIØNSBERG System of Governance]] is entirely based on [[Consent]] and Voluntary  [[Participation]], our [[Current Best Understanding]] is that there are some who are so corrupted by the [[Old World]] that they will decline the offer and die while bitterly and resentfully clinging to the [[Old]]. 
 
-This is ok, and must be tolerated, as the [[Lionsberg System of Governance]] does not allow any [[Conscious Agent]] to violate the [[Sovereignty]] and [[Free Will]] of another [[Conscious Agent]] in their respective [[Domain Of Responsibility And Authority]].  
+This is ok, and must be tolerated, as the [[LIØNSBERG System of Governance]] does not allow any [[Conscious Agent]] to violate the [[Sovereignty]] and [[Free Will]] of another [[Conscious Agent]] in their respective [[Domain Of Responsibility And Authority]].  
 
 No matter what other [[Responsibility]] and [[Authority]] is withdrawn from a [[Conscious Agent]] by other Conscious Agents, the Responsibility, Authority and Freedom to Govern ones Self is inalienable. 
 
 Those who wish to reap the benefits, abundance, and joy that come from the New [[Way of Being]] within the boundaries of [[LIØNSBERG]] are welcome.  
 
-Those who do not want to honor and uphold the [[Lionsberg Code]] are welcome to remain outside the [[Lionsberg Boundary]].  
+Those who do not want to honor and uphold the [[LIØNSBERG Code]] are welcome to remain outside the [[LIØNSBERG Boundary]].  
 
 ___  
 Invitations and voluntary consent from the bottom up. 
@@ -71,15 +71,15 @@ No [[Old]] / existing organization, institution, or system of governance can imp
 
 However any existing organizations, institution, or system of governance can _invite_ its constituents to, in addition to their citizenship(s) in whatever existing forms, also take up their universal citizenship in [[LIØNSBERG]]. 
 
-The degree to which any [[Old]] system or domain is participating in [[LIØNSBERG]] can be judged by evaluating where its population is at along the [[Lionsberg Adoption Curve]]. 
+The degree to which any [[Old]] system or domain is participating in [[LIØNSBERG]] can be judged by evaluating where its population is at along the [[LIØNSBERG Adoption Curve]]. 
 
 ___  
 The short term objective between Q4 2022 and Q4 2029 is to continuously improve the [[Quality]] of [[LIØNSBERG]] as a 1. Community 2. Platform and 3. Experience that connects and empowers the universal "group of groups" / [[Force For Good]] as we advance together towards our overarching and uniting [[Meta Goal]] within the boundaries of our overarching and uniting [[Universal Values]]. 
 
 ____  
-As outlined on the [[Lionsberg Adoption Curve]] page, 
+As outlined on the [[LIØNSBERG Adoption Curve]] page, 
 
-The Lionsberg Adoption Curve is rooted in our [[Current Best Understanding]] of how human beings progressively adopt new ideas and technologies. 
+The LIØNSBERG Adoption Curve is rooted in our [[Current Best Understanding]] of how human beings progressively adopt new ideas and technologies. 
 
 ## Way To Adopt - Small Groups
 
@@ -123,22 +123,22 @@ To bound the time function, that would require:
 
 ## Hypothesis On Loss Rate
 
-Based on our [[Current Best Understanding]], we have developed a hypothesis on the [[Lionsberg Loss Rate]] to experiment with,
+Based on our [[Current Best Understanding]], we have developed a hypothesis on the [[LIØNSBERG Loss Rate]] to experiment with,
 
-- *If we continuously improve the [[Quality]] of the 1. Community 2. Platform and 3. Lived Experience of Lionsberg, we can hold [[Lionsberg Loss Rate]] to under 20%.* 
+- *If we continuously improve the [[Quality]] of the 1. Community 2. Platform and 3. Lived Experience of LIØNSBERG, we can hold [[LIØNSBERG Loss Rate]] to under 20%.* 
 
 ## Hypothesis On Expansion Rate
 
-Based on our [[Current Best Understanding]], we have developed a [[Hypothesis]] on the [[Lionsberg Expansion Rate]] to experiment with: 
+Based on our [[Current Best Understanding]], we have developed a [[Hypothesis]] on the [[LIØNSBERG Expansion Rate]] to experiment with: 
 
-- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of Lionsberg, we can hold the [[Lionsberg Expansion Rate]] to under 42_
+- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of LIØNSBERG, we can hold the [[LIØNSBERG Expansion Rate]] to under 42_
 
 ## Hypothesis On Success Rate
 
-- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of Lionsberg..._ 
-- _...we can hold the [[Lionsberg Expansion Rate]] to under 42 days_
-- _...while holding the [[Lionsberg Loss Rate]] to under 20%._ 
-- _This results in 54 or fewer cycles at a [[Lionsberg Cycle Time]] of 42 or fewer days, leading to an anticipated Project duration of 54 x 42 = 2,268 or fewer days._ 
+- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of LIØNSBERG..._ 
+- _...we can hold the [[LIØNSBERG Expansion Rate]] to under 42 days_
+- _...while holding the [[LIØNSBERG Loss Rate]] to under 20%._ 
+- _This results in 54 or fewer cycles at a [[LIØNSBERG Cycle Time]] of 42 or fewer days, leading to an anticipated Project duration of 54 x 42 = 2,268 or fewer days._ 
 - _2,268 days / 365 = 6.2 years, leaving 0.8 years, or 9.6 months of float._ 
 - _This will result in us being able to accomplish our [[Aim]] of connecting and empowering 1 billion [[Sovereign]] and [[Autonomous]] groups, encompassing 97% of humanity, around shared Goals and Values, within 7 years... 
 
@@ -150,12 +150,12 @@ What are we asking small groups to join?
 A Community, Platform, and Experience that will create the ability for a distributed network of sovereign and autonomous small groups to listen deeply to one another and [[Help One Another]] in the [[Wise Right]] [[Way]], at the Right Time, for the Right Reasons, to progress towards [[The Goal]].  
 
 ___  
-What groups can join Lionsberg? 
+What groups can join LIØNSBERG? 
 
-Any small group is welcome to join the Lionsberg Community / Platform / Experience provided that: 
+Any small group is welcome to join the LIØNSBERG Community / Platform / Experience provided that: 
 
 1. They agree to honor and uphold the [[Meta Agreement]] and [[Universal Values]] 
-2. There is an [[Agreement]] between the Group and the Lionsberg Community based on the [[Voluntary Consent]] of everyone involved  
+2. There is an [[Agreement]] between the Group and the LIØNSBERG Community based on the [[Voluntary Consent]] of everyone involved  
 3. They advance through the [[Process For Onboarding]]  
 ___  
 What individuals can join a small group? 
@@ -166,7 +166,7 @@ Any individual is welcome to join a small group provided that:
 2. They agree to honor and uphold the [[Group Agreement]] and [[Group Values]] 
 3. There is an [[Agreement]] between the Group and the Individual based on the [[Voluntary Consent]] of everyone involved  
 ___  
-What benefits can Lionsberg offer to Groups now? 
+What benefits can LIØNSBERG offer to Groups now? 
 
 Meaningful Relationship: 
 
@@ -179,8 +179,8 @@ Meaningful Relationship:
 Meaningful Support: 
 
 - Access to a dynamic knowledge repository / memory that is relatively attack and crisis proof - [[LIØNSBERG Wiki]]  
-- Access to the [[Lionsberg Communications System]] to create awareness across the field 
-- Access to the [[Lionsberg Town Square]]  
+- Access to the [[LIØNSBERG Communications System]] to create awareness across the field 
+- Access to the [[LIØNSBERG Town Square]]  
 - Help with [[Organizing And Federating]]  
 - Help with [[Structure]]  
 - Help with [[Aligning Energy]] and [[Aligning Commitments]] and Aligning [[Aim]]  
@@ -189,10 +189,10 @@ Meaningful Structure:
 - All [[Value]] created will be transparently stewarded for the benefit of all through the [[Provisional Structure]] and its subsequent transformations across time  
 
 Meaningful Participation  
-- A [[Voice]] in the [[Lionsberg System of Governance]]  
+- A [[Voice]] in the [[LIØNSBERG System of Governance]]  
 
 Meaningful Alignment  
-- A way to align individual energy, with group energy, with [[Lionsberg Energy]], with the energy of the entire [[Living System]] and its [[Source]]   
+- A way to align individual energy, with group energy, with [[LIØNSBERG Energy]], with the energy of the entire [[Living System]] and its [[Source]]   
 - A way to articulate and align individual stories, with group stories, with the [[Meta Story]] 
 - A way to regularly update our stories as we navigate together towards [[The Goal]]  
 - A regularly updated synthesis and picture across the group of groups to understand: 
@@ -205,21 +205,21 @@ Vision, Strategy, and Inspiration
 - Access to whatever levels of Vision, Strategy, and Inspiration [[Jordan Nicholas Sukut]] and others provide in the community 
 
 ___  
-What additional benefits is Lionsberg working to develop? 
+What additional benefits is LIØNSBERG working to develop? 
 
-Through the process of deeply listening to the problems, needs, and opportunities faced by individuals, organizations, and communities around the world on their [[Quest]] towards [[The Goal]], Lionsberg is working to develop, in prioritized order of importance, a [[Prototype]] for Individual, Organizational, and Community Development that can be localized and instantiated in any [[Time]], [[Space]], or [[Context]]. 
+Through the process of deeply listening to the problems, needs, and opportunities faced by individuals, organizations, and communities around the world on their [[Quest]] towards [[The Goal]], LIØNSBERG is working to develop, in prioritized order of importance, a [[Prototype]] for Individual, Organizational, and Community Development that can be localized and instantiated in any [[Time]], [[Space]], or [[Context]]. 
 
 This [[Prototype]] will contain [[General Solutions]] to the [[General Problems]], [[General Needs]], and [[General Opportunities]] faced by every community of Life as they strive to develop into the fullness of their unique potential and flourish. 
 
 The [[Conditions Of Acceptance]] ensure that the [[LIØNSBERG System]] and Infrastructure reach out and connect to with every individual and group on earth that desires to develop towards the fullness of their potential, by helping all others do the same. 
 
 ___  
-How will Lionsberg prioritize the [[Time]], [[Energy]], and [[Resources]] entrusted to it? 
+How will LIØNSBERG prioritize the [[Time]], [[Energy]], and [[Resources]] entrusted to it? 
 
 Initially through the formative period, [[Jordan Nicholas Sukut]] will be responsible and accountable for working with the group of groups and a small [[Core Team]] and [[Core Enterprise]] to prioritize and  
 allocate resources in response to problems, needs, and opportunities of the Community, and in accordance with the [[Critical Path]] / [[Critical Chain]] that governs [[Throughput]] of [[The Goal]]. 
 
-This will eventually develop into a far more sophisticated [[Goal Delivery System]], as pointed towards in the [[Lionsberg Integrated Delivery Guide]]. 
+This will eventually develop into a far more sophisticated [[Goal Delivery System]], as pointed towards in the [[LIØNSBERG Integrated Delivery Guide]]. 
 
 ___  
 The [[Core Team]] and [[Core Enterprise]]

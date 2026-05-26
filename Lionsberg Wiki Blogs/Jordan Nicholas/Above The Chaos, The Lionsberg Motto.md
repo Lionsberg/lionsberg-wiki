@@ -1,10 +1,10 @@
-# Above The Chaos, National Mottos, and the Lionsberg Motto
+# Above The Chaos, National Mottos, and the LIØNSBERG Motto
 
 The there is a page on Wikipedia entitled [List of National Mottos](https://en.wikipedia.org/wiki/List_of_national_mottos).
 
 It is a fascinating glimpse into what in our inspirational and founding moments we, the Citizens of Earth, have said we value or aspire to. 
 
-As a provisional [[Lionsberg Motto]], we have selected: 
+As a provisional [[LIØNSBERG Motto]], we have selected: 
 
 **_One Citizenship, Under God, Indivisible, with Liberty and Justice for All._**
 

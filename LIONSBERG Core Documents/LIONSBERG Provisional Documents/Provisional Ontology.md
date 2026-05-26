@@ -4,4 +4,4 @@
 [[Integration Domains]]  
 [[Global Goals]]  
 [[Grand Challenges]]  
-[[The 12 Pillars of Lionsberg]]  
+[[The 12 Pillars of LIØNSBERG]]  

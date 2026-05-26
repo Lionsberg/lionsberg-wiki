@@ -13,7 +13,7 @@ The final assistant message was extracted from the NW subagent transcript and co
 
 Transcript located at:
 
-- NW — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-ac5138c99cf25735f.jsonl` (meta: "NW: TheNameless-wiki audit")
+- NW — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-ac5138c99cf25735f.jsonl` (meta: "NW: TheNameless-wiki audit")
 
 Memo extracted to [[NW]] (21,784 chars).
 

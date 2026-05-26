@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, signal, propagation, foundational]
-source: Phase 2.1 audit of Lionsberg Orientation and Training System (Week 1)
+source: Phase 2.1 audit of LIØNSBERG Orientation and Training System (Week 1)
 captured: 2026-05-18
 ---
 

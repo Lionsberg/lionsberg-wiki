@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 347]]  
 Back to [[Meditation 345]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

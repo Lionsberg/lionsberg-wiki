@@ -2,7 +2,7 @@
 
 ## Topics
 
-- Upgrading Lionsberg Wiki
+- Upgrading LIØNSBERG Wiki
 - J and Pete mini retro - key adjustments at outset of Cycle 3... 
 - Teams 
 - AI Art and Illustration
@@ -24,7 +24,7 @@
 
 - Jordan in a few key places?
 
-## Upgrading Lionsberg Wiki
+## Upgrading LIØNSBERG Wiki
 
 - [Refreshing a wiki to MWB 2.X - Developer Wiki (Massive Wiki)](https://developer.massive.wiki/refreshing_a_wiki_to_mwb_2.x)
 - What are we upgrading? 
@@ -32,7 +32,7 @@
 - What are the problems solved and new capabilities? 
 - 
 
-We want to upgrade Massive Wiki Builder for Lionsberg Wiki from v1.7 to v2.0.  The enhancements include:  
+We want to upgrade Massive Wiki Builder for LIØNSBERG Wiki from v1.7 to v2.0.  The enhancements include:  
 
 - better directory structure for MWB (Massive Wiki Builder) and MWT (Massive Wiki Themes) 
     - (a bit of a breaking change with the old directory structure) 
@@ -48,7 +48,7 @@ We will get extra functionality, and also stay up-to-date with the MWB dev team,
 - 
 
 ## Project Management 
-- Pete would eventually like Lionsberg / meta project to do PM type stuff, build teams, etc...
+- Pete would eventually like LIØNSBERG / meta project to do PM type stuff, build teams, etc...
 - And - It's a big job that will eventually take other people doing the heavy lift... 
 - Pete will have less energy to make sure it happens the way he thinks it should happen... 
 

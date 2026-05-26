@@ -1,6 +1,6 @@
 # Template For Analysis
 
-The purpose of this template is to guide individuals and teams through the [[Analysis]] process as part of the [[Lionsberg System of Work]]. By following this template, individuals and teams will be able to gain a comprehensive understanding of the current situation and the forces, conditions, resources, constraints, and opportunities that impact their work. This information, in conjunction with the [[Vision and Purpose]], will inform the development of the [[Plan of Action]], the [[Work Breakdown Structure]], the identification of [[Milestones]], and the definition of [[Action Steps]] required to achieve each Milestone.
+The purpose of this template is to guide individuals and teams through the [[Analysis]] process as part of the [[LIØNSBERG System of Work]]. By following this template, individuals and teams will be able to gain a comprehensive understanding of the current situation and the forces, conditions, resources, constraints, and opportunities that impact their work. This information, in conjunction with the [[Vision and Purpose]], will inform the development of the [[Plan of Action]], the [[Work Breakdown Structure]], the identification of [[Milestones]], and the definition of [[Action Steps]] required to achieve each Milestone.
 
 ## Step 1: Define the purpose of the Analysis
 
@@ -54,7 +54,7 @@ The purpose of this template is to guide individuals and teams through the [[Ana
     -  What is the total [[Scope of Work]] required to transform FROM your current reality, TO your Vision and Purpose?   
     -  What are the key Features of Work that must be included in the WBS?
 
-See [[Lionsberg System of Work]] to revisit how this template fits in with the rest of the Flow of the System. 
+See [[LIØNSBERG System of Work]] to revisit how this template fits in with the rest of the Flow of the System. 
 
 ## Conclusion
 

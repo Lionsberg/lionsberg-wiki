@@ -49,7 +49,7 @@ The Ark operates in **modes**:
 
 Each mode reconfigures the same physical space. The architecture is modal, not single-purpose.
 
-Operationally, the Roving Ark Temple Dojo is the **first construction-grade prototype of an Academy Cell**. The [[The Lionsberg Academy|Academy]] needs physical embodiments to be more than a doctrine. The Ark is the embodiment that proves the design — and from which fixed Academy sites can be derived, and to which mobile Academy Cells will be replicated as the [[The Planetary Grid|Grid]] forms.
+Operationally, the Roving Ark Temple Dojo is the **first construction-grade prototype of an Academy Cell**. The [[The LIØNSBERG Academy|Academy]] needs physical embodiments to be more than a doctrine. The Ark is the embodiment that proves the design — and from which fixed Academy sites can be derived, and to which mobile Academy Cells will be replicated as the [[The Planetary Grid|Grid]] forms.
 
 The Ark also functions as **Forward Operating Base** during the 4-year window. It is not only sanctuary; it is the platform from which Quests are launched, from which the Whisper is broadcast, from which a Practitioner moves toward the work that calls them. The cosmic Warrior's posture made architectural.
 

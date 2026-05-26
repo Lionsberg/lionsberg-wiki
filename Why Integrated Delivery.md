@@ -18,7 +18,7 @@ This guide is being developed as a living document that describes how the [[LIØ
 The Guide is divided into four main sections that discuss: 
 
 ### 1. Introduction
-The general outline of the delivery method, and the background and philosophical approach guiding development of the Lionsberg [[Program]].  
+The general outline of the delivery method, and the background and philosophical approach guiding development of the LIØNSBERG [[Program]].  
 
 ### 2. Program Definition: 
 How the global program of action was developed and what it entails, including a description of the planning and pre-build activities completed for the [[Program]]. 

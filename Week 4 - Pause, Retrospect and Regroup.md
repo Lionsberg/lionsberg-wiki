@@ -34,7 +34,7 @@ Over the last week, we received:
 - ~3 nominations from the group for The Second Wave  
 - ~4 additional indications of interest from people who want to join The Second Wave  
 - ~4 indications of interest from people who want to explore forging a high performing 'Founder's Team' to work with me to target, resource and accomplish goals on the [[Critical Path]]   
-- ~ 3 indications of interest from people who want to learn / explore Lionsberg further  
+- ~ 3 indications of interest from people who want to learn / explore LIØNSBERG further  
 - We could easily invite in a couple more to hit the minimum 13 for **The Second Wave**.  
 
 Additionally, during The Exit Pool week ~3 dropped because of 'too busy', and 1 dropped citing religion. This was right in line with the expectation of ~20% attrition. There are likely more 'on the ropes'. 

@@ -1,6 +1,6 @@
 # Help One Another
 
-The single unifying design principle of Lionsberg is [[Love]]. 
+The single unifying design principle of LIØNSBERG is [[Love]]. 
 
 If we [[Love One Another]], we [[Doing Our Best|Do Our Best]] to [[Help One Another]], and not [[Harm One Another]]. 
 

@@ -4,6 +4,6 @@ The Program Objective - the answer to the question “why build anything" - was 
 
 **_The Program is intended to encompass the total [[Program of Action]] required to get FROM [[Where We Are]], TO [[Where We Are Going]]._** 
 
-[[The Lionsberg Handbook]] lays out a proven System through which a global community of sovereign individuals, organizations, and communities can forge the functional unity required to succeed, and avoid failure, in the [[Meta Project]]. 
+[[The LIØNSBERG Handbook]] lays out a proven System through which a global community of sovereign individuals, organizations, and communities can forge the functional unity required to succeed, and avoid failure, in the [[Meta Project]]. 
 
 [[Program Development]] deals with the processes adopted and continuously improved to manage the continued development of the total [[Program of Action]]. 

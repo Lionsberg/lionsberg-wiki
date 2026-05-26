@@ -1,4 +1,4 @@
-# Above The Chaos, The Lionsberg Energy Net, Water Net, Info Net, and Security Net
+# Above The Chaos, The LIØNSBERG Energy Net, Water Net, Info Net, and Security Net
 By [[Jordan Nicholas Sukut]], 2022.10.09 _(updated 2022.10.09)_  
 
 A post in [[Above The Chaos]].
@@ -20,7 +20,7 @@ This is actually relatively straightforward to accomplish based on existing reso
 
 Each of the following Systems are subcomponents of the [[LIØNSBERG System]], which aims to localize and instantiate a continuously learning [[Prototype]] capable of meeting the needs and solving the problems inherent in every community of life, and lifting [[All]] up towards [[The Goal]].   
 
-To reiterate, they will not work unless deployed in harmony with all other elements of the [[LIØNSBERG System]] in accordance with the full logic of the [[The Lionsberg Handbook]]. 
+To reiterate, they will not work unless deployed in harmony with all other elements of the [[LIØNSBERG System]] in accordance with the full logic of the [[The LIØNSBERG Handbook]]. 
 
 ### Energy
 
@@ -56,7 +56,7 @@ The [[Wise Right]] mix of powerful and proven existing technologies, plus fully 
 
 This can and must be accomplished without unnecessarily depriving humanity, and especially the poor, of heat, power, and opportunity by shifting too rapidly, and without depriving us of a future on planet earth by shifting too slowly. 
 
-#### The Lionsberg | Energy Net
+#### The LIØNSBERG | Energy Net
 Just as we have designed and built a nearly universally available way to create and exchange information via a distributed network of information creating and exchanging nodes (the internet / info net)... 
 
 ... so too can can design and build a nearly universally available way to create and exchange energy via a distributed network of energy creating and distributing nodes (the Energy Net). 
@@ -65,20 +65,20 @@ The interconnection of energy systems is critical to allow the energy to travel 
 
 ___
 ### Water 
-#### The Lionsberg | Water Net
+#### The LIØNSBERG | Water Net
 Just as we can and must design and build universally available energy and information networks, so too must we design and build a universally available Water Net that works for All. 
 
 Recent studies have shown that we have so polluted our environment that all rainwater on earth is unsafe to drink. This is before it interacts with the terribly polluted land and waterways. 
 
 ___
 ### Information Network
-#### The Lionsberg | Info Net
+#### The LIØNSBERG | Info Net
 Just as we can and must design and build universally available energy and water networks, so too must we design and build a universally available Info Net that works for All. 
 
 While we are bringing the internet online for billions, the information contained therein is, like our water, toxic, polluted, and dangerous.  
 ___
 ### Security Network
-#### The Lionsberg | Security Net
+#### The LIØNSBERG | Security Net
 Just as we can and must design and build universally available energy, water, and information networks, so too must we design and build a universally available Security Net that works for All. 
 
 The harsh reality is that there are many areas of the world desperately dominated and exploited by corrupt governments, gangs, and other abusive centers of power. 

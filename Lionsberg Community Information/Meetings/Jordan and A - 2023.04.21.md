@@ -23,7 +23,7 @@
 - Street pitch 
 - How can we honor and contextualize the thought at higher levels of abstraction that may be very confusing for some / turn people off / cause fear... but maybe is important. 
 
-## 3. Will require differentiating out brand / identify for Jordan and Lionsberg 
+## 3. Will require differentiating out brand / identify for Jordan and LIØNSBERG 
 - [[Citizens]] as the empowered heroes 
 - [[Jordan]] as a servant leader / guide 
 - [[LIØNSBERG]] as enabling platform / community / gathering place / game / place of voluntary organizing and federating (also servant leader / guide) 
@@ -42,12 +42,12 @@
 	- Who are we becoming? 
 	- What higher levels of identity do we need to rediscover in order to rediscover who we truly are beyond the shallower divisive labels we attach to ourselves 
 	- Ultimately rediscovering our ultimate identity as one "family of God"... [[All]] things arising from [[ØNE]] Generative Source. 
-- Jordan and Lionsberg (together and separately) as one potential path / way to choose 
+- Jordan and LIØNSBERG (together and separately) as one potential path / way to choose 
 	- via the role of the guide in the archetypical journey 
 - The Story Pattern
 	- A hero in pursuit of a valued goal (humanity in pursuit of flourishing)(America in pursuit of its ideals and flourishing)...
 	- faces a challenge they do not know how to overcome (the [[Meta Crisis]] / [[The Great Transformation]] / Corruption and Injustice)...
-	- meets a guide (Jordan / Lionsberg)
+	- meets a guide (Jordan / LIØNSBERG)
 	- Who offers them a plan / Way... 
 		- Simple to understand 5 or 6 steps 
 	- To avoid chaos / failure / suffering / death... 
@@ -81,13 +81,13 @@
 - The US Presidency is the most influential seat in the world and it has access to all other systems. That is the Aim where we would want to put one we think we act in a Spirit of Truth and Love at local, national, and international scale. 
 - From that position of influence, every next step in the [[New Vision and Plan]] becomes possible, not just for Americans, but for every citizen of the world, and all creation. 
 
-## 7. The Role of Lionsberg 
+## 7. The Role of LIØNSBERG 
 - Gathering place / platform / refuge / community for Citizens of Goodwill beyond the lines that have separated us in the past 
 - A City on a Hill - 
 	- a source of inspiration, safety, resources, and hope for weary travelers... 
 	- an aspirational image of the sacred dwelling place where life and consciousness can flourish in harmony 
 - A system that protects the sovereignty and autonomy of each individual and locality, while affording the [[Higher Order Functional Unity]] required to meet the needs and solve the problems at hand. 
-- A protocol for [[Citizen Led]] governance and impact -  [[The Lionsberg Approach to Citizen Led Governance]]. 
+- A protocol for [[Citizen Led]] governance and impact -  [[The LIØNSBERG Approach to Citizen Led Governance]]. 
 
 ## 8. The Role of Citizen Impact Groups and Citizen Assemblies 
 - A major part of the call to action is to get citizens forging or joining groups - Discussion Groups, Citizen Impact Groups, Citizen Assemblies... 
@@ -101,7 +101,7 @@
 - Therefore there are two levels to work with: 
 	- Increase the understanding of the current and coming pain if we remain complacent, divided, dysfunctional, deceived 
 	- Reduce the *perceived pain* of "letting go" of the Old they are grasping to, and grabbing onto *something better.*
-- It so happens that we may be on the verge of suffering that could affect many generations over centuries to come if some of the patterns in [[1.3 Questions to Explore the Meta Crisis]] come to pass and existing systems fail before a [[New System]] / [[Lionsberg System and Approach]] are in place. 
+- It so happens that we may be on the verge of suffering that could affect many generations over centuries to come if some of the patterns in [[1.3 Questions to Explore the Meta Crisis]] come to pass and existing systems fail before a [[New System]] / [[LIØNSBERG System and Approach]] are in place. 
 
 ## 10. Transcendence and Evolution, not Revolution - Honoring and Hospicing the Old while co-creating the New.
 
@@ -134,7 +134,7 @@ We The People, in order to establish a More Perfection Union:
 2. Are going to base everything on Light and Love (do no evil or harm, and help)
 3. Are going to lay down deceit and ideologies and navigate towards [[Wisdom]] and [[Truth]] 
 4. Are going to take back up our rightful responsibility and authority over our lives, our families, our communities, and our world via [[Citizen Led]] governance and impact 
-5. Are going to connect and empower one another through the [[Lionsberg System and Approach]] 
+5. Are going to connect and empower one another through the [[LIØNSBERG System and Approach]] 
 6. Are going to resurrect the Spirit of America, and place her back in service of [[ØNE]] and [[All]]. 
 
 ## 13. Challenge: Reaching the ears of the deaf instead of preaching to the Choir
@@ -142,10 +142,10 @@ We The People, in order to establish a More Perfection Union:
 - An easy trap is to spend time convincing those who can already hear, because they have already understood... 
 	- They don't need convincing, they need **organizing** 
 - For those who can already hear... 
-	- Lionsberg represents an opportunity to *organize and move together* (back to gathering place / City on a Hill / resourcing, healing, empowerment) 
+	- LIØNSBERG represents an opportunity to *organize and move together* (back to gathering place / City on a Hill / resourcing, healing, empowerment) 
 	- Yet this has to be Self-Organizing or it will sink like a rock under the weight... 
-	- Lionsberg has to *enable* the Self-Organization and the voluntary rise towards [[Higher Order Functional Unity]]... 
-	- Jordan and Lionsberg can't get bogged down in trying to manage and organize... 
+	- LIØNSBERG has to *enable* the Self-Organization and the voluntary rise towards [[Higher Order Functional Unity]]... 
+	- Jordan and LIØNSBERG can't get bogged down in trying to manage and organize... 
 	- **Hypothesis: Primarily have to speak and inspire and invite**... 
 	- Pete (approx): Every minute you are not spending inspiring, discerning, and bringing in the next wave is wasted. Stop trying to organize and manage, and get out and bring in more people. 
 - For those who "have ears but can't hear, have eyes but do not see"... 
@@ -287,7 +287,7 @@ How do we know if:
 
 ## Design the Resourcing Pitch 
 
-- The primary focus on the long-term issues at hand let's us rightfully engage philanthropic resources to fund the platform, think tank, ideation, creation of the long term Lionsberg System. 
+- The primary focus on the long-term issues at hand let's us rightfully engage philanthropic resources to fund the platform, think tank, ideation, creation of the long term LIØNSBERG System. 
 - The means to an end of Jordan for US President allows us to move into deeper political and economic spheres to engage resources. 
 
 ## America and It's Place in the World 
@@ -313,7 +313,7 @@ How do we know if:
 
 ## Outcome 
 
-- regardless of whether we succeed or fail in the milestone of US Presidency, we will be building a persistent and perpetual Lionsberg Community and Platform... that is connecting, equipping, serving, and empowering [[Citizen Led]] action around the world. 
+- regardless of whether we succeed or fail in the milestone of US Presidency, we will be building a persistent and perpetual LIØNSBERG Community and Platform... that is connecting, equipping, serving, and empowering [[Citizen Led]] action around the world. 
 - We will be building: 
 	- the organization
 	- the platform 
@@ -406,7 +406,7 @@ At the same time, I acknowledge that the language is still far too complex, and 
 
 ## Invitation and Next Steps 
 
-I would like to invite you to become a committed leadership force that will help take charge of the message and the Lionsberg Community and Platform, and shape its iteration over time.  
+I would like to invite you to become a committed leadership force that will help take charge of the message and the LIØNSBERG Community and Platform, and shape its iteration over time.  
 
 I plan to be speaking and broadcasting weekly, and invite your help to mold and shape the messaging, interviews, topics, and calls to action in order to engage and inspire action from a diverse array of people.  
 

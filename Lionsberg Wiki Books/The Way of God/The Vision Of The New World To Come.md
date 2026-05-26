@@ -89,4 +89,4 @@ ___
 Forward to [[A Vision, A Hope, And A Future For All Tribes, Nations, Tongues, And Peoples]]  
 Back to [[Annunciating The New]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

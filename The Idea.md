@@ -1,6 +1,6 @@
 # The Idea
 
-In the context of Lionsberg, The Idea is associated with the [[Meta Idea]]. 
+In the context of LIØNSBERG, The Idea is associated with the [[Meta Idea]]. 
 
 The Idea is Ultimately the [[ØNE]] that permeates, sustains, and orders [[All]] within ItSelf. 
 

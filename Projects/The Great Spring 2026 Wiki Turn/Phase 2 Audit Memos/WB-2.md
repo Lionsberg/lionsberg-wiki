@@ -6,17 +6,17 @@ I have sufficient coverage. Let me now write the audit memo.
 
 ## Audit Scope and Coverage Statement
 
-This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIØNSBERG Wiki Books/`. No files were modified. All findings are observational and recommendation-oriented.
+This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jordansukut/Documents/GitHub/LIØNSBERG-wiki/LIØNSBERG Wiki Books/`. No files were modified. All findings are observational and recommendation-oriented.
 
 **Coverage per book:**
 
 | Book | Files | Approach | Coverage Confidence |
 | --- | --- | --- | --- |
-| The Lionsberg Book of Meditations | 664 + ToC | Read ~35 in full, broadly stratified across the 1–663 range (1, 2, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 75, 80, 90, 95, 100, 105, 110, 125, 130, 140, 150, 160, 175, 190, 195, 200, 220, 223, 225, 240, 250, 260, 275, 280, 300, 320, 325, 350, 360, 375, 400, 420, 425, 450, 460, 475, 500, 520, 525, 550, 560, 575, 600, 620, 625, 645, 650, 660, 663); scanned ToC; grepped for cosmic-war/initiatory keywords | High structural confidence; rich thematic confidence; long tail uninspected |
-| The Lionsberg Book of Quotes | 1 file (427 lines) | Read in full | Complete |
-| The Lionsberg Book of Parables | 7 files + ToC (9 listed, 2 missing: Odysseus, Commander, Builder) | Read all extant files in full | Complete for extant content |
-| The Lionsberg Book of Metaphors | 1 file (17 lines, index only) | Read in full | Complete |
-| The Lionsberg Book of Emotions | 1 file (117 lines, index of ~80 emotion names) | Read in full | Complete |
+| The LIØNSBERG Book of Meditations | 664 + ToC | Read ~35 in full, broadly stratified across the 1–663 range (1, 2, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 75, 80, 90, 95, 100, 105, 110, 125, 130, 140, 150, 160, 175, 190, 195, 200, 220, 223, 225, 240, 250, 260, 275, 280, 300, 320, 325, 350, 360, 375, 400, 420, 425, 450, 460, 475, 500, 520, 525, 550, 560, 575, 600, 620, 625, 645, 650, 660, 663); scanned ToC; grepped for cosmic-war/initiatory keywords | High structural confidence; rich thematic confidence; long tail uninspected |
+| The LIØNSBERG Book of Quotes | 1 file (427 lines) | Read in full | Complete |
+| The LIØNSBERG Book of Parables | 7 files + ToC (9 listed, 2 missing: Odysseus, Commander, Builder) | Read all extant files in full | Complete for extant content |
+| The LIØNSBERG Book of Metaphors | 1 file (17 lines, index only) | Read in full | Complete |
+| The LIØNSBERG Book of Emotions | 1 file (117 lines, index of ~80 emotion names) | Read in full | Complete |
 | MindWeaving The Life Divine | 0 files (empty placeholder directory) | Confirmed empty | Complete |
 | UnVeiling The Sacred Texts | 9 chapter files | Read all in full | Complete |
 | Meditations on Proverbs | 1 file (359 lines, table of patterns) | Read in full | Complete |
@@ -26,7 +26,7 @@ This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jor
 
 ## Book-by-Book Inventory
 
-### 1. The Lionsberg Book of Meditations (664 files)
+### 1. The LIØNSBERG Book of Meditations (664 files)
 
 **Form:** Pure Pirsig-card morphology. Each file is a single aphorism (1–8 sentences, typically 1–3), wrapped with navigation footers. Every file already follows: `# Meditation N` → aphorism → `___` → forward/back/ToC links. This is the **purest and most card-ready collection in the entire repository**.
 
@@ -35,7 +35,7 @@ This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jor
 **Internal evolution:**
 - **Meditations 1–~100**: Plainer language, broader applicability, less specialized vocabulary. Often start with `# Meditation N` header.
 - **Meditations ~100–~400**: Increasing density of wiki-linked terminology ([[ØNE]], [[All]], [[Way]], [[Heaven]]). Header pattern starts disappearing (~M270+). Many drop the `# Meditation N` line entirely and open straight into the aphorism.
-- **Meditations ~400–663**: Heavy doctrinal load (Christ-Ideal, Yahweh distinct from ØNE, Elohim, etc.). Sometimes paragraph-length. Strong overlap with Pattern Language vocabulary. The very last (~600+) often add a third nav link: `Read other [[Lionsberg Wiki Books]]`.
+- **Meditations ~400–663**: Heavy doctrinal load (Christ-Ideal, Yahweh distinct from ØNE, Elohim, etc.). Sometimes paragraph-length. Strong overlap with Pattern Language vocabulary. The very last (~600+) often add a third nav link: `Read other [[LIØNSBERG Wiki Books]]`.
 
 **Card-readiness assessment:**
 - **(a) Already canonical concepts in card form**: Roughly 30–40% of meditations articulate concepts that almost certainly are (or should be) Cards. Examples: M1 ("Are we doing the wise right thing?" → **Wise Right Thing**), M50 (sovereignty + responsibility), M75 (perpetual vanquishing of darkness), M105 (Heaven On Earth definition), M195 (the only [[Logos]] of integrity), M280 (Benevolent Anti-Entropic Force dancing with Chaos), M325 (God transcendent of every Name), M520 (status as Children of God as existing Reality), M525 (Entropic vs. Anti-Entropic), M620 (Spirit-not-embodiment).
@@ -46,7 +46,7 @@ This audit covered the **Meditations + Sacred Texts cluster** within `/Users/jor
 
 ---
 
-### 2. The Lionsberg Book of Quotes (1 file)
+### 2. The LIØNSBERG Book of Quotes (1 file)
 
 **Form:** A curated anthology of ~250 quotes from external sources (MLK Jr., Mandela, Gandhi, Aristotle, Tolstoy, Buckminster Fuller, Lewis Carroll, Rumi, Desmond Tutu, Jesus, Old Testament prophets, Krishna, J himself, the Hindu Kural, the Vedas, et al.), organized into 15 numbered "Selah" sections.
 
@@ -60,7 +60,7 @@ A small minority are **original J quotations** that may merit Card extraction:
 
 ---
 
-### 3. The Lionsberg Book of Parables (7 extant files; ToC lists 9)
+### 3. The LIØNSBERG Book of Parables (7 extant files; ToC lists 9)
 
 **Form:** Short narrative teachings (5–25 sentences each), all clearly Jordan-authored. Italics used throughout for narrative passages.
 
@@ -81,7 +81,7 @@ A small minority are **original J quotations** that may merit Card extraction:
 
 ---
 
-### 4. The Lionsberg Book of Metaphors (1 file, 17 lines)
+### 4. The LIØNSBERG Book of Metaphors (1 file, 17 lines)
 
 **Form:** Pure index — a numbered list of 15 metaphor-clusters linking to other pages. Contains zero textual content of its own beyond list items.
 
@@ -91,7 +91,7 @@ A small minority are **original J quotations** that may merit Card extraction:
 
 ---
 
-### 5. The Lionsberg Book of Emotions (1 file)
+### 5. The LIØNSBERG Book of Emotions (1 file)
 
 **Form:** Pure index — alphabetized list of ~80 emotion names as wiki-links. No definitional text yet. The header explicitly states this is a seed for later development "evolving towards a Pattern Language."
 
@@ -132,7 +132,7 @@ A small minority are **original J quotations** that may merit Card extraction:
 **Card-readiness:** This book is **prose unveiling, not Card-form**. However, it generates a number of high-leverage net-new Card-candidates and many **foundational source-document references** for the Lexicon's Cosmology and Unveiling pillars.
 
 **Voice-discipline observations**:
-- **Strength**: The work treats the Hebrew Bible adversarially as a corrupted document rather than elevating it as source. This is consistent with the Lionsberg pattern of refusing single-tradition primacy.
+- **Strength**: The work treats the Hebrew Bible adversarially as a corrupted document rather than elevating it as source. This is consistent with the LIØNSBERG pattern of refusing single-tradition primacy.
 - **Risk #1 — Anti-elevation of Yahweh becomes its own elevation**: By spending so much textual mass on Yahweh, the Hebrew Bible, and the Sumerian/Mesopotamian parallels, the unveiling can paradoxically center the very tradition it deconstructs. The other traditions (Vedic, Buddhist, Taoist, Indigenous) appear only briefly in Chapter X. A more balanced unveiling would treat the corruption of *every* tradition's source narratives in parallel, not just the Hebrew/Christian.
 - **Risk #2 — Chapter X is AI-curated, not first-person discerned**: The list of 40 named non-human intelligences (Pleiadians, Sirians, Arcturians, Lyrans, etc.) is explicitly labeled as ChatGPT-generated. It accurately catalogues UFO/contactee/esoteric literature but offers no discernment as to which traditions are reliable. **Recommendation**: Either remove Chapter X, or rewrite it from first-hand experiential discernment rather than AI compilation. As it stands, it lowers the rigor of the surrounding chapters.
 - **Risk #3 — Sensitivity**: Chapter 3's catalog of 32 morally indefensible Yahweh-commands is unflinching and necessary; it is also the most likely chapter to be weaponized out of context against the work. This is fine — but the framing in Chapters 1–2 ("Dark Fleet", "Final Order", "Alien Kontrolle Structure") sits oddly close to a particular esoteric register that some readers will reject before reaching the rigorous Chapter 3 evidence. **Recommendation**: Lead with the linguistic/scholarly material (currently Chapters 4–6), let the evidence build the reader's trust, then introduce the cosmological framing.
@@ -157,7 +157,7 @@ A small minority are **original J quotations** that may merit Card extraction:
 
 **Voice-discipline observations**:
 - **Strength**: The translation/interpretation work is genuinely careful — original characters preserved with etymological breakdown, multiple translation registers offered, no claim of definitive interpretation.
-- **Risk — Light source-elevation**: The Introduction calls the Tao Te Ching "humanity's most profound and enduring gifts" and "the opening gateway of Threads of Eternity." This frames the Tao Te Ching as foundational text in a way that the Lionsberg principle of universal-Pattern resists. The Tao expresses the Way; it is not the source of the Way.
+- **Risk — Light source-elevation**: The Introduction calls the Tao Te Ching "humanity's most profound and enduring gifts" and "the opening gateway of Threads of Eternity." This frames the Tao Te Ching as foundational text in a way that the LIØNSBERG principle of universal-Pattern resists. The Tao expresses the Way; it is not the source of the Way.
 - **Recommendation**: Modest reframing — the Tao Te Ching is *one expression* of the Way, alongside others. The Way itself is the source; every articulation is partial.
 
 **Card-readiness:** Chapter 1 alone surfaces ~6 high-quality Card candidates (see below). The book is **interpretive commentary**, not Card-form, but the *Patterns* it articulates (Nameless/Named duality, Mystery, Gateway to All Wonders, Co-Creation) are universal and ripe for Card extraction.
@@ -289,11 +289,11 @@ No internal duplicates were detected among the 35 meditations sampled. With 664 
 
 1. **The Meditations book is the single largest under-canonized concept-quarry in the entire repository.** With 664 atomic Pirsig-form aphorisms, it deserves a more architecturally privileged role than "one wiki book among many." Recommendation: Treat the Meditations collection as the **primary feedstock** for Card distillation. Run a full pass extracting each meditation's conceptual essence and either (a) match it to an existing Card and use it to refine that Card's essence, or (b) create a new Card.
 
-2. **The four-book "Lionsberg Book of X" series (Meditations, Quotes, Parables, Metaphors, Emotions) functions as a Companion Cluster — five vessels carrying complementary forms of distillation**: aphorism, anthology, narrative, symbol, feeling-name. The architecture is already implicit. It could be made explicit by clustering these five books under a single named container ("The Lionsberg Distillations" or similar — naming TBD without imposing numeric structure).
+2. **The four-book "LIØNSBERG Book of X" series (Meditations, Quotes, Parables, Metaphors, Emotions) functions as a Companion Cluster — five vessels carrying complementary forms of distillation**: aphorism, anthology, narrative, symbol, feeling-name. The architecture is already implicit. It could be made explicit by clustering these five books under a single named container ("The LIØNSBERG Distillations" or similar — naming TBD without imposing numeric structure).
 
 3. **The "Book of Meditations" name slightly understates what the book is.** It is not contemplative meditations in the Christian/Buddhist sense (longer reflective passages) — it is an **Aphorism Codex**. Whether to rename or to redefine the term is an open question.
 
-4. **Meditations on Proverbs is mis-categorized.** The book itself states (line 2) that it is part of The Lionsberg Pattern Language. Its current location as a stand-alone Wiki Book obscures its true architectural role. Recommendation: **Move it into the Pattern Language as a Polarity Atlas**, or at minimum link it explicitly as Pattern Language adjunct.
+4. **Meditations on Proverbs is mis-categorized.** The book itself states (line 2) that it is part of The LIØNSBERG Pattern Language. Its current location as a stand-alone Wiki Book obscures its true architectural role. Recommendation: **Move it into the Pattern Language as a Polarity Atlas**, or at minimum link it explicitly as Pattern Language adjunct.
 
 5. **The Sacred Texts cluster (UnVeiling, MindWeaving, Tao Te Ching, Meditations on Proverbs) has no clear architectural identity.** Currently scattered across four separate Wiki Book directories. They share a common move — *engaging specific traditions with universal-Pattern extraction and source-deconstruction* — but the implementation is inconsistent. **Recommendation**: Either consolidate these into a single "Engaging Traditions" container, or be explicit that each tradition gets its own engagement protocol.
 
@@ -317,7 +317,7 @@ A few that especially landed:
 
 - **Meditation 645** — *"One cannot know [[God]] through [[Religion]], any more than one can know War through a martial arts kata. Yet katas can be useful to prepare for War, and religion can be useful to prepare for personal experience and relationship with God."* — The martial-spiritual analogy clarifies the role of all prepared forms (religious, philosophical, doctrinal) without dismissing them.
 
-- **Meditation 600** — *"The path of a [[Creature]] back towards its [[Creator]] was made manifest to us through the Ideal of the [[Christ]], first archetypically, prophetically, and poetically, second through the life and words of [[Jesus]], and ultimately through the full manifestation and fulfillment of the [[Ideal]] in the future..."* — Dense doctrinal kernel; provides the Lionsberg articulation of Christ-as-Pattern in a single dense paragraph.
+- **Meditation 600** — *"The path of a [[Creature]] back towards its [[Creator]] was made manifest to us through the Ideal of the [[Christ]], first archetypically, prophetically, and poetically, second through the life and words of [[Jesus]], and ultimately through the full manifestation and fulfillment of the [[Ideal]] in the future..."* — Dense doctrinal kernel; provides the LIØNSBERG articulation of Christ-as-Pattern in a single dense paragraph.
 
 - **Meditation 200** — *"Always look deeper. Look deeper."* — The 6-step causal chain (fruit ← actions ← words ← thoughts ← perception ← consciousness) is itself a methodological Card.
 

@@ -1,4 +1,4 @@
-# Lionsberg Integrated Delivery System Warning
+# LIØNSBERG Integrated Delivery System Warning
 
 WARNING - THIS IS AN EXTRAORDINARILY POWERFUL SYSTEM THAT WILL BRING WHATEVER YOU POINT IT AT INTO REALITY. 
 

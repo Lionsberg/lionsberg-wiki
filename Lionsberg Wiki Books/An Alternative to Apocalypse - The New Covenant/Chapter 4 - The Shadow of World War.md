@@ -49,4 +49,4 @@ ___
 Forward to [[Chapter 5 - Environmental Collapse]]  
 Back to [[Chapter 3 - Famine, Migration, and Plague]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

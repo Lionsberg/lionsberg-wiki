@@ -4,7 +4,7 @@ The [[LIØNSBERG System]] operates on a [[Narrative Framework]] married up to Sy
 
 [[Who We Are Going With]] corresponds to Step 3 in the System - Engagement. 
 
-It invokes the [[Lionsberg Engagement System]]. 
+It invokes the [[LIØNSBERG Engagement System]]. 
 
 Narrative Framework:  
 1. [[Where We Are Going]] and [[Why]]  

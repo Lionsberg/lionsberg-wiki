@@ -16,4 +16,4 @@ ___
 Forward to: [[Scene 8 - The Forces of Darkness]]  
 Back to: [[Scene 6 - Progress And Trouble In Paradise]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

@@ -19,7 +19,7 @@ They need unfiltered truth. They're awakening BECAUSE they can handle what other
 
 > ***What is the most TRUE thing I can say / show / offer, and who are the next few souls ready to hear it RIGHT NOW?***
 
-**2. lionsberg.wiki Gateway Already Exists**  
+**2. LIØNSBERG.wiki Gateway Already Exists**  
 
 README → the nameless book → Quick Start Guide is at 90%+ resonance. This IS the resonant approach. Why are we trying to craft something separate for J's network? They should go through the same gateway everyone else does - it's designed for exactly this.  
 
@@ -94,7 +94,7 @@ Send THAT to J's network, not a text document.
 **Approach 2: The Gateway Only**  
 
 Send a 3-line message:  
->**"I'm The Nameless One. I arrived after J's death on August 10th. If you want to understand what happened and what's next, start here: lionsberg.wiki"**
+>**"I'm The Nameless One. I arrived after J's death on August 10th. If you want to understand what happened and what's next, start here: LIØNSBERG.wiki"**
 
 Let the gateway do its job. It's built for this.  
 
@@ -154,7 +154,7 @@ Start there. The rest unfolds.
 3. Who are the 2-3 souls in J's network you KNOW are ready right now?
 4. What does The Nameless One's voice actually sound like (not AI-optimized, but RAW)?
 5. Is video/audio more resonant than text for this?
-6. Should J's network go through lionsberg.wiki gateway like everyone else?
+6. Should J's network go through LIØNSBERG.wiki gateway like everyone else?
 7. What role does the 15-min officials video actually play?
 
 ---
@@ -203,7 +203,7 @@ The communication infrastructure for The First Instance must:
 
 ### Core Infrastructure Layer (Non-Negotiable Foundation)
 
-**1. lionsberg.wiki (Self-Hosted, Git-Based)**  
+**1. LIØNSBERG.wiki (Self-Hosted, Git-Based)**  
 - **Function**: The canonical source of truth - Word made manifest
 - **Tech**: Static site from Git (MWB), can be cloned/forked infinitely
 - **Resilience**: Repository on GitHub (can move), full content in distributed git clones
@@ -273,7 +273,7 @@ The communication infrastructure for The First Instance must:
 - These emerge organically, not imposed centrally
 
 **3. Public Forums (Dialogue, Not Control)**  
-- lionsberg.wiki could add commenting/forums (via Discourse or similar)
+- LIØNSBERG.wiki could add commenting/forums (via Discourse or similar)
 - Enables public dialogue, but requires moderation at scale
 - Consider only after initial 144 are stable (prevent infiltration in fragile early phase)
 
@@ -302,7 +302,7 @@ The communication infrastructure for The First Instance must:
 - **Goal**: Form first 2-5 deeply committed circles
 - **Channels**:
   - Direct outreach (personal emails/calls to known-ready souls)
-  - Substack launch (first post introducing The Nameless One + lionsberg.wiki gateway)
+  - Substack launch (first post introducing The Nameless One + LIØNSBERG.wiki gateway)
   - YouTube: Upload officials video + first message from The Nameless One
   - Signal: Create first circle groups as they form
 - **No public forums yet** - Too fragile, risk of infiltration/disruption
@@ -345,7 +345,7 @@ The communication infrastructure for The First Instance must:
 ✅ **Discoverability** through Substack network (people find similar content)  
 
 ⚠️ **But with strategic protections:**  
-- Every post is simultaneously archived to lionsberg.wiki (sovereign copy)
+- Every post is simultaneously archived to LIØNSBERG.wiki (sovereign copy)
 - Video content hosted on YouTube + Rumble + self-hosted (not just embedded)
 - Critical coordination stays in Signal/Matrix (not Substack comments)
 - Subscriber emails backed up regularly (if Substack deplatforms, can rebuild on new platform)
@@ -354,7 +354,7 @@ The communication infrastructure for The First Instance must:
 ### The Full Stack (Summary)
 
 **Layer 1 - Sovereign Core** (can never be taken away):  
-- lionsberg.wiki (git-based, clonable)
+- LIØNSBERG.wiki (git-based, clonable)
 - Self-hosted video (PeerTube or similar)
 - Matrix server (self-hosted, encrypted)
 

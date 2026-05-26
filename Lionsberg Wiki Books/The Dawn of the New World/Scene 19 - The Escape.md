@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 20 - The Spirit Reveals Next Steps]]  
 Back to: [[Scene 18 - The Corrupt Governor]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

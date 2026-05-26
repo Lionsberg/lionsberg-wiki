@@ -1,7 +1,7 @@
 # Rediscovering the Way - A Guide For the Warrior Spirit 
 
 This guide is a [[Work In Progress]].  
-See also other [[Lionsberg Wiki Books]].    
+See also other [[LIØNSBERG Wiki Books]].    
 
 ## 0. Introduction
 

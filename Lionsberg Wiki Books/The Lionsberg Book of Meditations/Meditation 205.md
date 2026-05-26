@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 206]]  
 Back to [[Meditation 204]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

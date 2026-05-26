@@ -10,4 +10,4 @@ The Range of Tolerance encourages Co-Creators to:
 4.  Strive for inclusivity and collaboration in decision-making processes as we work towards [[Consent]] and [[Consensus]] in our [[Decision Making]] processes.
 5.  Recognize that multiple approaches and solutions can coexist and contribute to the collective effort.
 
-By fostering a healthy Range of Tolerance, the Lionsberg System cultivates an environment where diverse perspectives are celebrated and leveraged to enhance our collective intelligence, creativity, and innovation. This inclusive approach to problem-solving and decision-making helps ensure that we are better equipped to navigate the complexities of Crossing The Chasm and co-creating the [[New World]]. 
+By fostering a healthy Range of Tolerance, the LIØNSBERG System cultivates an environment where diverse perspectives are celebrated and leveraged to enhance our collective intelligence, creativity, and innovation. This inclusive approach to problem-solving and decision-making helps ensure that we are better equipped to navigate the complexities of Crossing The Chasm and co-creating the [[New World]]. 

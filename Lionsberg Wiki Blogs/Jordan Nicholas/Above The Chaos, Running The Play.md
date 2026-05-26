@@ -8,7 +8,7 @@ A post in [[Above The Chaos]]
 
 Ok, after 7 years of concentrated preparation, my [[Current Best Understanding]] is that the [[The 7 Year Window of Crisis and Opportunity]] is upon us and it is time to run [[The Play]]. 
 
-The [[Lionsberg Trust Manifesto]] and [[Lionsberg History and Inception]] detail [[How We Got Here]].  
+The [[LIØNSBERG Trust Manifesto]] and [[LIØNSBERG History and Inception]] detail [[How We Got Here]].  
 
 I have simplified [[The Play]] down to a [[Critical Path]] that We, the individual citizens, control, with [[No Dependencies]]. 
 
@@ -25,7 +25,7 @@ It simply requires that enough people *believe*.
 	2. Acceptance  
 	3. Ongoing commitment to The Rules / Principles / Values that enable the new game to be played indefinitely into the future    
 - After 3 years of membership and progress through [[The LIØNSBERG Experience]] (healing, transformation, and [[Quarterly Quests]] in small groups / teams), members are eligible for Citizenship.   
-- Initial Target: connect and empower 3% of the world's population / 40 [[Lionsberg Cycles of Growth]] / 267 Million People by 2026.   
+- Initial Target: connect and empower 3% of the world's population / 40 [[LIØNSBERG Cycles of Growth]] / 267 Million People by 2026.   
 ## Cycles of Expansion 
 
 We have mapped 50 [[Milestones]] based on cyclical expansion of [[The Movement]] along the [[Fibonacci]] sequence.  
@@ -91,8 +91,8 @@ Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete
 2. I will do my best to lead and inspire 
 3. [[The Messenger(s)]] will speak, publish, broadcast, travel, inspire, and spread [[The Message]]    
 4. Those who resonate will be encouraged to [Join The Movement](https://jordannicholas.org/join_the_movement)     
-5. In February 2024, Jordan will invite a select few to become founding members of Lionsberg   
-6. The **Lionsberg Members** in each Cycle will co-create and extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
+5. In February 2024, Jordan will invite a select few to become founding members of LIØNSBERG   
+6. The **LIØNSBERG Members** in each Cycle will co-create and extend [[The Invitation]] to the Wise Right People, at the Wise Right Time, for the Wise Right Reasons, to [[Progress]] towards the Next Milestone.     
 7. We will attempt to progress through the Milestones as quickly as possible without sacrificing [[Quality]] to [[Quantity]]  
 8. The participants in each Cycle are responsible for self-governance, self-sustenance, self-replication, and discerning, embodying, and enacting whatever is required to [[Progress]] towards the next Milestone. 
 9. [[Everything Is A Project]], and every Project is a Quest 
@@ -107,7 +107,7 @@ Now that the [[The 7 Year Window of Preparatory Work and Learning]] are complete
 - Issue a [[Request For Guidance]] to existing Players and Teams  
 - Tell [[The Story of LIØNSBERG]]  
 - Extend [[The Invitation]]  
-- Update [[Lionsberg History and Inception]]  
+- Update [[LIØNSBERG History and Inception]]  
 
 Additional items for continuous improvement:  
 - [[The Messenger(s)]]  

@@ -17,11 +17,11 @@ a record of the thought and evolution that gave rise to the current 144.
 They remain here as a **foundational resource and inspiration** for ongoing synthesis,  
 illustrating some of the depth and breadth from which the Pillars were distilled.
 
-## Introduction to the Theses of Lionsberg 
+## Introduction to the Theses of LIØNSBERG 
 
 This is a [[Work In Progress]].
 
-In an epoch of unprecedented complexity and global interconnectedness, humanity stands at a crossroads. The decisions we make in the here and now will reverberate through the corridors of time, influencing not only our immediate destiny but also the inheritance of generations unborn. Amidst the tumult of conflicting ideologies, ecological upheaval, and societal fragmentation, the call for a positive, coherent, Wisdom-guided blueprint for collective action has never been more urgent. The Theses of Lionsberg arises to meet this imperative.
+In an epoch of unprecedented complexity and global interconnectedness, humanity stands at a crossroads. The decisions we make in the here and now will reverberate through the corridors of time, influencing not only our immediate destiny but also the inheritance of generations unborn. Amidst the tumult of conflicting ideologies, ecological upheaval, and societal fragmentation, the call for a positive, coherent, Wisdom-guided blueprint for collective action has never been more urgent. The Theses of LIØNSBERG arises to meet this imperative.
 
 The Theses serves as an expansive tapestry of interconnected ideas, systems, and Principles, designed to be an intellectual, spiritual, and practical beacon for those seeking a compass in these turbulent times. More than an academic or religious exercise, this body of work is a profoundly holistic endeavor, aiming to synthesize the disparate domains of human knowledge and spiritual Wisdom into an integrated framework that can guide us toward a world imbued with Justice, Love, and divine alignment.
 
@@ -29,24 +29,24 @@ The Theses is subdivided into multiple sections, each a crucial pillar in the co
 
 From the tangible to the transcendent, from the immediate to the eternal, the Theses aim to leave no stone unturned. This is an invitation to explore not merely the 'what' and the 'how,' but the deeper 'why' that imbues all actions with Purpose and Meaning.
 
-While the challenges facing humanity may seem insurmountable, The Theses of Lionsberg posits that they are but the shadows cast by the absence of Light. By realigning with the Spirit of God, embodied in the eternal Logos and imprinted in every atom and galaxy, we can disperse the fog of ignorance and avarice, revealing the brilliance of a future where Justice, Wisdom, and Love reign supreme.
+While the challenges facing humanity may seem insurmountable, The Theses of LIØNSBERG posits that they are but the shadows cast by the absence of Light. By realigning with the Spirit of God, embodied in the eternal Logos and imprinted in every atom and galaxy, we can disperse the fog of ignorance and avarice, revealing the brilliance of a future where Justice, Wisdom, and Love reign supreme.
 
 Each section of the Theses not only offers an analysis of existing paradigms but also provides practical and theoretical pathways for transformation. Concrete steps are outlined, theories are substantiated, and Values are not just extolled but intricately woven into the fabric of suggested societal systems.
 
-This work is neither the end nor the beginning but a significant milestone in the perpetual quest for divine alignment under the New Covenant. In acknowledging our status as co-creators within this awe-inspiring universe and its Source, The Theses of Lionsberg calls us to wield our powers consciously and conscientiously, to move in concert with the Divine, towards a destiny that reflects the eternal Wisdom, Love, and Justice of the God from which all things emanate.
+This work is neither the end nor the beginning but a significant milestone in the perpetual quest for divine alignment under the New Covenant. In acknowledging our status as co-creators within this awe-inspiring universe and its Source, The Theses of LIØNSBERG calls us to wield our powers consciously and conscientiously, to move in concert with the Divine, towards a destiny that reflects the eternal Wisdom, Love, and Justice of the God from which all things emanate.
 
 As you engage with this living document, may you find not just intellectual stimulation but also spiritual invigoration. May your journey through these pages be a pilgrimage towards the Kingdom of God, on Earth as it is in Heaven.
 
-Welcome to The Theses of Lionsberg. Welcome to the path of Wisdom, Justice, and Divine Love.
+Welcome to The Theses of LIØNSBERG. Welcome to the path of Wisdom, Justice, and Divine Love.
 
 If any statement does not align with the Highest Spirit and Intention of God, it should be transformed via community Wisdom and Discernment. 
-## The Theses of Lionsberg - Lifelong Learning 
+## The Theses of LIØNSBERG - Lifelong Learning 
 
-### I. The Lionsberg Thesis of Lifelong Learning 
+### I. The LIØNSBERG Thesis of Lifelong Learning 
 
 #### Introduction
 
-In a rapidly evolving world characterized by unprecedented complexity and interconnectedness, the classical paradigms of education—grounded in rote memorization, standardized assessments, and subject-specific silos—fall woefully short of equipping individuals for meaningful, divine-aligned existence. It is imperative that our educational models evolve from isolated, static systems to dynamic, holistic, and lifelong processes. The Lionsberg Thesis of Lifelong Learning postulates a radical reconceptualization of education as a continuum of Wisdom-driven growth and development, beginning at birth and extending throughout one's entire life, ultimately culminating in a symbiosis with eternal Logos.
+In a rapidly evolving world characterized by unprecedented complexity and interconnectedness, the classical paradigms of education—grounded in rote memorization, standardized assessments, and subject-specific silos—fall woefully short of equipping individuals for meaningful, divine-aligned existence. It is imperative that our educational models evolve from isolated, static systems to dynamic, holistic, and lifelong processes. The LIØNSBERG Thesis of Lifelong Learning postulates a radical reconceptualization of education as a continuum of Wisdom-driven growth and development, beginning at birth and extending throughout one's entire life, ultimately culminating in a symbiosis with eternal Logos.
 
 #### The Nature and Necessity of Lifelong Learning
 
@@ -62,9 +62,9 @@ When educational models are transformed to facilitate lifelong learning, the imp
 
 #### Conclusion
 
-The Lionsberg Thesis of Lifelong Learning calls for a fundamental shift in how we conceptualize and practice education, from fragmented, early-life models to holistic, continuous frameworks rooted in transformational and co-creative contributions to the world. Such an evolution is not merely an adaptation to contemporary challenges but is fundamentally aligned with divine Principles, acting as a vital catalyst for both individual enlightenment and collective spiritual ascension. As we transition into this new paradigm, we don't just produce workers, citizens, or even scholars; we cultivate Wise, morally robust, spiritually aligned Co-Creators who are capable of navigating and contributing to the complex, ever-changing landscape of existence, progressively realizing the Creator's Intent on earth as it is in heaven. 
+The LIØNSBERG Thesis of Lifelong Learning calls for a fundamental shift in how we conceptualize and practice education, from fragmented, early-life models to holistic, continuous frameworks rooted in transformational and co-creative contributions to the world. Such an evolution is not merely an adaptation to contemporary challenges but is fundamentally aligned with divine Principles, acting as a vital catalyst for both individual enlightenment and collective spiritual ascension. As we transition into this new paradigm, we don't just produce workers, citizens, or even scholars; we cultivate Wise, morally robust, spiritually aligned Co-Creators who are capable of navigating and contributing to the complex, ever-changing landscape of existence, progressively realizing the Creator's Intent on earth as it is in heaven. 
 
-### II. The Lionsberg Theses of Lifelong Learning 
+### II. The LIØNSBERG Theses of Lifelong Learning 
 
 1. **Old: Rote Memorization | New: Deep Wisdom and Understanding**: Transition from educational models focused on rote memorization to holistic frameworks that cultivate deep Wisdom and Understanding, critical thinking, and the application of knowledge across various domains of life.
     
@@ -116,11 +116,11 @@ The Lionsberg Thesis of Lifelong Learning calls for a fundamental shift in how w
     
 25. 25. **Old: Fragmented Knowledge and Specialization | New: Unified Understanding and Wisdom**: Advance from an educational landscape characterized by fragmented specializations and disconnected fields of study to a harmonious paradigm that seeks unified understanding through the synthesis of science, spirituality, arts, and humanities, with an aim to cultivate Divine Wisdom and alignment with eternal Logos.
 
-### III. The Lionsberg Strategy for Lifelong Learning 
+### III. The LIØNSBERG Strategy for Lifelong Learning 
 
 #### Executive Summary
 
-The Lionsberg Strategy aims to operationalize the Lionsberg Thesis of Lifelong Learning, translating its lofty ideals into concrete actions, processes, and systems that can be implemented across educational institutions, communities, and nations. In essence, the strategy serves as a roadmap to shift from traditional, compartmentalized models of education to a fluid, lifelong, Wisdom-centered paradigm aligned with divine Principles and universal Logos.
+The LIØNSBERG Strategy aims to operationalize the LIØNSBERG Thesis of Lifelong Learning, translating its lofty ideals into concrete actions, processes, and systems that can be implemented across educational institutions, communities, and nations. In essence, the strategy serves as a roadmap to shift from traditional, compartmentalized models of education to a fluid, lifelong, Wisdom-centered paradigm aligned with divine Principles and universal Logos.
 
 #### Objectives and Metrics
 
@@ -154,19 +154,19 @@ The Lionsberg Strategy aims to operationalize the Lionsberg Thesis of Lifelong L
     
 - **Medium-Term (3-5 Years)**: Expansion of pilot programs to a regional level, increased community involvement, technological and curricular adjustments based on early feedback.
     
-- **Long-Term (5 -10 Years)**: Rollout of the new educational paradigm across all tribes and nations participating in the Lionsberg System, continual refinement and updates, and universal propagation of the successful model to all Citizens.
+- **Long-Term (5 -10 Years)**: Rollout of the new educational paradigm across all tribes and nations participating in the LIØNSBERG System, continual refinement and updates, and universal propagation of the successful model to all Citizens.
     
 #### Conclusion and Next Steps
 
-The Lionsberg Strategy serves as a living document that outlines the actionable steps needed to bring the Lionsberg Thesis of Lifelong Learning into concrete reality. It calls for a citizen led public private partnership, multi-sectoral collaboration, technological innovation, and deep spiritual and ethical integration. The immediate next steps involve gathering a consortium of stakeholders to discuss, refine, and begin the initial implementation of the strategy. As this roadmap unfolds, it aspires not just to change the educational landscape but to elevate humanity closer to a Wisdom-centered existence, aligned with divine Principles and the universal Logos.
+The LIØNSBERG Strategy serves as a living document that outlines the actionable steps needed to bring the LIØNSBERG Thesis of Lifelong Learning into concrete reality. It calls for a citizen led public private partnership, multi-sectoral collaboration, technological innovation, and deep spiritual and ethical integration. The immediate next steps involve gathering a consortium of stakeholders to discuss, refine, and begin the initial implementation of the strategy. As this roadmap unfolds, it aspires not just to change the educational landscape but to elevate humanity closer to a Wisdom-centered existence, aligned with divine Principles and the universal Logos.
 
 
 
 
-### IV. The Lionsberg Action Plan for Lifelong Learning
+### IV. The LIØNSBERG Action Plan for Lifelong Learning
 #### Introduction
 
-The Lionsberg Plan serves as a practical guide for implementing the principles and objectives outlined in the Lionsberg Strategy for Lifelong Learning. This actionable guide aims to empower individuals, families, communities, and institutions to transition from a traditional model of education to a holistic, lifelong, Wisdom-driven framework.
+The LIØNSBERG Plan serves as a practical guide for implementing the principles and objectives outlined in the LIØNSBERG Strategy for Lifelong Learning. This actionable guide aims to empower individuals, families, communities, and institutions to transition from a traditional model of education to a holistic, lifelong, Wisdom-driven framework.
 
 #### For Individuals
 
@@ -202,7 +202,7 @@ The Lionsberg Plan serves as a practical guide for implementing the principles a
     
 3. **Mentorship Programs**: Create mentorship systems where experienced individuals can guide younger community members in both academic and life skills.
     
-4. **Local Governance**: Establish a local educational council to oversee the hub’s activities, ensuring alignment with the Lionsberg Strategy principles.
+4. **Local Governance**: Establish a local educational council to oversee the hub’s activities, ensuring alignment with the LIØNSBERG Strategy principles.
     
 5. **Feedback Mechanisms**: Implement monthly feedback sessions and continuous improvement processes for the Community Learning Hubs.
     
@@ -219,25 +219,25 @@ The Lionsberg Plan serves as a practical guide for implementing the principles a
     
 5. **Global Partnerships**: Initiate collaborations with international bodies to exchange successful models and pool resources.
     
-#### For Lionsberg 
+#### For LIØNSBERG 
 
-1. **Convene Implementation Team**: Lionsberg will initiate the process by convening a multidisciplinary team comprising educators, technologists, policymakers, spiritual leaders, and community organizers.
+1. **Convene Implementation Team**: LIØNSBERG will initiate the process by convening a multidisciplinary team comprising educators, technologists, policymakers, spiritual leaders, and community organizers.
     
-2. **Establish Citizen-Led Joint Venture**: In collaboration with community stakeholders, Lionsberg will establish a citizen-led joint venture responsible for deploying the Lionsberg Plan at the grassroots level.
+2. **Establish Citizen-Led Joint Venture**: In collaboration with community stakeholders, LIØNSBERG will establish a citizen-led joint venture responsible for deploying the LIØNSBERG Plan at the grassroots level.
     
-3. **Develop Backbone Learning and Empowerment Platform**: Lionsberg will develop a robust digital platform that will serve as the central hub for personalized, AI-enhanced learning, mentorship, and community engagement.
+3. **Develop Backbone Learning and Empowerment Platform**: LIØNSBERG will develop a robust digital platform that will serve as the central hub for personalized, AI-enhanced learning, mentorship, and community engagement.
     
-4. **Identify and Launch Pilot Projects**: Lionsberg will select specific communities to run initial pilot programs, setting the groundwork for broader plan implementation.
+4. **Identify and Launch Pilot Projects**: LIØNSBERG will select specific communities to run initial pilot programs, setting the groundwork for broader plan implementation.
     
-5. **Forge Public-Private Partnerships**: Lionsberg will actively engage with government agencies, private sector organizations, and philanthropic entities to secure the necessary funding and resources for a 10-year transformation.
+5. **Forge Public-Private Partnerships**: LIØNSBERG will actively engage with government agencies, private sector organizations, and philanthropic entities to secure the necessary funding and resources for a 10-year transformation.
     
-6. **Mission Control and Program Management**: A specialized team will be created to monitor and assess the ongoing progress of the various initiatives, adapting the approach as needed to stay in alignment with the Lionsberg Strategy and Timelines.
+6. **Mission Control and Program Management**: A specialized team will be created to monitor and assess the ongoing progress of the various initiatives, adapting the approach as needed to stay in alignment with the LIØNSBERG Strategy and Timelines.
 #### Conclusion
 
-The Lionsberg Plan of Lifelong Learning is a tactical guide that complements the overarching Lionsberg Strategy. It provides concrete steps for individuals, families, communities, and policymakers to effectuate the necessary transformation in educational paradigms. By focusing on personalization, community involvement, spiritual depth, and pragmatic action, the Lionsberg Plan aims to foster an educational environment that elevates each individual's capacity for Wisdom, contributing to the eradication of ignorance, corruption, and injustice. The ultimate goal is the realization of a society aligned with divine Principles, the universal Logos, and the intrinsic Goodness inherent in all of creation. The first and most important step is securing resources for the Citizen Led Joint Venture. 
-## The Theses of Lionsberg - Integrated Wellness 
+The LIØNSBERG Plan of Lifelong Learning is a tactical guide that complements the overarching LIØNSBERG Strategy. It provides concrete steps for individuals, families, communities, and policymakers to effectuate the necessary transformation in educational paradigms. By focusing on personalization, community involvement, spiritual depth, and pragmatic action, the LIØNSBERG Plan aims to foster an educational environment that elevates each individual's capacity for Wisdom, contributing to the eradication of ignorance, corruption, and injustice. The ultimate goal is the realization of a society aligned with divine Principles, the universal Logos, and the intrinsic Goodness inherent in all of creation. The first and most important step is securing resources for the Citizen Led Joint Venture. 
+## The Theses of LIØNSBERG - Integrated Wellness 
 
-### I. The Lionsberg Thesis of Integrated Wellness 
+### I. The LIØNSBERG Thesis of Integrated Wellness 
 
 The old paradigm of healthcare and well-being is fundamentally misaligned with the holistic nature of human existence, favoring reactivity over proactive care, compartmentalization over integration, and profit over the flourishing of the individual and community. Its transactional model perpetuates spiritual, intellectual, and physical disease by focusing on symptomatic treatments rather than root causes. An emergency-centric, medication-first approach not only perpetuates a cycle of dependency but also diminishes the significance of spiritual, emotional, and physical unity in health. This system isolates expertise within medical specialties, limits patient access through exclusivity, and centers care around profit and sickness, thereby thwarting communal and ecological well-being. The fragmentation is so acute that it fails to recognize the interconnected tapestry of life, evident in its disharmony with natural law and the spiritual realm.
 
@@ -249,7 +249,7 @@ Moreover, the new paradigm insists on collaboration and co-creation between the 
 
 By aligning itself with divine principles and natural law, the new paradigm offers a blueprint for a healthcare system that is not merely a mechanistic enterprise but a sacred endeavor. It recognizes that genuine well-being is not possible without harmonizing with the grand tapestry of life—a tapestry woven with threads of spiritual, intellectual, emotional, and physical elements, anchored in principles of divine generosity, communal uplift, and holistic flourishing. Thus, this transformation is not merely a change in healthcare practice but an existential reorientation, a collective evolution toward an integrated and sacred understanding of what it means to be truly well.
 
-### II. The Lionsberg Theses of Integrated Wellness 
+### II. The LIØNSBERG Theses of Integrated Wellness 
 
 
 1. **Old: Physical, Intellectual and Spiritual Disease** | **New: Holistic Flourishing**: Shift from a state of spiritual, intellectual, and physical disease and fragmented views to a holistic model of flourishing and integrated wellbeing that aligns body, mind, and spirit with Creation and the Creator.  
@@ -274,7 +274,7 @@ By aligning itself with divine principles and natural law, the new paradigm offe
 20. **Old: Invasive and High-Risk Interventions | New: Minimally Invasive and High-Efficacy Solutions**: Shift from high-risk, invasive procedures as the go-to solution to minimally invasive and more effective treatments that harmonize with the body's own healing mechanisms, acknowledging the Divine design and healing potential in our physiology.  
 21. **Old: Competitive Health Markets | New: Cooperative Wellbeing Ecosystems**: Transition from competitive healthcare markets, where services and treatments are proprietary and transactional, to cooperative ecosystems where information, best practices, and incentives are shared for the betterment of all, aligned with the principles of divine generosity and communal uplift.  
 
-### III. The Lionsberg Strategy of Integrated Wellness 
+### III. The LIØNSBERG Strategy of Integrated Wellness 
 
 To transition from the old paradigm to the new paradigm of holistic well-being, a multi-faceted strategy is required that addresses the core components: organizational structures, belief systems, and actionable practices, all guided by the overarching principles and values that align with the Divine and natural laws.
 
@@ -310,7 +310,7 @@ To transition from the old paradigm to the new paradigm of holistic well-being, 
 
 Throughout each phase, the focus should be on co-creative partnerships, democratic access to holistic well-being knowledge, and community engagement to ensure that the transition aligns with the values of divine generosity, communal uplift, and holistic flourishing. This isn't merely a 'system upgrade' but an evolutionary leap for healthcare, demanding full integration of our spiritual, intellectual, and physical realms in a manner that reveres the sanctity of life and Creation.
 
-### IV. The Lionsberg Action Plan of Integrated Wellness 
+### IV. The LIØNSBERG Action Plan of Integrated Wellness 
 
 To bridge the gap between the old and new paradigms of well-being, immediate Citizen Led action must be taken at the grassroots level. The effectiveness of a transformative vision largely depends on how readily it can be localized, personalized, and actualized. Here’s an action plan that individuals, families, and local communities can initiate to propel the shift towards holistic well-being.
 
@@ -338,13 +338,13 @@ To bridge the gap between the old and new paradigms of well-being, immediate Cit
 4. **Skill-Share Programs**: Initiate community skill-share programs where people can teach and learn various aspects of holistic well-being from each other.
 5. **Local Policies**: Work with local authorities to draft policies that encourage holistic well-being, such as urban gardening, pedestrian-friendly roads, or mindfulness in schools.
 
-#### For Lionsberg 
+#### For LIØNSBERG 
 
-1. **Implementation Team**: Lionsberg will gather a team of professionals in health policy, community organization, technology, and other relevant disciplines to oversee the plan.
-2. **Citizen-Led Joint Venture**: Lionsberg will develop a Citizen-Led Joint Venture to implement the Strategy and Plan by connecting and empowering local implementations with resources, technology, and support.
-3. **Digital Platform**: A sophisticated digital infrastructure is being developed by Lionsberg, aimed at providing an array of learning and community-building resources.
+1. **Implementation Team**: LIØNSBERG will gather a team of professionals in health policy, community organization, technology, and other relevant disciplines to oversee the plan.
+2. **Citizen-Led Joint Venture**: LIØNSBERG will develop a Citizen-Led Joint Venture to implement the Strategy and Plan by connecting and empowering local implementations with resources, technology, and support.
+3. **Digital Platform**: A sophisticated digital infrastructure is being developed by LIØNSBERG, aimed at providing an array of learning and community-building resources.
 4. **Pilot Projects**: Selected communities will be identified for initial pilot programs to test and refine the proposed strategies.
-5. **Public-Private Partnerships**: Lionsberg will facilitate partnerships with government agencies, the private sector, and non-profit organizations to secure funding and resources.
+5. **Public-Private Partnerships**: LIØNSBERG will facilitate partnerships with government agencies, the private sector, and non-profit organizations to secure funding and resources.
 6. **Mission Control**: A specialized team will be established to monitor metrics and outcomes, ensuring that the program's implementation aligns with its stated objectives.
 
 By focusing on these immediate, actionable steps, individuals, families, and localities can become agents of change, embedding the principles and practices of holistic well-being into the fabric of everyday life. These actions should be taken not in isolation but as interconnected initiatives that elevate the whole community toward a unified vision of flourishing and divine harmony.
@@ -365,9 +365,9 @@ By focusing on these immediate, actionable steps, individuals, families, and loc
 
 
 
-## The Theses of Lionsberg - Economic Systems 
+## The Theses of LIØNSBERG - Economic Systems 
 
-### I. The Lionsberg Thesis of Economics 
+### I. The LIØNSBERG Thesis of Economics 
 
 The present economic systems, largely rooted in materialism, competition, and exploitation, stand in stark opposition to the Creator's Intent and the unifying principles that underlie existence. These systems not only promote inequality and injustice but also perpetuate a disconnection from the deeper values of life. This paradigm, driven by insatiable consumption, debt based fiat systems, and limited by dichotomous thinking, is manifestly unsustainable and spiritually discordant. It exacerbates fragmentation between human communities, the natural world, and the Divine, in a self-perpetuating cycle that undermines individual well-being, the collective soul, and the living system that sustains us. 
 
@@ -377,9 +377,9 @@ Fundamental to this transformation is the notion of Economic Unity—recognition
 
 The new economics also mandates the active dismantling of false dichotomies that have plagued traditional economic thought—capitalism versus socialism, individual liberty versus collective responsibility. It seeks an integrated, holistic wisdom that brings the best of diverse economic models into a balanced, unified theory rooted in divine principles and natural laws. No longer can economics be isolated from the moral and spiritual dimensions of life; it must be a fully integrated facet of a society striving for spiritual enlightenment and universal harmony.
 
-In sum, the Lionsberg Thesis of Economics offers a revolutionary blueprint for reimagining, redesigning, and rebuilding an economic system aligned with the highest aspirations of the human spirit and the Logos of the Divine Order. It recognizes that the path to universal prosperity and harmony is not just through material adjustments but through a profound spiritual and ethical transformation—a collective reorientation toward higher ideals of justice, unity, and sacred interdependence. Such a transformation doesn’t just alter the shape of economics; it elevates it to a form of Divine Partnership, a sacred endeavor aimed at manifesting a Kingdom of God on Earth, where justice, prosperity, and spiritual enlightenment are shared riches for all of Creation.
+In sum, the LIØNSBERG Thesis of Economics offers a revolutionary blueprint for reimagining, redesigning, and rebuilding an economic system aligned with the highest aspirations of the human spirit and the Logos of the Divine Order. It recognizes that the path to universal prosperity and harmony is not just through material adjustments but through a profound spiritual and ethical transformation—a collective reorientation toward higher ideals of justice, unity, and sacred interdependence. Such a transformation doesn’t just alter the shape of economics; it elevates it to a form of Divine Partnership, a sacred endeavor aimed at manifesting a Kingdom of God on Earth, where justice, prosperity, and spiritual enlightenment are shared riches for all of Creation.
 
-### II. The Lionsberg Theses of Economics 
+### II. The LIØNSBERG Theses of Economics 
 
 1. **Old: Selfish Ambition | New: Divine Aspiration**: Elevate human pursuits from a focus on individual and local self-gain at the expense of others, to alignment with Highest Divine Purpose that nurtures the collective soul and co-creates the Best Possible Future for All.
 2. **Old: Mindless Consumerism | New: Conscious Production and Consumption**: Transform material greed  and mindless consumerism into an ethos of conscious consumption and stewardship of the Earth's resources and regenerative capacity, cherishing every gift from the Creator as Sacred, and considering the ethical and spiritual ramifications of each of our choices.
@@ -442,10 +442,10 @@ In sum, the Lionsberg Thesis of Economics offers a revolutionary blueprint for r
 59. **Old: Exploitative Advertising and Manipulation | New: Enlightened and Ethical Communication**: Transition from advertising that exploits human weaknesses to forms of communication that empower, enlighten, and uplift humanity toward the Highest Good.
 60. **Old: Hoarding and Weaponizing Technologies | New: Sharing and Leveraging Advanced Technologies for Collective Flourishing**: Transcend the failing modality of hoarding and weaponizing our most advanced technologies against one another to a higher paradigm of beating our swords into tools of life, and helping One and All flourish in Harmony. 
 
-### III. The Lionsberg Strategy for Economics 
-#### The Lionsberg Strategy for Economics: A Ten-Year Roadmap for Divine Harmony and Universal Prosperity
+### III. The LIØNSBERG Strategy for Economics 
+#### The LIØNSBERG Strategy for Economics: A Ten-Year Roadmap for Divine Harmony and Universal Prosperity
 
-The Lionsberg Economic System will ultimately be rolled out from the bottom up as part of the Prototype / Kit of Parts to be localized and instantiated alongside the Systems of Governance, Learning, Wellbeing, etc. It is expected that adoption will follow a tipping point strategy rooted in awareness and shift of consciousness, leading to local desire to better align resources and economic systems with the Creator's Intent. Once adoption of Sacred Economics reaches a tipping point in any domain of society, misaligned systems will gradually lack the resources and support to continue and will be hospiced.  
+The LIØNSBERG Economic System will ultimately be rolled out from the bottom up as part of the Prototype / Kit of Parts to be localized and instantiated alongside the Systems of Governance, Learning, Wellbeing, etc. It is expected that adoption will follow a tipping point strategy rooted in awareness and shift of consciousness, leading to local desire to better align resources and economic systems with the Creator's Intent. Once adoption of Sacred Economics reaches a tipping point in any domain of society, misaligned systems will gradually lack the resources and support to continue and will be hospiced.  
 #### Phase One: Foundational Awareness and Education (Years 1-3)
 
 1. **Global Forums for Discourse**
@@ -472,7 +472,7 @@ The Lionsberg Economic System will ultimately be rolled out from the bottom up a
     - **Regional Pilots**: Launch local community currencies based on new paradigms, closely monitored for efficacy and potential for wider adoption.
     - **Monetary Summit**: Convene a meeting of monetary authorities from around the world for a new Bretton Woods moment to explore transitioning from fiat to asset-and-value-backed systems.
     - **United States**: If the United States experiment can be reset in 2024, have the United States as originator of the global reserve currency exercise a leadership role in encouraging a reset of global financial systems. 
-    - **Bottom Up Adoption**: Independent of efforts at nation state levels, encourage communities around the world to forge community currencies as part of their localization and instantiation of the Lionsberg System, ensuring the ability to trade and flourish should national currencies fail. 
+    - **Bottom Up Adoption**: Independent of efforts at nation state levels, encourage communities around the world to forge community currencies as part of their localization and instantiation of the LIØNSBERG System, ensuring the ability to trade and flourish should national currencies fail. 
     - **Jubilee**: As communities transition from the Old System to the New, implement a historic Jubilee that resets the playing field from millennia of accumulated injustices. 
     - **Ethical Banking**: Encourage the establishment and use of ethical banks at the individual, business, and governmental levels that are aligned with Sacred Economics principles, progressively off-boarding resources from extractive capital systems so they can pass away and the New Systems can flourish.
     
@@ -545,10 +545,10 @@ The Lionsberg Economic System will ultimately be rolled out from the bottom up a
 
 ---
 
-In weaving these various threads into a unified tapestry, the Lionsberg Strategy for Economics seeks to bring forth a multidimensional, deeply rooted change that recognizes the intricate dance between economics, society, and spirituality. This is not just a plan for economic reform but a vision for a profound spiritual and cultural metamorphosis, designed to usher in an era of divine harmony, universal prosperity, and enlightened humanity.
-### IV. The Lionsberg Action Plan for Economics 
+In weaving these various threads into a unified tapestry, the LIØNSBERG Strategy for Economics seeks to bring forth a multidimensional, deeply rooted change that recognizes the intricate dance between economics, society, and spirituality. This is not just a plan for economic reform but a vision for a profound spiritual and cultural metamorphosis, designed to usher in an era of divine harmony, universal prosperity, and enlightened humanity.
+### IV. The LIØNSBERG Action Plan for Economics 
 
-The Lionsberg Action Plan for Economics aims for systemic transformation grounded in Wisdom, divine Principles, and universal Logos. We strive for a comprehensive overhaul of economic philosophy, systems, and functions within a decade, moving from extractive to regenerative economies, from inequality to justice, and from myopia to long-term integral wellbeing and development of families, communities, bioregions, and the planet.
+The LIØNSBERG Action Plan for Economics aims for systemic transformation grounded in Wisdom, divine Principles, and universal Logos. We strive for a comprehensive overhaul of economic philosophy, systems, and functions within a decade, moving from extractive to regenerative economies, from inequality to justice, and from myopia to long-term integral wellbeing and development of families, communities, bioregions, and the planet.
 
 ---
 
@@ -652,23 +652,23 @@ The Lionsberg Action Plan for Economics aims for systemic transformation grounde
 
 ---
 
-#### For Lionsberg
+#### For LIØNSBERG
 
 1. **Convene Economic Council**: Assemble a multi-disciplinary team of economists, ethicists, spiritual leaders, and public policymakers.
     
-2. **Citizen-Led Economic Joint Venture**: Establish a venture to guide and oversee the implementation of the Lionsberg Economic Plan at the grassroots level.
+2. **Citizen-Led Economic Joint Venture**: Establish a venture to guide and oversee the implementation of the LIØNSBERG Economic Plan at the grassroots level.
     
 3. **Digital Economic Governance Platform**: Develop a digital platform that aids in the transparent governance of economic activities, resources, and initiatives across the emergent federation.
     
-4. **Pilot Economic Zones**: Identify regions where the economic principles of Lionsberg can be tested and refined.
+4. **Pilot Economic Zones**: Identify regions where the economic principles of LIØNSBERG can be tested and refined.
     
 5. **Resource Mobilization**: Secure funding and resources from public, private, and philanthropic sectors for a 10-year transformative journey.
     
-6. **Data-Driven Oversight**: Create a Mission Control center to monitor the progress, ensuring that activities remain aligned with the Lionsberg Strategy and adjusting plans as required.    
+6. **Data-Driven Oversight**: Create a Mission Control center to monitor the progress, ensuring that activities remain aligned with the LIØNSBERG Strategy and adjusting plans as required.    
 
 #### Conclusion
 
-This enhanced Lionsberg Action Plan for Economics is designed to bring about transformative change within a decade. This timeline is aggressive but feasible, provided there is collective will, sustained effort, and unwavering alignment with Wisdom, divine Principles, and the universal Logos. It represents not just a plan but a living commitment to usher in a new economic era that honors the highest Good and justice.
+This enhanced LIØNSBERG Action Plan for Economics is designed to bring about transformative change within a decade. This timeline is aggressive but feasible, provided there is collective will, sustained effort, and unwavering alignment with Wisdom, divine Principles, and the universal Logos. It represents not just a plan but a living commitment to usher in a new economic era that honors the highest Good and justice.
 
 
 
@@ -692,20 +692,20 @@ This enhanced Lionsberg Action Plan for Economics is designed to bring about tra
 
 
 
-## The Theses of Lionsberg - Food Systems 
+## The Theses of LIØNSBERG - Food Systems 
 
-### I. The Lionsberg Thesis of Food Systems
+### I. The LIØNSBERG Thesis of Food Systems
 
 The current paradigm of food systems is fundamentally misaligned with the interdependent web of life and the Logos of the universe, rooted in a model that prioritizes productivity and profit over health, community, and ecological regenerativity. This paradigm systematically erodes the earth's soil, water, microbiome and biodiversity, and it commodifies food as a mere product devoid of its spiritual, cultural, and biological significance. It perpetuates a cycle of extractive dependency on industrial agriculture, monocultures, and synthetic inputs, thereby divorcing humanity from its intimate relationship with nature and from its responsibility toward ethical stewardship of the Earth. This framework not only promotes dependency, injustice and inequality, particularly for farmers and marginalized communities, but also fails to resonate with the Divine Order and the universal wisdom embedded in natural systems.
 
-In radical departure, the Lionsberg Vision for the new paradigm places ethical, spiritual, and ecological stewardship at its core, realigning human agriculture with divine laws and the regenerative principles of the natural world. The central ethos is one of holistic nourishment—physically, spiritually, and ecologically. In this new framework, agriculture becomes an act of sacred partnership with the Earth, moving from extractive to regenerative practices, from monocultures to biodiverse systems, and from synthetic to natural, localized inputs. Food is reclaimed as a communal asset and a gift from the Divine, to be respected, shared, and celebrated in a manner that sustains both human communities and the Earth's ecosystems.
+In radical departure, the LIØNSBERG Vision for the new paradigm places ethical, spiritual, and ecological stewardship at its core, realigning human agriculture with divine laws and the regenerative principles of the natural world. The central ethos is one of holistic nourishment—physically, spiritually, and ecologically. In this new framework, agriculture becomes an act of sacred partnership with the Earth, moving from extractive to regenerative practices, from monocultures to biodiverse systems, and from synthetic to natural, localized inputs. Food is reclaimed as a communal asset and a gift from the Divine, to be respected, shared, and celebrated in a manner that sustains both human communities and the Earth's ecosystems.
 
 Integral to this transformation are guiding principles that reshape the conceptual landscape of agriculture and food. The principle of interdependence recognizes the inextricable links between soil health, plant vitality, human well-being, and planetary wellness. The new model advances the concept of “knowledge democracy,” advocating for participatory research and open-source sharing of farming techniques and heritage seeds, thereby counteracting the monopolization of agricultural knowledge by extractive corporations. This paradigm also champions long-term resilience and regenerativity, replacing the current short-sighted, profit-maximizing models with systems that measure success through the well-being of all life forms and ecosystems involved.
 
 Additionally, this new paradigm mandates a collaborative relationship among all stakeholders in the food system, from farmers and consumers to policymakers and researchers. It eschews top-down, centralized decision-making for localized, community-driven governance models that are just, democratic, and ecologically sound. Research and innovation are no longer confined to isolated labs and corporate boardrooms but occur in the field and community via Citizen Science, co-created in partnership with those most impacted by food systems. This framework culminates in an integrated ecology of food that acknowledges the sanctity and interdependence of all life, affirming that the well-being of each is intimately tied to the well-being of the whole.
 
 By realigning food systems with divine principles and natural law, this new paradigm offers more than a pragmatic roadmap—it offers a sacred mission. It acknowledges that a just and sustainable food system cannot exist in isolation but must be part of a greater cosmic order, a divine tapestry that weaves together the physical, spiritual, social, and ecological dimensions of existence. Thus, the envisioned transformation is not just a modification of agricultural techniques or policy shifts; it represents a profound existential reorientation toward what it means to nourish and be nourished. In this light, the act of eating, farming, and sharing food becomes a spiritual practice, a manifestation of divine grace, and an opportunity for collective evolution toward a more harmonious and integrated world.
-### II. The Lionsberg Theses of Food Systems 
+### II. The LIØNSBERG Theses of Food Systems 
 
 1. **Old: Industrial Agriculture | New: Regenerative Agriculture**: Replace harmful, industrial agriculture with methods that are rooted in spiritual wisdom, prioritizing soil health, biodiversity, and long-term regenerativity and flourishing over short-term profits.
     
@@ -838,101 +838,101 @@ By realigning food systems with divine principles and natural law, this new para
 65. **Old: Extractive Economies | New: Regenerative Economic Models**: Shift from extractive economic models that deplete resources and externalize costs to regenerative models that add Sacred Value to ecosystems and communities.
 
 
-### III. The Lionsberg Strategy of Food Systems
+### III. The LIØNSBERG Strategy of Food Systems
 
 Coming Soon 
 
-### IV. The Lionsberg Plan of Action for Food Systems  
+### IV. The LIØNSBERG Plan of Action for Food Systems  
 
 Coming Soon
 
 
-## The Theses of Lionsberg - Governance Systems 
+## The Theses of LIØNSBERG - Governance Systems 
 
 
 
-## The Theses of Lionsberg - Coming Soon
-### The Theses of Lionsberg - Energy Systems 
+## The Theses of LIØNSBERG - Coming Soon
+### The Theses of LIØNSBERG - Energy Systems 
 
 Coming Soon - Delves into the interconnected web of energy production, distribution, and consumption. Exploring regenerative and just solutions, this section aims to revolutionize our relationship with energy to align with natural law and Wisdom.
 
-### The Theses of Lionsberg - Built Environment 
+### The Theses of LIØNSBERG - Built Environment 
 
 Coming Soon - Investigates how we design, construct, and inhabit physical spaces, aiming to create built environments that beautify existence, enhance wellbeing, cultivate Wisdom, and harmonize with natural ecosystems.
 
-### The Theses of Lionsberg - Transportation and Logistics 
+### The Theses of LIØNSBERG - Transportation and Logistics 
 
 Coming Soon - Examines the mechanics and ethics of how goods and people move locally, regionally, and across the globe, advocating for systems that prioritize sustainability, efficiency, and justice.
 
-### The Theses of Lionsberg - Property and Stewardship
+### The Theses of LIØNSBERG - Property and Stewardship
 
 Coming Soon - Probes the concept of ownership and our duties as temporary stewards of the domains, resources, and relationships entrusted to us, aiming to shift perspectives from selfish dominion and control to stewardship, generosity, and flow, in alignment with divine Principles.
 
-### The Theses of Lionsberg - Governance
+### The Theses of LIØNSBERG - Governance
 
 Coming Soon - Addresses how we navigate together as a human species towards The Goal, exploring Wisdom-based systems for effective, just, and enlightened participatory governance.
-### The Theses of Lionsberg - Theological and Spiritual
+### The Theses of LIØNSBERG - Theological and Spiritual
 
 Coming Soon - Addresses the nature of Ultimate Reality and the Divine, spiritual laws, and the ultimate purpose of existence, serving as a theological compass for the Meta Project.
 
-### The Theses of Lionsberg - Philosophical  
+### The Theses of LIØNSBERG - Philosophical  
 
 Coming Soon - Explores the nature of Reality, Ethics, and the Wisdom, Principles, and Values that should guide human thought and behavior.
 
-### The Theses of Lionsberg - Scientific and Technological 
+### The Theses of LIØNSBERG - Scientific and Technological 
 
 Coming Soon - Investigates how continual advancements in science and technology can be ethically and wisely used to propel humanity and the living system towards its higher aims, considering both the promises and pitfalls of our growing power.
 
-### The Theses of Lionsberg - Theoretical  
+### The Theses of LIØNSBERG - Theoretical  
 
 Coming Soon - Provides a theoretical framework for reimagining, redesigning, and rebuilding societal systems like economics, governance, learning, wellbeing, and social relations.
 
-### The Theses of Lionsberg - Systematic  
+### The Theses of LIØNSBERG - Systematic  
 
 Coming Soon - Goes beyond theory to outline the systems and structures that need to be in place for the envisioned changes to occur, and to realign the human system with the Living System that contains it.
 
-### The Theses of Lionsberg - Practical 
+### The Theses of LIØNSBERG - Practical 
 
 Coming Soon - Offers concrete steps and actions that individuals, families, communities, tribes, and nations can take to manifest the Vision and Intention described in the other sets of theses.
 
-### The Theses of Lionsberg - Right Relationship 
+### The Theses of LIØNSBERG - Right Relationship 
 
 Coming Soon - Focuses on right relationship with the Divine, Self, Humanity, and the Living System with an emphasis on the pathways towards social and ecological harmony and unity through Love. 
 
-### The Theses of Lionsberg - Boundaries and Migration  
+### The Theses of LIØNSBERG - Boundaries and Migration  
 
 Coming Soon - Examines the ethical and practical complexities of boundaries and migration, striving for approaches that honor human dignity, sovereignty, mutual consent, and divine Principles.
-### The Theses of Lionsberg - Psychological 
+### The Theses of LIØNSBERG - Psychological 
 
 Coming Soon - Explores the inner workings of the human mind and emotions, offering insights into psychological barriers, healing and pathways to growth.
 
-### The Theses of Lionsberg - Cultural and Artistic   
+### The Theses of LIØNSBERG - Cultural and Artistic   
 
 Coming Soon - Examines the role of culture and art in shaping values, beliefs, and behaviors, and how they can be proactively harnessed as foundational catalysts for positive and enduring change.
 
-### The Theses of Lionsberg - Peace and Security 
+### The Theses of LIØNSBERG - Peace and Security 
 
 Coming Soon - Addresses the principles that should guide peace, conflict and defense, both at the individual and collective levels, emphasizing justice and ethical considerations.
 
-### The Theses of Lionsberg - Emergency Aid  
+### The Theses of LIØNSBERG - Emergency Aid  
 
 Coming - Discusses the ethical frameworks and logistical considerations for providing emergency aid and relief, aiming for speed, efficiency, and maximal regenerative impact.
 
-### The Theses of Lionsberg - Ecological  
+### The Theses of LIØNSBERG - Ecological  
 
 Focuses on our relationship with the natural world and Living System we are a part of, exploring topics like regenerativity, biodiversity, human impact on the planet, and the Human System x Living System interface. 
 
-### The Theses of Lionsberg - Historical  
+### The Theses of LIØNSBERG - Historical  
 
 Coming Soon - Examines key moments of transformation and failure in human history to draw lessons for the current endeavor.
-### The Theses of Lionsberg - Futuristic 
+### The Theses of LIØNSBERG - Futuristic 
 
 Coming Soon - Looks at emerging trends and technologies that have the potential to significantly impact the quest for a more wise, just and spiritual society, while outlining the pathways towards maintaining a positive and unifying Vision as we progress together through the generations, centuries, and millennia.
 
-### The Theses of Lionsberg - Passing The Flame 
+### The Theses of LIØNSBERG - Passing The Flame 
 
 Coming Soon - Discusses the mechanisms for ensuring that the Wisdom, Principles, and Goals outlined in the Theses are effectively passed down through generations, maintaining the integrity and efficacy of the mission.
 
-## The Lionsberg Lexicon 
+## The LIØNSBERG Lexicon 
 
 Coming Soon - Serves as a comprehensive glossary, defining and elaborating on key terms used throughout the Theses, ensuring clarity, and consistency in understanding and application.

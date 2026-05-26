@@ -8,7 +8,7 @@
 
 ## Method
 
-1. Identified the 12 subagent transcripts at `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/` by grepping for `PKM Voice Audit/B*` substrings in initial prompts.
+1. Identified the 12 subagent transcripts at `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/` by grepping for `PKM Voice Audit/B*` substrings in initial prompts.
 2. Extracted each agent's final assistant message (the audit memo) plus all-assistant-text concatenation.
 3. Parsed table rows in each final memo to enumerate every proposed Card (net-new + refinement).
 4. Lenient-matched each Card name against the corresponding ledger section (`### VM-{label}`) plus full-ledger search for fallback.

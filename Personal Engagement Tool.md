@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Personal Engagement Tool is a key component of the Personal System of Work and is designed to support individuals in building strong relationships and working effectively with others towards shared goals and objectives. This tool provides a structured approach to communication and collaboration, and helps individuals align their efforts with the shared Vision and Goals of their teams, and the Lionsberg System as a Whole.
+The Personal Engagement Tool is a key component of the Personal System of Work and is designed to support individuals in building strong relationships and working effectively with others towards shared goals and objectives. This tool provides a structured approach to communication and collaboration, and helps individuals align their efforts with the shared Vision and Goals of their teams, and the LIØNSBERG System as a Whole.
 
 ## Key Components of the Personal Engagement Tool
 
@@ -10,7 +10,7 @@ The Personal Engagement Tool is a key component of the Personal System of Work a
     
 2.  Collaboration: Working together effectively with others to achieve shared goals and objectives, leveraging each other's strengths, and supporting one another in the face of challenges and obstacles.
     
-3.  Alignment: Aligning personal goals and objectives with the shared Vision and Goals of the Lionsberg System, and the teams you are a part of, to ensure that everyone is working together effectively towards shared outcomes.
+3.  Alignment: Aligning personal goals and objectives with the shared Vision and Goals of the LIØNSBERG System, and the teams you are a part of, to ensure that everyone is working together effectively towards shared outcomes.
     
 
 ## Best Practices for Using the Personal Engagement Tool
@@ -21,7 +21,7 @@ The Personal Engagement Tool is a key component of the Personal System of Work a
     
 3.  Collaborate towards shared goals: Work together effectively with others towards shared goals and objectives, leveraging each other's strengths and supporting one another in the face of challenges and obstacles.
     
-4.  Align with the shared Vision and Goals: Align personal goals and objectives with the shared Vision and Goals of the Lionsberg System, and the teams you are a part of, to ensure that everyone is working together effectively towards shared outcomes.
+4.  Align with the shared Vision and Goals: Align personal goals and objectives with the shared Vision and Goals of the LIØNSBERG System, and the teams you are a part of, to ensure that everyone is working together effectively towards shared outcomes.
     
 
 ## Templates, Tools, and Resources
@@ -30,9 +30,9 @@ The Personal Engagement Tool is a key component of the Personal System of Work a
     
 2.  [[Personal Collaboration Plan]]: A template for working together effectively with others towards shared goals and objectives.
     
-3.  [[Personal Alignment Plan]]: A template for aligning personal goals and objectives with the shared Vision and Goals of the Lionsberg System and the teams you are a part of.
+3.  [[Personal Alignment Plan]]: A template for aligning personal goals and objectives with the shared Vision and Goals of the LIØNSBERG System and the teams you are a part of.
     
 
 ## Conclusion
 
-The Personal Engagement Tool is a critical component of the Personal System of Work, and is designed to support individuals in building strong relationships and working effectively with others towards shared goals and objectives. By utilizing this tool, individuals can align their efforts with the shared Vision and Goals of the Lionsberg System, and ensure that everyone is working together effectively towards shared outcomes.
+The Personal Engagement Tool is a critical component of the Personal System of Work, and is designed to support individuals in building strong relationships and working effectively with others towards shared goals and objectives. By utilizing this tool, individuals can align their efforts with the shared Vision and Goals of the LIØNSBERG System, and ensure that everyone is working together effectively towards shared outcomes.

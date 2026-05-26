@@ -27,4 +27,4 @@ ___
 Forward to [[Getting To Know God]]  
 Back to [[The One That Unites The Many]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

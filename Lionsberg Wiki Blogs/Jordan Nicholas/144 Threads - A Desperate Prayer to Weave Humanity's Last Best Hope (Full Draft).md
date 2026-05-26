@@ -199,7 +199,7 @@ The journey ahead is not a single step but a collective migration—from systems
 
 Global transformation does not require every individual to awaken simultaneously. Reaching a tipping point—where a critical mass of individuals, groups, and communities align with the [[Universal Principles and Values]] and embody the [[New Way of Being]]—can irrevocably shift the trajectory of humanity as a whole. This [[Tipping Point Strategy]], rooted in the [[Shift In Consciousness]], focuses on strategically empowering those most prepared to lead, inspire, and embody transformation at each stage of [[The Journey]]. By doing so, We ignite a cascading chain reaction that accelerates humanity’s collective awakening and [[Progressive Embodiment]] of an entirely [[New]] [[Way of Being]] as a human species. 
 
-[[The Movement]] must be entirely voluntary and invitational. The success of [[The Invitation]] lies in its ability to resonate deeply, continually improving with each cycle to meet the needs of an awakening humanity. Responses should be measured through the [[Lionsberg Acceptance Rate]], ensuring that individuals and localities are welcomed into the Path at their own pace and with full agency.
+[[The Movement]] must be entirely voluntary and invitational. The success of [[The Invitation]] lies in its ability to resonate deeply, continually improving with each cycle to meet the needs of an awakening humanity. Responses should be measured through the [[LIØNSBERG Acceptance Rate]], ensuring that individuals and localities are welcomed into the Path at their own pace and with full agency.
 
 In this way, [[The Movement]] becomes a dynamic, accelerating ripple of energy flowing along the [[Critical Path]], progressively awakening, inviting, healing, and empowering individuals and communities to [[Progress]] [[FROM the Old TO the New]]. This incremental, person-by-person, locality-by-locality shift in consciousness and [[Way of Being]] forms the foundation upon which the [[New Civilization]] can arise—resilient, regenerative, and enduring for generations to come.
 
@@ -213,7 +213,7 @@ The journey toward a flourishing future is not random—it follows a path. The C
 
 #### **31. Milestones and Growth Cycles**
 
-Transformation unfolds in cycles, each marked by [[Milestones]] that indicate [[Progress]]. These cycles, inspired by the harmony of natural and cosmic patterns, mark the progress of [[The Movement]] along the [[Critical Path]]. Each milestone reflects the journey of individuals and localities from awakening to empowerment and co-creation, gradually connecting their progress into a unified collective force advancing towards [[The Goal]]. By aligning Our strategies and actions with these rhythms, We can amplify their impact and ensure sustainable growth. Accomplishing these cycles of growth within the [[Critically Effective Time Limit]] allows Us to harness the momentum of a system on the brink—not only of collapse, but also of potential transformation—before it descends into disintegration. See [[Lionsberg Cycles of Growth]] and [[Lionsberg Cycle Time]]. 
+Transformation unfolds in cycles, each marked by [[Milestones]] that indicate [[Progress]]. These cycles, inspired by the harmony of natural and cosmic patterns, mark the progress of [[The Movement]] along the [[Critical Path]]. Each milestone reflects the journey of individuals and localities from awakening to empowerment and co-creation, gradually connecting their progress into a unified collective force advancing towards [[The Goal]]. By aligning Our strategies and actions with these rhythms, We can amplify their impact and ensure sustainable growth. Accomplishing these cycles of growth within the [[Critically Effective Time Limit]] allows Us to harness the momentum of a system on the brink—not only of collapse, but also of potential transformation—before it descends into disintegration. See [[LIØNSBERG Cycles of Growth]] and [[LIØNSBERG Cycle Time]]. 
 
 ---
 
@@ -303,7 +303,7 @@ Sovereignty must seamlessly scale from the individual to the global to the unive
 
 #### **46. Exchanging Diplomatic Recognition**
 
-As the New emerges, it must engage with the Old. Diplomatic recognition—based on mutual respect and shared principles—helps create the conditions for peaceful coexistence, mutual respect, and cooperation. As [[LIØNSBERG]] emerges, it will exchange [[Diplomatic Recognition]] with various aligned entities of Earth and beyond, without every sacrificing its [[Sovereignty]]. By cycle 40, at which point [[The First Three Percent]] are engaged, this network of interconnected sovereigns and communities could represent one of the five largest [[Sovereignties]] on Earth, signaling a profound realignment of global priorities and values (see [[Lionsberg Cycles of Growth]]). These milestones are not about dominance or control but about the voluntary and harmonic realignment of humanity with [[Universal Principles and Values]].
+As the New emerges, it must engage with the Old. Diplomatic recognition—based on mutual respect and shared principles—helps create the conditions for peaceful coexistence, mutual respect, and cooperation. As [[LIØNSBERG]] emerges, it will exchange [[Diplomatic Recognition]] with various aligned entities of Earth and beyond, without every sacrificing its [[Sovereignty]]. By cycle 40, at which point [[The First Three Percent]] are engaged, this network of interconnected sovereigns and communities could represent one of the five largest [[Sovereignties]] on Earth, signaling a profound realignment of global priorities and values (see [[LIØNSBERG Cycles of Growth]]). These milestones are not about dominance or control but about the voluntary and harmonic realignment of humanity with [[Universal Principles and Values]].
 
 ---
 
@@ -465,7 +465,7 @@ The global economy is built on centralized currencies that perpetuate artificial
 
 #### **67. Reversing Global Dependencies**
 
-Globalization has created dependencies that undermine local resilience, sovereignty, and capacity. Reversing these trends does not mean isolation but fostering balanced exchange, local production, and networks that empower communities to stand strong locally when necessary, while collaborating harmoniously when possible. [[The LIØNSBERG Strategy and Plan]] calls for the establishment of local and bioregional [[Lionsberg Instantiation Hubs]] that ensure all resources and capabilities required to survive a [[Collapse]] of the [[Existing Order]] are locally available. 
+Globalization has created dependencies that undermine local resilience, sovereignty, and capacity. Reversing these trends does not mean isolation but fostering balanced exchange, local production, and networks that empower communities to stand strong locally when necessary, while collaborating harmoniously when possible. [[The LIØNSBERG Strategy and Plan]] calls for the establishment of local and bioregional [[LIØNSBERG Instantiation Hubs]] that ensure all resources and capabilities required to survive a [[Collapse]] of the [[Existing Order]] are locally available. 
 
 ---
 
@@ -592,7 +592,7 @@ Humanity’s current ways of being—rooted in division, exploitation, and fear�
 
 #### **87. The Commons**
 
-The Earth’s resources are not commodities—they are commons, belonging to all beings and future generations. Reclaiming the commons means protecting and regenerating the shared foundations of life: air, water, soil, and knowledge. It also means transforming paradigms of ownership and exploitation into paradigms of fractal stewardship on behalf of all past, present, and future generations. [[Lionsberg Commons]]. 
+The Earth’s resources are not commodities—they are commons, belonging to all beings and future generations. Reclaiming the commons means protecting and regenerating the shared foundations of life: air, water, soil, and knowledge. It also means transforming paradigms of ownership and exploitation into paradigms of fractal stewardship on behalf of all past, present, and future generations. [[LIØNSBERG Commons]]. 
 
 ---
 
@@ -925,7 +925,7 @@ The wisdom and knowledge of the ages are humanity’s greatest treasure. Far mor
 
 #### **138. Measuring Progress**
 
-Progress is both an internal and external journey. [[Measuring Progress]] requires honesty, reflection, and alignment with the principles of life, the [[Way]], and [[The Goal]]. True progress transcends wealth, power, or production, manifesting instead through the flourishing of life, love, and unity among all beings. While a vast array of [[Quantitative]] measurements can be made of the [[Quality]] and [[Quantity]] of Life, Liberty, and Love We are co-creating, the true measurement of [[Progress]] is the [[Qualitative]] experience of [[Who We Are Becoming]] as We journey together towards [[The Goal]]. During the [[10 Year Grand Strategy]], progress is primarily made as We [[Pass The Flame]] and encourage other to awaken, exit [[The Caves]], and set their feet on [[The Path]] towards [[The Goal]]. [[Lionsberg Cycles of Growth]] and [[Lionsberg Cycle Time]] are starting points to measure Our collective movement [[FROM the Old TO the New]]. 
+Progress is both an internal and external journey. [[Measuring Progress]] requires honesty, reflection, and alignment with the principles of life, the [[Way]], and [[The Goal]]. True progress transcends wealth, power, or production, manifesting instead through the flourishing of life, love, and unity among all beings. While a vast array of [[Quantitative]] measurements can be made of the [[Quality]] and [[Quantity]] of Life, Liberty, and Love We are co-creating, the true measurement of [[Progress]] is the [[Qualitative]] experience of [[Who We Are Becoming]] as We journey together towards [[The Goal]]. During the [[10 Year Grand Strategy]], progress is primarily made as We [[Pass The Flame]] and encourage other to awaken, exit [[The Caves]], and set their feet on [[The Path]] towards [[The Goal]]. [[LIØNSBERG Cycles of Growth]] and [[LIØNSBERG Cycle Time]] are starting points to measure Our collective movement [[FROM the Old TO the New]]. 
 
 ---
 
@@ -967,59 +967,59 @@ Transformation is not an end—it is a beginning. The Sacred Flame is the eterna
 
 This is the dawn of a [[New Era]]—a civilization reborn from the ashes of the [[Old]], rising to fulfill its Divine purpose and [[Destiny]]. Together, We are awakening, preparing, uniting, acting, and becoming. Together, We are co-creating a world of harmony, justice, abundance, and love. Together, We are setting Our feet on [[The Path]] of an eternal Journey that continually begins aNew. [[The Sacred Flame]] grows ever brighter with each New soul We touch. This sacred flame is Ours to carry forward—to ignite hearts, inspire minds, and illuminate The Path for all rising generations. [[The Path]] before Us is both ancient and [[New]]. It is carved by the hands and feet of all who dare to dream, to rise, and to co-create. Together, We will weave a tapestry of light and love, a world worthy of its Divine Source and Destiny. This is Our sacred charge. Let Us begin. A [[New Civilization]] begins [[Now]]. 
 
-### **Call to Action: Unite, Co-Create, and Build the Future with Lionsberg**
+### **Call to Action: Unite, Co-Create, and Build the Future with LIØNSBERG**
 
-The world is at a crossroads, and every moment counts. Lionsberg is not just a system—it is a shared foundation, purpose-built to evolve into the **New Human Operating System**, capable of empowering humanity to refound its civilization and regenerate the Earth. Together, We are awakening to a new way of being, a way that honors truth, love, and unity. Together, We are building the **New Civilization**—and you are invited to co-create it with Us.
+The world is at a crossroads, and every moment counts. LIØNSBERG is not just a system—it is a shared foundation, purpose-built to evolve into the **New Human Operating System**, capable of empowering humanity to refound its civilization and regenerate the Earth. Together, We are awakening to a new way of being, a way that honors truth, love, and unity. Together, We are building the **New Civilization**—and you are invited to co-create it with Us.
 
-This is not a task for the distant future—it begins now, and it begins with you. The time has come to unite with Lionsberg, to help evolve the system, and to embody the **New Way of Being** that will serve as the foundation for a thriving, regenerative future.
+This is not a task for the distant future—it begins now, and it begins with you. The time has come to unite with LIØNSBERG, to help evolve the system, and to embody the **New Way of Being** that will serve as the foundation for a thriving, regenerative future.
 
 #### **The Five Steps to Take Right Now**
 
 1. **Awaken and Align**
     
     - Take the first step by awakening to who you truly are, the challenges We face, and the possibilities We can create together.
-    - Familiarize yourself with the **144 Threads** and the **Lionsberg System**, which serve as the blueprint for transformation and the foundation of a co-creative future.
+    - Familiarize yourself with the **144 Threads** and the **LIØNSBERG System**, which serve as the blueprint for transformation and the foundation of a co-creative future.
     - Embrace the mindset of continuous learning, growth, and alignment with **Universal Principles and Values**.
-2. **Join Lionsberg**
+2. **Join LIØNSBERG**
     
-    - Become part of the Lionsberg core network, where you’ll gain access to shared tools, resources, and opportunities to connect with like-minded pioneers.
-    - **Forge or Join a Team**—because none of Us can do this alone. Teams are at the heart of Lionsberg's ability to unite individual efforts into a powerful, collective force.
+    - Become part of the LIØNSBERG core network, where you’ll gain access to shared tools, resources, and opportunities to connect with like-minded pioneers.
+    - **Forge or Join a Team**—because none of Us can do this alone. Teams are at the heart of LIØNSBERG's ability to unite individual efforts into a powerful, collective force.
     - Participate in **Seasonal Quests**, where your contributions are aligned with global efforts to achieve measurable progress along the **Critical Path**.
-    - Help shape and improve the Lionsberg System through collaboration, innovation, and shared wisdom.
+    - Help shape and improve the LIØNSBERG System through collaboration, innovation, and shared wisdom.
 3. **Engage Locally**
     
-    - Start or join a Lionsberg group in your area and begin implementing **The Prototype**—a localized, scalable model for co-creating resilience and regeneration.
+    - Start or join a LIØNSBERG group in your area and begin implementing **The Prototype**—a localized, scalable model for co-creating resilience and regeneration.
     - Strengthen your local community by fostering relationships and building trust, especially in preparation for potential systemic disruptions.
     - Lead or contribute to initiatives that restore local resilience in areas like food, water, energy, and relationships, aligning with global priorities while meeting local needs.
 4. **Think Globally, Act Harmoniously**
     
-    - Share your successes, lessons, and stories with the broader Lionsberg network, inspiring and learning from others around the world.
+    - Share your successes, lessons, and stories with the broader LIØNSBERG network, inspiring and learning from others around the world.
     - Contribute your unique talents and knowledge to system-wide efforts that align local actions with the cosmic **Critical Path**.
-    - Act as an ambassador of Lionsberg's mission, helping others discover, engage with, and contribute to the co-creation of the **New Civilization**.
+    - Act as an ambassador of LIØNSBERG's mission, helping others discover, engage with, and contribute to the co-creation of the **New Civilization**.
 5. **Pass the Flame**
     
     - Mentor, inspire, and guide others to join this sacred mission, empowering the next wave of pioneers to step forward.
-    - Share your insights and experiences to continuously improve the Lionsberg System, strengthening the foundation of our shared future.
+    - Share your insights and experiences to continuously improve the LIØNSBERG System, strengthening the foundation of our shared future.
     - Help ensure the flame of awakening and transformation spreads across generations, illuminating the path for all who follow.
     - Remember: to secure this future, We must connect and empower **The First Three Percent** by 2026. Every action you take now is a step toward this vital goal.
 
 ---
 
-### **Why Lionsberg?**
+### **Why LIØNSBERG?**
 
-Lionsberg is more than a vision—it is an emergent, living, evolving system, designed to unite, guide, and empower humanity during the most critical moment in history. It is the connective tissue linking diverse efforts into a coherent whole, enabling humanity to transition **FROM the Old TO the New**.
+LIØNSBERG is more than a vision—it is an emergent, living, evolving system, designed to unite, guide, and empower humanity during the most critical moment in history. It is the connective tissue linking diverse efforts into a coherent whole, enabling humanity to transition **FROM the Old TO the New**.
 
-By joining Lionsberg, you are becoming part of a powerful movement to align individual, local, and global actions with the **Critical Path** toward regeneration, unity, and flourishing. Together, We are not just responding to crises; We are co-creating a future that reflects humanity’s highest potential and destiny.
+By joining LIØNSBERG, you are becoming part of a powerful movement to align individual, local, and global actions with the **Critical Path** toward regeneration, unity, and flourishing. Together, We are not just responding to crises; We are co-creating a future that reflects humanity’s highest potential and destiny.
 
-This is not the beginning of [[The Journey]]—it is [[The Final Test]] that lies at the end of lifetimes of preparation, learning, and effort. Now, it is time to act, to unite, and to build on the hard-earned wisdom and progress of those who have come before. Lionsberg is ready. You are ready. The question is: Will We rise together?
+This is not the beginning of [[The Journey]]—it is [[The Final Test]] that lies at the end of lifetimes of preparation, learning, and effort. Now, it is time to act, to unite, and to build on the hard-earned wisdom and progress of those who have come before. LIØNSBERG is ready. You are ready. The question is: Will We rise together?
 
 ---
 
 ### **What Happens Next?**
 
-- **Take the Five Steps**: Every moment matters. Begin today by awakening, joining Lionsberg, engaging locally, thinking globally, and passing the flame.
-- **Connect with Us**: Share who you are, where you are, what you have to offer, and what you need to thrive. Lionsberg exists to support and connect you with others on the same journey.
-- **Co-Create and Improve**: Your contributions—whether resources, insights, actions, or questions—help shape the Lionsberg System into a continuously evolving, regenerative framework for humanity and life to flourish in harmony.
+- **Take the Five Steps**: Every moment matters. Begin today by awakening, joining LIØNSBERG, engaging locally, thinking globally, and passing the flame.
+- **Connect with Us**: Share who you are, where you are, what you have to offer, and what you need to thrive. LIØNSBERG exists to support and connect you with others on the same journey.
+- **Co-Create and Improve**: Your contributions—whether resources, insights, actions, or questions—help shape the LIØNSBERG System into a continuously evolving, regenerative framework for humanity and life to flourish in harmony.
 - **Commit to the Journey**: This is not just a project; it is a lifelong process of transformation, unity, and co-creation. Together, We are building a [[New Way of Being]], refounding a [[New Civilization]], and Passing The Flame to the rising generations. 
 
 ---
@@ -1028,7 +1028,7 @@ This is not the beginning of [[The Journey]]—it is [[The Final Test]] that lie
 
 This is the moment that will define Our future—perhaps for millennia to come. [[The Path]] is before Us, but it is a path We must walk together. There is no time to delay.
 
-Getting started is easy: Join Lionsberg. Unite. Co-create the **New Civilization**. Pass the flame.
+Getting started is easy: Join LIØNSBERG. Unite. Co-create the **New Civilization**. Pass the flame.
 
 The future of humanity and Earth depends on what We do next. **Let Us begin.**
 

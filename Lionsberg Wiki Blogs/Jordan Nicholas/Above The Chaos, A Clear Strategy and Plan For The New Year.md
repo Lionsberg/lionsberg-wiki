@@ -43,14 +43,14 @@ Listen, serve, connect, celebrate, and empower.
 
 ___
 
-## Level 3: Lionsberg - Vision, Structure, Strategy, Systems, Plans, Action
+## Level 3: LIØNSBERG - Vision, Structure, Strategy, Systems, Plans, Action
 
 ### Context
 Everyone is a universal citizen. Everyone has work to do. That requires boundaries, systems, structures, energy, and power. The rational bounded side, in which creativity and play can safely manifest as we all help one another develop towards the fullness of our potential. 
 
 ### Strategy 
 
-Lionsberg is like a walled "City on a Hill" that operates on the new Operating System for humanity. A bounded place with resources, organization, citizenship, structure, in which life, society, and economy can flourish. It is a servant and enabler of all, whose job is to structurally  connect and empower universal citizens who agree to abide by the Lionsberg Code. 
+LIØNSBERG is like a walled "City on a Hill" that operates on the new Operating System for humanity. A bounded place with resources, organization, citizenship, structure, in which life, society, and economy can flourish. It is a servant and enabler of all, whose job is to structurally  connect and empower universal citizens who agree to abide by the LIØNSBERG Code. 
 
 1. Something for everyone 
 2. A point of entry for everyone  
@@ -97,10 +97,10 @@ ___
 ## The Observers, The Engaged, The Members, and The Citizens
 
 - The role of Untitled is to create observers and engage them  
-- The trick is to map the point at which someone who has engaged with Untitled in a more passive way... transitions to active engagement with Lionsberg  
-- Then to map the point at which someone who has actively engaged with Lionsberg and proven their commitment to the universal principles and values formally becomes a member 
+- The trick is to map the point at which someone who has engaged with Untitled in a more passive way... transitions to active engagement with LIØNSBERG  
+- Then to map the point at which someone who has actively engaged with LIØNSBERG and proven their commitment to the universal principles and values formally becomes a member 
 - Then to map the point at which a member becomes a citizen  
-- The walled city of Lionsberg must have many gates, depending on whether people have come from North, South, East, or West  
+- The walled city of LIØNSBERG must have many gates, depending on whether people have come from North, South, East, or West  
 - And a process for a nearly seamless transition from first seeing the movement / fireworks / lights from afar... to consciously engaging.... to adopting and advocating the New citizenship and operating system. 
 
 ## The Bell That Rings With Every New Citizen

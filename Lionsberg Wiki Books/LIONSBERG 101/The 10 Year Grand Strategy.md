@@ -17,7 +17,7 @@ This is not preparation. This IS the mission unfolding in real time.
 
 ## The Fibonacci Timeline
 
-The strategy unfolds along the [[Lionsberg Cycles of Growth]] — the Fibonacci sequence mapping the organic spread of the movement from [[ØNE]] to [[All]]. Like life itself, the new social superorganism unfurls along this sacred pattern — each cycle a growth ring on the tree emerging from [[The Golden Seed]].
+The strategy unfolds along the [[LIØNSBERG Cycles of Growth]] — the Fibonacci sequence mapping the organic spread of the movement from [[ØNE]] to [[All]]. Like life itself, the new social superorganism unfurls along this sacred pattern — each cycle a growth ring on the tree emerging from [[The Golden Seed]].
 
 ### The Preparation (2017-2024) — COMPLETE
 
@@ -126,7 +126,7 @@ Heaven On Earth becomes the operative reality for humanity. Not as metaphor. As 
 | The 3-Year Lag | 49 | — | 2030-2033 | 3 years |
 | The New Era Begins | 50 | — | Winter Solstice 2033 | — |
 
-See [[Lionsberg Cycles of Growth]] for the complete Fibonacci progression from Source to Cycle 50.
+See [[LIØNSBERG Cycles of Growth]] for the complete Fibonacci progression from Source to Cycle 50.
 
 ---
 

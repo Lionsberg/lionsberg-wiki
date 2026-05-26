@@ -1,10 +1,10 @@
-# Above The Chaos, The Lionsberg Alliance 
+# Above The Chaos, The LIØNSBERG Alliance 
 
 By [[Jordan Nicholas Sukut]], 2024.04.26 _(updated 2024.04.26)_
 
 A post in [[Above The Chaos]]  
 
-[[The LIØNSBERG Strategy and Plan]] makes reference to [[The Lionsberg Alliance]]. 
+[[The LIØNSBERG Strategy and Plan]] makes reference to [[The LIØNSBERG Alliance]]. 
 
 Recognizing that All Creation is [[ØNE Body]], it is self-evident that [[All Humanity]] is designed to co-operate as [[One Family]]. 
 
@@ -18,15 +18,15 @@ This configuration is highly inefficient, as well as ultimately suicidal and eco
 
 As an alternative to the eventual suffering and death of 2/3 to 3/4 of the human population under this arrangement as more and more powerful tools and technologies are weaponized against [[One Another]] and our Planet, we are proposing a [[New Alliance]] and a [[New Covenant]] as part of the [[10 Year Grand Strategy]]. 
 
-[[The Lionsberg Alliance]] would be enacted simultaneously and voluntarily from the [[Bottom Up]]. 
+[[The LIØNSBERG Alliance]] would be enacted simultaneously and voluntarily from the [[Bottom Up]]. 
 
 Universal ceasefire and security guarantees, coupled with referenda and reorganization as required to ensure that every tribe, tongue, and people has a free, secure, and self-sovereign place to call home, would enable the resolution of simmering geopolitical and ideological conflicts, and the [[Progressive Disarmament]] / transformation [[FROM Weaponry TO Livingry]] proposed in [[The LIØNSBERG Strategy and Plan]]. 
 
-[[The Lionsberg Alliance]] is being forged from the [[Bottom Up]] as Citizens around the world, of their free will and volition, voluntarily arise, unite, and [[Join The Movement]]. When critical masses in any tribe or nation are reached, the people of that Time and Place can voluntarily, if they so choose, exercise the levers of local [[Self Governance]] to formally federate their existing localities and institutions into [[The Alliance]], thereby obtaining the social, security, economic, and governance commitments of [[The Allies]]. 
+[[The LIØNSBERG Alliance]] is being forged from the [[Bottom Up]] as Citizens around the world, of their free will and volition, voluntarily arise, unite, and [[Join The Movement]]. When critical masses in any tribe or nation are reached, the people of that Time and Place can voluntarily, if they so choose, exercise the levers of local [[Self Governance]] to formally federate their existing localities and institutions into [[The Alliance]], thereby obtaining the social, security, economic, and governance commitments of [[The Allies]]. 
 
 These universal security guarantees among members of [[The Alliance]] will further pave the way for [[Peacemaking]] missions in any domains that voluntarily request such support, to deal with any requisite liberation from [[Chaos]], [[Tyranny]], or [[Oppression]] and reestablish [[Proper Order]]. 
 
-After establishing [[Peace]] in any domain, [[The Lionsberg Alliance]] will then be able to serve and empower the locality in its localization and adaptation of [[The LIØNSBERG Strategy and Plan]] to address the root causes of [[Chaos]], Conflict, Division, Poverty, Hopelessness, or Fear, and pave the [[Way]] towards a flourishing and abundant future. 
+After establishing [[Peace]] in any domain, [[The LIØNSBERG Alliance]] will then be able to serve and empower the locality in its localization and adaptation of [[The LIØNSBERG Strategy and Plan]] to address the root causes of [[Chaos]], Conflict, Division, Poverty, Hopelessness, or Fear, and pave the [[Way]] towards a flourishing and abundant future. 
 
 This would include training and developing local leaders as part of [[The First Three Percent]], alongside development financing for the [[Community Hubs]] and [[Local Hubs]] that would in turn engage the rest of the local individuals and families in the Quest to help one another meet the needs, solve the problems, and accomplish the goals that enable all beings to develop towards the fullness of potential and flourish in harmony. 
 

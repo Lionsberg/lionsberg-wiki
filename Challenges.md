@@ -4,4 +4,4 @@ In the context of the [[LIØNSBERG System]], "Challenges" refer to the obstacles
 
 Challenges serve as catalysts for growth, transformation, and innovation, pushing us to develop new skills, solutions, and perspectives in order to overcome them. By forthrightly acknowledging and embracing the challenges we face, we can forge a more resilient, adaptive, and purposeful community that is capable of navigating the complex and ever-changing landscape of the world.
 
-Facing and overcoming challenges is an integral part of the Lionsberg System, as it encourages us to continuously learn, evolve, and strive for a better future. By working together and pooling our collective knowledge, resources, and efforts, we can tackle these challenges and create a brighter, more sustainable, and just world for all.
+Facing and overcoming challenges is an integral part of the LIØNSBERG System, as it encourages us to continuously learn, evolve, and strive for a better future. By working together and pooling our collective knowledge, resources, and efforts, we can tackle these challenges and create a brighter, more sustainable, and just world for all.

@@ -12,7 +12,7 @@
 - Any other significant issues to add for this week or next week? 
 
 ## Aligning on M&A
-- Review of Lionsberg Structure
+- Review of LIØNSBERG Structure
 - Generational Transfer of Assets 
 - For Profit organizations
 - Non Profits organizations and networks 
@@ -21,7 +21,7 @@
 - Funds for SDGs 
 - Contests for SDGs 
 - Partnership with UN 
-- Likely using Lionsberg / Open Impact tech stack to administer... and creating the budgets to advance infrastructure as a % of flows 
+- Likely using LIØNSBERG / Open Impact tech stack to administer... and creating the budgets to advance infrastructure as a % of flows 
 - Issues
     - How many projects can a person run? 
     - How to align focus areas well, build organiation around each of them. 
@@ -100,10 +100,10 @@
     - If you have a micro goal... and someone proposes a credit union... 
     - if you have a micro goal... and someone proposes Just Works. www.justworks.com 
     - they look super attractive. 
-    - Lionsberg gives the sense... that we are creating a structure where... 
+    - LIØNSBERG gives the sense... that we are creating a structure where... 
         - if teh highest and greatest goal we are seeking... 
         - If the meta project is the end to that goal....
-        - Lionsberg is creating a model to empower everyone engaged... the sturucture that supports everyone in getting to that goal. 
+        - LIØNSBERG is creating a model to empower everyone engaged... the sturucture that supports everyone in getting to that goal. 
 - Personal develpment / organizational / community transformation... 
     - supportive... 
 - What's In, and What's Out

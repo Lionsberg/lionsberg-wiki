@@ -6,7 +6,7 @@ Phrases like "Group of Groups", [[Team of Teams]], or "[[Community of Communitie
 
 ____
 
-The Logic of Lionsberg is based on connecting and empowering a distributed network / confederation of [[Sovereign]] and [[Autonomous]] [[Groups]] into a universal [[Group Of Groups]] helping one another advance towards [[The Goal]]. 
+The Logic of LIØNSBERG is based on connecting and empowering a distributed network / confederation of [[Sovereign]] and [[Autonomous]] [[Groups]] into a universal [[Group Of Groups]] helping one another advance towards [[The Goal]]. 
 
 [[Team of Teams]]  
 [[Group Of Groups]]  

@@ -14,4 +14,4 @@ ___
 Forward to: [[Scene 16 - A New Light Illuminates The Old World]]  
 Back to: [[Scene 14 - Speaking The Impossible]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

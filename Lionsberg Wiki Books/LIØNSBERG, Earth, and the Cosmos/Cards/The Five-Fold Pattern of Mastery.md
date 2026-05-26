@@ -30,7 +30,7 @@ The Pattern can be diagnostic. When a Sovereign's practice has stalled, the ques
 
 The Pattern is also **what makes the Way scalable**. Old World pedagogy assumed each domain (martial arts, emotional regulation, governance, healing, agriculture) required its own unique training architecture. The Way reveals that **all of these obey the same five-fold cycle**. A Sovereign who has learned the cycle in one domain has gained capacity that transfers to every other domain. The Sirimiri-formed [[The Pedagogy of Trust and Sirimiri|Sovereign]] does not need to learn a different operating system for each new field — only to apply the same cycle to new content.
 
-This is why [[The Lionsberg Academy]] does not split into disciplinary silos. The Academy's curriculum is the **cycle itself**, applied across the domains in sequence. The Sovereign graduating with mastery of the cycle can pick up any new domain in a fraction of the time the Old World required, because the operating system transfers.
+This is why [[The LIØNSBERG Academy]] does not split into disciplinary silos. The Academy's curriculum is the **cycle itself**, applied across the domains in sequence. The Sovereign graduating with mastery of the cycle can pick up any new domain in a fraction of the time the Old World required, because the operating system transfers.
 
 The Pattern names itself five-fold. The five is canonical, inherited from the source teaching — not imposed. (The same Pattern in some traditions appears as four-fold, six-fold, or seven-fold; the LIØNSBERG synthesis settles on five as the most operationally clear articulation.)
 

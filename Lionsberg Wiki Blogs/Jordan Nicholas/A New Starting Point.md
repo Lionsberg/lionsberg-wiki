@@ -1,11 +1,11 @@
 # A New Starting Point
 ### **1. The Starting Point: The Invitation and Vision**
 
-This is where the reader is introduced to the purpose, urgency, and transformative potential of the Lionsberg Operating System.  
+This is where the reader is introduced to the purpose, urgency, and transformative potential of the LIØNSBERG Operating System.  
 
 - **Pages to Create**:
     
-    - [[What Is Lionsberg?]]  
+    - [[What Is LIØNSBERG?]]  
     - [[The Invitation - Co-Creating Heaven on Earth]]  
     - [[Why Now? The Final Test and Humanity's Greatest Opportunity]]
     - [[The Goal - Flourishing for All Beings, in Harmony with One, One Another, and All]]  
@@ -13,18 +13,18 @@ This is where the reader is introduced to the purpose, urgency, and transformati
     
 - **Purpose**:
     
-    - Clarify the mission, urgency, and why the Lionsberg System is necessary.
+    - Clarify the mission, urgency, and why the LIØNSBERG System is necessary.
     - Provide a simple on-ramp for readers to understand their role in this journey.
 
 ---
 
 ### **2. The Framework: Introducing the Operating System**
 
-Explain the overarching structure of the Lionsberg Operating System, its principles, and how it works.  
+Explain the overarching structure of the LIØNSBERG Operating System, its principles, and how it works.  
 
 - **Pages to Create**:
     
-    - [[The Lionsberg Operating System: Overview]]
+    - [[The LIØNSBERG Operating System: Overview]]
     - [[The LIØNSBERG Pattern Language]]
     - [[The Way of Being: Living in Harmony with the Pattern]]
     - [[Seasonal Quests: Aligning Action with The Goal]]
@@ -38,12 +38,12 @@ Explain the overarching structure of the Lionsberg Operating System, its princip
 
 ### **3. The Foundation: Principles and Values**
 
-Lay out the self-evident principles that anchor the Lionsberg system, and the values that shape its actions.  
+Lay out the self-evident principles that anchor the LIØNSBERG system, and the values that shape its actions.  
 
 - **Pages to Create**:
     
     - [[Principles of the New Pattern Language]]
-    - [[The Values of Lionsberg]]
+    - [[The Values of LIØNSBERG]]
     - [[What Is the Tao? The Blueprint for All Things]]
     - [[The Reciprocity of All Life: Helping All Things Rise]]
     - [[Unity in Diversity: Honoring Local and Global Needs]]
@@ -56,7 +56,7 @@ Lay out the self-evident principles that anchor the Lionsberg system, and the va
 
 ### **4. The Core Components: Building the System**
 
-Define the key structural and functional components of the Lionsberg Operating System.  
+Define the key structural and functional components of the LIØNSBERG Operating System.  
 
 - **Pages to Create**:
     
@@ -78,7 +78,7 @@ Provide accessible guidance for individuals and communities to engage with the s
 
 - **Pages to Create**:
     
-    - [[How to Join Lionsberg: A Guide for Individuals]]
+    - [[How to Join LIØNSBERG: A Guide for Individuals]]
     - [[Establishing a Local Hub: Building a Node in the Network]]
     - [[Living the Pattern: Daily Practices for Alignment]]
     - [[Engaging in Seasonal Quests: Your Role in the Critical Path]]
@@ -110,7 +110,7 @@ Articulate the spiritual and philosophical practices that align individuals with
 
 ### **7. Advanced Concepts: Scaling and Sustaining**
 
-Dive into the higher-level considerations for scaling and sustaining the Lionsberg Operating System.  
+Dive into the higher-level considerations for scaling and sustaining the LIØNSBERG Operating System.  
 
 - **Pages to Create**:
     
@@ -128,11 +128,11 @@ Dive into the higher-level considerations for scaling and sustaining the Lionsbe
 
 ### **8. Collective Intelligence: The Role of Knowledge**
 
-Integrate the shared knowledge, wisdom, and technologies that will empower Lionsberg to succeed.  
+Integrate the shared knowledge, wisdom, and technologies that will empower LIØNSBERG to succeed.  
 
 - **Pages to Create**:
     
-    - [[The Library of Lionsberg: A Repository of Wisdom]]
+    - [[The Library of LIØNSBERG: A Repository of Wisdom]]
     - [[The Role of Technology in Co-Creation]]
     - [[Collective Intelligence: Tapping Into Humanity’s Genius]]
     - [[Sacred Knowledge: Honoring Ancient and Modern Wisdom]]
@@ -146,7 +146,7 @@ Integrate the shared knowledge, wisdom, and technologies that will empower Lions
 
 ### **9. Global Alignment: Addressing the Larger Context**
 
-Provide insights into how Lionsberg interacts with the broader global context, including extraterrestrial and interdimensional considerations.  
+Provide insights into how LIØNSBERG interacts with the broader global context, including extraterrestrial and interdimensional considerations.  
 
 - **Pages to Create**:
     
@@ -170,7 +170,7 @@ Provide narratives, case studies, and examples of success to inspire and motivat
     
     - [[Testimonies of the First Three Percent]]
     - [[Case Studies: Successful Seasonal Quests]]
-    - [[The Stories of Lionsberg: Building a Flourishing World]]
+    - [[The Stories of LIØNSBERG: Building a Flourishing World]]
     - [[Narrative Coherence: How Stories Shape Reality]]
     - [[The Power of One: Individuals Changing the World]]
 - **Purpose**:

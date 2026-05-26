@@ -26,4 +26,4 @@ ___
 Forward to [[Chapter 15 - Immediate Next Steps]]  
 Back to [[Chapter 14 - Co-Creating the Conditions for a New Era]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

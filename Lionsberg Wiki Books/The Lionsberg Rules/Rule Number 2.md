@@ -1,5 +1,5 @@
 # Rule Number 2
-*From [[The Lionsberg Rules]]*  
+*From [[The LIØNSBERG Rules]]*  
 
 *Do [[The Wise Right Thing]]  
 at [[The Wise Right Time]]  

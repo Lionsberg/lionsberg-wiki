@@ -516,7 +516,7 @@ And streamed to the Sacred Gates of LIØNSBERG
 ## TKTK LEFT OFF HERE
 
 
-Lionsberg is probably attacked  
+LIØNSBERG is probably attacked  
 
 Gate 88 or 144 (final gate) Might Be Crossing The Boundary Into the Unknown  
 And beginning The Great Game  

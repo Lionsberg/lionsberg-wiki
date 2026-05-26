@@ -92,4 +92,4 @@ With Love, In Community,
 
 ~ J 
 
-Return to [[Lionsberg Orientation and Training System]]  
+Return to [[LIØNSBERG Orientation and Training System]]  

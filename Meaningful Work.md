@@ -31,7 +31,7 @@ ___
 In LIØNSBERG, Meaningful Work is the basis of the internal economy:
 
 - **[[Time Currency]]**: Each unit of Meaningful Work performed = one unit of value. The basic measure is time invested in work that the Circle validates as meaningful
-- **[[Lionsberg Units of Value]] (LUV)**: A broader currency of goodwill that circulates within the system
+- **[[LIØNSBERG Units of Value]] (LUV)**: A broader currency of goodwill that circulates within the system
 - **Validation**: Your Circle confirms that the work was done and that it advances [[Meta Goal|The Meta Goal]]. This is peer validation, not bureaucratic approval
 
 The faster value circulates within the system, the faster All rise together. Value leaving the system (exchanged for fiat currency) is energy dissipating into the Old World.

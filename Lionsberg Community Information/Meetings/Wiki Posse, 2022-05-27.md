@@ -1,4 +1,4 @@
-# Wiki Posse - Lionsberg/Meta Project, 2022-05-27
+# Wiki Posse - LIØNSBERG/Meta Project, 2022-05-27
 
 ## Topics
 

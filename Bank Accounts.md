@@ -4,9 +4,9 @@ We recommend that a separate bank account be established for each emerging entit
 
 ## Phase I
 
-Emergent groups can use Lionsberg's bank accounts by setting up a fiscal sponsorship agreement. Lionsberg will release funds on the basis of milestones associated with grant requests. 
+Emergent groups can use LIØNSBERG's bank accounts by setting up a fiscal sponsorship agreement. LIØNSBERG will release funds on the basis of milestones associated with grant requests. 
 
-In a fiscal sponsorship, if a group is not setting up a separate bank account, each person sets up a fiscal sponsorship with Lionsberg, each person acts independently, and voluntarily coordinates their activities. 
+In a fiscal sponsorship, if a group is not setting up a separate bank account, each person sets up a fiscal sponsorship with LIØNSBERG, each person acts independently, and voluntarily coordinates their activities. 
 
 ## Phase II
 

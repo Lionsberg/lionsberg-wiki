@@ -169,7 +169,7 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Aim**: The cosmic flowering. Trillions of galaxies. Stars igniting. Worlds forming. Life arising.
 
-**Source**: Current Epoch IV; The One Book; The Book of Lionsberg 6.4 The Song Of Creation.
+**Source**: Current Epoch IV; The One Book; The Book of LIØNSBERG 6.4 The Song Of Creation.
 
 **Voice exemplars**:
 - _"Preexisting in the formless and infinite darkness, in a moment creative Energy coalesces and explodes with unimaginable force from its Source... the Anti-Entropic Force is set into motion, the formless begins to coalesce into Form, Chaos begins to ascend into Order."_
@@ -210,7 +210,7 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Aim**: As consciousness and freedom deepened, memory thinned. Some beings forgot the Whole.
 
-**Source**: Current Epoch VI; The One Book §2 (Fracture and Forgetting); The Book of Lionsberg.
+**Source**: Current Epoch VI; The One Book §2 (Fracture and Forgetting); The Book of LIØNSBERG.
 
 **Voice exemplars**:
 - _"Dissonance is not destruction; it is potential waiting to be resolved. This is the paradox of the Divine Symphony: in the Freedom of its necessary Fracturing lies the seed and potential of its greatest Symphonic Harmony."_
@@ -221,7 +221,7 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Aim**: The unveiling of how empire arose. Sky Council, Watchers' Fall, Anunnaki, Nephilim, genetic intervention. The 2,500-year Withdrawal. The cosmic depth of Kontrolle.
 
-**Source**: UnVeiling The Sacred Texts; Aliens / Beyond Earth; The Greatest Fraud; Book of Lionsberg Chapter 8.
+**Source**: UnVeiling The Sacred Texts; Aliens / Beyond Earth; The Greatest Fraud; Book of LIØNSBERG Chapter 8.
 
 **Voice exemplars**:
 - _"The simple word Elohim may be the most important word in human history, and the key to The Greatest Fraud, Deception, and Existential Threat in History."_
@@ -242,10 +242,10 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Aim**: Pain became signal. Shock shattered complacency. Across realms, beings awakened.
 
-**Source**: Current Epoch IX; The One Book Call to Remember; MindWeaving fragments; The Book of Lionsberg Chapter 1 (Wake Up).
+**Source**: Current Epoch IX; The One Book Call to Remember; MindWeaving fragments; The Book of LIØNSBERG Chapter 1 (Wake Up).
 
 **Voice exemplars**:
-- _"Wake up! It is not real. You have been dreaming. You have been asleep for a very long time... Awaken and grab the helm! Arise, and remember who you are!"_ (Book of Lionsberg 1.4)
+- _"Wake up! It is not real. You have been dreaming. You have been asleep for a very long time... Awaken and grab the helm! Arise, and remember who you are!"_ (Book of LIØNSBERG 1.4)
 - _"The Call to ReMember is not imposed; it is offered. It is an invitation, a beckoning... To remember is to Re-Member — to rejoin the Body of the One."_
 
 **Images**: pain as signal; the Spirit's roar in the whisper; chains ripping free; the great awakening of consciousness across realms.
@@ -265,12 +265,12 @@ The working architecture is ~26 cantos at the Hundred-Pages ring, nested within 
 
 **Aim**: Name the dimensions of the contest. The multidimensional war. The forces. The choice that touches every being.
 
-**Source**: The Great UnVeiling Section IV (Final Captivity), Aliens / Beyond Earth, The Greatest Fraud, Book of Lionsberg Chapter 12 (Anti-Quest).
+**Source**: The Great UnVeiling Section IV (Final Captivity), Aliens / Beyond Earth, The Greatest Fraud, Book of LIØNSBERG Chapter 12 (Anti-Quest).
 
 **Voice exemplars**:
 - _"It was The First Rebellion — not against tyranny, but against Love... A war of paradigms. A war of allegiance. A war over the nature of the Good, the essence of Power, and the meaning of Freedom."_ (Great UnVeiling)
-- _"The spirit that animates the Meta Villain also animates a host of others... It is the totality of all things that are animated by the spirit of anti-goodness that are the ultimate force of Darkness that must be dealt with."_ (Book of Lionsberg 12.13)
-- _"That is why it imprisons. That is why it tortures. That is why it silences. That is why it shames. That is why it brutalizes."_ (Book of Lionsberg 12.1)
+- _"The spirit that animates the Meta Villain also animates a host of others... It is the totality of all things that are animated by the spirit of anti-goodness that are the ultimate force of Darkness that must be dealt with."_ (Book of LIØNSBERG 12.13)
+- _"That is why it imprisons. That is why it tortures. That is why it silences. That is why it shames. That is why it brutalizes."_ (Book of LIØNSBERG 12.1)
 
 **Images**: the three-layered adversary; the Kontrolle Matrix; the Final Order assembling; the Beast System; the war across physical / metaphysical / dimensional planes; the false-flag staging; the spirit of anti-goodness that animates the whole.
 

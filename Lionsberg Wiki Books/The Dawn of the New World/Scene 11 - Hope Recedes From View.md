@@ -12,4 +12,4 @@ ___
 Forward to: [[Scene 12 - Xion's Awakening]]   
 Back to: [[Scene 10 - The Seeds of the Resistance]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

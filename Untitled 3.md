@@ -284,7 +284,7 @@ The irreducible foundation upon which everything else rests. Enactable at any te
 
 Compatible patterns exist across many traditions — Mondragon, indigenous governance, commons-based resource management. The question is not which articulation is "right" but how they inform and strengthen each other.
 
-The **LIØNSBERG Pattern Language** (lionsberg.wiki) is a reasonably comprehensive attempt to distill the essence of the divine blueprints into something immediately localizable and adaptable — ~3 million words across 4,400+ pages, plus a one-page Golden Seed distillation. 12 Elements of Cooperation, 7 Moves to the Game, the Story, the Lexicon, the Circle Guide, the Playbook, the Program Delivery Guide. Freely available and forkable online.
+The **LIØNSBERG Pattern Language** (LIØNSBERG.wiki) is a reasonably comprehensive attempt to distill the essence of the divine blueprints into something immediately localizable and adaptable — ~3 million words across 4,400+ pages, plus a one-page Golden Seed distillation. 12 Elements of Cooperation, 7 Moves to the Game, the Story, the Lexicon, the Circle Guide, the Playbook, the Program Delivery Guide. Freely available and forkable online.
 
 A 12-week "101 Course" structuring onboarding into the Pattern Language and the Game launches March 21. Designed so that anyone completing it can form a Circle, choose a Quest, and pass the flame.
 

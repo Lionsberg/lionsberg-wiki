@@ -32,12 +32,12 @@ Every Pattern lives in **one** canonical place; every Play arranges them.
 
 ```
 Pattern Language (Vol V Part) — Architecturally Primary
-   Patterns live at: LIØNSBERG Wiki Books/The Lionsberg Pattern Language/Patterns/
+   Patterns live at: LIØNSBERG Wiki Books/The LIØNSBERG Pattern Language/Patterns/
    Each Pattern Card: name-based filename — Form A Circle.md, Spirit Precedes Pattern.md
    Wisdom articulated ONCE per Pattern Card
 
 Playbook (Vol IV) — The Field Music-Book
-   Plays live at: LIØNSBERG Wiki Books/The Lionsberg Playbook/Plays/
+   Plays live at: LIØNSBERG Wiki Books/The LIØNSBERG Playbook/Plays/
    Each Play: "Play — Title.md" filename — Play — Create Or Join A Circle.md, Play — Run A Meeting.md
    Play composes Patterns for a specific operational need
 ```

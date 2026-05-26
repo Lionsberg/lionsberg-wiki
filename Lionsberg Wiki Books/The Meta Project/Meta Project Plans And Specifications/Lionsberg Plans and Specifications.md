@@ -1,10 +1,10 @@
-# Lionsberg Plans and Specifications
+# LIØNSBERG Plans and Specifications
 
-The [[Lionsberg Wiki Books]] and the [[LIØNSBERG Wiki]] as a whole provide a detailed conceptual overview of the [[LIØNSBERG System]] and the [[New World]] it aims to bring into Reality. 
+The [[LIØNSBERG Wiki Books]] and the [[LIØNSBERG Wiki]] as a whole provide a detailed conceptual overview of the [[LIØNSBERG System]] and the [[New World]] it aims to bring into Reality. 
 
 Because humanity has not yet Embodied this kind of [[Higher Order Functional Unity]], our shared Quest is an ongoing act of Co-Creation, and will remain so throughout the [[New Millennium]] and Eternally Beyond. 
 
-The Lionsberg System is purpose-built to [[Progressively Realize]] and "pull" the [[Creator's Intent]] into Reality by connecting, equipping, and empowering [[Individuals]], [[Groups]], and [[Localities]] to do so together while [[Passing The Flame]] to [[The Rising Generations]]. 
+The LIØNSBERG System is purpose-built to [[Progressively Realize]] and "pull" the [[Creator's Intent]] into Reality by connecting, equipping, and empowering [[Individuals]], [[Groups]], and [[Localities]] to do so together while [[Passing The Flame]] to [[The Rising Generations]]. 
 
 Part of this effort requires the [[Progressive Articulation]] and [[Continuous Improvement]] of more detailed Plans and Specifications as We discover and Co-Create the [[Pattern Language]] of the [[New World]].
 
@@ -12,17 +12,17 @@ We intend to do that here.
 
 Recognizing that [[We Do Not Know]] precisely the optimal Way to Collaborate as One, [[The 7 Year Window of Preparatory Work and Learning]] aimed to co-create [[The Conditions]] and build the core systems and infrastructure to enable [[The Body]] to emerge, self-organize, and Co-Create ItSelf during the [[10 Year Grand Strategy]]. 
 
-The Emergence began March 1, 2024, and is being monitored via the [[Lionsberg Cycles of Growth]]. 
+The Emergence began March 1, 2024, and is being monitored via the [[LIØNSBERG Cycles of Growth]]. 
 
 _____
 ## A Humble Attempt to Ever More Faithfully Reflect the Divine Ideal
 ### The Divine Blueprints 
 
-That which We call Lionsberg is *only* an attempt to represent the Ultimately Ineffable Creator's Intent and corresponding Divine Blueprints for how the Universe, and Earth as one [[Domain]] therein, is intended to function. 
+That which We call LIØNSBERG is *only* an attempt to represent the Ultimately Ineffable Creator's Intent and corresponding Divine Blueprints for how the Universe, and Earth as one [[Domain]] therein, is intended to function. 
 
 ### Progressive Articulation and Continuous Improvement
 
-The Lionsberg Blueprints, and the Lionsberg System purpose-built to *pull* them into [[Reality]], are being incarnated through a process of [[Progressive Articulation]],  [[Progressive Realization]], and [[Continuous Improvement]]. 
+The LIØNSBERG Blueprints, and the LIØNSBERG System purpose-built to *pull* them into [[Reality]], are being incarnated through a process of [[Progressive Articulation]],  [[Progressive Realization]], and [[Continuous Improvement]]. 
 
 Like a set of [[Plans and Specifications]] on a design-build project, they should continually be improved to reflect the [[Creator's Intent]] more clearly throughout the course of the [[Meta Project]] in response to the questions, needs, and ideas of the Co-Creators, and continuously updated until the Project is complete, at which time they will represent the [[As Built]] state. 
 
@@ -65,12 +65,12 @@ Scope - Phase I: Worksite Earth. Phase II: Universal and Eternal
 Guiding principles rooted in [[Truth]], [[Love]], [[Justice]], [[Stewardship]] and [[Wisdom]], aligning with universal and eternal values.
 
 More fully reflected in the [[The LIØNSBERG System of Values]].  
-### 1.3 Introduction - The Lionsberg Wiki Books 
+### 1.3 Introduction - The LIØNSBERG Wiki Books 
 
-The Lionsberg Meta Project and the Context into which it was incarnated has been articulated in numerous [[Lionsberg Wiki Books]], such as: 
+The LIØNSBERG Meta Project and the Context into which it was incarnated has been articulated in numerous [[LIØNSBERG Wiki Books]], such as: 
 
 1. [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]]  
-2. [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+2. [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]]  
 3. [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 4. [[Most People Have No Idea What Is Coming]]  
 
@@ -78,7 +78,7 @@ In summary, the Purpose of the [[Meta Project]] is to [[Progressively Realize]] 
 
 In the face of the [[Meta Crisis]], it aims to accomplish [[The Transformation]] from [[What Is]] to [[What Should Be]] and the Regeneration of Earth within a single generation, targeting a [[10 Year Grand Strategy]] followed by a [[20 Year Generational Contingency]]. 
 
-### 1.4 Definitions and Terms - The Lionsberg Lexicon 
+### 1.4 Definitions and Terms - The LIØNSBERG Lexicon 
 
 To facilitate clarity and universal understanding, key [[Word Tools]] / Terms should be defined and [[Progressively Articulated]] via [[The LIØNSBERG Lexicon|the Lexicon]]. 
 
@@ -130,7 +130,7 @@ Administrative and procedural requirements for the Project
 
 #### Transparency and Accountability  
 
-#### The Lionsberg System 
+#### The LIØNSBERG System 
 
 ## 2. **Special Conditions**
 

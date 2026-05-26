@@ -118,7 +118,7 @@ Time is short, but it is not too late. Together, We can rise to meet the challen
 
 At such a crucial juncture, each and every individual and locality has a role to play and something to contribute. 
 
-There are thousands of wonderful people around the world who recognize these issues and are working towards these ends. Among those, I humbly offer all of myself in service to you and your loved ones. Over the next 24 months, I am going to do my best to build a movement upon the Vision, Values, and Infrastructure forged over the last 7 years, *Powered by Lionsberg.* **But We cannot do this alone.** 
+There are thousands of wonderful people around the world who recognize these issues and are working towards these ends. Among those, I humbly offer all of myself in service to you and your loved ones. Over the next 24 months, I am going to do my best to build a movement upon the Vision, Values, and Infrastructure forged over the last 7 years, *Powered by LIØNSBERG.* **But We cannot do this alone.** 
 
 If you would like to collaborate or have any wisdom, resources, or relationships to contribute, please [Respond Here](X). No later than the end of January, I will schedule a meeting to kick off [[2025 - Season 1 - Rising From The Ashes]], and communicate next steps based on the resources and relationships in play.
 

@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, movement-building, catalysis, foundational]
-source: Phase 2.1 audit of The Lionsberg Guide To Movement Building
+source: Phase 2.1 audit of The LIØNSBERG Guide To Movement Building
 captured: 2026-05-19
 ---
 
@@ -32,7 +32,7 @@ But within LIØNSBERG, many **sub-Arcs** are operating at different phases:
 
 - The Issue of [[The Lahaina Principle|institutional warning-failure]] is becoming a Cause as more Sovereigns recognize the pattern.
 - The Cause of [[Hospicing the Old Systems|Old World hospicing]] is becoming Inspiration as the vision of dignified release becomes operational.
-- The Inspiration of [[The Lionsberg Academy|Sirimiri formation pedagogy]] is becoming a Movement as Academy Cells form.
+- The Inspiration of [[The LIØNSBERG Academy|Sirimiri formation pedagogy]] is becoming a Movement as Academy Cells form.
 - The Movement of [[Sacred Economics|Sacred Economics]] is now in active sustainability work.
 
 Each Sovereign, each Circle, each Hub can locate themselves in the Arc with precision. _"We are at the Cause-to-Inspiration transition. We have community. We need to articulate the vision more clearly. That is this season's work."_

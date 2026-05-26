@@ -161,7 +161,7 @@ This requires:
 - **A fractally scaling individual to cosmic process for [[SenseMaking]] and [[Decision Making]]**  
 - **A new system of planetary and cosmic security that is governed by wisdom and Unity, not factions and force**
 
-The **Lionsberg Intelligence & Knowledge Systems** must be **established immediately**, ensuring:
+The **LIØNSBERG Intelligence & Knowledge Systems** must be **established immediately**, ensuring:
 
 1. **Truth is preserved and protected**  
 2. **Defense is secured against infiltration and deception**  

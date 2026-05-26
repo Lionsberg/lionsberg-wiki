@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [strategy, theory-of-change, ending, operational]
-source: Phase 2.1 audit of The Theses of Lionsberg
+source: Phase 2.1 audit of The Theses of LIØNSBERG
 captured: 2026-05-18
 ---
 

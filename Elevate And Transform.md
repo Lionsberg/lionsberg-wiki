@@ -2,7 +2,7 @@
 
 In the context of the [[LIØNSBERG System]], "Elevate And Transform" is a guiding principle that encourages individuals and groups to actively work together towards the [[Betterment]] of their [[Selves]], their [[Communities]], and [[Society]] and the [[Living System]] as a Whole. This principle encompasses the triune objectives of personal transformation, societal transformation, and ecological regeneration, acknowledging that each are essential to achieving the [[New World]] envisioned by the [[LIØNSBERG Manifesto]] and the [[New Vision and Plan]].
 
-To "Elevate And Transform," [[Co-Creators]] in the Lionsberg System are encouraged to:
+To "Elevate And Transform," [[Co-Creators]] in the LIØNSBERG System are encouraged to:
 
 1.  Pursue personal growth, learning, and development in order to become more effective [[Conscious Agents]] of change and better serve the collective mission.
 2.  Engage in [[Continuous Learning And Improvement]], refining and evolving their practices, strategies, and approaches in response to new insights, experiences, and feedback.

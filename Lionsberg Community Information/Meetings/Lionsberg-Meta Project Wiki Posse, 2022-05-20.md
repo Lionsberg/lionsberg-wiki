@@ -1,4 +1,4 @@
-# Lionsberg-Meta Project Wiki Posse, 2022-05-20
+# LIØNSBERG-Meta Project Wiki Posse, 2022-05-20
 
 ## History
 - Jordan and Pete have done a bunch of work to go through why Wiki, why Massive Wiki, why tools...
@@ -12,7 +12,7 @@
 
 ## Primary Goals (for this meeting)
 
-- 1. Have a Wiki: Start a Lionsberg | Meta Project wiki website with a primary goal to gather a set of documents / “The Way” / the plans and specifications with the hope that it would help provide context and clarity for everyone.
+- 1. Have a Wiki: Start a LIØNSBERG | Meta Project wiki website with a primary goal to gather a set of documents / “The Way” / the plans and specifications with the hope that it would help provide context and clarity for everyone.
 - 2. Know how to use wiki: Make sure Jordan can write on the wiki.
 - 3. Document how others can comment and collaborate.
     - This may be something like how a diverse group of specialists collaborates on a set of plans and specifications on a building project. 
@@ -52,7 +52,7 @@
         - Decentralization, sovereigns, etc. 
         - LOCKSS - Lots of Copies Keep Stuff Safe
     - Syncthing across trusted allies... one or more gatekeeper who can manage GIT... 
-    - For Lionsberg | Meta Project
+    - For LIØNSBERG | Meta Project
         - Might be forks... different authorization domains... 
         - Lots of similar copies of same original starting place... with lots of clones / forks... that can be back-folded into original... 
         - Each clone has different authorization domain... 
@@ -104,8 +104,8 @@
         - Some good / some not
         - Collapse All
         - 
-- Where is Lionsberg | Meta Project stored... 
-    - Was originally going to be wiki.lionsberg.org
+- Where is LIØNSBERG | Meta Project stored... 
+    - Was originally going to be wiki.LIØNSBERG.org
     - Preacing sovereigns, decentralization, federation, multiple service providers for core stuff...
     - So realized that we need lots of wikis... 
     - and one startpage that points to - the various amazing wikis... some people, some sovereigns, etc. will end up with different focuses, sets of rules etc.

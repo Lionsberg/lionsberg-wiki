@@ -4,7 +4,7 @@ Loved Ones,
 
 As we enter 2025, we stand at one of the most critical junctures in human history—a moment where the future will be decided for generations to come.
 
-The [[Lionsberg Wiki Books]] and the [[Above The Chaos]] series have done their best to articulate _why_ this moment matters so profoundly. I understand that the revelations of 2024 may feel alienating or overwhelming for those who have not yet come to terms with these realities. That’s okay. In time, as events unfold, clarity and reconciliation will come.
+The [[LIØNSBERG Wiki Books]] and the [[Above The Chaos]] series have done their best to articulate _why_ this moment matters so profoundly. I understand that the revelations of 2024 may feel alienating or overwhelming for those who have not yet come to terms with these realities. That’s okay. In time, as events unfold, clarity and reconciliation will come.
 ### Our Shared Mission
 
 As best we understand it, our shared mid-term mission and mandate remains the same:

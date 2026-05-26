@@ -86,11 +86,11 @@ Join our host Jordan Nicholas and food systems expert Klaus Mager as they discus
 - Relocalization  
 - Bioregions  
 - Designing and Building a Better World 
-- Lionsberg  
+- LIØNSBERG  
 
 **Resources and Links**:  
-- [Lionsberg Wiki](https://lionsberg.wiki) 
-- [Lionsberg Website](https://www.Lionsberg.org)  
+- [LIØNSBERG Wiki](https://LIØNSBERG.wiki) 
+- [LIØNSBERG Website](https://www.LIØNSBERG.org)  
 - Overshoot Day [https://www.overshootday.org/](https://www.overshootday.org/)  
 - Climate System Solutions [YouTube https://www.youtube.com/@climatesystemsolutions](https://www.youtube.com/@climatesystemsolutions)  
 - Climate System Solutions [](https://www.youtube.com/@climatesystemsolutions)Website [climatesystemsolutions.org](http://climatesystemsolutions.org/)  

@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [great-game, transition, fuller, foundational]
-source: Phase 2.1 audit of The LIØNSBERG Way + The Lionsberg Strategy and Plan
+source: Phase 2.1 audit of The LIØNSBERG Way + The LIØNSBERG Strategy and Plan
 captured: 2026-05-18
 ---
 

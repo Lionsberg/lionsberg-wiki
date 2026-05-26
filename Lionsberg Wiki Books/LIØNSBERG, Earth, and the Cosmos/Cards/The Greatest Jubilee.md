@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [jubilee, state-of-system, lionsberg-architecture]
+themes: [jubilee, state-of-system, LIØNSBERG-architecture]
 ---
 
 # The Greatest Jubilee

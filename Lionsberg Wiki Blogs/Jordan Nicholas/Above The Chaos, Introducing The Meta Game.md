@@ -7,9 +7,9 @@ Hello Friends and Allies,
 
 This morning I wrote up a ~4,500 word essay as a _starting point_ for continuous improvement as we begin to articulate the framework and guardrails of the [[Meta Game]]. 
 
-You can find it here on the Lionsberg Wiki: [[Meta Game]]. 
+You can find it here on the LIØNSBERG Wiki: [[Meta Game]]. 
 
-This begins to lay out the framework for something that is entirely consistent with the Spirit / Logic / Heart of the Lionsberg | Meta Project, while aiming to reach out and make it accessible to every being on earth without exception, regardless of their current State of Being or capability. 
+This begins to lay out the framework for something that is entirely consistent with the Spirit / Logic / Heart of the LIØNSBERG | Meta Project, while aiming to reach out and make it accessible to every being on earth without exception, regardless of their current State of Being or capability. 
 
 Eventually, this will be connected out to the life long program of human, organizational, and community development. 
 
@@ -23,8 +23,8 @@ It touches on much of the same logic of the Meta Project:
 2. Forging / Joining Teams
 3. Making and Keeping Meaningful Commitments
 4. Engaging in Meaningful Work that advances the Critical Path towards the Goal 
-5. Relationship to the Lionsberg | Meta Project
-6. Relationship to the Lionsberg | Meta Community, etc. 
+5. Relationship to the LIØNSBERG | Meta Project
+6. Relationship to the LIØNSBERG | Meta Community, etc. 
 
 It goes further to begin to address accounting for the exchange of Time and Energy within the System, and proposes a [[Time Currency]] rooted in [[Meaningful Work]] and [[Commitments]] as an opening basis for the Measurement and Exchange of [[Value]]. 
 

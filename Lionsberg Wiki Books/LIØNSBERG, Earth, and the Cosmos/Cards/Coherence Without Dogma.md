@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [coherence, no-dogma, meta-science, lionsberg-architecture]
+themes: [coherence, no-dogma, meta-science, LIØNSBERG-architecture]
 ---
 
 # Coherence Without Dogma

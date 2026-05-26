@@ -4,7 +4,7 @@
 
 In the grand tapestry of existence, every thread serves a purpose, every weave follows a pattern, and every pattern aspires to reflect the Divine Architect's plan. We stand at a moment of great import—a pivotal node in the continuum of Spacetime - where our collective volition and actions can either elevate and align us more closely with the Creator's Intent and Divine Order, or drive us further into Chaos and entropic disarray. 
 
-Just as skilled workers find common purpose is Intention and Blueprint of a master architect, so too is the Lionsberg Meta Project unified by the Highest Order Meta Intention of the Supreme Architect. 
+Just as skilled workers find common purpose is Intention and Blueprint of a master architect, so too is the LIØNSBERG Meta Project unified by the Highest Order Meta Intention of the Supreme Architect. 
 
 ### The Nature of Divine Intent
 
@@ -53,14 +53,14 @@ Therefore we could articulate a sentence such as:
 
 *The Creator's Intent, The Aim, The Goal is* (something like) *the total integrated wellbeing, development, and right relationship of All generations of life and consciousness, in all times and places.*
 
-This is the Purpose, Aim, and Goal of the Lionsberg System. 
-#### Operationalizing the Divine - The Creator's Intent in The 12 Pillars of Lionsberg
+This is the Purpose, Aim, and Goal of the LIØNSBERG System. 
+#### Operationalizing the Divine - The Creator's Intent in The 12 Pillars of LIØNSBERG
 
 If all generations of life and consciousness are to develop towards the fullness of their potential and flourish in harmony, a Total Nested Hierarchy of Issues and Goals logically present themselves. 
 
 How shall we govern our Selves in accordance with Divine Principles? How shall we nurture lifelong learning that imparts not just knowledge but wisdom? How shall we heal and maintain our Selves in a state of wholeness that reflects Divine Integrity? How shall we eradicate corruption and manifest justice as a tangible reality? How shall we ensure that our basic needs—clothing, shelter, food—are met in a manner that respects the Creator's bounty? And how shall we steward our planet in a way that recognizes its sacredness and nurtures its regenerative capacities?
 
-From the Supreme Foundation of the Creator's Intent arise The 12 Pillars of Lionsberg. Far from being mere policy proposals, these pillars serve as a Work Breakdown Structure to empower individuals, families, organizations, and communities around the world to reimagine, redesign, and rebuild their worlds. Logically derived from the Uniting Creator's Intent, these spiritual imperatives seek to manifest the qualities and mandates of the New Covenant in their real-world applications. They are as follows:
+From the Supreme Foundation of the Creator's Intent arise The 12 Pillars of LIØNSBERG. Far from being mere policy proposals, these pillars serve as a Work Breakdown Structure to empower individuals, families, organizations, and communities around the world to reimagine, redesign, and rebuild their worlds. Logically derived from the Uniting Creator's Intent, these spiritual imperatives seek to manifest the qualities and mandates of the New Covenant in their real-world applications. They are as follows:
 
 1. **Spiritual and Philosophical Flourishing**: A call to foster a vibrant spiritual landscape where shared Vision, Values, and Codes of Wisdom guide our individual and collective actions, aligning them with the Divine Purpose and Plan.
     

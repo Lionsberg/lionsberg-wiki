@@ -12,13 +12,13 @@ There are several steps that individuals, organizations, and communities can fol
     
 5.  Establish clear [[Roles]] and [[Responsibilities]]: Once the team is formed, it is important to establish clear roles and responsibilities for each team member. This will help ensure that everyone understands what is expected of them, and will help to prevent confusion and duplication of effort. Roles and responsibilities should be defined for the individual in the context of the team, and for the team in the context of the [[Team of Teams]].
     
-6.  Establish a basic system of [[Governance]], such as the [[Lionsberg System of Governance]], through which the team can navigate towards its goals and values.
+6.  Establish a basic system of [[Governance]], such as the [[LIØNSBERG System of Governance]], through which the team can navigate towards its goals and values.
     
 7.  Define your [[Organizational Boundary]] and [[Rules of Participation]].
     
 8.  Foster open communication: Encourage open and transparent communication within the team, and establish channels for regular feedback and performance review. This will help to build trust and ensure that the team is working together effectively.
     
-9.  Establish systems and processes: Set up systems and processes for how the team will work together, including how decisions will be made, how tasks will be assigned and tracked, and how progress will be reported. The [[LIØNSBERG System]], [[Lionsberg System of Governance]], and [[Lionsberg System of Work]] include tools and recommendations for each of these elements.
+9.  Establish systems and processes: Set up systems and processes for how the team will work together, including how decisions will be made, how tasks will be assigned and tracked, and how progress will be reported. The [[LIØNSBERG System]], [[LIØNSBERG System of Governance]], and [[LIØNSBERG System of Work]] include tools and recommendations for each of these elements.
     
 10.  Establish a basic set of [[Agreements]] that govern internal and external relationships. These can be formal or informal.
     

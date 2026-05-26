@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [superorganism, currently-nameless, lionsberg-architecture]
+themes: [superorganism, currently-nameless, LIØNSBERG-architecture]
 ---
 
 # The (Currently Nameless) Superorganism

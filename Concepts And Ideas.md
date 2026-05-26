@@ -12,7 +12,7 @@ This is a 2% list that is just a placeholder...
 - [[Forging Or Joining A Team]]  
 - [[LIØNSBERG]]  
 - [[LIØNSBERG System]]  
-- [[Lionsberg Community]]  
+- [[LIØNSBERG Community]]  
 - [[Mapping]]  
 - [[Meta Game]]  
 - [[Meta Goal]]

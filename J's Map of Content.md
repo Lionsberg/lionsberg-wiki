@@ -6,7 +6,7 @@ The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (
 
 [[Above the Chaos - WikiCast]] is where the interviews / podcasts are hosted. 
 
-[[Lionsberg Wiki Books]] is where topics end up condensing into more structured form. 
+[[LIØNSBERG Wiki Books]] is where topics end up condensing into more structured form. 
 
 [[The LIØNSBERG Co-Creator's Handbook]] is a starting point to learn about the Way. 
 
@@ -16,9 +16,9 @@ The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (
 - [[System Wide Master Planning]]  
 - [[LIØNSBERG Issue Tracker]]  
 - [[Resourcing Guide]]  
-- [[The Lionsberg Handbook]] migrating to [[The LIØNSBERG Co-Creator's Handbook]] and [[The LIØNSBERG Way]]  
+- [[The LIØNSBERG Handbook]] migrating to [[The LIØNSBERG Co-Creator's Handbook]] and [[The LIØNSBERG Way]]  
 - [[The LIØNSBERG Lexicon]]  
-- [[The 12 Pillars of Lionsberg]]  
+- [[The 12 Pillars of LIØNSBERG]]  
 
 ## Misc
 
@@ -26,4 +26,4 @@ The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (
 - [[A Note on Overwhelm]]  
 ## Thoughts
 
-Eventually, the [[Lionsberg Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIØNSBERG Intelligence System]]. 
+Eventually, the [[LIØNSBERG Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIØNSBERG Intelligence System]]. 

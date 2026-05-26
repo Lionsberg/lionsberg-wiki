@@ -39,10 +39,10 @@ For each major canonical area, this Atlas catalogs **every previous attempt** �
 
 ## I.B — Invitation Cycle Archive (procession, superseded by README)
 
-`LIØNSBERG Core Documents/Lionsberg Invitation/` — 14 files, ~699 lines total:
+`LIØNSBERG Core Documents/LIØNSBERG Invitation/` — 14 files, ~699 lines total:
 
-- [[Lionsberg Invitation v.01]] (65 lines) — earliest formal
-- [[Lionsberg Invitation v0.2]] (33), [[v.0.3]] (21), [[The Invitation, v.0.4]] (28) — early iterations
+- [[LIØNSBERG Invitation v.01]] (65 lines) — earliest formal
+- [[LIØNSBERG Invitation v0.2]] (33), [[v.0.3]] (21), [[The Invitation, v.0.4]] (28) — early iterations
 - `Cycle 1 (draft not sent)` (74), `Cycle 1` (40), `Cycle 3` (61), `Cycle 7 (old)` (102), `Cycle 7` (35), `Cycle 8` (50), `Cycle 9` (59) — sent attempts March 2024 onward
 - [[Reflection and Invitation - Summer 2025]] (105) — post-veil-tearing reflection
 - [[The Invitation]] (5) — current redirect stub
@@ -55,7 +55,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 - [[The Handbook]] (3 lines, stub)
 - [[A Short Note on the LIØNSBERG Co-Creator's Handbook]] (8, transition)
 - [[The LIØNSBERG Co-Creator's Handbook]] (8, stub; integrated into Playbook Jan 2026)
-- [[The Lionsberg Handbook]] (591, hollowed — content migrated out)
+- [[The LIØNSBERG Handbook]] (591, hollowed — content migrated out)
 - 9 Meta Guide chapter shards (15-58 lines each): A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So
 
 ## I.D — Golden Seed Doorway Lineage
@@ -73,7 +73,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 - [[How To Extend The Invitation]] (182) — operational sharing guide
 - [[Respond to The Invitation]] (24)
-- [[Lionsberg Summary (Archived 2026-05-20)]] — formerly entry-context
+- [[LIØNSBERG Summary (Archived 2026-05-20)]] — formerly entry-context
 
 ---
 
@@ -97,7 +97,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 ## II.D — Root-Level Story Drafts and Explorations
 
 - [[The Story of LIØNSBERG — Drafts and Explorations]] (829 lines, source pool for Vol II rewrite)
-- [[The Myth Of Lionsberg]] (21, genesis-of-name story)
+- [[The Myth Of LIØNSBERG]] (21, genesis-of-name story)
 - [[Meta Story]] (12, concept stub)
 - [[The Story (Commentary)]] (16)
 - [[Your Story]] (16)
@@ -122,18 +122,18 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 - `Aliens, Fascists, and Giants/` (28 files, cosmic-historical thesis WIP)
 - `The Cosmic Chronicles/` (164 files, UFO/UAP/NHI case catalog)
-- `The Lionsberg Cosmic Chronicles/` (empty placeholder folder)
+- `The LIØNSBERG Cosmic Chronicles/` (empty placeholder folder)
 - `Beyond The Meta Crisis/` (108 chapter shards)
-- `The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0/` (37 files, 33-chapter manifesto)
+- `The LIØNSBERG Blueprint - Manifesto for Worksite Earth 2.0/` (37 files, 33-chapter manifesto)
 - `The Dawn of the New World/` (32 narrative scenes — parallel story arc draft)
-- [[The Myth of Lionsberg]] (61, parallel cosmogonic draft)
+- [[The Myth of LIØNSBERG]] (61, parallel cosmogonic draft)
 - [[Threads of Eternity]] (52, reweaving wisdom-traditions project)
 - [[The Sacred Ascent]] (5, Vol X "Coming Soon" stub)
 
 ## II.H — Inception-Narrative
 
 - [[LIØNSBERG - History, Inception, and Trust Manifesto]]
-- [[Lionsberg History and Inception]]
+- [[LIØNSBERG History and Inception]]
 - [[LIØNSBERG Manifesto (2023.10.10) (Archived 2026-05-20)]]
 
 ---
@@ -196,7 +196,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 - [[Field of Agreements]] (60, root concept)
 - [[Forge a Field of Agreements]] (93, canonical Play)
-- [[The Lionsberg Field of Agreements]] (21, link-hub stub)
+- [[The LIØNSBERG Field of Agreements]] (21, link-hub stub)
 - [[9. The Field of Agreements]] (44, game-form draft)
 - [[2.3 Domains and Field of Agreement]] (71, fragment)
 - [[Template For Field of Agreements]] (31)
@@ -213,7 +213,7 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 `LIØNSBERG Core Documents/LIØNSBERG Core Statements/` — 16 files, ~1,710 lines:
 - [[The Core Concepts of LIØNSBERG]] (223 lines, substantial)
 - [[The Watchwords of LIØNSBERG]] (207, substantial)
-- [[Lionsberg Structure]] (62, substantial)
+- [[LIØNSBERG Structure]] (62, substantial)
 - 13 stubs (Goal, Vision, Mission, Values, Spirit, Intention, Process, Metaphors, System and Approach, Personality, Context, One Sentence — most 3-31 lines)
 
 ## IV.E — Operating System and Manifesto
@@ -227,12 +227,12 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 
 - [[Constitution]] (36, prior concept page)
 - [[Constitutional Amendments]] (17, stub)
-- [[The Manifesto]] (16), [[The Lionsberg Manifesto]] (3, stub), [[Lionsberg Trust Manifesto]] (3, stub)
+- [[The Manifesto]] (16), [[The LIØNSBERG Manifesto]] (3, stub), [[LIØNSBERG Trust Manifesto]] (3, stub)
 
 ## IV.G — Deleted in Working Tree (pending earlier commit)
 
-- [[Agreement With Self]], [[Temporal]], [[Lionsberg Honor System]]
-- [[Provisional Community Agreements]], [[Lionsberg Membership Agreement]], [[Lionsberg Participation Agreement]], [[The Lionsberg Book of Agreements]]
+- [[Agreement With Self]], [[Temporal]], [[LIØNSBERG Honor System]]
+- [[Provisional Community Agreements]], [[LIØNSBERG Membership Agreement]], [[LIØNSBERG Participation Agreement]], [[The LIØNSBERG Book of Agreements]]
 
 **Cross-area observation:** Field of Agreements concept lives in **6+ different files** — highest-density consolidation target in this area.
 
@@ -246,16 +246,16 @@ Voice evolves: civic/declarative → warm personal → prophetic-civic.
 - [[10 Year Grand Strategy]] (13, root stub)
 - [[Covenant and Jubilee — December 2033]] (21, named endpoint)
 
-## V.B — The Lionsberg Strategy and Plan of Action (35 files)
+## V.B — The LIØNSBERG Strategy and Plan of Action (35 files)
 
-`LIØNSBERG Wiki Books/The Lionsberg Strategy and Plan of Action/`:
+`LIØNSBERG Wiki Books/The LIØNSBERG Strategy and Plan of Action/`:
 - [[The LIØNSBERG Strategy and Plan]] (2,143 lines, mid-period prior attempt, WIP-flagged) — the largest single-document strategy attempt
 - 31 numbered chapter shards (1-31)
 - [[2024 Q4 Update]], [[2026 Q1 Update]] — quarterly overlays (mostly stale)
 
-## V.C — The Lionsberg Blueprint — Manifesto for Worksite Earth 2.0 (33 chapters)
+## V.C — The LIØNSBERG Blueprint — Manifesto for Worksite Earth 2.0 (33 chapters)
 
-`LIØNSBERG Wiki Books/The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0/`:
+`LIØNSBERG Wiki Books/The LIØNSBERG Blueprint - Manifesto for Worksite Earth 2.0/`:
 - Root manifesto (177 lines)
 - 33 chapters from Meta Crisis through Dawn of New Era, 12 Pillars, Theses, Strategy, WBS, Pattern Language, Prototype, Phases, Measurement
 - Plus Executive Summary, One Page Summary, Preface
@@ -280,7 +280,7 @@ Pre-LIØNSBERG-Ø-turn manifesto register.
 ## V.G — The Meta Project (Program Statement + Plans and Specifications)
 
 - `LIØNSBERG Wiki Books/The Meta Project/Meta Project Program Statement/` — 8 files (7 chapters): Intention · Analysis · Engagement · Planning · Action · Continuous Elevation. IPD/AEC predecessor of Vol VII PDG.
-- `LIØNSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/` — ~22 files: Title Page, Introduction, JV Framework, Lionsberg, Designer's Intent, Systems View, etc. Predecessor of Vol V.
+- `LIØNSBERG Wiki Books/The Meta Project/Meta Project Plans And Specifications/` — ~22 files: Title Page, Introduction, JV Framework, LIØNSBERG, Designer's Intent, Systems View, etc. Predecessor of Vol V.
 
 ## V.H — Active Current Project Plan (not historical)
 
@@ -297,8 +297,8 @@ Pre-LIØNSBERG-Ø-turn manifesto register.
 
 ## V.I — Strategy/Plan files at root (mostly stubs)
 
-- [[The Lionsberg Strategy and Plan - Summary]] (167, exec summary)
-- [[Lionsberg Roadmap]] (29), [[Lionsberg Platform Features & Roadmap]]
+- [[The LIØNSBERG Strategy and Plan - Summary]] (167, exec summary)
+- [[LIØNSBERG Roadmap]] (29), [[LIØNSBERG Platform Features & Roadmap]]
 - 6+ name-collision stubs: [[The Grand Strategy]], [[The Strategy]], [[Strategy]], [[The New Strategy]], [[The Plan]], [[Plan of Action]], [[The Joseph Plan]], [[The Noah Plan]], [[System Wide Master Plan]], [[New Vision and Plan]] — most 3-28 lines, cleanup candidates
 
 **Cross-area observation:** Area V has **5 major long-form prior strategy attempts** in the same conceptual territory — Strategy and Plan (2,143 lines), Blueprint Manifesto (33 chapters), Beyond The Meta Crisis (108 shards), Pass The Flame (2,124 lines), 144 Threads (147 files). All compressed into the 29-line Card.
@@ -320,7 +320,7 @@ Pre-LIØNSBERG-Ø-turn manifesto register.
 ## VI.B — Companion Works (mature, preserved)
 
 - `LIØNSBERG Wiki Books/The Power of Today/` (substantial 46+ chapter Jordan-authored 2024 work) — explicitly philosophical companion to The Daily Way
-- `LIØNSBERG Wiki Books/The Lionsberg Book of Meditations/` — 663 daily meditations + root
+- `LIØNSBERG Wiki Books/The LIØNSBERG Book of Meditations/` — 663 daily meditations + root
 
 ## VI.C — The LIØNSBERG Way (chaotic WIP)
 
@@ -328,7 +328,7 @@ Pre-LIØNSBERG-Ø-turn manifesto register.
 - [[The LIØNSBERG Way]] (758 lines) — self-flagged "chaotic WIP"
 - 16 `ReMembering How To...` stubs: Aim, Co-Create Federations/Groups/Organizations, Decisions, Differentiate Roles, Embody Wise Servant Leadership, Have Meetings, Honor Rights, Initiate Quests, Make Proposals, Progress, Seek Wisdom, etc.
 
-## VI.D — The Lionsberg Meta Guide (hollowed)
+## VI.D — The LIØNSBERG Meta Guide (hollowed)
 
 See I.C — the Meta Guide Handbook + 9 chapter shards, mostly hollowed by migration.
 
@@ -340,12 +340,12 @@ See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook)
 
 - [[Discern the Wise Right Next Steps]] (101, substantial practice articulation)
 - [[Establish Your Cellular Operating System and Way]] (122, substantial)
-- [[Organizations The Lionsberg Way]] (127, Way-applied-to-organizations)
+- [[Organizations The LIØNSBERG Way]] (127, Way-applied-to-organizations)
 - [[Self-Sustenance and Self-Replication]] (81)
 - [[The Way]] (53)
 - [[Personal Alignment Plan]] (34), [[Personal Planning Tool]] (39), Personal Communication/Collaboration Plan
-- Way name-collision stubs: [[Lionsberg Way]] (9), [[Way]] (9), [[Way of Being]] (13), [[The "Way"]] (7)
-- Practice stubs: [[Discernment]] (18), [[Daily Practice]] (6), [[A Little Better Every Day]] (8), [[Attend, Plan, Act, Learn, Improve Cycle]] (1), [[Lionsberg Battle Rhythm]] (3)
+- Way name-collision stubs: [[LIØNSBERG Way]] (9), [[Way]] (9), [[Way of Being]] (13), [[The "Way"]] (7)
+- Practice stubs: [[Discernment]] (18), [[Daily Practice]] (6), [[A Little Better Every Day]] (8), [[Attend, Plan, Act, Learn, Improve Cycle]] (1), [[LIØNSBERG Battle Rhythm]] (3)
 
 **Cross-area observation:** Way territory has **3 overlapping prior Handbook attempts** (The LIØNSBERG Way, Meta Guide Handbook, Co-Creator Handbook). The Power of Today and Book of Meditations are mature procession companions; not prior attempts to consolidate.
 
@@ -371,18 +371,18 @@ See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook)
 
 - [[Capital Subordinate To Purpose]] (586w, Core Pattern doctrine page) — overlaps with Card of similar name
 - [[Commons]] (585w, possibly best root commons articulation — Four-Fold Anatomy: Domain, Membrane, Field of Agreements, Commons)
-- [[Lionsberg Commons]] (155w, stub)
+- [[LIØNSBERG Commons]] (155w, stub)
 - [[Fair Shares Commons]] (578w)
 - [[Commonwealth]] (413w)
 - [[A Commons For All]] (85w, stub), [[Tragedy of the Commons]] (76w, stub)
 - [[Post-Capitalist]] (51w, stub)
-- Currency lineage: [[Lionsberg Currency]] (165w), [[Lionsberg Time Currency]] (99w), [[Time Currency]] (54w), [[BioSocioEconomy]] (25w) — superseded by LUV Card
+- Currency lineage: [[LIØNSBERG Currency]] (165w), [[LIØNSBERG Time Currency]] (99w), [[Time Currency]] (54w), [[BioSocioEconomy]] (25w) — superseded by LUV Card
 - [[The Economic Case For IPD]] (985w, AEC industry voice)
 
 ## VII.D — Wiki-book prior attempts
 
-- [[9. The Lionsberg Economic System]] (514w, AI-prose ~2023)
-- [[7.4 The Lionsberg Economy and Stewardship]] (521w, J/AI dialogue)
+- [[9. The LIØNSBERG Economic System]] (514w, AI-prose ~2023)
+- [[7.4 The LIØNSBERG Economy and Stewardship]] (521w, J/AI dialogue)
 - [[Chapter 13]] (1,198w)
 - [[22 The Role of Business and Economics]] (556w)
 - [[16.5.1 Economic Justice and Reform]] (222w)
@@ -408,7 +408,7 @@ See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook)
 
 ## VIII.B — Root-level strong articulations
 
-- [[Lionsberg System of Governance]] (777w, system-view prior attempt — four-branch federal structure + fractal sovereignty)
+- [[LIØNSBERG System of Governance]] (777w, system-view prior attempt — four-branch federal structure + fractal sovereignty)
 - [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] (643w, Core Pattern doctrine page)
 - [[Citizen Led Self-Governance]] (495w)
 - [[Jordan On Governance]] (1,274w, 1st-person essay, historical artifact)
@@ -420,7 +420,7 @@ See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook)
 - [[Decision Making]] (109w, stub), [[Consent]] (141w), [[Voluntary Consent]] (325w), [[Mutual Consent]] (158w)
 - [[Advantage Based Decision Making]] (151w, CBA reference)
 - [[Self Governing]] (6w), [[Self Governance]] (81w)
-- [[The Governance System]] (19w), [[Lionsberg Governance Guide]] (24w), [[Federal Governance]] (101w)
+- [[The Governance System]] (19w), [[LIØNSBERG Governance Guide]] (24w), [[Federal Governance]] (101w)
 - [[The Function Of Governance]] (186w), [[Conditions of Satisfaction For System Of Governance]] (213w)
 - [[More Meaningful Participation, Responsibility, and Stewardship]] (300w)
 - [[How Now Shall We Govern Our Selves?]] (176w, stub-question)
@@ -441,10 +441,10 @@ See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook)
 
 ## VIII.E — Wiki-book prior attempts
 
-- [[10. The Lionsberg Governance System]] (560w, AI prose ~2023)
-- [[7.5 The Lionsberg System of Governance]] (501w, J/AI dialogue)
+- [[10. The LIØNSBERG Governance System]] (560w, AI prose ~2023)
+- [[7.5 The LIØNSBERG System of Governance]] (501w, J/AI dialogue)
 - [[FAQ - How Will We Make Decisions?]] (624w) — best FAQ-format decision-making content
-- [[FAQ - How Does Governance Work in the Lionsberg System?]] (411w)
+- [[FAQ - How Does Governance Work in the LIØNSBERG System?]] (411w)
 - [[1.11 Governance]] (896w)
 - [[16.5.4 Governance and Political Reform]] (562w)
 - [[112. Transforming Governance Systems]] (77w, stub)
@@ -569,7 +569,7 @@ Note: tradition-naming (Sachchidananda, Yahweh, Elohim) functions differently fr
 
 9. **The Great Spring 2026 Wiki Turn project folder** is the active operational scaffolding for the rewrite — not historical, this is the work-in-progress workshop.
 
-10. **AI-voice strata visible in older articulations** (J/AI dialogue format in The Last Chance, AI-prose in Lionsberg Simple and Clear, FAQ-AI in FAQ wiki book, Alexander-pattern templating in Citizen Led Governance) — when re-visited, voice modernization is often needed alongside content updates.
+10. **AI-voice strata visible in older articulations** (J/AI dialogue format in The Last Chance, AI-prose in LIØNSBERG Simple and Clear, FAQ-AI in FAQ wiki book, Alexander-pattern templating in Citizen Led Governance) — when re-visited, voice modernization is often needed alongside content updates.
 
 ---
 

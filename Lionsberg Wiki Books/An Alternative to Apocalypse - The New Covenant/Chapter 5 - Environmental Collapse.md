@@ -26,4 +26,4 @@ ___
 Forward to [[Chapter 6 - Why The Path Towards Apocalypse Affects Every Family On Earth]]  
 Back to [[Chapter 3 - Famine, Migration, and Plague]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

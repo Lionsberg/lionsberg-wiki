@@ -1,7 +1,7 @@
 # A New Sovereignty
 *Written 2023?*
 
-The Lionsberg System will result in the emergence of a new Sovereignty. 
+The LIØNSBERG System will result in the emergence of a new Sovereignty. 
 
 What does this mean? 
 
@@ -102,7 +102,7 @@ Projects of increasing complexity would soon require that the emergent body was 
 ## Milestone 4: A New Economy
 In response to the needs of the Community and Project, a New internal economy would naturally want to begin emerging. 
 
-In order to ensure [[Interoperability]] and coherence across the network of emerging entities, basic organizational systems and frameworks would be established. See [[Organizations The Lionsberg Way]]. 
+In order to ensure [[Interoperability]] and coherence across the network of emerging entities, basic organizational systems and frameworks would be established. See [[Organizations The LIØNSBERG Way]]. 
 
 The internal economy would emerge through the use of both [[Old]] and [[New]] currencies that would increase the internal circulation of [[Value]] via "soft currency", while decreasing the need for external / Old "hard currency". 
 

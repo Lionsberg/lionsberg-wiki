@@ -15,11 +15,11 @@ On March 1st, we transitioned from [[The 7 Year Window of Preparatory Work and L
 
 ### The First Eight Cycles of Growth 
 
-We are monitoring the growth of the movement using the metaphor of a Sacred Tree emerging from  [[The Golden Seed]]. Over the first ~90 days, we completed the first eight [[Lionsberg Cycles of Growth]], connecting the first 60+ [[Lionsberg Co-Creators]] while surfacing a list of over 140 of the [[Wise Right People]] to invite in next. 
+We are monitoring the growth of the movement using the metaphor of a Sacred Tree emerging from  [[The Golden Seed]]. Over the first ~90 days, we completed the first eight [[LIØNSBERG Cycles of Growth]], connecting the first 60+ [[LIØNSBERG Co-Creators]] while surfacing a list of over 140 of the [[Wise Right People]] to invite in next. 
 
 ### Cycle 9 
 
-Cycle 9 will grow [[The Movement]] out to 89 carefully selected Co-Creators, paving the Way towards the first [[Quarterly Summit]] in July, and followed by the first [[Lionsberg General Assembly]] in late September. 
+Cycle 9 will grow [[The Movement]] out to 89 carefully selected Co-Creators, paving the Way towards the first [[Quarterly Summit]] in July, and followed by the first [[LIØNSBERG General Assembly]] in late September. 
 
 [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History|The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]], a post in the [[Above The Chaos]] series, highlights some of the exciting individuals, teams, projects, and initiatives that are coalescing. 
 
@@ -54,6 +54,6 @@ For updates on [[The Movement]] please stay tuned to [[Above The Chaos]].
 
 ## Recent Podcast Outlining Movement Buildings, Groups, Quests, and the 10 Year Grand Strategy
 
-[Lionsberg Dispatch - Individuals, Groups, Quests, and the 10 Year Grand Strategy](https://open.spotify.com/episode/4bTcweSQxCVMloEoVE5M9i?si=ApeyWXk0R2qDPgxRi2Nk5g)  
+[LIØNSBERG Dispatch - Individuals, Groups, Quests, and the 10 Year Grand Strategy](https://open.spotify.com/episode/4bTcweSQxCVMloEoVE5M9i?si=ApeyWXk0R2qDPgxRi2Nk5g)  
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://open.spotify.com/episode/4bTcweSQxCVMloEoVE5M9i?si=Ix9fyN76SS-ERrEqMMBZIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

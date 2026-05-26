@@ -31,4 +31,4 @@ ___
 Forward to [[The Case Study Of Jerusalem]]  
 Back to [[An Image Of Righteousness And Its Reward - If, Then]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

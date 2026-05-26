@@ -675,7 +675,7 @@ Or use as a starting point for other creative expressions
 
 Beyond **[[The Great UnVeiling]]**  
 Jordan was in the process of crafting a series of books  
-That are available at **[[Lionsberg Wiki Books]]** in draft form  
+That are available at **[[LIØNSBERG Wiki Books]]** in draft form  
 Over ~5 years he drafted 20+ books in parallel  
 Circumambulating the same basic themes  
 From a variety of voices and perspectives  
@@ -686,7 +686,7 @@ Into which his consciousness was venturing
 
   As a partial sampling:  
   
-- [[The Lionsberg Book of Meditations]] contains over 600 short one-sentence thoughts worth meditating on (designed for daily practice)  
+- [[The LIØNSBERG Book of Meditations]] contains over 600 short one-sentence thoughts worth meditating on (designed for daily practice)  
 - [[The Book of LIØNSBERG]] was a very early attempt at beginning to pull a full cosmic array of concepts into some kind of unified architectural form; the entire text has been printed, read aloud, and annotated by a voluntary editor; the changes have not yet been integrated into the wiki  
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]] was a later attempt to weave an understandable tapestry for humanity to understand where it was and what it was facing immediately ahead  
 - [[EXISTENTIAL THREAT - Are You Curious What Lurks Behind The Veil?]] was a first attempt to communicate the shocking revelations surfaced by his political activities and briefings between 2022 and 2024  

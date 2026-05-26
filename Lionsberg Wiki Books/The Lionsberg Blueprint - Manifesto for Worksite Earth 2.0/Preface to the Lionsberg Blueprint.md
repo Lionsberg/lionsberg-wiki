@@ -1,10 +1,10 @@
-# Preface to the Lionsberg Blueprint
+# Preface to the LIØNSBERG Blueprint
 
-In this moment, as you read these words, we stand together at a pivotal crossroads in the annals of existence—a moment not just of historic import but of cosmic significance. This document aims to serve as a harbinger, a map, and a guide for humanity's next evolutionary leap. With the utmost humility, this is the Lionsberg Blueprint, a Manifesto for Worksite Earth v.2.0.
+In this moment, as you read these words, we stand together at a pivotal crossroads in the annals of existence—a moment not just of historic import but of cosmic significance. This document aims to serve as a harbinger, a map, and a guide for humanity's next evolutionary leap. With the utmost humility, this is the LIØNSBERG Blueprint, a Manifesto for Worksite Earth v.2.0.
 
 ## Manifesto Overview
 
-To comprehend the scope and ambition of this endeavor, one needs to widen the gaze from the individual to the universal and extend the timeframe from the ephemeral to the eternal. In its essence, the Lionsberg Blueprint aims to serve as an open-source, living document—a guide for enacting meaningful transformation on Earth, in alignment with the Creator's Intent. Its end is to bring forth [[The Goal]], one Earth as it is in Heaven - a future where all forms of life can flourish in harmony, peace, and [[Divine Alignment]].
+To comprehend the scope and ambition of this endeavor, one needs to widen the gaze from the individual to the universal and extend the timeframe from the ephemeral to the eternal. In its essence, the LIØNSBERG Blueprint aims to serve as an open-source, living document—a guide for enacting meaningful transformation on Earth, in alignment with the Creator's Intent. Its end is to bring forth [[The Goal]], one Earth as it is in Heaven - a future where all forms of life can flourish in harmony, peace, and [[Divine Alignment]].
 
 ## The 90-Day Revolutionary Sprint & The 10-Year Grand Strategy
 
@@ -16,7 +16,7 @@ Recognizing the wisdom inherent in the collective spirit and discernment, the Bl
 
 ## The Living and Evolving Nature of This Blueprint
 
-As the universe expands, so too does our understanding of it. A static solution cannot suffice for a dynamic problem. The Lionsberg Blueprint is, therefore, not set in stone but rather likened to a living organism. From the moment of its inception, it will adapt, transform, and grow in accordance with its DNA as we collectively gain more [[Insight]] and experience.
+As the universe expands, so too does our understanding of it. A static solution cannot suffice for a dynamic problem. The LIØNSBERG Blueprint is, therefore, not set in stone but rather likened to a living organism. From the moment of its inception, it will adapt, transform, and grow in accordance with its DNA as we collectively gain more [[Insight]] and experience.
 
 In this profound undertaking, let us remember: we are not isolated entities but an interconnected facet of a larger [[Divine Order]]. This Blueprint invites you, irrespective of who you are or where you come from, to participate in this transformative journey toward the [[Highest Intention and Greatest Good]], where we might work together in partnership with the Creator and One Another to progressively realize the Creator's Intent—in essence, the Kingdom of God—on Earth as it is in Heaven.
 

@@ -1,4 +1,4 @@
-# Lionsberg Africa 2022.08.25
+# LIØNSBERG Africa 2022.08.25
 
 From last meeting  
 

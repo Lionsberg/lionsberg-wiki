@@ -11,4 +11,4 @@ ___
 Forward to [[The Essence Of God]]  
 Back to [[The Green Shoot Of The Messiah]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

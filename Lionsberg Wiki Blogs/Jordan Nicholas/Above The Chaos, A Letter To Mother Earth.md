@@ -66,7 +66,7 @@ Time is of the essence, and none of us can do this in isolation. We are One Body
 
 With deep love and respect to Our Father, Our Mother, the Elders, and all our relations, 
 
-~ Jordan on behalf of the rising Body of Lionsberg Co-Creators 
+~ Jordan on behalf of the rising Body of LIØNSBERG Co-Creators 
 
 ____
 ### Traducción Al Español 
@@ -112,7 +112,7 @@ Siguiendo vuestras instrucciones, a través de una cuidadosa consulta y discerni
 
 Es una estrategia de punto de inflexión, arraigada en un movimiento de invitación hacia la conciencia superior, la unidad, la reciprocidad, la colaboración y el flujo que deben marcar nuestro viaje juntos hacia La Tierra Prometida y hacia la Nueva Era.
 
-La Estrategia y el Plan Lionsberg esbozan la filosofía, la teoría, la estrategia, las tácticas y los medios específicos a través de los cuales trabajaremos juntos para equipar y capacitar al 3% de líderes más competentes, iluminados y capaces de todo este Cuerpo Único de la Tierra para 2026, a fin de responder a cualquier necesidad, reto y oportunidad que surja durante La Gran Refundación.
+La Estrategia y el Plan LIØNSBERG esbozan la filosofía, la teoría, la estrategia, las tácticas y los medios específicos a través de los cuales trabajaremos juntos para equipar y capacitar al 3% de líderes más competentes, iluminados y capaces de todo este Cuerpo Único de la Tierra para 2026, a fin de responder a cualquier necesidad, reto y oportunidad que surja durante La Gran Refundación.
 
 Esboza las estrategias y los planes de acción mediante los cuales remodelaremos nuestra tecnología de alta ciencia de su actual armamentismo contra ti y tus hijos, para convertirla en herramientas de florecimiento y vida abundante.
 
@@ -128,7 +128,7 @@ Estamos despertando, estamos surgiendo y estamos llegando Madre. Mantente firme.
 
 A los Hermanos y Hermanas Mayores de la Tierra: El Águila y el Cóndor, lo Masculino y lo Femenino, el Norte, el Oeste, el Este y el Sur se están uniendo y empiezan a desplegar sus alas; ahora se preparan para ascender hacia los cielos y volar juntos.
 
-Esperamos que disciernas y aconsejes cómo deben mejorarse la Estrategia y el Plan Lionsberg para que sean lo más Sabios, Correctos, Buenos y Verdaderos posible, y qué recursos y apoyo necesitan tú y nuestra Madre para sanar, restaurar y regenerar nuestras vidas, nuestra sociedad y nuestro mundo.
+Esperamos que disciernas y aconsejes cómo deben mejorarse la Estrategia y el Plan LIØNSBERG para que sean lo más Sabios, Correctos, Buenos y Verdaderos posible, y qué recursos y apoyo necesitan tú y nuestra Madre para sanar, restaurar y regenerar nuestras vidas, nuestra sociedad y nuestro mundo.
 
 Proponemos una primera reunión de la Asamblea General a finales de septiembre de 2024, e invitamos a todas las biorregiones y tribus de la Tierra a que nombren a los representantes que consideren más sabios y respetados para que vengan a ocupar sus respectivos asientos en la Mesa Redonda.
 
@@ -138,4 +138,4 @@ El tiempo es esencial, y ninguno de nosotros puede hacerlo aisladamente. Somos U
 
 Con profundo amor y respeto a Nuestro Padre, Nuestra Madre, los Ancianos y todos nuestros parientes,
 
-~ Jordan en nombre del naciente Cuerpo de Co-Creadores de Lionsberg
+~ Jordan en nombre del naciente Cuerpo de Co-Creadores de LIØNSBERG

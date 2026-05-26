@@ -18,4 +18,4 @@ _____
 Forward to [[Dealing with Inconsistencies, Human Error, and Contradictions in the Meta-Canon - A Dialectical and Ontological Approach]]  
 Back to [[Towards an Objective Analysis of the 10 Most Canonical Texts in Human History, Sorted by Depth]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

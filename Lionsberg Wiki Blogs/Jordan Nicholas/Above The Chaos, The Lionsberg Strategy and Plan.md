@@ -1,4 +1,4 @@
-# Above The Chaos, The Lionsberg Strategy and Plan
+# Above The Chaos, The LIØNSBERG Strategy and Plan
 
 By [[Jordan Nicholas Sukut]], 2024.04.25 _(updated 2024.04.25)_
 

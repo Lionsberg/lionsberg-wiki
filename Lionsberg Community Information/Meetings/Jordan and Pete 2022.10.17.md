@@ -1,7 +1,7 @@
 # Jordan and Pete 2022.10.17
 
 ## Topics
-- Lionsberg Academy Page
+- LIØNSBERG Academy Page
     -  - access to lifelong learning pre-k to MIT level with access to one link. 
     - Curated based on existing leading sources from open / non-profit projects in the world. 
 - Entry Ladder
@@ -9,10 +9,10 @@
         - Pareto Analysis of most common languages.... 
         - Welcome page with all those like Apple has
         - Use Google Translate to create at least a rough translation of a simple paragraph... 
-        - That points to English Language / Academy / Lionsberg Lexicon, etc... 
+        - That points to English Language / Academy / LIØNSBERG Lexicon, etc... 
     - Language as a Key
         - English as key (Duolingo +)
-        - Lionsberg Lexicon as a key - quick map of content of top 100 to 300 key Word Tools and how they are used... 
+        - LIØNSBERG Lexicon as a key - quick map of content of top 100 to 300 key Word Tools and how they are used... 
     - Pre-K through early college (Khan Academy +)
     - Advanced University (MIT OpenCourseWare +)
 
@@ -161,7 +161,7 @@
     - in 18 months... instead of comms system - it will be a network
     - There are a couple dozen networks you want to know about... here are the 3 to 4 networks you want to join up with and co-mingle with... 
     - there isn't A - there is a number of them... 
-    - The thing Lionsberg can do is talk about best practices. 
+    - The thing LIØNSBERG can do is talk about best practices. 
         - for forming a comms network
         - For creating commitment networks
         - and here are the 6 commitment networks we value... 
@@ -193,16 +193,16 @@
 
 - leaders and solutions
 
-## Lionsberg | Water
+## LIØNSBERG | Water
 
 - Maybe similar - start curating best solutions around each domain... 
 - Connecting in the right leaders and solutions... 
 - Someone in network wants to spend 10% of their time seeing what is possible / building
 
-# Lionsberg | Energy 
+# LIØNSBERG | Energy 
 - Someone in network wants to spend 10% of their time seeing what is possible / building 
 
-# Lionsberg | Ag
+# LIØNSBERG | Ag
 
 ## Basic minimum viable Communications System... 
 

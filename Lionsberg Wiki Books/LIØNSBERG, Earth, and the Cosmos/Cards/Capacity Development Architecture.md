@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [capacity-development, becoming, nested-arcs, lionsberg-architecture]
+themes: [capacity-development, becoming, nested-arcs, LIØNSBERG-architecture]
 ---
 
 # Capacity Development Architecture

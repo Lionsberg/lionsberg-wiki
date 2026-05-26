@@ -7,7 +7,7 @@ That Crisis contains within itself the greatest [[Meta Opportunity]] in history.
 
 This demands an unprecedented [[Meta Solution]] that is actually capable of solving the Meta Crisis and capturing the Meta Opportunity. 
 
-Lionsberg is rising because we believe that a tremendous amount of suffering and death lies and at the logical end of humanity's current trajectory, and we are compelled to [[Act As If]] it were our responsibility organize ourselves to do something about it. 
+LIØNSBERG is rising because we believe that a tremendous amount of suffering and death lies and at the logical end of humanity's current trajectory, and we are compelled to [[Act As If]] it were our responsibility organize ourselves to do something about it. 
 
 While it may not be enough, and while we may need to develop new and better ways of organizing ourselves, we know for certain that _it will require no less_ than the basic levels of competency that we use to organize any other significant human endeavor. 
 
@@ -32,7 +32,7 @@ How do we organize ourselves, and how do we organize our resources, so that they
 ____
 ## Other Resources and Guides
 
-This Guide focuses purely on Resourcing, however resources need to be applied to an entire System. For information on how people can organize their daily lives to produce throughput of the Goal, see [[The Power of Today]]. For information on how people can organize and federate to do things they can't do in isolation, see [[Organizations The Lionsberg Way]]. For information on how people, teams, and organizations can rise into higher order functional unity to accomplish a [[Total Nested Hierarchy of Goals]], see the [[Lionsberg Integrated Delivery Guide]]. For information on how federated groups can pragmatically structure themselves to protect the life that is emerging, and interface with the old world, see [[Provisional Structure]]. 
+This Guide focuses purely on Resourcing, however resources need to be applied to an entire System. For information on how people can organize their daily lives to produce throughput of the Goal, see [[The Power of Today]]. For information on how people can organize and federate to do things they can't do in isolation, see [[Organizations The LIØNSBERG Way]]. For information on how people, teams, and organizations can rise into higher order functional unity to accomplish a [[Total Nested Hierarchy of Goals]], see the [[LIØNSBERG Integrated Delivery Guide]]. For information on how federated groups can pragmatically structure themselves to protect the life that is emerging, and interface with the old world, see [[Provisional Structure]]. 
 
 ___
 
@@ -147,7 +147,7 @@ Because we are all sovereign, autonomous individuals voluntarily bringing togeth
 The important note is that they are interoperable, created to function together, and here in service of the same overarching and uniting Goal. 
 
 ## The Meta Fund
-The [[Meta Idea]] that is expressing itself through Lionsberg and the [[Meta Project]] and surrounding network of networks is that we are all working in service of a single overarching and uniting [[Meta Goal]]. 
+The [[Meta Idea]] that is expressing itself through LIØNSBERG and the [[Meta Project]] and surrounding network of networks is that we are all working in service of a single overarching and uniting [[Meta Goal]]. 
 
 Our unique named expressions, skills, platforms, networks, focuses, and passions are elements of something larger than any of us, which is the collective ethical imperative of every human being on earth to do their absolute best to rise and meet this moment in history. 
 
@@ -187,7 +187,7 @@ Agreeing on what constitutes Value is a prerequisite to coordinating and applyin
 ## What is Valuable? What is Value? 
 For a discussion on this topic, see [[Value]]. 
 
-## The Lionsberg System
+## The LIØNSBERG System
 The [[LIØNSBERG System]] was established to realign and optimie these various resource flows in a multi-side economy and system _aimed at_ The Goal, and recognizing Value on that basis. 
 
 ## The Critical Path Fund

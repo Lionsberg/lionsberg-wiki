@@ -1,6 +1,6 @@
 # Play The Game
 
-"Play The Game" is an engaging call to action for [[Citizens]] who have joined the [[Lionsberg Platform]] and are ready to immerse themselves in the transformative experience of [[The Great Game of LIØNSBERG]]. This innovative and interactive game is designed to galvanize individuals, groups and communities to take meaningful action in addressing the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]].
+"Play The Game" is an engaging call to action for [[Citizens]] who have joined the [[LIØNSBERG Platform]] and are ready to immerse themselves in the transformative experience of [[The Great Game of LIØNSBERG]]. This innovative and interactive game is designed to galvanize individuals, groups and communities to take meaningful action in addressing the [[Meta Crisis]], halting [[The Advance of The Giants]], and co-creating the [[New World]].
 
 [[The Great Game of LIØNSBERG]] combines elements of strategy, collaboration, and transformational personal growth, challenging participants to develop and share creative solutions to real-world problems while fostering a sense of camaraderie and shared purpose among [[Citizens]].
 
@@ -13,7 +13,7 @@ As you dive into [[The Great Game of LIØNSBERG]], you'll:
 
 To begin your adventure in [[The Great Game of LIØNSBERG]], follow these steps:
 
-1.  Ensure you've completed the onboarding process for the [[Lionsberg Platform]]  
+1.  Ensure you've completed the onboarding process for the [[LIØNSBERG Platform]]  
 2.  Visit [[The Great Game of LIØNSBERG]] 
 3. [[Read The Books]]   
 4.  Familiarize yourself with the game's rules, objectives, and features  

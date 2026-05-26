@@ -1,8 +1,8 @@
-# Lionsberg Resource Runway
+# LIØNSBERG Resource Runway
 
 Financial models for movements are tricky. 
 
-The [[Provisional Structure]] of Lionsberg enables us to bring in resources in a variety of ways through a hybrid non-profit / for-profit legal and governance infrastructure, anchored around a movement building strategy. 
+The [[Provisional Structure]] of LIØNSBERG enables us to bring in resources in a variety of ways through a hybrid non-profit / for-profit legal and governance infrastructure, anchored around a movement building strategy. 
 
 _____
 ## Baseline Runway 
@@ -16,11 +16,11 @@ Beyond the Baseline Runway, the System is designed to run off of voluntary contr
 ___
 ## Source 1: Membership / Tithes 
 
-At the simplest level, The Movement and the Platform are designed to be self-sustaining based on the monthly membership contributions of the individual [[Lionsberg Co-Creators]]. 
+At the simplest level, The Movement and the Platform are designed to be self-sustaining based on the monthly membership contributions of the individual [[LIØNSBERG Co-Creators]]. 
 
-These will come in initially as tax deductible donations to the Lionsberg 501(c)(3) non-profit. These can be directed to other entities in the future as The Movement matures. 
+These will come in initially as tax deductible donations to the LIØNSBERG 501(c)(3) non-profit. These can be directed to other entities in the future as The Movement matures. 
 
-The [[Lionsberg Cycles of Growth]] charts the basic growth pattern for the movement, and the [[Lionsberg Cycle Time]] measures the time for each cycle. 
+The [[LIØNSBERG Cycles of Growth]] charts the basic growth pattern for the movement, and the [[LIØNSBERG Cycle Time]] measures the time for each cycle. 
 
 The Cycles of Growth follow the Fibonacci sequence as follows. 
 
@@ -55,7 +55,7 @@ At just 2,500 Co-Creators, The Movement becomes indefinitely self-sustaining.
 
 By the time we hit the first 3% of the population, revenue is > $5 Billion / month  
 
-The first 6 cycles were accomplished in 2 weeks at 1 to 2 days each - see [[Lionsberg Co-Creators]]. 
+The first 6 cycles were accomplished in 2 weeks at 1 to 2 days each - see [[LIØNSBERG Co-Creators]]. 
 
 Allowing 2 weeks for each of the cycles 7 through 16, the movement should reach Cycle 16 and be indefinitely self-sustaining by: 
 
@@ -95,7 +95,7 @@ These will primarily be provided via a decentralized array of federated teams an
 
 The Movement is designed to be eternally self-sustaining from within, co-operating and continuously improving The Commons enabling it via a system of tithing at the individual and group levels. 
 
-Assuming a [[Lionsberg Cycle Time]] of 2-3 weeks, the System and Movement will be self-sustaining within a year, growing out towards billions of dollars of monthly flow by the time we connect, equip and empower 3% of the population. 
+Assuming a [[LIØNSBERG Cycle Time]] of 2-3 weeks, the System and Movement will be self-sustaining within a year, growing out towards billions of dollars of monthly flow by the time we connect, equip and empower 3% of the population. 
 ## Startup Capital
 
 Whereas the membership contributions and tithe of project flow are the "thruster engines" that indefinitely propel the movement into a self-sustaining Future via millions / billions in monthly flows, the startup can and should be significantly accelerated by capital from visionary high net worth individuals, organizations, and foundations. 

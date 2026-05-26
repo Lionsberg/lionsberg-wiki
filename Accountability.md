@@ -20,7 +20,7 @@ Several factors can challenge the practice of accountability, including fear of 
 
 Cultivating accountability involves developing a strong sense of responsibility, the willingness to accept the outcomes of one's actions, and the commitment to learn and grow from those outcomes. It requires self-awareness, honesty, and humility, as well as the courage to face potentially uncomfortable or negative consequences.
 
-**Accountability in the Context of Lionsberg**
+**Accountability in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, accountability becomes a foundational principle. It calls on us to take responsibility for our part in perpetuating Old World systems and narratives, and to actively work towards creating and maintaining the New World.
 

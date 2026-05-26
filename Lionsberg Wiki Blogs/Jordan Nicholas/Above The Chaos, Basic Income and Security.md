@@ -26,7 +26,7 @@ Ensuring that 5.5 billion people (~70% of population) have a minimum of $5,000 i
 
 Think about that - in order to lift every human being on earth out of abject poverty and suffering, and up to a level in which they had the security, relationships, and capacity to prioritize the multi-generational stewardship of our culture and environment, would merely require a global economic system that was just enough to ensure that the bottom 2/3 of humanity had access to 1/3 of present GDP - in the current state! 
 
-This does not even begin to take into the account the massive explosion of value creation that would occur if all humanity had equal access to the emergent Lionsberg | [[Energy Net]], Lionsberg | [[Water Net]], and Lionsberg | [[Info Net]].  
+This does not even begin to take into the account the massive explosion of value creation that would occur if all humanity had equal access to the emergent LIØNSBERG | [[Energy Net]], LIØNSBERG | [[Water Net]], and LIØNSBERG | [[Info Net]].  
 
 If we can work together to secure this milestone, we will emerge from the greatest joint effort in human history with, for the first time in history, the basic peace, relative prosperity, and goodwill among all nations and peoples required for us to move together beyond that milestone towards our best and highest potential. 
 

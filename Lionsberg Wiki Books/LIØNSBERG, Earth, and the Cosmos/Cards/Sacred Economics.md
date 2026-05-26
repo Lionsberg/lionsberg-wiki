@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, economy, foundational]
-source: Phase 2.1 audit of The Theses of Lionsberg + The 12 Pillars (Pillar III)
+source: Phase 2.1 audit of The Theses of LIØNSBERG + The 12 Pillars (Pillar III)
 captured: 2026-05-18
 ---
 

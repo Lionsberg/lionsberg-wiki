@@ -1,4 +1,4 @@
-# Lionsberg Africa 2023.02.02
+# LIØNSBERG Africa 2023.02.02
 
 - Christine 
 - Jacque 

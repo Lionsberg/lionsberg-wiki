@@ -56,7 +56,7 @@ And we can only do that together.
 
 ## An Invitation to Federate 
 
-Over the last 7 years, We have done Our best to curate together the first tens of millions of dollars of Value into a Commons we call Lionsberg, and we have set a target to connect and empower [[The First Three Percent]] of the population, 250 Million Strong, by 2026. 
+Over the last 7 years, We have done Our best to curate together the first tens of millions of dollars of Value into a Commons we call LIØNSBERG, and we have set a target to connect and empower [[The First Three Percent]] of the population, 250 Million Strong, by 2026. 
 
 Our vision is to set trillions of dollars of Value in flow by empowering leaders and Teams to tackle meaningful Quests that stack up and align to produce throughput of our shared Purpose, Goals, and Values. 
 
@@ -74,7 +74,7 @@ At a high level they are something like:
 2. We Co-Create in service of and partnership with One and All  
 3. We Co-Create in a Spirit of Love  
 4. We Steward The Commons for the Good of All Current and Future Generations of Life   
-5. We All have an equal citizenship / stake / share in Lionsberg  
+5. We All have an equal citizenship / stake / share in LIØNSBERG  
 6. We aggregate and coordinate [[The First Tenth]] of our available Flow of Time, Energy, Attention, and Resources to Continuously Improve The Commons  
 7. We [[Federate Everything]]   
 8. We Co-Create via [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams / Groups / Communities / Localities    

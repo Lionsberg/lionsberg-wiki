@@ -4,7 +4,7 @@
 
 By the mid 2020s, as humanity faced into the unprecedented uncertainty and risk of the [[Meta Crisis]] and [[Systemic Collapse]], something extraordinary happened. Suddenly, around the world, the citizens of Earth arose and united to confront and overcome the crisis, and forge from its ashes the better future they all desired. This short story tells how they did it. 
 
-For more information, see [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]] and [[Beyond The Meta Crisis - A Blueprint for a Better Future]], which lay out the [[New Vision and Plan]]. 
+For more information, see [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]] and [[Beyond The Meta Crisis - A Blueprint for a Better Future]], which lay out the [[New Vision and Plan]]. 
 ## The Meta Crisis
 
 In [[Beyond The Meta Crisis - A Blueprint for a Better Future]], we described the [[Meta Crisis]] that began unfolding at the start of the third millennium AD. 
@@ -90,7 +90,7 @@ As a starting point, conditions of acceptance were articulated. While many diffe
 
 As humanity searched for a system and approach powerful enough to facilitate this unprecedented endeavor, they weighed many technologies, systems, and approaches for fit against the Acceptance Criteria. 
 
-## The Lionsberg System
+## The LIØNSBERG System
 
 Among the various solutions around the world, one was discovered that had been purpose-built to connect and empower humanity to confront and overcome the [[Meta Crisis]], forge the [[Best Possible Future]] for [[All]], and leave in its wake the infrastructure and solutions of the [[New Era]]. 
 
@@ -98,7 +98,7 @@ The System was called [[LIØNSBERG]]. It was constructed in the form of a myth, 
 
 ## Retaining The Best of the Old, While Gaining the New 
 
-The Lionsberg System was constructed to facilitate a phase shift in the Way humans existed and organized themselves upon the earth. Evolutionary rather than revolutionary, it invited humanity to voluntary rise into [[Higher Order Functional Unity]] in a parallel [[Citizen Led]] New System, without renouncing the existing (and useful) citizenships, memberships, and sovereignties forged at such great expense during the previous millennium. 
+The LIØNSBERG System was constructed to facilitate a phase shift in the Way humans existed and organized themselves upon the earth. Evolutionary rather than revolutionary, it invited humanity to voluntary rise into [[Higher Order Functional Unity]] in a parallel [[Citizen Led]] New System, without renouncing the existing (and useful) citizenships, memberships, and sovereignties forged at such great expense during the previous millennium. 
 
 This voluntary System allowed each individual and locality to retain the very best of their existing features and benefits, while also gaining powerful new capabilities and solutions beyond what they could access or achieve in isolation. 
 
@@ -115,7 +115,7 @@ It was determined that the [[Meta Project]] to solve the [[Grand Challenges]], a
 
 The Joint Venture would take the form of a uniting structure encompassing an array [[Citizen Led Public Private Partnership]]s, which would be capable of drawing on public, philanthropic, and investment resources to accomplish its goals and objectives. 
 
-After evaluating various options, it was discovered that the [[The Myth Of Lionsberg]] had anticipated such a need, and gone to great lengths to forge a [[Provisional Structure]] as a [[Starting Point]]. Being immediately available the purpose-built for the [[Meta Project]], it was adopted. 
+After evaluating various options, it was discovered that the [[The Myth Of LIØNSBERG]] had anticipated such a need, and gone to great lengths to forge a [[Provisional Structure]] as a [[Starting Point]]. Being immediately available the purpose-built for the [[Meta Project]], it was adopted. 
 
 This allowed the Citizens to move immediately towards resourcing the [[Critical Path]]. 
 
@@ -133,11 +133,11 @@ The [[Critical Path]] objective was to gather abundant resources to equip and em
 
 The Resources were necessary to establish the [[Mission Control]] center from which [[The Great Battle]] to confront and overcome the [[Meta Crisis]] and forge the [[New World]] would be waged. 
 
-To facilitate this, they discovered that Lionsberg had already established the framework and architecture for two distinct types of resourcing: 1) Core Team and Infrastructure (Core Enterprise), and 2) Impact Funds. 
+To facilitate this, they discovered that LIØNSBERG had already established the framework and architecture for two distinct types of resourcing: 1) Core Team and Infrastructure (Core Enterprise), and 2) Impact Funds. 
 
-The [[Lionsberg Core Team and Infrastructure Fund]] was focused on resourcing the [[Core Enterprise]], which in turn connected and empowered the distributed [[Team of Teams]]. 
+The [[LIØNSBERG Core Team and Infrastructure Fund]] was focused on resourcing the [[Core Enterprise]], which in turn connected and empowered the distributed [[Team of Teams]]. 
 
-The distributed [[Team of Teams]] was funded by the [[Lionsberg Impact Fund]], which was structured as a Fund of Funds. 
+The distributed [[Team of Teams]] was funded by the [[LIØNSBERG Impact Fund]], which was structured as a Fund of Funds. 
 
 This funding structure afforded the opportunity to see a distributed network of funds as a single [[Meta Fund]], while also differentiating out intelligence and optionality into component pieces the could be individually strengthened and advanced. 
 
@@ -151,7 +151,7 @@ The first would reach out to high net worth individuals, foundations, and other 
 
 The second would reach out to everyday Citizens around the world, and encourage them to meaningfully contribute whatever they could out of their available flow of resources. Metaphorically, this capital, coming from (eventually) millions or billions of people, $1, $7, or $100 at a time, would result in hundreds of millions of billions of dollars of available resources *each month*. 
 
-Because the Lionsberg Structure was established as a series of legal commons that *no one owned*, all such resources would be transparently stewarded and allocated to advance the [[Critical Path]] towards [[The Goal]], for the benefit of [[All]]. 
+Because the LIØNSBERG Structure was established as a series of legal commons that *no one owned*, all such resources would be transparently stewarded and allocated to advance the [[Critical Path]] towards [[The Goal]], for the benefit of [[All]]. 
 
 ## The Tipping Point Strategy 
 
@@ -199,7 +199,7 @@ This last period represented the last 5%, 3%, then 1% of holdouts, including tho
 
 ## Gravitational Attraction + Invitation To Migrate Towards the New 
 
-The subsequent phases were articulated in [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]], especially [[Chapter 32 - Phases of Implementation]]. 
+The subsequent phases were articulated in [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]], especially [[Chapter 32 - Phases of Implementation]]. 
 
 Broadcasting.  
 Speaking.  

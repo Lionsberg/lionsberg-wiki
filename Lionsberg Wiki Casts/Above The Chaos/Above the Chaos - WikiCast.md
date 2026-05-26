@@ -1,13 +1,13 @@
 # Above The Chaos - WikiCast
 
 Join Us as we rise Above The Chaos to [[Confront And Overcome The Meta Crisis]] and Co-Create the [[New World]].  
-[[Lionsberg WikiCasts]]  
+[[LIØNSBERG WikiCasts]]  
 
 ## Episodes:
 
 1. [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
 2. [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
-3. [[Our Journey Towards Lionsberg - Jordan Nicholas and Bill Larson - EP 3]]  
+3. [[Our Journey Towards LIØNSBERG - Jordan Nicholas and Bill Larson - EP 3]]  
 4. [[Food Security, Chemical Ag Wars, and Planetary Regeneration - Klaus Mager - EP 4]]  
 5. [[Collaborative Technology and AI - Pete Kaminski - EP 5]]  
 6. [[Community, Land, Dispossession, and Collective Trauma - Helene Lindmark - EP 6]]  
@@ -15,7 +15,7 @@ Join Us as we rise Above The Chaos to [[Confront And Overcome The Meta Crisis]] 
 ## Videos
 
 7. [[Above The Chaos - On Tour With Jordan April 2024]]  
-8. [[Above The Chaos - Lionsberg Interview June 2024]]  
+8. [[Above The Chaos - LIØNSBERG Interview June 2024]]  
 9. [[A Journey Into The Heart of East Africa - Summer 2025]]  
 
 ___
@@ -44,20 +44,20 @@ ___
 18. Overcast  
 19. Radio Public  
 20. Stitcher  
-21. Lionsberg Wiki  
+21. LIØNSBERG Wiki  
 
 **Guest Selection**: We work with the audience to identify and invite fascinating guests with diverse backgrounds and expertise in areas related to podcast's unique purpose. 
 
 **Audience Engagement**: 
 
-22. Above The Chaos group on the Lionsberg Platform 
+22. Above The Chaos group on the LIØNSBERG Platform 
 	- Community Building  
 	- Discussion Threads  
 	- Q&A  
 23. Social Media  
 24. Email Lists 
 25. Crowd-sourcing Guests and Topics  
-26. Lionsberg Community - [[Levels of Participation]] 
+26. LIØNSBERG Community - [[Levels of Participation]] 
 
 **Promotion**:  
 27. Website, social media, email newsletters 
@@ -68,7 +68,7 @@ ___
 **Networking and Collaboration**: Connect with podcasters, influencers, and thought leaders around collaboration, interviews, and mutual amplification   
 
 **Resourcing Strategy**:  
-- Ad free, fueled through donations and Lionsberg membership 
+- Ad free, fueled through donations and LIØNSBERG membership 
 
 **Continuous Improvement**:  
 31. **Identify and track KPIs**: Subscribers, Engagement, Social Media Metrics 
@@ -77,4 +77,4 @@ ___
 
 ## Episodes 
 
-[[Lionsberg WikiCast Episode Template]]  
+[[LIØNSBERG WikiCast Episode Template]]  

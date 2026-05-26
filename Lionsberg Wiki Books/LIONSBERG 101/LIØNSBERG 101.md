@@ -57,8 +57,8 @@ _How the same irreducible DNA emerged independently from every successful moveme
 **The complete reference library — the canonical body of work that surrounds this 101 articulation.**
 
 - **[[The LIØNSBERG Sacred Codex]]** — the twelve-Volume bound corpus. The canonical spine: [[The LIØNSBERG Experience|Experience]] (I), [[The Story of LIØNSBERG|Story]] (II), [[The Great Game of LIØNSBERG|Great Game]] (III), [[The LIØNSBERG Playbook|Playbook]] (IV), [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]] (V), [[The LIØNSBERG Strategy and Plan|Strategy and Plan]] (VI), [[The Program Delivery Guide|Program Delivery Guide]] (VII), [[The LIØNSBERG Lexicon|Lexicon]] (VIII), [[The Book of LIØNSBERG|Book]] (IX), [[The Sacred Ascent|Sacred Ascent]] (X), [[The LIØNSBERG Living Library|Living Library]] (XI), [[The LIØNSBERG Universe Guide|Universe Guide]] (XII).
-- **[[The LIØNSBERG Living Library]]** — Volume XI of the Codex; the curated index of canonical companion works that deepen specific aspects of the spine, including this LIØNSBERG 101, [[The Power of Today]], [[The Lionsberg Book of Meditations]], [[The Lionsberg Book of Quotes]], [[The Lionsberg Book of Emotions]], [[The Lionsberg Book Of Parables|Book of Parables]], [[The LIØNSBERG System of Values|System of Values]], [[The 12 Pillars of Lionsberg]], [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]], and other living companion works.
-- **The wider wiki** — [[Lionsberg Wiki Books|the broader procession]] of articulations that brought the present canonical body of work into being, preserved with provenance.
+- **[[The LIØNSBERG Living Library]]** — Volume XI of the Codex; the curated index of canonical companion works that deepen specific aspects of the spine, including this LIØNSBERG 101, [[The Power of Today]], [[The LIØNSBERG Book of Meditations]], [[The LIØNSBERG Book of Quotes]], [[The LIØNSBERG Book of Emotions]], [[The LIØNSBERG Book Of Parables|Book of Parables]], [[The LIØNSBERG System of Values|System of Values]], [[The 12 Pillars of LIØNSBERG]], [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]], and other living companion works.
+- **The wider wiki** — [[LIØNSBERG Wiki Books|the broader procession]] of articulations that brought the present canonical body of work into being, preserved with provenance.
 
 Organized so you can find what you need when you need it. The Codex is the bound spine. The Library is the canonical-companion field around it. The wider wiki is the procession from which both have grown.
 
@@ -66,7 +66,7 @@ Organized so you can find what you need when you need it. The Codex is the bound
 **Action.** You do not learn this by reading about it. Cross the threshold. Anchor your practice. Form a [[Circle]]. Choose a [[Quest]]. Do the work. Pass [[The Flame]].
 
 ### [[The 10 Year Grand Strategy]]
-**The timeline.** 2024-2033. How [[The First Three Percent]] — 250 million awakened souls — unite, organize, and co-create the [[New Civilization]] before the [[Old World]] completes its collapse. Anchored to the [[Lionsberg Cycles of Growth|Fibonacci Cycles of Growth]] at solstices and equinoxes.
+**The timeline.** 2024-2033. How [[The First Three Percent]] — 250 million awakened souls — unite, organize, and co-create the [[New Civilization]] before the [[Old World]] completes its collapse. Anchored to the [[LIØNSBERG Cycles of Growth|Fibonacci Cycles of Growth]] at solstices and equinoxes.
 
 ---
 

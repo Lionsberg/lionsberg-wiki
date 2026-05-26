@@ -284,7 +284,7 @@ The government should never compel any individual or locality to act in a manner
 2. The Role of Nations in the World  
 3. The Role of the United States in the World  
 4. The Role of the United Nations in the World  
-5. The Role of Lionsberg in the World   
+5. The Role of LIØNSBERG in the World   
 6. Trade Policy  
 7. Foreign Aid  
 8. Immigration  

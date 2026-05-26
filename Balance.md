@@ -20,7 +20,7 @@ Several factors can challenge balance, such as societal pressures, personal ambi
 
 Cultivating balance involves self-awareness, reflection, and intentionality. It requires understanding one's needs, setting healthy boundaries, and making mindful choices. Strategies may include balanced diet, regular exercise, sufficient rest, time for leisure, ongoing learning, and spiritual practices.
 
-**Balance in the Context of Lionsberg**
+**Balance in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, balance becomes a guiding principle. It challenges us to navigate change without neglecting essential aspects of our being and well-being. It also encourages us to strive for harmony and fairness in our relationships and society.
 

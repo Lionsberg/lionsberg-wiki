@@ -3,13 +3,13 @@
 
 Individuals are moved to do something. 
 
-They recognize they cannot do it alone. So they gather a couple other people, read [[Organizations The Lionsberg Way]], and [[Forging Or Joining A Team|Forge or Join a Team]]. 
+They recognize they cannot do it alone. So they gather a couple other people, read [[Organizations The LIØNSBERG Way]], and [[Forging Or Joining A Team|Forge or Join a Team]]. 
 
-They [[Federate With Lionsberg]] as a Whole, and with one or two other groups or federations to extend their access, resources, and capabilities. 
+They [[Federate With LIØNSBERG]] as a Whole, and with one or two other groups or federations to extend their access, resources, and capabilities. 
 
 Now - it is time to get to work. 
 
-Because you are [[Federating]] with other organizations, we would highly recommend that you take the time to learn the basics of the [[LIØNSBERG Integrated Delivery System]] and the [[Lionsberg System of Work]].  
+Because you are [[Federating]] with other organizations, we would highly recommend that you take the time to learn the basics of the [[LIØNSBERG Integrated Delivery System]] and the [[LIØNSBERG System of Work]].  
 
 As a quick refresher, the core innovation of Integrated Delivery is that it transforms any program of action into a [[Goal Delivery System]]. 
 

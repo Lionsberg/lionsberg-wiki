@@ -2,7 +2,7 @@
 
 In the context of the [[LIØNSBERG System]], "Goals" are the broader, long-term outcomes that we aim to achieve as we work together towards the [[New World]]. While [[Objectives]] are specific, measurable, and time-bound targets, Goals represent the higher-level aspirations and desired states that guide our collective efforts and inspire our actions. Goals are integrated by the [[Total Nested Hierarchy of Goals]], and unified by the [[Meta Goal]]. 
 
-Goals in the Lionsberg System help Co-Creators to:
+Goals in the LIØNSBERG System help Co-Creators to:
 
 1.  Maintain a clear and inspiring vision of the desired future we are working towards.
 2.  Set priorities and guide decision-making at both the individual and collective levels.

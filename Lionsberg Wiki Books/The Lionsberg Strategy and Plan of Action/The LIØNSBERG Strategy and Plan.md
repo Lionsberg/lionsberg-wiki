@@ -6,7 +6,7 @@
 
 [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]]  
 [[2024 Q4 Update]]  
-[[1. Introduction to the Lionsberg Strategy and Plan]]  
+[[1. Introduction to the LIØNSBERG Strategy and Plan]]  
 [[2. Executive Summary]]  
 [[3. If One and All Will It to Be]]  
 [[4. Our Highest Duty to One, All, Wisdom, and Truth]]  
@@ -31,7 +31,7 @@
 [[23. How Much Time Do We Have?]]  
 [[24. Reimagining, Redesigning, and Rebuilding Our Lives and Our World]]  
 [[25. The Art and Science of Co-Creation]]  
-[[26. Work Breakdown Structure - The 12 Pillars of Lionsberg]]  
+[[26. Work Breakdown Structure - The 12 Pillars of LIØNSBERG]]  
 [[27. We Have a Lot of Work to Do]]  
 [[28.  This Much Work Requires a Purpose-Built System]]  
 [[29. A New System of Systems]]  
@@ -61,7 +61,7 @@ Such a universally and eternally conceptualized System and Approach must Incarna
 
 The act of Incarnation requires a concrete and pragmatic structure to house and protect its emergence.  
 
-For this reason, the Lionsberg [[Provisional Structure]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another.  
+For this reason, the LIØNSBERG [[Provisional Structure]], [[Provisional Backbone]], and [[Provisional Mind]] were co-created during [[The 7 Year Window of Preparatory Work and Learning]] to enable the [[Many Diverse Parts]] of [[The Body]] to begin connecting and co-operating with one another.  
 
 ## A System of Systems / Structure of Structures 
 
@@ -87,7 +87,7 @@ Therefore the [[Many Diverse Parts]] of [[The Body]] require a system and way of
 
 In the context of a multi-generational body of co-creation that requires ongoing governance, culture, and co-operation, every new member of [[The Body]], whether they enter via the [[Immigration Policy]] or are born into [[The System]], must learn how to co-operate and flourish as part of [[The Body]].  
 
-Therefore one of the most foundational among [[The 12 Pillars of Lionsberg]] is the co-creation and continuous improvement of a system of lifelong learning, training, and development, that every co-creator has equal access to.  
+Therefore one of the most foundational among [[The 12 Pillars of LIØNSBERG]] is the co-creation and continuous improvement of a system of lifelong learning, training, and development, that every co-creator has equal access to.  
 
 Because our purpose on Earth is to Become the fullness of who we are uniquely created to be by collaborating with the Creator and All Creation to Progressively Realize The Goal, the development of each diverse fractal aspect of Creation towards the fullness of [[Potential]] is paramount.  
 ## Measuring Throughput of The Goal 
@@ -98,9 +98,9 @@ Because the [[Critical Path]] runs through the tipping points strategy rooted in
 
 ...[[Throughput]] can be measured by (something like) how many Individuals, have progressed how far, on [[The Quest]] [[FROM the Old TO the New]].  
 
-The Lionsberg [[Lionsberg Cycles of Growth]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence.  
+The LIØNSBERG [[LIØNSBERG Cycles of Growth]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence.  
 
-The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]].  
+The LIØNSBERG Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]].  
 
 - Cycle 1: 2 Members  
 - Cycle 2: 3 Members  
@@ -153,9 +153,9 @@ The Lionsberg Cycles of Expansion chart the fibonacci sequence, and relate to ho
 - Cycle 49: 3 Year Trailing Citizenship (Joining + 3 Years, or Age 15 + 3 Years) 
 - Cycle 50: The New Era Begins  
 
-The [[Lionsberg Cycle Time]] measures the [[Rate]] at which the [[LIØNSBERG System]] produces [[Throughput]] of [[The Goal]].  
+The [[LIØNSBERG Cycle Time]] measures the [[Rate]] at which the [[LIØNSBERG System]] produces [[Throughput]] of [[The Goal]].  
 
-Whereas the [[Lionsberg Cycles of Growth]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
+Whereas the [[LIØNSBERG Cycles of Growth]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
 
 These two dimensions create the basis for [[Measurement]] and [[Continuous Improvement]].  
 ## Fractal Instantiation of The System from the Bottom Up
@@ -196,7 +196,7 @@ These three basic units form the basis of how [[The System]] is voluntarily and 
 On the [[Provisional Platform]], you will find these three objects as the basic units of organization and emergence.  
 ## Milestone: 3% of the Population, ~250 Million Leaders, Organized Into Autonomous Teams, Engaged in Quarterly Quests 
 
-The Lionsberg Strategy and Plan, reflecting the wisdom of indigenous, eastern, and western thought, includes a significant early milestone of connecting and empowering 3% of the human population, roughly 250 million leaders, by 2026.  
+The LIØNSBERG Strategy and Plan, reflecting the wisdom of indigenous, eastern, and western thought, includes a significant early milestone of connecting and empowering 3% of the human population, roughly 250 million leaders, by 2026.  
 
 Assuming an average [[First Degree Group Size]] of 5 to 7 [[Individuals]], this is nominally 50 million [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams.  
 
@@ -278,9 +278,9 @@ Additionally, we can imagine that there will be many significantly beneficial to
 
 We therefore imagine a [[Fractal Commonsing]] approach, where basic necessities like energy production, clean water production, sanitation, major farming and construction tools, additive manufacturing capabilities, learning and wellness tools and facilities, etc. would be housed in locally stewarded [[Commons]] providing equal access to every community of ~100,000 Citizens (or as locally appropriate, wise, right and good).  
 
-## The Lionsberg Commons 
+## The LIØNSBERG Commons 
 
-Linking the [[Fractal Commonsing]] approach would be a highest order [[Lionsberg Commons]] (variously called [[The Commons]]), that would aggregate the leading wisdom, knowledge, solutions, technologies, templates, and patterns from each Fractal Georegional / Bioregional / Local / Community Commons.  
+Linking the [[Fractal Commonsing]] approach would be a highest order [[LIØNSBERG Commons]] (variously called [[The Commons]]), that would aggregate the leading wisdom, knowledge, solutions, technologies, templates, and patterns from each Fractal Georegional / Bioregional / Local / Community Commons.  
 
 [[Data, Information, Knowledge, and Wisdom Sovereignty]], like the System as a Whole, is designed to co-operate and self-organize from the bottom up, so that each Individual, Team, and Locality can [[Consciously Choose]] what resources, information, and knowledge they share, with which other fractal levels of organization and analysis.  
 
@@ -299,7 +299,7 @@ The [[Bioregional Hubs]] would house more major capabilities such as chip / semi
 
 The [[Georegional Hubs]] would need to ensure full interoperability and freedom of ecosystemic resource flows across all [[Bioregional Hubs]] and [[Local Hubs]], as well as hosting the most advanced technological and manufacturing operations being conducted by the human species. The estimated cost for these hubs is likely an order of magnitude higher, in the range of $100 Billion to $200 Billion per Georegion.  
 
-Assuming the nominal budgets per hub below, the design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of Lionsberg]] for every family and community on earth could be accomplished for approximately ~$10 Trillion to ~$20 Trillion depending on how much existing infrastructure and built environment can be repurposed and incorporated into the network.  
+Assuming the nominal budgets per hub below, the design and build of the decentralized network of [[Instantiation Hubs]] addressing each of the [[The 12 Pillars of LIØNSBERG]] for every family and community on earth could be accomplished for approximately ~$10 Trillion to ~$20 Trillion depending on how much existing infrastructure and built environment can be repurposed and incorporated into the network.  
 
 Budgets include the resources to network and interconnect the hubs, and will be continuously refined as [[The Prototype]] is continuously improved.  
 
@@ -370,9 +370,9 @@ It thus becomes apparent that the savings of *a single year of government waste*
 
 Beyond that perhaps absurd realization, we see that we could reallocate 60% to 80% of global GDP, ~*$60 Trillion to $80 Trillion per year*, gradually liberated and reallocated during the [[10 Year Grand Strategy]].  
 
-These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Earth Operating System]] / [[LIØNSBERG System]]. As seen from the [[Lionsberg Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered.  
+These resources would be gradually reallocated towards the meaningful [[Quarterly Quests]] undertaken by the decentralized [[Team of Teams]] co-operating the [[New Earth Operating System]] / [[LIØNSBERG System]]. As seen from the [[LIØNSBERG Resource Runway]] page, these Quests would account for between $500 Billion and $1 Trillion+ *per quarter* by 2026 (2% to 5%) of global GDP (by the time 3% of the population connected and empowered), before exponentially scaling up through the remainder of the [[10 Year Grand Strategy]] as the rest of the human species is connected and empowered.  
 
-As stated in the [[Lionsberg Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[LIØNSBERG System]], after which it should be essentially self-funding and self-sustaining.  
+As stated in the [[LIØNSBERG Resource Runway]] page, It is our assumption that $2 Million to $10 Million in working capital could advance us towards the ~$100 Million in working capital it will take to realize the first $1 Billion in ecosystemic resource flow across the [[LIØNSBERG System]], after which it should be essentially self-funding and self-sustaining.  
 
 **Achieving this milestone merely requires more efficiently allocating *less than 1% of existing philanthropic capital flows* that are currently funding [[Waste]].**  
 
@@ -414,7 +414,7 @@ We may discover that the [[Neighborhood]] is a good level of analysis to begin w
 
 In each SpatioTemporal Domain (200 Nation States, 1,000 of sub-states, millions of Counties, Cities, Villages, School Boards, etc.) we forge Vision, Strategy, and Plans of Action around the progressive elevation, alignment, and transformation of the existing systems of governance.  
 
-This can be aided by monitoring the [[Lionsberg Cycles of Growth]] in each Domain, from [[The First Three Percent]], through 13%, through 70% etc. alongside the [[Local Election Cycles]].  
+This can be aided by monitoring the [[LIØNSBERG Cycles of Growth]] in each Domain, from [[The First Three Percent]], through 13%, through 70% etc. alongside the [[Local Election Cycles]].  
 
 Ultimately, as we cross 70% to 80% adoption of the [[New Paradigm]] in a given domain, we gain access to deeper levers such as [[Constitutional Amendments]].  
 
@@ -431,7 +431,7 @@ The youth of Earth will be invited to begin [[The LIØNSBERG Experience]] when t
 This enables the Orientation and Onboarding into the New Pattern Language to continue indefinitely into the future, ensuring that every child born is fully connected, prepared, and empowered for positive participation, self-governance, and co-creation in the [[New Era]].  
 ## Why A Named System? Why Not Merely A Pattern, Coupled With Templates and Tools? 
 
-The last issue to address is [[Why Lionsberg?]] Why do we have to have a named system, vs. merely an abstract pattern, coupled with tools and templates that communities around the world could implement?  
+The last issue to address is [[Why LIØNSBERG?]] Why do we have to have a named system, vs. merely an abstract pattern, coupled with tools and templates that communities around the world could implement?  
 
 In short, the One Thing that makes this possible is Unity. Without Unity, the Diverse Parts of the Body cannot co-operate and co-create as One.  
 
@@ -554,7 +554,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 6. We co-create Planetary Situation Center / Action Hub System  
 	1. Digital First  
 	2. Able to be Instantiated via any of the [[Instantiation Hubs]]  
-7. We organize around the Grand Challenges, Global Goals, and [[The 12 Pillars of Lionsberg]]   
+7. We organize around the Grand Challenges, Global Goals, and [[The 12 Pillars of LIØNSBERG]]   
 		1. Rapid Prototyping + Soft Franchising + Planetary Scale Criteria - Tom Chi   
 
 ### A New Story of Stories 
@@ -905,7 +905,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	13. Our Long Term Journey Beyond This Life and Star System  
 ### Citizen Led Society 
 
-1. Recognizing that many of the institutions of the [[Old World]] are functionally bankrupt and unlikely be able to meet the commitments we looked to them for in the past, we initiate [[Citizen Led Joint Ventures]] around each of the [[Core Functions of Life and Society]] / each of [[The 12 Pillars of Lionsberg]]    
+1. Recognizing that many of the institutions of the [[Old World]] are functionally bankrupt and unlikely be able to meet the commitments we looked to them for in the past, we initiate [[Citizen Led Joint Ventures]] around each of the [[Core Functions of Life and Society]] / each of [[The 12 Pillars of LIØNSBERG]]    
 2. [[Citizen Led Joint Ventures]] will be responsible for continuously improving the quality and continuously decreasing the cost of the core functions of society, fractally, following the principle of subsidiarity, and leveraging the network of [[Instantiation Hubs]]  
 3. A partial list of functions that institutions of the [[Old World]] may be unable to fulfill in the future include:  
 	1. Stewardship of Parks and Public Land  
@@ -1120,7 +1120,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 ### Backbone Technology Platform 
 
-1. We design and build a platform that makes [[Self-Governing, Self-Sustaining, and Self-Replicating]] 1. People 2. Groups and 3. Projects visible to one another - see the [[Lionsberg Platform]]  
+1. We design and build a platform that makes [[Self-Governing, Self-Sustaining, and Self-Replicating]] 1. People 2. Groups and 3. Projects visible to one another - see the [[LIØNSBERG Platform]]  
 2. We connect and empower [[The Diverse Many]] parts of [[The Body]]  
 3. We continuously improve the [[Service and Support System]] available to each participant  
 4. We empower groups to undertake meaningful [[Projects]] and [[Quests]] that can be measured and funded in stride 
@@ -1200,7 +1200,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	2. See [Exponent](https://www.exponent.com/) (formerly Failure Analysis Corporation) or similar.  
 	3. Use Bucky's Grunch of Giants as a reference  
 	4. Use Tom Chi's Helping Humanity Become Net Positive to Nature as a reference  
-2. We map the [[New Vision and Plan]] and the [[System Wide Master Planning Process]] to a [[Lionsberg Risk Management System]] 
+2. We map the [[New Vision and Plan]] and the [[System Wide Master Planning Process]] to a [[LIØNSBERG Risk Management System]] 
 	1. Drawing on frameworks as Bow Tie Risk Assessment and Management. [Bow Tie Risk Management Book](https://www.aiche.org/ccps/resources/publications/books/bow-ties-risk-management-concept-book-process-safety)  
 
 ### Degenerative Systems and Omnicide 
@@ -1313,12 +1313,12 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 4. We create a planetary network of [[Instantiation Hubs]] that network together and cross-pollinate solutions to the [[General Needs, Issues, and Aspirations]] of all localities  
 5. We build to last with long term perspectives instead of planned obsolescence 
 	1. Improves disaster preparedness / community resilience / economic stability / environmental stewardship  
-6. [[Lionsberg Energy System]]  
-7. [[Lionsberg Information System]]  
-8. [[Lionsberg Water System]]  
-9. [[Lionsberg Food System]]  
-10. [[Lionsberg Transportation System]]  
-11. [[Lionsberg Resource ReCirculation System]]  
+6. [[LIØNSBERG Energy System]]  
+7. [[LIØNSBERG Information System]]  
+8. [[LIØNSBERG Water System]]  
+9. [[LIØNSBERG Food System]]  
+10. [[LIØNSBERG Transportation System]]  
+11. [[LIØNSBERG Resource ReCirculation System]]  
 ### Energy 
 
 1. We empower the world with regenerative energy through: 
@@ -1328,7 +1328,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	4. Geothermal  
 	5. Small Modular Nuclear   
 2. We consider switching from petrochemicals to Alcohol as the primary backbone of a planetary fuel grid   
-3. We network together the [[Lionsberg Energy System]] via the networked [[Instantiation Hubs]]  
+3. We network together the [[LIØNSBERG Energy System]] via the networked [[Instantiation Hubs]]  
 4. We enable continual East / West transfers of Energy as Earth spins, bringing all backup capacity online  
 5. We ensure that every family and locality has access to abundant and virtually free clean Energy  
 6. We ensure that We The People steward the meters, and not [[The Giants]]  
@@ -1470,7 +1470,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 4. We shift our focus from externalizing [[Waste]] for our narrow individual or local benefit, to becoming [[Centers of Distribution]] that redistribute valuable resources in service of [[ØNE]] and [[All]]  
 5. We design and build into the network of [[Instantiation Hubs]] local and regional recycling, processing, resource allocation hubs  
 6. We design and roll out to all businesses and manufacturing operations [[Resource Capture Systems]] that empower each Domain to [[Externalize Waste and Byproducts]] in a way that creates [[Value]] for the Whole  
-7. Preliminary Vision Statement for the [[Lionsberg Resource ReCirculation System]]: 
+7. Preliminary Vision Statement for the [[LIØNSBERG Resource ReCirculation System]]: 
 
 *Imagine a world where every entity, from individual households to sprawling cities, operates as a harmonious cog in a planetary resource intake and allocation system. At its core, this system embodies a holistic approach to resource management, founded on the principle of waste capture and redistribution for collective benefit.*  
 
@@ -1487,7 +1487,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 1. We identify, continually prioritize, and cause to cease sources of air pollution and toxicity  
 2. We co-create the resources and technologies to enable and require each [[Domain]] to [[Externalize Waste and Byproducts]] in a Way that co-creates [[Value]] for the [[Whole]] 
-3. Via the [[Lionsberg Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Air]] and [[Environment]]     
+3. Via the [[LIØNSBERG Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Air]] and [[Environment]]     
 4. We make it prohibitively risky and expensive to bypass the system and [[Externalize Risk and Harm]]  
 5. We clean, restore, and return air and our [[Breath]] to sacred healing force it is  
 
@@ -1495,7 +1495,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 
 1. We identify, continually prioritize, and cause to cease sources of water pollution and toxicity  
-2. Via the [[Lionsberg Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Water]] and [[Environment]]     
+2. Via the [[LIØNSBERG Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Water]] and [[Environment]]     
 3. We clean, regenerate, and help all waters thrive and flow again around the world towards the sacred healing force they are 
 		1. We remove dams  
 		2. We move structures out of flood zones  
@@ -1552,7 +1552,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 
 
 1. We identify, continually prioritize, and cause to cease sources of land and soil pollution and toxicity  
-2. Via the [[Lionsberg Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Soil]] and [[Environment]]     
+2. Via the [[LIØNSBERG Resource ReCirculation System]], we recapture and redistribute chemicals and compounds instead of releasing them into the [[Soil]] and [[Environment]]     
 2. We reintroduce keystone and heirloom species of animals
 3. We cease destructive / degenerative practices, such as: 
 	1. Monocropping  
@@ -1599,7 +1599,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 3. We recognize that 90%+ of the suffering and disease experienced by humanity is unnecessary and self-inflicted, and we stop it. 
 4. We reimagine, redesign and implement a continuously improving system and infrastructure of wellbeing that synergizes the best benefits and capabilities of [[Eastern Medicine]], [[Western Medicine]], and [[Indigenous Medicine]] in an evidence-based way.   
 5. We use [[Science]] and Clinical Trials to explore the knowledge and insights of [[Sound Healing]], [[Light Healing]], [[Energy Healing]] and various other [[Healing Arts]]   
-6. We design and implement a scientifically valid Clinical Research pathway for those implementing the Lionsberg System in various ways, illuminating the [[Ultimate Interrelationship]] between Spiritual, Intellectual, Emotional, Physical, Social, Economic and Environmental dimensions of wellbeing  
+6. We design and implement a scientifically valid Clinical Research pathway for those implementing the LIØNSBERG System in various ways, illuminating the [[Ultimate Interrelationship]] between Spiritual, Intellectual, Emotional, Physical, Social, Economic and Environmental dimensions of wellbeing  
 7. We cease all bioweaponization and vaccine-related [[Gain of Function Research]]  
 8. We invest in a massive planetary R&D effort to identify and cross pollinate lifesaving defenses against bioweapons, pathogens, and parasites 
 9. Resources 
@@ -1675,7 +1675,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	1. Lifelong, co-creative, curiosity-and-inspiration-based project-based learning  
 	1. Physical sites as optional / additive augmentations to primarily decentralized, home / neighborhood / community based self-organizing and self-learning small groups  
 15. Resources 
-		1. Lionsberg Academy of Co-Creation  
+		1. LIØNSBERG Academy of Co-Creation  
 		2. [Education Reimagined - About](https://education-reimagined.org/about/)  
 		3. [Education Reimagined - Ecosystem Approach](https://education-reimagined.org/ecosystem-approach/)   
 		4. [Education Reimagined - Transformational Vision for Education in the US](https://education-reimagined.org/wp-content/uploads/2021/01/A-Transformational-Vision-for-Education-in-the-US.pdf)  
@@ -1721,13 +1721,13 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 ### Stewardship of Intellectual Property and Ideas
 
 1. We reimagine, redesign, and rebuild [[The Rules of The Game]] relating to [[Intellectual Property]]  
-	1. [[Lionsberg Intellectual Content System]]  
+	1. [[LIØNSBERG Intellectual Content System]]  
 
 2. We reexamine the origin of some of the most valuable corporations in the world through taxpayer funded breakthroughs that may belong to [[We The People]]   
 3. We reexamine the origin of the some of the most valuable ideas, technologies, and corporations in the world via the legacy of Rome -> illegitimate Co-Option of the legacy of Christ -> Papacy -> Feudalism -> Colonialism -> English Crown -> East India Company -> Modern Banking -> World Wars -> Taxpayer Funded Weaponization of High Science Technology -> Emergence of [[The Giants]]   
 4. We reexamine to whom the [[Real Wealth]] belongs, which ultimately consists of [[Energy]], which cannot be destroyed, and [[Wisdom]] / [[Knowledge]] / [[Information]], which always increases. 
 5. As we [[Progressively Realize]] that every Wise, Good, Right, and True idea belongs to Us All as an aspect of our Divine Origin, Legacy, and Collective Inheritance, we gather up our [[Collective Inheritance]] of Wisdom, Knowledge, and Ideas into [[The Commons]]  
-	1. [[Lionsberg Commons]]  
+	1. [[LIØNSBERG Commons]]  
 6. We synergize our ideas, technologies, and IP via [[The Prototype]] into an interoperable [[Kit of Parts]], that can be localized, adapted, and poly-centrically rolled out across the planet via the distributed array of networked [[Instantiation Hubs]].   
 
 ### Stewardship of Data  
@@ -1968,9 +1968,9 @@ Coming Soon
 
 We of course might want to sweep the executive branch in the 2024 and 2026 US elections.  
 
-There of course will need to be a new [[Lionsberg Alliance]] forged to succeed NATO, ensure universal strength and security, and oversee the responsible and balanced redirection of military and defense flows [[FROM Weaponry TO Livingry]].  
+There of course will need to be a new [[LIØNSBERG Alliance]] forged to succeed NATO, ensure universal strength and security, and oversee the responsible and balanced redirection of military and defense flows [[FROM Weaponry TO Livingry]].  
 
-There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of Lionsberg]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities.  
+There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of LIØNSBERG]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities.  
 
 There of course will need to be 12,000 Individuals trained in each of 12 Core Functions of The Body just as a starting point to support the emergence of 50 Million connected and empowered Teams.  
 
@@ -1984,7 +1984,7 @@ And we will of course need to start planning [[The Greatest Celebration and Jubi
 
 Now that we have a New Vision, System, Strategy, and Plan - everything is possible if we simply arise and unite in partnership with the Creator and All Creation.  
 
-The [[Lionsberg Wiki Books]] cover this all in more detail.  
+The [[LIØNSBERG Wiki Books]] cover this all in more detail.  
 
 The [[New Pattern Language]] is clear.  
 
@@ -1992,7 +1992,7 @@ The [[Divine Blueprints]] are revealing themselves.
 
 Now, it purely comes down to the successful execution of the [[10 Year Grand Strategy]].  
 
-We started the [[10 Year Grand Strategy]] March 1st. The [[Lionsberg Co-Creators]] are arising and uniting as a Force For Good to meet this moment in history. We need you. The world needs you.  
+We started the [[10 Year Grand Strategy]] March 1st. The [[LIØNSBERG Co-Creators]] are arising and uniting as a Force For Good to meet this moment in history. We need you. The world needs you.  
 
 The Creator is inviting us to become Co-Creators of the [[Best Possible Future]] for All.  
 

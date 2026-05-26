@@ -23,7 +23,7 @@ It is not too late. There is still **Hope**. **The Future** can and Should be Be
 
 But we have to awaken and move together. Now. Before it is too late. The Existing Order is Collapsing, and it is not obvious how much longer The Window will remain open.  
 
-To save time and conserve resources, I am publishing this first sampling of the broader writings found in the Lionsberg Wiki Books without the usual professional oversight and assistance that would go into editing and design. The downside is that you will find embarrassing errors and insufficiencies in the Work. The Good News is that we can learn how to fix them together as we Move.  
+To save time and conserve resources, I am publishing this first sampling of the broader writings found in the LIØNSBERG Wiki Books without the usual professional oversight and assistance that would go into editing and design. The downside is that you will find embarrassing errors and insufficiencies in the Work. The Good News is that we can learn how to fix them together as we Move.  
 
 I look forward to collaborating to make Future Versions of this Work, and Our World, Better.  
 
@@ -633,11 +633,11 @@ A **New Human Operating System** would be required that balanced connection, uni
 
 So we set about ensuring that the legal and governance Commons we were establishing for Us The People to steward Our companies, could also work as a commons for Us The People to govern Our Selves indefinitely into The Future as We reunited as One Family in service of One and All.  
 
-Eventually we had to incarnate the System legally and set up bank accounts, which required a **Name**. After spending over a hundred thousand dollars with branding companies and considering thousands of names strategically, spiritually it was revealed that what needed to be constructed was something like a Myth, and the mythical name of Lionsberg was revealed.  
+Eventually we had to incarnate the System legally and set up bank accounts, which required a **Name**. After spending over a hundred thousand dollars with branding companies and considering thousands of names strategically, spiritually it was revealed that what needed to be constructed was something like a Myth, and the mythical name of LIØNSBERG was revealed.  
 
 What would have to unfold would be a Story of Stories. The Great and Tragic Story of humanity aboard Earth, and now venturing Beyond. And The Myth would have to be big enough to invite and weave in the Individual and Local Stories of every Individual, Family, Community, Bioregion, Tribe, Nation and People on Earth.  
 
-And so, The Myth of Lionsberg was born.  
+And so, The Myth of LIØNSBERG was born.  
 
 Welcome to **The Story**.  
 ### Martial Arts, Malevolence, and War 
@@ -1204,7 +1204,7 @@ These are but a small sampling of the stories that specialists in a diverse arra
 In the end, the experience of one confirmed another, and statistically the probability that everything was ok and the existing Habitable Order would survive rapidly approached zero.  
 ### The Meta Crisis 
 
-Eventually, they came to refer to the crisis of crises they were collectively facing as the **Meta Crisis**. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared **Lionsberg Lexicon|Lexicon** began to emerge, with New **Word Tools** progressively illuminating complexities that they previously lacked the language to articulate.  
+Eventually, they came to refer to the crisis of crises they were collectively facing as the **Meta Crisis**. Capturing the entire panoply of disaster and dysfunction in a single term gave the awakening citizens a way of discussing the issues with a shared language. Soon, an entire shared **LIØNSBERG Lexicon|Lexicon** began to emerge, with New **Word Tools** progressively illuminating complexities that they previously lacked the language to articulate.  
 
 The **Meta Crisis** was an unprecedented **Existential Threat** that nearly disqualified humanity from ongoing existence aboard Earth. It was a universal challenge that threatened the very fabric of **Society**, and the **Living System** that contained it.  
 
@@ -1728,13 +1728,13 @@ Their individual Stories and Fields of Agreement illuminated it.
 
 The **New Covenant**, mediated by **The Spirit** was what enabled **The Whole** to function as **One Body**.  
 
-The Spirit and Essence of the **New Covenant** were reflected as closely as possible in what came to be known as the **Lionsberg Constitution**.  
+The Spirit and Essence of the **New Covenant** were reflected as closely as possible in what came to be known as the **LIØNSBERG Constitution**.  
 
-The sole purpose of what they eventually came to call by mythical name of **Lionsberg** was to Progressively Realize, or Incarnate, **The Vision** they were progressing towards in partnership with **God** and **One Another**.  
+The sole purpose of what they eventually came to call by mythical name of **LIØNSBERG** was to Progressively Realize, or Incarnate, **The Vision** they were progressing towards in partnership with **God** and **One Another**.  
 
-The **Lionsberg Constitution** reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was transcending into, and established **The Commons** where infrastructure, resources, services, and support could be aggregated, stewarded, and continuously improved in service of **One** and **All**.  
+The **LIØNSBERG Constitution** reflected and formalized the New and Higher Order Sovereignty and Citizenship that humanity was transcending into, and established **The Commons** where infrastructure, resources, services, and support could be aggregated, stewarded, and continuously improved in service of **One** and **All**.  
 
-All individuals, as a first act of emerging out of isolation and into community, were invited to incorporate by reference the Lionsberg Constitution into their Individual and local Constitutions, thereby voluntarily agreeing to **The Rules** of the **New Game** and the **New Covenant** that invited and enabled **All Creation** to advance together in **Harmony** towards **The Goal**.  
+All individuals, as a first act of emerging out of isolation and into community, were invited to incorporate by reference the LIØNSBERG Constitution into their Individual and local Constitutions, thereby voluntarily agreeing to **The Rules** of the **New Game** and the **New Covenant** that invited and enabled **All Creation** to advance together in **Harmony** towards **The Goal**.  
 ### Forging and Joining Groups 
 
 After reestablishing Sovereignty, Self Governance, Independence, and agreeing to **The Rules** of the **New Game**, it was time for each awakening individual to forge or join a group.  
@@ -1747,7 +1747,7 @@ Forging and strengthening **Groups** and **Teams** that would **Adventure** toge
 
 This Pattern of organizing required that small groups continually reach **Agreements** on overarching and uniting **Purpose** and **Identity**, along with the next set of pragmatic **Goals** and **Objectives** that they could tackle together to help them and the Whole advance towards the next **Milestones** that marked the **Way** towards **The Goal**.  
 
-**The Narrative Structure of Lionsberg** called for The Story each Group was telling about Who It Was, Where It Was, How It Got There, Where It Was Going, and Why to be continually refreshed and broadcast out to **The Whole** and woven into the **Story of Stories**.  
+**The Narrative Structure of LIØNSBERG** called for The Story each Group was telling about Who It Was, Where It Was, How It Got There, Where It Was Going, and Why to be continually refreshed and broadcast out to **The Whole** and woven into the **Story of Stories**.  
 
 These **Group Stories** ensured that every Group and Team in **The Movement** could communicate and understand one another, coordinate, and help one another.  
 
@@ -1763,7 +1763,7 @@ The quarterly **Battle Rhythm** enabled **The Movement** to rest into a comforta
 
 Each **Autonomous** Individual, Team, Locality, Tribe, and Bioregion, understanding the overarching and uniting Vision, Strategy, and Plan, would discern, negotiate, and choose its own **Quarterly Quests**.  
 
-The **Quarterly Quests** were organized around **The 12 Pillars of Lionsberg**, as a proxy for the **Grand Challenges** and **Global Goals**.  
+The **Quarterly Quests** were organized around **The 12 Pillars of LIØNSBERG**, as a proxy for the **Grand Challenges** and **Global Goals**.  
 
 This **Work Breakdown Structure** enabled **Progress** and **Resource Flows** to be prioritized and measured.  
 
@@ -1783,7 +1783,7 @@ The **Stories of Transformation** were reflected in **Story Boards**.
 
 Over time, the **Story Boards** began to serve as a **Manifesto**, **Budget**, and **Plan**, driving the **Resourcing and Engagement Flywheel**.  
 
-Crucially, having all **Progress** occur via small Continuously Learning and Improving Teams enabled the **Lionsberg System of Governance** and the **Lionsberg Integrated Delivery System** to function, enabling **Ecosystemic Flows** of Resources and Support.  
+Crucially, having all **Progress** occur via small Continuously Learning and Improving Teams enabled the **LIØNSBERG System of Governance** and the **LIØNSBERG Integrated Delivery System** to function, enabling **Ecosystemic Flows** of Resources and Support.  
 
 As the **Group Of Groups** Organized and Federated to tackle ever-more-meaningful **Quests** and accelerated **Progress** towards **The Goal**, they were soon **Co-Creating** the Systems and Infrastructure of the **New Era** in stride.  
 
@@ -1837,7 +1837,7 @@ They inevitably would have to figure out how they were going to respond to **Tar
 
 They progressively came to Realize that ninety percent of the **Challenges**, **Obstacles**, **Issues**, and **Opportunities** they faced were common to **All**.  
 
-As they began to build their shared **Lionsberg Lexicon**, they called the issues they **All** shared in common **General Issues**, **General Needs**, and, **General Problems**.  
+As they began to build their shared **LIØNSBERG Lexicon**, they called the issues they **All** shared in common **General Issues**, **General Needs**, and, **General Problems**.  
 
 And they began to refer to those very few issues that were truly unique to a given team, time, or place as **Specific Issues**, **Specific Needs**, and **Specific Problems**.  
 
@@ -1862,7 +1862,7 @@ For instance, when **The Pioneers** came to a river, understanding that millions
 
 This benefited **The Pioneers** by establishing stronger **Supply Lines** and **Communication Lines** between **The Vanguard** and **The Rear** of **The Movement**, while saving the blood, sweat, energy, and tears of the following Teams for the new **Challenges** to be confronted and overcome as they ventured Deeper into **The Wilderness**.  
 
-While the going was rough for **The Pioneers**, each of the subsequent **Lionsberg Cycles of Growth** found the **Way** to be easier and **The Milestones** more **Clearly Marked**.  
+While the going was rough for **The Pioneers**, each of the subsequent **LIØNSBERG Cycles of Growth** found the **Way** to be easier and **The Milestones** more **Clearly Marked**.  
 
 The Teams in each Cycle developed a **Practice** of deep **Gratitude** for the hard work and effort of **The Pioneers** who had Paved The **Way** for them, both in the current and **Previous Generations**, and reciprocated by **Doing Their Best** to leave every aspect of **The Common Journey** **A Little Better** than they found it. As the **Supply Lines** opened up, they also made sure to push knowledge, resources and support ahead to **The Pioneers** who were still leading the **Way** out into **Unknown**.  
 
@@ -1899,7 +1899,7 @@ Especially when **The Giants** attacked.
 
 In **The Wilderness** with life and death **At Stake**, the shared System of Governance was perhaps the most crucial aspect of their shared infrastructure.  
 
-The **Lionsberg System of Governance** was designed to emerge and evolve from the bottom up in response to the realities of **The Quest**.  
+The **LIØNSBERG System of Governance** was designed to emerge and evolve from the bottom up in response to the realities of **The Quest**.  
 
 Fractal in nature, it was rooted in the fundamental understanding of the **Sovereignty** and **Autonomy** of each Individual, Group, and Locality, coupled with the pragmatic necessity of the **Higher Order Functional Unity** required to **Avoid Failure** and **Succeed**.  
 
@@ -1953,7 +1953,7 @@ Because the sizes of the tribes varied, the Tenth Degree Group ended up composin
 
 The Whole was continually ReUnited As One Tribe of Tribes / Group of Groups, progressing towards **One** Vision and Goal.  
 
-The establishment of Highest Order Functional Unity via the **Lionsberg System** from the outset ensured that **The Movement** could never fracture or fragment. No matter how the **Tribe Of Tribes** morphed and reconfigured itself as **The Movement** grew, **Unity** enabled by **Spirit**, **Truth** and **Love** eternally remained the essential requirement.  
+The establishment of Highest Order Functional Unity via the **LIØNSBERG System** from the outset ensured that **The Movement** could never fracture or fragment. No matter how the **Tribe Of Tribes** morphed and reconfigured itself as **The Movement** grew, **Unity** enabled by **Spirit**, **Truth** and **Love** eternally remained the essential requirement.  
 
 The Fractal arrangement ensured that **Legislative**, **Judicial**, and **Executive** functioning were distributed in an optimally decentralized way throughout **The Body** in accordance with the principle of **Subsidiarity**, helping each Individual, Group, and Locality grow as strong and functional as it possibly could.  
 #### Communicating, Making Decisions, and Solving Issues 
@@ -1970,9 +1970,9 @@ The System of Communication ensured that information regularly and systematicall
 
 As the advancing **Teams** encountered issues, needs, and opportunities, they were solved systematically, and the **General Solutions** were cross-pollinated across The Movement.  
 
-Soon, the Lionsberg System of Systems began to take shape.  
+Soon, the LIØNSBERG System of Systems began to take shape.  
 
-From basic needs like food, water, and shelter, to more complex systems of economic provisioning, governance, justice, society, and culture, and Lionsberg System and Toolkit ensured that each Individual, Group, and Locality was fully empowered to develop towards the fullness of their unique potential, by helping one another flourish.  
+From basic needs like food, water, and shelter, to more complex systems of economic provisioning, governance, justice, society, and culture, and LIØNSBERG System and Toolkit ensured that each Individual, Group, and Locality was fully empowered to develop towards the fullness of their unique potential, by helping one another flourish.  
 
 Each and every issue and challenge they encountered in **The Wilderness** was a Gift, for it called forth a carefully crafted Solution that solved the issue not only for those who encountered it, but for **All** who would come after.  
 
@@ -1980,7 +1980,7 @@ Liberated from the false constructs of division, separation, competition, and **
 
 Issue by issue, obstacle by obstacle, they co-created the **The Commons** of Systems and Solutions required for helping **One Another** flourish, even in **The Wilderness** that separated the **Old** from the **New**.  
 
-The Systems were constructed around **The Commons** and **The 12 Pillars of Lionsberg**, ensuring that every aspect of Life and Society was properly attended to.  
+The Systems were constructed around **The Commons** and **The 12 Pillars of LIØNSBERG**, ensuring that every aspect of Life and Society was properly attended to.  
 
 Soon, they began to forget about the defunct systems of governance, economy, society, and ideology they had suffered under in **The Caves** of the **Old World**.  
 
@@ -2116,17 +2116,17 @@ Stay tuned... you won't believe what happens next in The Story.
 
 We are assembling an array of infrastructure, tools, and technology in **The Commons** to help Individuals, Groups, and Localities **Progress** along the **Way** towards the Fullness of Individual, Local, and Collective Potential.  
 
-**The Lionsberg Co-Creator Handbook** is a great place to begin.  
+**The LIØNSBERG Co-Creator Handbook** is a great place to begin.  
 
-The **Lionsberg Wiki Books** lay out the concepts in an array for formats for deeper exploration and discussion.  
+The **LIØNSBERG Wiki Books** lay out the concepts in an array for formats for deeper exploration and discussion.  
 
-**The Lionsberg Toolkit** is emerging.  
+**The LIØNSBERG Toolkit** is emerging.  
 
-The Lionsberg System and Platform will steadily make a growing array of infrastructure, services, and support available to facilitate the poly-centric localization and adaptation of the **General Solutions** necessary to enable every individual, family, community, and bioregion of the world to flourish in harmony.  
+The LIØNSBERG System and Platform will steadily make a growing array of infrastructure, services, and support available to facilitate the poly-centric localization and adaptation of the **General Solutions** necessary to enable every individual, family, community, and bioregion of the world to flourish in harmony.  
 
 **Above The Chaos** will keep you in touch with **Jordan**'s Voice and Perspective as The Movement unfolds.  
 
-If you have **Questions**, feel free to email them to J@Lionsberg.org, and I will do my best to prioritize, batch and respond to them on **Above The Chaos**.  
+If you have **Questions**, feel free to email them to J@LIØNSBERG.org, and I will do my best to prioritize, batch and respond to them on **Above The Chaos**.  
 
 Let's Go.  
 

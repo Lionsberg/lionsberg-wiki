@@ -8,4 +8,4 @@ ___
 
 Forward to [[Meditation 590]]  
 Back to [[Meditation 588]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

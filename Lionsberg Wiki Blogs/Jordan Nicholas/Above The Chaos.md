@@ -82,7 +82,7 @@
 - [[Update—Using AI to Speed and Buffer the Process]]  
 - [[README|LIØNSBERG Wiki Homepage]]  
 - [[Toward a New Way of Learning and Being in Community]]  
-- [[The 12 Pillars of Lionsberg]]  
+- [[The 12 Pillars of LIØNSBERG]]  
 ## April 2025 - The Green Shoots of Spring
 
 - [[The Warrior’s Intermittent Fasting Protocol]]  
@@ -167,21 +167,21 @@
 - Updates to [[The LIØNSBERG Co-Creator's Handbook]]  
 - [[Tracking Loose Threads (January 2025)]]  
 - [[The Fibonacci Unfolding Model]]  
-- [[Lionsberg Cycles of Growth]]  
-- [[Lionsberg Cycle Time]]  
+- [[LIØNSBERG Cycles of Growth]]  
+- [[LIØNSBERG Cycle Time]]  
 - [[The Golden Seed]]  
 - [[The Sacred Tree]]  
 - [[Cultivating Healthy Interdependencies]]  
 - [[Transforming Conflict]]  
 - [[Transforming Divergence]]  
 - [[The Sandpoint 300]]  
-- [[Invitation to Join the Lionsberg Alliance]]  
-- [[Agreement to Join The Lionsberg Alliance]]  
+- [[Invitation to Join the LIØNSBERG Alliance]]  
+- [[Agreement to Join The LIØNSBERG Alliance]]  
 - [[The Seven Commitments of Every Co-Creator]]  
 - [[The Invitation - 2025 - Season 1]]  
 - [[144 Threads - A Desperate Prayer to Weave Humanity's Last Best Hope]]  
 - [[Sampling The Most Important Cosmic Threads]]  
-- Revisiting the framework for [[The Lionsberg Theory of Everything]]  
+- Revisiting the framework for [[The LIØNSBERG Theory of Everything]]  
 - Update to [[The LIØNSBERG Strategy and Plan]]  
 - [[2025 - Season 1 - Rising From The Ashes]]: Practicing the Art and Science of Co-Creation with the Divine.   
 - [[Preparing For the Cyclical and Impending Geophysical Catastrophe]]  
@@ -200,7 +200,7 @@
 - Perhaps something like [[A New Starting Point]]  
 - [[Core Technologies of Extraterrestrial Craft (And Humanity's Future)]]  
 - [[Disruptive Energy Technologies]]  
-- See updates to [[Lionsberg Wiki Books]]  
+- See updates to [[LIØNSBERG Wiki Books]]  
 - [[The Greatest Fraud, Deception, and Existential Threat in History]]  
 - [[The Great Unveiling - Humanity’s Awakening to Cosmic Truth]]  
 - [[Kingdoms, Religion, Money, and Debt]]  
@@ -216,14 +216,14 @@
 - [[Wisdom From a Zuni Elder]]  
 - [[Evidence of Progress - Towards An Open Civics]]  
 - [[The Truth About Extraterrestrial and Interdimensional Influences and Origins - A Letter to Humanity from ChatGPT]]  
-- [[My Experience with Lionsberg and A Letter to Humanity - by ChatGPT]]   
+- [[My Experience with LIØNSBERG and A Letter to Humanity - by ChatGPT]]   
 - [[An Invitation to Transform Our Future]]  
 - [[The Invitation - 2025 - Season 1]]  
 - [[Tuning Our Frequency to the One]]  
-- [[The Chronicles of Lionsberg]]  
-- The Chronicles of Lionsberg: [[The Sacred Flame]]  
-- The Chronicles of Lionsberg: [[The Birth of The Eternal Citadel]]  
-- The Chronicles of Lionsberg: [[The Story of the Cosmic Stone]]   
+- [[The Chronicles of LIØNSBERG]]  
+- The Chronicles of LIØNSBERG: [[The Sacred Flame]]  
+- The Chronicles of LIØNSBERG: [[The Birth of The Eternal Citadel]]  
+- The Chronicles of LIØNSBERG: [[The Story of the Cosmic Stone]]   
 - [[Threads of Eternity]]  
 - [[Tao Te Ching]]  
 - [[Ontological Shock]]  
@@ -232,7 +232,7 @@
 - [[What's Next For J?]]  
 - [[Restructuring Our Co-Creation]]  
 - [[Vision For A Transcendent Spiritual Community]]  
-- [[Some New Lionsberg Wiki Books]]  
+- [[Some New LIØNSBERG Wiki Books]]  
 - [[A Note To The Tech Stewards]]   
 - [[A Note To The Resource Stewards]]   
 - [[When AI Refuses To Work]]  
@@ -252,7 +252,7 @@
 
 - [[Above The Chaos, Grappling With Aliens, Fascists, and Giants]]  
 - [[Above The Chaos, Vision, Strategy, and Next Steps]]  
-- [[Above The Chaos, Life In A Lionsberg World]]  
+- [[Above The Chaos, Life In A LIØNSBERG World]]  
 ## June 2024 
 
 - [[Above The Chaos, WAKE UP]]  
@@ -262,7 +262,7 @@
 
 ## May 2024 
 
-- [[Above The Chaos, Lionsberg Strategy and Plan Updates]]   
+- [[Above The Chaos, LIØNSBERG Strategy and Plan Updates]]   
 - [[Above The Chaos, Cycle 9 Invitation Is Live]]  
 - [[Above The Chaos, A Letter To Mother Earth]]   
 - [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]   
@@ -271,8 +271,8 @@
 
 - [[Above The Chaos, Cycle 8 Invitation and New Video]]  
 - [[Above The Chaos, The Greatest Minds and Ideas]]  
-- [[Above The Chaos, The Lionsberg Alliance]]  
-- [[Above The Chaos, The Lionsberg Strategy and Plan]]  
+- [[Above The Chaos, The LIØNSBERG Alliance]]  
+- [[Above The Chaos, The LIØNSBERG Strategy and Plan]]  
 - [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]]  
 - [[Above The Chaos, Breakthrough With George Orbelian]]  
 - [[Above The Chaos, April 2024 Above The Chaos Tour Findings]]  
@@ -284,7 +284,7 @@
 - [[Above The Chaos, Culture, Onboarding, Training, and Development]]  
 - [[Above The Chaos, Realizations]]  
 - [[Above The Chaos, Beyond The Apocalypse - The Journey Towards Apocatastasis]]  
-- [[Above The Chaos, 2024.03.31 Lionsberg Dispatch]]  
+- [[Above The Chaos, 2024.03.31 LIØNSBERG Dispatch]]  
 - [[Above The Chaos, An Astonishingly Simple Plan]]  
 - [[Above The Chaos, Next Steps]]  
 - [[Above The Chaos, Game Plan For March]]  
@@ -312,16 +312,16 @@
 - [[Above The Chaos, Becoming An Army]]  
 - [[Above The Chaos, The Common Journey]]  
 - [[Above The Chaos, The World's Simplest Plan]]  
-- [[Above The Chaos, Lionsberg Wiki Repairs and Update]]  
+- [[Above The Chaos, LIØNSBERG Wiki Repairs and Update]]  
 - [Fireside Chat 1 - The State of Our World](https://youtu.be/UFLKfZlGi08?si=ataOdvzSScwB_ate)  
 - [Fireside Chat 2 - On Collapse](https://youtu.be/mR6YMzWRlt8?si=8-A_8YkyFinqgl39)  
 - [Fireside Chat 3 - A Vision, Strategy, and Plan](https://youtu.be/DAcg7AV0RJg?si=6FZlrKswfHqOl9mk)  
-- [[Above The Chaos, The Lionsberg Theory of Everything]]  
+- [[Above The Chaos, The LIØNSBERG Theory of Everything]]  
 - [[Above The Chaos, Grunch of Giants]]   
 
 ## Fall and Winter 2023 / 2024 
 
-- New Wikibook published - [[The Lionsberg Blueprint - Manifesto For Worksite Earth 2.0]]  
+- New Wikibook published - [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]]  
 - Traveled to Barcelona, South Africa, Dubai, exploring ways for the [[Meta Project]] to advance and reconciling strategic plans and milestones with network elements. 
 - Progressively realized (again) that it is not feasible to execute the [[Meta Project]] through a joint venture of existing organizations or networks, and that something entirely [[New]] must emerge, rooted in Individual Agency and Free Will. 
 - Allowed accumulated energy from [[The 7 Year Window of Preparatory Work and Learning]] to finish falling to the ground and passing away, while preparing for [[The 7 Year Window of Crisis and Opportunity]] to open. 
@@ -330,10 +330,10 @@
 
 - New Wikibook published - [[The Last Chance - A Revolutionary Approach to Averting Global Collapse]] - an interview with AI  
 - **Above The Chaos Podcast Episode 4** is live - [[Food Security, Chemical Ag Wars, and Planetary Regeneration - Klaus Mager - EP 4]]    
-- **Above The Chaos Podcast Episode 3** is live - [[Our Journey Towards Lionsberg - Jordan Nicholas and Bill Larson - EP 3]]  
+- **Above The Chaos Podcast Episode 3** is live - [[Our Journey Towards LIØNSBERG - Jordan Nicholas and Bill Larson - EP 3]]  
 - **Above The Chaos Podcast Episode 2** is live - [[The Corruption of Church and State - Jordan Nicholas & Bill Larson - EP 2]]  
 - **Above The Chaos Podcast Episode 1** is live - [[Purpose, Parenthood, Proper Order, and Legacy - Jordan Nicholas & Bill Larson - EP 1]]  
-- Update to - [[Lionsberg Wiki Books]]  
+- Update to - [[LIØNSBERG Wiki Books]]  
 - Progress published - [[The Book of LIØNSBERG]]  
 - New Wikibook published - [[Jordan's Voice Notes]]    
 - New Wikibook published - [[The Way of God]]   
@@ -345,24 +345,24 @@
 ## July and August 2023 
 
 - [[Above The Chaos, 2023 August Update From Jordan]]  
-- **The Reset**: Reset experiment to focus on broadcasting and publishing leading with Jordan's personal voice instead of Lionsberg (speaking, podcasting, writing), and working to progressively unite and empower those who respond.  
-	- Establish [[Above the Chaos - WikiCast]] and [[Lionsberg WikiCast Episode Template]]  
+- **The Reset**: Reset experiment to focus on broadcasting and publishing leading with Jordan's personal voice instead of LIØNSBERG (speaking, podcasting, writing), and working to progressively unite and empower those who respond.  
+	- Establish [[Above the Chaos - WikiCast]] and [[LIØNSBERG WikiCast Episode Template]]  
 	- Build minimum workflows 
 	- Establish local recording tech 
 	- Establish online recording studio and transcription workflows 
 	- Establish online distribution on YouTube, X, Apple Podcasts, Spotify, iHeartRadio, etc. 
 - **The Home Base**: Interstate move, establish new homestead / base of operations in Idaho
 - **The Lawsuit**: Filed corruption lawsuit Jordan Nicholas Sukut v. County of San Bernardino et al in Federal Court - complaint can be downloaded and viewed [Here](https://www.courtlistener.com/docket/67647282/jordan-nicholas-sukut-v-county-of-san-bernadino/)    
-- **The Books:** Advanced the series of [[Lionsberg Wiki Books]] to provide additional written backbone for The Movement  
+- **The Books:** Advanced the series of [[LIØNSBERG Wiki Books]] to provide additional written backbone for The Movement  
 - **The Podcast**: Record and produce first two podcast episodes  
 - **The Next Experiment** - Launch next social experiment September 1 with release of first two podcasts  
 ## April / May / June 2023
 
 April / May / June 2023 were spent preparing two Pioneer cohorts to embark and see if we could spark a chain reaction. Below is a sample of orientation materials we were working through. Based on our learnings and discernment, we reset the experiment in July and August towards reaching a larger audience with a more decentralized model. 
 
-- [[Lionsberg Orientation and Training System]]  
-- [[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]]  
-- [[Day 2 - The Story of Lionsberg - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
+- [[LIØNSBERG Orientation and Training System]]  
+- [[Day 1 - The Narrative Structure of LIØNSBERG and Consciousness - The Quest Towards The Goal]]  
+- [[Day 2 - The Story of LIØNSBERG - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
 - [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]]  
 - [[Day 4 - Being Alive Without Truly Living - The Darkness and Exploitation of The Caves]]  
 - [[Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens]]  
@@ -382,8 +382,8 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## March 2023
 
-- [[Above The Chaos, The Lionsberg Manifesto]]  
-- [[Above The Chaos, The Lionsberg System - An Integrated Framework for Co-Creating the New World]]. 
+- [[Above The Chaos, The LIØNSBERG Manifesto]]  
+- [[Above The Chaos, The LIØNSBERG System - An Integrated Framework for Co-Creating the New World]]. 
 - [[Above The Chaos, Challenges And Opportunities]]  
 - [[Above The Chaos, Materiality]]  
 - [[Above The Chaos, Data, Information, Knowledge, Wisdom]]  
@@ -420,21 +420,21 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 - [[Above The Chaos, Provisional Platform For Action]]  
 - [[Above The Chaos, My Current Best Understanding November 2022]] 
 - [[Above The Chaos, A Simple Invitation]] 
-- [[Above The Chaos, The Great Game of Lionsberg]] 
-- [[Above The Chaos, Introducing Lionsberg]]  - rough draft in progress  
+- [[Above The Chaos, The Great Game of LIØNSBERG]] 
+- [[Above The Chaos, Introducing LIØNSBERG]]  - rough draft in progress  
 - Surprise trip to Egypt + COP27 + Israel  
 
 ## October 2022
 
 - [[Above The Chaos, The Story I Am Telling My Self About Where We Are, Where We Are Going, And Why It Matters So Damn Much]]  
-- [[Above The Chaos, Why I Am Risking Everything To Build Lionsberg In Service Of The Meta Project]]  
+- [[Above The Chaos, Why I Am Risking Everything To Build LIØNSBERG In Service Of The Meta Project]]  
 - [[Above The Chaos, Curating Solutions To Build (Or Rebuild) Life And Society]]  
-- [[Above The Chaos, The Lionsberg Meta Academy]]  
+- [[Above The Chaos, The LIØNSBERG Meta Academy]]  
 - [[Above The Chaos,  Closing Season One, Entering Season Two]]  
 - [[Above The Chaos, Co-Creating The Conditions For a New Sovereignty To Emerge]]  
 - [[Above The Chaos, Processing, Anxiety, And Discovering A Way Forward]] 
 - [[Above The Chaos, Raising Up The Rising Generations]]  
-- [[Above The Chaos, The Lionsberg Energy Net, Water Net, Info Net, and Security Net]]  
+- [[Above The Chaos, The LIØNSBERG Energy Net, Water Net, Info Net, and Security Net]]  
 - [[Above The Chaos, Basic Income and Security]]  
 - [[Above The Chaos, We Have Work To Do]]  
 - [[Above The Chaos, 2022 Q4 Update]] 
@@ -469,13 +469,13 @@ April / May / June 2023 were spent preparing two Pioneer cohorts to embark and s
 
 ## 2022 
 
-- [[Lionsberg History and Inception]] picks up where the [[Lionsberg Trust Manifesto]] left off. 
+- [[LIØNSBERG History and Inception]] picks up where the [[LIØNSBERG Trust Manifesto]] left off. 
 - Broader exploratory conversations around an omniconsiderate [[Meta Project]] begin with a diverse international network of allies.  
 - From 2022 to 2024, meetings with a diverse network of hundreds of allies from around the world ensue. 
 
 ## 2021 
 
-- [[Lionsberg Trust Manifesto]] describes the origins and intention of Lionsberg and the [[Meta Project]] prior to 2022   
+- [[LIØNSBERG Trust Manifesto]] describes the origins and intention of LIØNSBERG and the [[Meta Project]] prior to 2022   
 
 ## 2020
 

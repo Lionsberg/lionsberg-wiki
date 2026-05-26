@@ -1,4 +1,4 @@
-# Lionsberg Africa 2022.02.16
+# LIØNSBERG Africa 2022.02.16
 
 - Team formed a new Kenya WhatsApp ground to review the content Jordan has been providing. Hooray!
 
@@ -27,7 +27,7 @@
     - Patterns... 
         - the common problems
         - the common needs 
-    - Pattern Language - https://lionsberg.wiki/lionsberg_system_design/the_way/concepts_and_ideas/pattern_language 
+    - Pattern Language - https://LIØNSBERG.wiki/LIØNSBERG_system_design/the_way/concepts_and_ideas/pattern_language 
 - This will help us see the opportunities / gaps / needs -
     - each part of the body needs all other parts of the body 
 - in order to begin creating a complete ecosystem - a complete house... A dwelling place suitable for consciousness to develop into the fullness of its potential and flourish in harmony.

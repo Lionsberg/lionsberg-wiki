@@ -1,9 +1,9 @@
-# Lionsberg Integrated Delivery System Starting Point
+# LIØNSBERG Integrated Delivery System Starting Point
 
 As a simple and pragmatic recommendation for beginning to engage in the [[LIØNSBERG Integrated Delivery System]], there five simple principles:
 
 1. The [[Meta Goal]]: We are [[All]] here in service of ØNE highest overarching and uniting [[Meta Goal]].
-2. [[Federation]]: Every [[Conscious Agent]] should federate with other Agents, and with Lionsberg as a Whole. This includes forging or joining at least one [[Small Groups|Small Group]], which acts as an Integrated Program Delivery Team ([[IPD Teams|IPD Team]]).
+2. [[Federation]]: Every [[Conscious Agent]] should federate with other Agents, and with LIØNSBERG as a Whole. This includes forging or joining at least one [[Small Groups|Small Group]], which acts as an Integrated Program Delivery Team ([[IPD Teams|IPD Team]]).
 3. The [[Network of Commitments]]: Every Agent should make and keep Commitments _to_ other Agents, and secure and validate Commitments _from_ other Agents.
 4. [[Aligning Commitments]]: Agents should endeavor to align Commitments with the [[Critical Chain]] to create [[Throughput]] of the [[Goal]]. 
 5. The [[Planning System]]: Even if it is merely through informal conversation to begin, Agents should endeavor to understand:

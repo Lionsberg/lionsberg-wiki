@@ -2,7 +2,7 @@
 status: captured
 fold_target: II
 themes: [pattern-language, federation, scale, foundational]
-source: Phase 2.1 audit of The Lionsberg Meta Guide
+source: Phase 2.1 audit of The LIØNSBERG Meta Guide
 captured: 2026-05-18
 ---
 

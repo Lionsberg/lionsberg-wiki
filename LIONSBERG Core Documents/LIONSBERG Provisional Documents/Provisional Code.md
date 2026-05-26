@@ -27,7 +27,7 @@ ___
 From any of these simple word tools, the entire Universal Law and Code can be derived.  
 ___
 
-## The Lionsberg | Meta Code
+## The LIØNSBERG | Meta Code
 
 The Questions that lead to the articulation of the Code / Way of Being are something like: 
 
@@ -39,7 +39,7 @@ The Code articulates, in concrete and relatable ways, how the Values show up in 
 
 From the One Spirit behind the list of Universal Values reflected in [[The LIØNSBERG System of Values]], we have articulated a Provisional Code composed of 100 concrete behaviors that, to our [[Current Best Understanding]], constitute an approximation of some of the basic [[Patterns of Life]]. 
 
-It is called the Lionsberg | Meta Code to differentiate our articulation of it from the Absolute / Eternal / Universal / Ineffable / Transcendent understanding of It that cannot be reduced to words. 
+It is called the LIØNSBERG | Meta Code to differentiate our articulation of it from the Absolute / Eternal / Universal / Ineffable / Transcendent understanding of It that cannot be reduced to words. 
 
 This Meta Code is only a shallow and surfacial articulation of the Spirit that impels us to do our best to act perfectly, wisely, and rightly in service of [[ØNE]] and [[All]]. 
 

@@ -1,13 +1,13 @@
 # Team Jump Page
 
-- [[README|Lionsberg Wiki Home Page]]
+- [[README|LIØNSBERG Wiki Home Page]]
 - [[Your Starting Point]]
 - [[Our Way of Writing Here]]
 - [[Obsidian Tips and Tricks]]
-- [[Lionsberg Wiki Blogs]]
+- [[LIØNSBERG Wiki Blogs]]
 - [[Groups]]
 - [[Meetings]]
-- [[The Book of LIØNSBERG|The Book Of Lionsberg]]
+- [[The Book of LIØNSBERG|The Book Of LIØNSBERG]]
 - [[The Way]]
 
 Some people call jump pages [[Maps of Content]]. 

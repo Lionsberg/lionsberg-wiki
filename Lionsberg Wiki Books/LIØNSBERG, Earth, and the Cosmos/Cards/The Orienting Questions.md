@@ -2,7 +2,7 @@
 status: captured
 fold_target: V
 themes: [lexicon, orientation, foundational, pedagogy]
-source: Phase 2.1 audit of The Lionsberg Meta Guide ("In The Beginning…" essay)
+source: Phase 2.1 audit of The LIØNSBERG Meta Guide ("In The Beginning…" essay)
 captured: 2026-05-18
 ---
 

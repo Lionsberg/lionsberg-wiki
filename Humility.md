@@ -20,7 +20,7 @@ Several factors can challenge humility, such as societal emphasis on individual 
 
 Cultivating humility involves self-awareness, self-reflection, a commitment to learning and growth, and deep reverence and awe in the presence of the Creator and All Creation. It also involves recognizing the value of others and the interconnectedness of all beings. It requires courage to acknowledge one's shortcomings and the willingness to learn from them.
 
-**Humility in the Context of Lionsberg**
+**Humility in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, humility becomes a guiding principle. It reminds us of our shared humanity and the limits of our individual knowledge and power. It compels us to listen, learn, and cooperate with each other and God.
 

@@ -1,8 +1,8 @@
 # Level Of Commitment
 
-Our [[Current Best Understanding]] is that [[LIØNSBERG]] should instantiate a [[Lionsberg Currency]].  
+Our [[Current Best Understanding]] is that [[LIØNSBERG]] should instantiate a [[LIØNSBERG Currency]].  
 
-This currency will be co-created internally within the community by [[Sovereign]] individuals voluntarily agreeing to self-organize and collaborate towards the [[Lionsberg Goals]].  
+This currency will be co-created internally within the community by [[Sovereign]] individuals voluntarily agreeing to self-organize and collaborate towards the [[LIØNSBERG Goals]].  
 
 The voluntary effort towards shared goals will be measured based on a [[Level Of Commitment]] that ranges from 1 to 7.  
 
@@ -73,7 +73,7 @@ The voluntary effort towards shared goals will be measured based on a [[Level Of
     - When the individual and community make a co-commitment to one another
     - Here is the level of commitment to the project
     - and here is the level of values I think I can create relative to the goals of the community... 
-    - Lionsberg has particular goals it is working towards
+    - LIØNSBERG has particular goals it is working towards
     - Is something is contributing a lot but not ADVANCING THE OBJECTIVES... it is essentially an advisor bonus
     - co-commitment... 
     - Here is the level of commitment I am going to make... 
@@ -105,8 +105,8 @@ The voluntary effort towards shared goals will be measured based on a [[Level Of
 - net net thing is commitment towards higher purpose and the only way to judge that is in community... 
 
 ## Jordan's Summary to Incorporate... 
-- The [[Lionsberg Time Currency]] was a concept that was a stepping stone.
-- Our [[Current Best Understanding]] is that the [[Lionsberg Currency]] should begin with a simple [[Level Of Commitment]] on a scale from 1 to 7, made as an agreement between the individual and the Community. 
+- The [[LIØNSBERG Time Currency]] was a concept that was a stepping stone.
+- Our [[Current Best Understanding]] is that the [[LIØNSBERG Currency]] should begin with a simple [[Level Of Commitment]] on a scale from 1 to 7, made as an agreement between the individual and the Community. 
 - If this scales out to all humanity, our entire society would operate on a 1 to 7 level of income equality, that could allow for resources and standards of living to adjusted as appropriate across all various contexts as we grapple with the currency systems of the [[Old World]]. 
 
 

@@ -32,7 +32,7 @@ Jordan's Notes:
 
 - In my writings I call this the [[Meta Crisis]].  
 - See also [[Most People Have No Idea What Is Coming]]  
-- And various aspects addressed in the [[Lionsberg Wiki Books]] and [[Above The Chaos]].  
+- And various aspects addressed in the [[LIØNSBERG Wiki Books]] and [[Above The Chaos]].  
 ## The Grand Strategy 
 
 Bucky's Notes: 
@@ -107,7 +107,7 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg System is created for this purpose: 
+- The LIØNSBERG System is created for this purpose: 
 	- to enable awakening individuals to reestablish their independence, sovereignty, and autonomy 
 	- to empower individuals to join together into small groups and teams  
 	- to tackle the most meaningful local quests they can conceive of each quarter 
@@ -124,7 +124,7 @@ Jordan's Notes:
 - Educating and enlightening 99% of humanity requires a lot of work. 
 - It cannot be done simply by providing information. It requires independent, experiential learning. 
 - This requires a system, purpose-built to accomplish this goal, which produces [[Throughput]] of educated, enlightened, and empowered Individuals. 
-- This is one of the core ways to measure the success of the Lionsberg System. 
+- This is one of the core ways to measure the success of the LIØNSBERG System. 
 
 ## Enoughness 
 
@@ -142,10 +142,10 @@ Bucky's Notes:
 Jordan's Notes: 
 
 - Again, the conversion of high technology from weaponry to livingry, and the establishment of the joint ventures required to design, build, deliver, operate, maintain, recycle and continuously improve the artifacts, requires a system. 
-- The Lionsberg System establishes a legal and technological Commons, into which the most advanced technologies, patents, inventions, templates, learnings, etc. can be populated. 
-- The Lionsberg System establishes a Prototype, into which such technologies can be integrated as interoperable components of the Human System that addresses all the [[General Problems]] and [[General Needs]] of humanity. 
-- The Lionsberg System provides the means for the establishment of [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]], and the myriad of sub-goals and values implied. 
-- The Lionsberg System provides the means for shared backend infrastructure and technology, which enables each of the industries and artifacts to bootstrap and tool itself up from the bottom up, without reinventing the wheel on the [[General Needs]] inherent in all joint ventures. 
+- The LIØNSBERG System establishes a legal and technological Commons, into which the most advanced technologies, patents, inventions, templates, learnings, etc. can be populated. 
+- The LIØNSBERG System establishes a Prototype, into which such technologies can be integrated as interoperable components of the Human System that addresses all the [[General Problems]] and [[General Needs]] of humanity. 
+- The LIØNSBERG System provides the means for the establishment of [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of LIØNSBERG]], and the myriad of sub-goals and values implied. 
+- The LIØNSBERG System provides the means for shared backend infrastructure and technology, which enables each of the industries and artifacts to bootstrap and tool itself up from the bottom up, without reinventing the wheel on the [[General Needs]] inherent in all joint ventures. 
 
 ## Power Structures 
 
@@ -183,7 +183,7 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg System addresses this issue by empowering all members into a new paradigm of [[Citizen Led Governance]].  
+- The LIØNSBERG System addresses this issue by empowering all members into a new paradigm of [[Citizen Led Governance]].  
 - This paradigm reestablishes sovereignty and autonomy at the individual, small group, and local level, ultimately working its way up through constitutional amendments at every level of governance up to the broadest conceptual whole. 
 - It further addresses the issue by recognizing that only a united Force For Good, millions or billions strong, will ultimately have the power to confront and overcome [[The Giants]]. 
 ## We Are All Billionaires 
@@ -198,7 +198,7 @@ Bucky's Notes:
 Jordan's Notes
 
 - Our [[Collective Inheritance]] is carefully guarded and concealed by [[The Giants]]. 
-- The Lionsberg Strategy and Plan calls for attempting to awaken and unite humanity prior to absolute crisis... recognizing that may not be possible, and preparing for The Prototype to be deployed in response to acute crisis. 
+- The LIØNSBERG Strategy and Plan calls for attempting to awaken and unite humanity prior to absolute crisis... recognizing that may not be possible, and preparing for The Prototype to be deployed in response to acute crisis. 
 - All humanity could voluntary leap forward into billionaireship... 
 - Whereas many scenarios of crisis and collapse involve the unnecessary suffering and death of a very significant proportion of the human population. 
 
@@ -214,7 +214,7 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg System addresses this by viewing the comprehensive healing, enlightenment and education of humanity as a objective to be systematically and measurably undertaken. 
+- The LIØNSBERG System addresses this by viewing the comprehensive healing, enlightenment and education of humanity as a objective to be systematically and measurably undertaken. 
 - Each "epiphany", learning, or unlearning that needs to occur can be structured into [[The LIØNSBERG Experience]] at the wise right time. 
 - The most crucial learnings and understandings can be included in the first 3 year period that precedes Citizenship in the (New System). 
 ## Divide and Conquer by Existing Power Structures
@@ -227,7 +227,7 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg Strategy and Plan addresses this by creating a [[Critical Path]] that runs through the progressive awakening, connection, and empowering of individuals 
+- The LIØNSBERG Strategy and Plan addresses this by creating a [[Critical Path]] that runs through the progressive awakening, connection, and empowering of individuals 
 - It understands that collective consciousness will shift along a [[Tipping Point Strategy]] that starts with a few, and gains momentum over [[Time]]. 
 - It further addresses this by ensuring that the New System is entirely transcendent and independent of any existing power or authority on earth, and composed entirely of voluntarily associating individuals, groups, and localities. 
 - The essence of the spiritual element moves us back [[Towards Oneness Through Love]].  
@@ -255,11 +255,11 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg Strategy and Plan treats this as a pragmatic imperative to be accomplished in the wise right way as part of the "Abundant Clean Energy" pillar - see [[The 12 Pillars of Lionsberg]]  
+- The LIØNSBERG Strategy and Plan treats this as a pragmatic imperative to be accomplished in the wise right way as part of the "Abundant Clean Energy" pillar - see [[The 12 Pillars of LIØNSBERG]]  
 - This would be accomplished as the primary mission of one of the [[Citizen Led Joint Ventures]]  
 - The Citizen Led Joint Venture in turn would empower a vast array of hundreds or thousands of different organizations to actually design, build, and localize the solutions... 
 - Solutions will be nested in [[The Prototype]] to ensure they are designed to be interoperable *within* a given [[Instantiation]], and between [[Instantiation Sites]]. 
-- This interconnected energy grid is one aspect of [[The Prototype]], which also encompasses each of [[The 12 Pillars of Lionsberg]].  
+- This interconnected energy grid is one aspect of [[The Prototype]], which also encompasses each of [[The 12 Pillars of LIØNSBERG]].  
 ## Beyond Corruptible Currencies - The Time Energy Value System  
 
 Bucky's Notes: 
@@ -283,14 +283,14 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- Lionsberg addresses this issue of [[Time, Energy, and Attention (TEA)]] as the fundamental unites of value to be allocated. 
+- LIØNSBERG addresses this issue of [[Time, Energy, and Attention (TEA)]] as the fundamental unites of value to be allocated. 
 - [[Time-Energy Accounting]]  
-- The Lionsberg System has subsumed a sophisticated enough data architecture and technological backbone to enable such a system. 
-- Lionsberg addresses the issue of uses a blend of currencies through the transition.  
+- The LIØNSBERG System has subsumed a sophisticated enough data architecture and technological backbone to enable such a system. 
+- LIØNSBERG addresses the issue of uses a blend of currencies through the transition.  
 - The System makes possible this universal mutual credit system.  
-- Lionsberg addresses the [[Jubilee]] that will be required to reset the debt and injustice accumulated exponentially over the period since Bucky was writing. 
+- LIØNSBERG addresses the [[Jubilee]] that will be required to reset the debt and injustice accumulated exponentially over the period since Bucky was writing. 
 - This will require massive political will in the face of the panic of the "the major political, religious, and business bureaucracies". 
-- Which is why the Lionsberg Critical Path is based on enlightening, connecting, and empowering millions, then billions of citizens. 
+- Which is why the LIØNSBERG Critical Path is based on enlightening, connecting, and empowering millions, then billions of citizens. 
 ## Money Vs. Wealth
 
 Bucky's Notes: 
@@ -301,7 +301,7 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg System envisions and interoperable array of local community currencies, interchangeable based on this time-energy valuations. 
+- The LIØNSBERG System envisions and interoperable array of local community currencies, interchangeable based on this time-energy valuations. 
 - It is likely that the wise right design will include a decentralized array of local currencies, exchangeable based on unmanipulatable time-energy accounting and purchasing power parity. 
 ## Beyond Nation States 
 
@@ -313,7 +313,7 @@ Bucky's Notes:
 
 Jordan's Notes: 
 
-- The Lionsberg Strategy and Plan envisions this as a process of progressive transcendence of the existing systems, evolutionary rather than revolutionary, including by constitutional amendment, that enable humanity to retain the best features and benefits of the existing systems, while leaving behind all aspects no longer serving us well, and gaining the significant new capabilities required. 
+- The LIØNSBERG Strategy and Plan envisions this as a process of progressive transcendence of the existing systems, evolutionary rather than revolutionary, including by constitutional amendment, that enable humanity to retain the best features and benefits of the existing systems, while leaving behind all aspects no longer serving us well, and gaining the significant new capabilities required. 
 - It will be crucial to avoid a collapse into absolute chaos during the transition. 
 - The end result will be far greater decentralization of power, coupled with higher order functional unity among all the diverse local instances. 
 ## Beyond Jobs
@@ -331,7 +331,7 @@ Jordan's Notes:
 - My intuition is that this 70% estimate is actually low, and the actual percentage of non-life-or-wealth-producing jobs is higher. 
 - Systems theory unequivocally has proven that it is better to pay people to not work, than to produce waste. 
 - Beyond not working, we know a welfare state of non-workers will not work, and that we desire every individual and locality engaged at the edge of their developmental capacity continually. 
-- The Lionsberg System addresses this by engaging individuals, in small teams, in quarterly quests, that keep each individual and team in their [[Zone Of Optimum Development]].  
+- The LIØNSBERG System addresses this by engaging individuals, in small teams, in quarterly quests, that keep each individual and team in their [[Zone Of Optimum Development]].  
 ## Beyond Opinions 
 
 Bucky's Notes
@@ -344,7 +344,7 @@ Bucky's Notes
 Jordan's Notes 
 
 - The tools and technologies for collective [[SenseMaking]] should incorporate both mathematical logic and human discernment and intuition. 
-- This has been incorporated into the Lionsberg System, Strategy and Plan. 
+- This has been incorporated into the LIØNSBERG System, Strategy and Plan. 
 ## Beyond School 
 
 Bucky's Notes: 
@@ -356,7 +356,7 @@ Bucky's Notes:
 
 Jordan's Notes
 
-- The transformation of our Way of lifelong learning and development is addressed as one of [[The 12 Pillars of Lionsberg]]. 
+- The transformation of our Way of lifelong learning and development is addressed as one of [[The 12 Pillars of LIØNSBERG]]. 
 - This will be addresssed va another Citizen Led Joint Venture. 
 ## Beyond Homelessness  
 
@@ -369,7 +369,7 @@ Bucky's Notes
 Jordan's Notes
 
 - Reference also [[Above The Chaos, 80 Percent of Homes, Schools, and Workplaces are Fostering Chronic Illness]]  
-- The built environment is addressed via [[The 12 Pillars of Lionsberg]]  
+- The built environment is addressed via [[The 12 Pillars of LIØNSBERG]]  
 - Again, this will be accomplished via a Citizen Led Joint Venture that aggregates the leading resources and technologies into [[The Prototype]], and in turn empowers a decentralized array of thousands of teams to localize, adapt, and instantiate 
 ## The Role of Humanity and the Final Exam 
 
@@ -389,8 +389,8 @@ Bucky's Notes
 
 Jordan's Notes 
 
-- The Lionsberg Strategy and Plan aligns with this by conceptualizing a critical path that runs through the invitation and voluntary decision of each individual to play the New Game   
-- The Lionsberg Experience is rooted around lifelong learning and development at each fractal level, starting with the Individual 
+- The LIØNSBERG Strategy and Plan aligns with this by conceptualizing a critical path that runs through the invitation and voluntary decision of each individual to play the New Game   
+- The LIØNSBERG Experience is rooted around lifelong learning and development at each fractal level, starting with the Individual 
 
 ## Preparing and Navigating Towards Truth 
 
@@ -419,7 +419,7 @@ Bucky's Notes
 
 Jordan's Notes 
 
-- The Lionsberg Pattern Language will do its best to evolve to encompass the array of Practices at all [[Levels of Analysis]].  
+- The LIØNSBERG Pattern Language will do its best to evolve to encompass the array of Practices at all [[Levels of Analysis]].  
 - [[The LIØNSBERG Lexicon]] exists to help all players forge a shared vocabulary and understanding.  
 
 ____

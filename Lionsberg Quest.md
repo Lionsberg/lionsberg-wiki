@@ -1,4 +1,4 @@
-# Lionsberg Quest
+# LIØNSBERG Quest
 
 Our journey unfolds like a transformative [[Quest]] towards [[The Goal]] of **Greatest Worth**. 
 

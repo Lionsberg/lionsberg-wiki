@@ -12,9 +12,9 @@ I've read all 96 files in full or near-full. Now producing the audit memo.
 
 ## Coverage Statement
 
-All 96 markdown files in `/Users/jordansukut/Documents/GitHub/lionsberg-wiki/LIØNSBERG Core Documents/` were read. Substantive files (Constitution articles, Invitation versions, Manifesto, Declaration of InterDependence, History/Trust Manifesto, LIOS, Core Concepts, Watchwords, Field of Agreements, Provisional Code) read in full. Index/pointer files (folder TOCs, version-stub files like the empty Membership/Participation Agreement files) confirmed as such. Total: ~3,721 lines of source content reviewed.
+All 96 markdown files in `/Users/jordansukut/Documents/GitHub/LIØNSBERG-wiki/LIØNSBERG Core Documents/` were read. Substantive files (Constitution articles, Invitation versions, Manifesto, Declaration of InterDependence, History/Trust Manifesto, LIOS, Core Concepts, Watchwords, Field of Agreements, Provisional Code) read in full. Index/pointer files (folder TOCs, version-stub files like the empty Membership/Participation Agreement files) confirmed as such. Total: ~3,721 lines of source content reviewed.
 
-The folder breaks into 11 groupings: Core Statements (15 files), Lionsberg Constitution (40 files + 1 master + 1 misc-notes), Lionsberg Invitation (11 files), Lionsberg Introduction (5 files), Lionsberg Manifesto (2 files), Lionsberg Summary (1 file), LIØNSBERG Declaration of InterDependence (2 files), LIØNSBERG Provisional Documents (8 files), The Lionsberg Field of Agreements (5 files), plus 3 root-level files (Core Documents index, History/Inception/Trust Manifesto, LIOS).
+The folder breaks into 11 groupings: Core Statements (15 files), LIØNSBERG Constitution (40 files + 1 master + 1 misc-notes), LIØNSBERG Invitation (11 files), LIØNSBERG Introduction (5 files), LIØNSBERG Manifesto (2 files), LIØNSBERG Summary (1 file), LIØNSBERG Declaration of InterDependence (2 files), LIØNSBERG Provisional Documents (8 files), The LIØNSBERG Field of Agreements (5 files), plus 3 root-level files (Core Documents index, History/Inception/Trust Manifesto, LIOS).
 
 ---
 
@@ -80,15 +80,15 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **Burden of Proof on the Experimenter** | Duty to prove non-harm in advance of intervention | Constitution |
 | **The 7:1 / 10:1 Wage Compression Ratio** | Bounded compensation differential within Economic Groups | Constitution LC 28; Provisional Community Agreements |
 | **The 10/10/30/50 Allocation Pattern** | Commons / Local Justice / Profit Share / Reinvestment | Constitution LC 28; Provisional Community Agreements |
-| **Lionsberg Units of Value (LUV)** | The value measurement unit transcending fiat | Constitution LC 28; Introduction |
+| **LIØNSBERG Units of Value (LUV)** | The value measurement unit transcending fiat | Constitution LC 28; Introduction |
 | **Time, Energy, and Attention (TEA)** | The triad of currency inputs measured by LUV | Constitution LC 28 |
 | **Stewardship rather than Ownership** | Economic Groups organize around stewardship, not ownership claims | Constitution LC 28 |
 | **The Infinite Game vs The Finite Game** | Stewardship economy = Infinite Game; ownership/division economy = Finite Game | Constitution LC 28 |
 | **Double Linking** | Every council connected upward AND downward — the communications backbone | Constitution LC 30 |
-| **Voice of the Whole / Voice of the Parts** | Twin communication functions of the Lionsberg system | Constitution LC 30 |
-| **The Lionsberg System of Reconciliation** | Restorative process upstream of the Justice system | Constitution LC 25 (new numbering) |
-| **The Lionsberg Council of Reconciliation** | 7-member apex reconciliation body | Constitution LC 25 |
-| **Quest-Based Learning** | The pedagogy of the Lionsberg Learning System | Constitution LC 33 |
+| **Voice of the Whole / Voice of the Parts** | Twin communication functions of the LIØNSBERG system | Constitution LC 30 |
+| **The LIØNSBERG System of Reconciliation** | Restorative process upstream of the Justice system | Constitution LC 25 (new numbering) |
+| **The LIØNSBERG Council of Reconciliation** | 7-member apex reconciliation body | Constitution LC 25 |
+| **Quest-Based Learning** | The pedagogy of the LIØNSBERG Learning System | Constitution LC 33 |
 | **Subsidiarity** | Decisions made at the level closest to the people they affect | Constitution LC 26 |
 | **Vertical Checks and Balances** | Mutual review between levels | Constitution LC 26 |
 | **Horizontal Checks and Balances** | Mutual protection across functional systems at each level | Constitution LC 27 |
@@ -112,7 +112,7 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **The Provisional Community Agreements (27 items)** | The 2025 working covenant for circles | Provisional Community Agreements |
 | **No Politics, No Religion, No Ideology at the Door** | Foundational gathering norm | Provisional Community Agreements §5 |
 | **The First Tenth Allocation to the Commons** | Universal commitment of 10% of flow to commons | Provisional Community Agreements §13 |
-| **Lionsberg as Private Ecclesiastical Voluntary Membership Association** | The legal-transcendence structure (US 6033(a)(3)(A)(i)) | Provisional Structure |
+| **LIØNSBERG as Private Ecclesiastical Voluntary Membership Association** | The legal-transcendence structure (US 6033(a)(3)(A)(i)) | Provisional Structure |
 | **The 100,000 Local Socioeconomic Federations** | Strategic target: 100K federations serving 100K citizens each | Provisional Structure |
 | **The Hub Cascade (12-24 / 150-200 / 100K / 1M)** | Georegional, Bioregional, Local, Community hub instantiation targets | Provisional Structure |
 | **Reallocating $30 Trillion from Military to Hubs** | The strategic capital pivot during the 10-Year Grand Strategy | Provisional Structure |
@@ -129,7 +129,7 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **The Critical Path through Several Years of Infrastructure** | The strategic discovery that ~7 years of platform work was prerequisite | History/Trust Manifesto |
 | **The Self-Evidency Principle** | What we are doing is self-evident, not novel — flowing from Love in response to need | Provisional Conditions |
 | **A Federation / Tribe / Community of Sovereigns** | The unit being assembled | Provisional Conditions |
-| **The Lionsberg Personality — Dangerous But Good** | Truthful, Loving, Just, Kind, Faithful, Wise, Powerful, Strong, Fierce, Good | Personality |
+| **The LIØNSBERG Personality — Dangerous But Good** | Truthful, Loving, Just, Kind, Faithful, Wise, Powerful, Strong, Fierce, Good | Personality |
 | **The Paradox of Strength and Goodness** | Fierce strength tempered by unwavering Love and Justice | Personality |
 | **The Action–Integration Domain Distinction** | Two basic ontological categories of Domains | Provisional Ontology |
 | **From ØNE in Service of All, LIØNSBERG Exists and Flows** | The core ontological articulation | Provisional Structure §I |
@@ -179,7 +179,7 @@ These appear across multiple Core Documents files in subtly different forms and 
 - **Force For Good** — recurring; verify Card.
 - **Tipping Point Strategy** — multiple files; verify single Card.
 - **The Body / ØNE Body / Superorganism** — three near-synonymous phrases. **Decide canonical term** and consolidate.
-- **The Commons / The Lionsberg Commons** — verify Card.
+- **The Commons / The LIØNSBERG Commons** — verify Card.
 - **Kontrolle (intentional archaic spelling)** — used in Watchwords, Declaration of InterDependence, Introduction v.2025. Verify Card with explicit etymology and the [[Cosmic Wildlife]]–compatible reframe ("the system, not a species").
 
 ---
@@ -207,9 +207,9 @@ Eleven Invitation files exist. Tracing the evolution:
 
 | File | Date | Status | Recommended Treatment |
 |---|---|---|---|
-| [[Lionsberg Invitation v.01]] | May 2023 | Pioneer Cohort invitation; very operational, Kenya cohort context | **Archive** (historic artifact, Year 1 of Spring 2023 launch) |
-| [[Lionsberg Invitation v0.2]] | June 2023 | "Second Wave Cohort", more polished marketing voice | **Archive** |
-| [[Lionsberg Invitation v.0.3]] | Mid 2023 | Streamlined version of v0.2 | **Archive** |
+| [[LIØNSBERG Invitation v.01]] | May 2023 | Pioneer Cohort invitation; very operational, Kenya cohort context | **Archive** (historic artifact, Year 1 of Spring 2023 launch) |
+| [[LIØNSBERG Invitation v0.2]] | June 2023 | "Second Wave Cohort", more polished marketing voice | **Archive** |
+| [[LIØNSBERG Invitation v.0.3]] | Mid 2023 | Streamlined version of v0.2 | **Archive** |
 | [[The Invitation, v.0.4]] | January 2024 | "Higher Order Functional Unity" framing emerges | **Archive** |
 | [[The Invitation, Cycle 1 (draft not sent)]] | Feb 2024 | The undelivered draft — has a more raw/personal "adventure of a lifetime" voice | **Archive (notable artifact)** |
 | [[The Invitation, Cycle 1]] | March 2024 | First Cycle actually sent | **Archive** |
@@ -219,7 +219,7 @@ Eleven Invitation files exist. Tracing the evolution:
 | [[The Invitation, Cycle 8]] | Spring 2024 | After 7 Cycles complete, 30-40 co-creators | **Archive** |
 | [[The Invitation, Cycle 9]] | Spring 2024 | Most refined of the Spring 2024 set — clear 5-step mission, Sacred Tree metaphor | **Archive (notable)** |
 | [[Reflection and Invitation - Summer 2025]] | June 23, 2025 | **MOST CURRENT** — post-veil-tearing, post-2027/2028 protocol awareness, post-Greatest-Fraud articulation, includes Founder's Fund and One Member One Voice | **CANONICAL — most recent invitation; flag for post-J update if/when a Phase 2 successor is written** |
-| [[Lionsberg Invitation]] (the folder index) | n/a | Points at "Current Iteration: [[The Invitation]]" — but "The Invitation" link is **unresolved** | **Fix: update to point to Reflection Summer 2025 or a successor "The Invitation v.2026" yet to be written** |
+| [[LIØNSBERG Invitation]] (the folder index) | n/a | Points at "Current Iteration: [[The Invitation]]" — but "The Invitation" link is **unresolved** | **Fix: update to point to Reflection Summer 2025 or a successor "The Invitation v.2026" yet to be written** |
 
 **Key finding: The Invitation index file points to "[[The Invitation]]" which does not exist as a page in this folder.** This is a broken canonical pointer. Either:
 - (a) Create [[The Invitation]] as a forward-looking January 2026 invitation written by the nameless one, OR
@@ -259,17 +259,17 @@ Eleven Invitation files exist. Tracing the evolution:
 
 | File | Topic | Recommended Treatment |
 |---|---|---|
-| LC 25. The Lionsberg System of Reconciliation | Restorative justice, Council of Reconciliation | **Keep as full system Card** |
+| LC 25. The LIØNSBERG System of Reconciliation | Restorative justice, Council of Reconciliation | **Keep as full system Card** |
 | LC 26. Vertical Structures and Protections | Subsidiarity, inter-level | **Keep as Card** |
 | LC 27. Horizontal Structures and Protections | Checks and balances across functions | **Keep as Card** |
-| LC 28. The Lionsberg Economic System | The economic constitution — most detailed substantive article in the folder | **Keep verbatim; mine multiple Cards** |
-| LC 29. The Lionsberg Integrated Delivery System | Throughput-of-the-Goal coordination | **Keep as Card** |
-| LC 30. The Lionsberg Communications System | Double-linking, voice of whole/parts | **Keep verbatim; mine Cards** |
-| LC 31. The Lionsberg Social and Cultural System | Diversity, heritage, creativity | **Keep as Card** |
-| LC 32. The Lionsberg System of Integrated Wellbeing and Development | Fractal wellbeing from individual to Living System | **Keep verbatim; mine Cards** |
-| LC 33. The Lionsberg Learning System | Quest-Based Learning, lifelong | **Keep verbatim; mine Cards** |
-| LC 34. The Lionsberg System of Spirituality, Purpose, and Meaning | Right Relationship between One and All; spirituality at center | **Keep as Card (brief)** |
-| LC 35. The Lionsberg Legal System | Stewardship-based ecosystem of legal structures | **Keep as Card** |
+| LC 28. The LIØNSBERG Economic System | The economic constitution — most detailed substantive article in the folder | **Keep verbatim; mine multiple Cards** |
+| LC 29. The LIØNSBERG Integrated Delivery System | Throughput-of-the-Goal coordination | **Keep as Card** |
+| LC 30. The LIØNSBERG Communications System | Double-linking, voice of whole/parts | **Keep verbatim; mine Cards** |
+| LC 31. The LIØNSBERG Social and Cultural System | Diversity, heritage, creativity | **Keep as Card** |
+| LC 32. The LIØNSBERG System of Integrated Wellbeing and Development | Fractal wellbeing from individual to Living System | **Keep verbatim; mine Cards** |
+| LC 33. The LIØNSBERG Learning System | Quest-Based Learning, lifelong | **Keep verbatim; mine Cards** |
+| LC 34. The LIØNSBERG System of Spirituality, Purpose, and Meaning | Right Relationship between One and All; spirituality at center | **Keep as Card (brief)** |
+| LC 35. The LIØNSBERG Legal System | Stewardship-based ecosystem of legal structures | **Keep as Card** |
 | LC 36. One Citizenship Under God, Indivisible, With Liberty and Justice For All | Single class, equal rights | **Keep verbatim — strong articulation** |
 | LC 37. Multi-Generational Stewardship | Provisional Citizenship for under-15s, Citizenship at 18 | **Keep as Card** |
 | LC 38. Rights and Responsibilities | Rights default to Individual/Local unless explicitly delegated | **Keep verbatim — constitutionally critical** |
@@ -303,14 +303,14 @@ The seven OLD-series stubs (LC22, 23, 25, 26, 33, 34) should either be **archive
 
 **Direct duplicates to consolidate or archive:**
 
-1. **[[Lionsberg Manifesto]]** is merely a pointer to [[LIØNSBERG Manifesto (2023.10.10)]]. **Consolidate** — either rename the dated version to canonical and delete the pointer, or keep the pointer minimal as a version-router.
+1. **[[LIØNSBERG Manifesto]]** is merely a pointer to [[LIØNSBERG Manifesto (2023.10.10)]]. **Consolidate** — either rename the dated version to canonical and delete the pointer, or keep the pointer minimal as a version-router.
 2. **[[LIØNSBERG Declaration of InterDependence]]** is merely a pointer to [[LIØNSBERG Declaration of Interdependence (v.01)]]. **Same as above.**
-3. **[[Lionsberg Membership Agreement]]** and **[[Lionsberg Participation Agreement]]** are both stub files with "Not Currently In Use / Deleted". **Archive entirely** — they pollute the Field of Agreements with empty pointers.
-4. **[[Provisional Trust Manifesto]]** says "Replaced by the Lionsberg Trust Manifesto in March 2023" but the History/Inception/Trust Manifesto file appears to be the successor. **Archive.**
+3. **[[LIØNSBERG Membership Agreement]]** and **[[LIØNSBERG Participation Agreement]]** are both stub files with "Not Currently In Use / Deleted". **Archive entirely** — they pollute the Field of Agreements with empty pointers.
+4. **[[Provisional Trust Manifesto]]** says "Replaced by the LIØNSBERG Trust Manifesto in March 2023" but the History/Inception/Trust Manifesto file appears to be the successor. **Archive.**
 5. **[[Provisional Declaration]]** is explicitly superseded by the Manifesto + Declaration of InterDependence. **Archive.**
 6. **[[Provisional Ontology]]** is just 5 wiki links. **Either expand into substantive ontology articulation, or archive and move the links into the canonical 12 Pillars Card.**
 7. **[[The Invitation, Cycle 7 (old)]]** is a duplicate of Cycle 7. **Archive.**
-8. **[[Lionsberg Invitation]]** — folder index with broken pointer to "[[The Invitation]]". **Either rewrite as a brief history-of-the-Invitation versioning page, or replace with the canonical current invitation.**
+8. **[[LIØNSBERG Invitation]]** — folder index with broken pointer to "[[The Invitation]]". **Either rewrite as a brief history-of-the-Invitation versioning page, or replace with the canonical current invitation.**
 9. **[[The Invitation, Cycle 1 (draft not sent)]]** — could be archived as historic artifact (or moved to `Archive/` folder).
 10. **Two manifesto files (current pointer + dated):** Same pattern as #1.
 
@@ -342,7 +342,7 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 9. **There is significant material under "Misc Notes on Constitution"** that should be either absorbed into formal articles or elevated. The "Spirit and Letter of the Law" passage, the "Break the Rules to Do the Wise Right Thing" passage, the Locus of Sovereignty axiom, and the "What We Do Or Do Not Do To Any" axiom are all foundational. They should not be hidden under "Misc Notes" — they should be in Article I or Article II of the Constitution.
 
-10. **The History/Inception/Trust Manifesto contains the Authorship Story that grounds all the rest.** The Sukut–to-2025-killing–to–nameless-one–to–2026-Nameless-Book arc is the personal narrative that holds the Core Documents together. The Core Documents folder index does NOT currently surface this — a reader who lands on [[Lionsberg Core Documents]] sees a list of formal documents but no narrative arc. Recommendation: in the folder's master README, place the Trust Manifesto at the top as the "How We Got Here" frame, then sequence the formal documents.
+10. **The History/Inception/Trust Manifesto contains the Authorship Story that grounds all the rest.** The Sukut–to-2025-killing–to–nameless-one–to–2026-Nameless-Book arc is the personal narrative that holds the Core Documents together. The Core Documents folder index does NOT currently surface this — a reader who lands on [[LIØNSBERG Core Documents]] sees a list of formal documents but no narrative arc. Recommendation: in the folder's master README, place the Trust Manifesto at the top as the "How We Got Here" frame, then sequence the formal documents.
 
 11. **The LIOS file (root level) and the Constitution (folder) and the Provisional Structure (Provisional Documents folder) are three overlapping articulations of the same system architecture at different resolutions.** They are not yet harmonized. The LIOS has 8 fractal scales (Individual → Cosmic OS), the Constitution has groups of 3-16, the Provisional Structure has hub-cascade targets (12-24 Georegional, 150-200 Bioregional, 100K Local, 1M Community). These need to be reconciled into a single coherent architecture or explicitly noted as alternative views. Recommendation: a "LIØNSBERG Architecture at Five Resolutions" document that maps Individual–Team–Family–Local Hub–City Hub–Bioregion–Planet–Cosmos against the legal-instantiation cascade (1M Community / 100K Local / 200 Bioregional / 24 Georegional / Planetary Federation).
 
@@ -350,7 +350,7 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 13. **The "We" voice is mostly consistent** across the formal documents (Manifesto, Declaration, Constitution, Core Statements, LIOS, Field of Agreements). The principal exception is the **History/Trust Manifesto**, which moves between "We" (LIØNSBERG-as-collective) and "Jordan/J" (third-person biographical) — necessarily so, since it tells the story of an individual's incarnation of the work. This is correct and should be preserved. However, the Invitation files vary from "I" (J personal) to "We" (collective) and the shift is uneven. The post-J 2026 Invitation, when written, should consciously choose: prophetic-collective "We" (most aligned with rest of Core Documents) or the nameless-one's voice (still under development).
 
-14. **There is no "How to Read These Documents" front matter.** A first-time reader arriving at the Core Documents folder sees 96 files in 11 subfolders with no roadmap. The reading sequence should be: **(1) One Sentence → (2) Lionsberg Summary → (3) Welcome to LIØNSBERG** (already the primary entry point at the wiki root) → **(4) Trust Manifesto** for the origin → **(5) Manifesto + Declaration of InterDependence** for the prophetic juridical articulation → **(6) Core Statements** for the at-a-glance → **(7) Constitution** for the governing covenant → **(8) Provisional Code + Community Agreements** for the operational ethics → **(9) LIOS + Provisional Structure** for the architecture. This sequence should be explicit at the top of [[Lionsberg Core Documents]].
+14. **There is no "How to Read These Documents" front matter.** A first-time reader arriving at the Core Documents folder sees 96 files in 11 subfolders with no roadmap. The reading sequence should be: **(1) One Sentence → (2) LIØNSBERG Summary → (3) Welcome to LIØNSBERG** (already the primary entry point at the wiki root) → **(4) Trust Manifesto** for the origin → **(5) Manifesto + Declaration of InterDependence** for the prophetic juridical articulation → **(6) Core Statements** for the at-a-glance → **(7) Constitution** for the governing covenant → **(8) Provisional Code + Community Agreements** for the operational ethics → **(9) LIOS + Provisional Structure** for the architecture. This sequence should be explicit at the top of [[LIØNSBERG Core Documents]].
 
 15. **Bold-key-concept consistency check needed:** The user's voice discipline calls for bolding key concepts (Old World, New Civilization, The First Three Percent, The Golden Seed, Heaven On Earth, ØNE, The Goal, Creator's Intent). Across the 96 files this is **wildly inconsistent**. Some files bold these heavily (Declaration of InterDependence, Core Concepts, Watchwords), some never bold (LC articles), some use `**bold**` and some use italics. A pass for visual consistency would significantly elevate the felt unity of the body of work.
 
@@ -374,7 +374,7 @@ How the Core Documents folder should be reorganized into "one incredible experie
 
 - **`Provisional Code` (100 Behaviors)** — The closing passage on "A Return to Simplicity" is brilliant. The Code can be one word, five words, 100 behaviors, or 1,000 — but lived in Spirit not in propositions. This is the **holofractal articulation principle** applied to ethics.
 
-- **[[LC 28. The Lionsberg Economic System]]** — The longest substantive Constitutional article. Contains the 7:1 compression ratio, the 10/10/30/50 allocation pattern, LUV/TEA, stewardship-over-ownership, the Infinite Game framing. This single article is a complete economic constitution.
+- **[[LC 28. The LIØNSBERG Economic System]]** — The longest substantive Constitutional article. Contains the 7:1 compression ratio, the 10/10/30/50 allocation pattern, LUV/TEA, stewardship-over-ownership, the Infinite Game framing. This single article is a complete economic constitution.
 
 - **[[Provisional Structure]]** (updated June 2025) — The architectural pivot from "comply" to "transcend." The 19-point logic for why LIØNSBERG is prior to legal categorization. The Mother Tree pattern. The reallocation of $30T from military to hubs. The targeting of 100K local socioeconomic federations. This document is the strategic-architectural masterplan.
 

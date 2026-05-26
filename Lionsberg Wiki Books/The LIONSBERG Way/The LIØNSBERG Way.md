@@ -25,7 +25,7 @@ By differentiating out and naming, among [[All]] the potential ways, **One LIØN
 
 It is an Ultimately Unified, Harmonized and Cohered [[State of Being]] and a [[Way of Being]], sub-composed the Deepest Wisdom Knowledge regarding **[[How]]** to InterExist in a State that approaches Heaven.  
 
-*Note: The LIØNSBERG Way is in the process of transcending, encompassing, and replacing [[The Lionsberg Handbook]].*  
+*Note: The LIØNSBERG Way is in the process of transcending, encompassing, and replacing [[The LIØNSBERG Handbook]].*  
 
 ## The Story of LIØNSBERG 
 
@@ -82,25 +82,25 @@ A comprehensive system of systems, community of community etc.
 ## 11. The LIØNSBERG Intention
 
 [[Creator's Intent]]  
-[[Lionsberg Intention]]  
+[[LIØNSBERG Intention]]  
 
 ## 12. The LIØNSBERG Vision 
 
-Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]].  
+LIØNSBERG begins with a massive, positive, and good [[Vision]] of the [[Best Possible Future]] for [[All]].  
 
 [[Vision]]  
 [[The Vision]]  
-[[Lionsberg Vision]]  
+[[LIØNSBERG Vision]]  
 [[Heaven on Earth and Beyond]]  
 
 ## 13. The LIØNSBERG Mission 
 
 [[The Great Game of LIØNSBERG]]  
-[[Lionsberg Mission]]  
+[[LIØNSBERG Mission]]  
 
 ## 14. The LIØNSBERG Mandate 
 
-[[Lionsberg Mandate]]  
+[[LIØNSBERG Mandate]]  
 
 ## 11. The LIØNSBERG Community 
 
@@ -142,7 +142,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 13. The LIØNSBERG Platform
 
-[[The Lionsberg Platform]]  
+[[The LIØNSBERG Platform]]  
 
 ## 13. The LIØNSBERG Playbook
 
@@ -231,9 +231,9 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 18. Sovereignty, Autonomy, and Decentralized Self-Governance  
 
-[[7.5 The Lionsberg System of Governance]]  
+[[7.5 The LIØNSBERG System of Governance]]  
 [[The Governance System]]  
-[[Lionsberg System of Governance]]  
+[[LIØNSBERG System of Governance]]  
 ## 20. Interoperability and Ultimate Unity 
 
 
@@ -242,7 +242,7 @@ Lionsberg begins with a massive, positive, and good [[Vision]] of the [[Best Pos
 
 ## 20. The 12 Pillars of LIØNSBERG 
 
-[[The 12 Pillars of Lionsberg]]  
+[[The 12 Pillars of LIØNSBERG]]  
 
 ## 20. Wellness
 

@@ -15,8 +15,8 @@ _This list of meeting pages is manually updated periodically, and may not includ
 
 ## Other Various
 
-- [[Lionsberg Special Session on Flow, 2022-12-07]]
-- [[Lionsberg Africa 2022.08.25]]
+- [[LIØNSBERG Special Session on Flow, 2022-12-07]]
+- [[LIØNSBERG Africa 2022.08.25]]
 - [[Retro for needs and offers market, 2022-08-22]]
 - [[Social Architecture 2022-08-16]]
 - [[Currency and Measurement, 2022-07-25]]
@@ -39,4 +39,4 @@ _This list of meeting pages is manually updated periodically, and may not includ
 
 - [[Wiki Posse, 2022-07-15]]
 - [[Wiki Posse, 2022-05-27]]
-- [[Lionsberg-Meta Project Wiki Posse, 2022-05-20]]
+- [[LIØNSBERG-Meta Project Wiki Posse, 2022-05-20]]

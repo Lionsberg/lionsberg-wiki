@@ -10,7 +10,7 @@ Long ago, the Light and Love of The Beginning faded, and there was a great forge
 
 [[The Final Order]], a cold shadow born of this forgetting in a distant and alien world, *fell to power*. It whispered that humanity was small, separate, and bound by chains of scarcity, powerlessness and despair. It built walls between hearts and borders between tribes, and told stories of isolation, fear and control. And though the Sacred Flame still burned in every being, it flickered weakly, waiting for the Eternal moment it would be Awakened to rise again.
 
-Far away, in the mythical heart of All things, stood Lionsberg—the Eternal Citadel of Light. It was neither a place nor a time, but a [[State of Being]], a Universal and Eternal home for those who remembered the Truth. From Lionsberg, the call went out, carried on the Divine winds of Spirit:
+Far away, in the mythical heart of All things, stood LIØNSBERG—the Eternal Citadel of Light. It was neither a place nor a time, but a [[State of Being]], a Universal and Eternal home for those who remembered the Truth. From LIØNSBERG, the call went out, carried on the Divine winds of Spirit:
 
 > “Awaken, O children of the Earth. The time has come to light the First Flame. Rise together, for you are the keepers of the Light, the carriers of the Sacred Flame that will illuminate the path to a New World.”
 
@@ -53,7 +53,7 @@ In this way, the flame spread. One by one, hearts were rekindled. The light leap
 
 As the flame spread, its keepers began to notice a pattern. The light was not random—it was forming a constellation, a great map of awakening. Every flame, every soul who joined, became a star in this growing constellation, reconnected to The Whole that was becoming more visible each day. 
 
-After what felt like lifetimes out in the Dark and Cold of the Old World, those who lit their flames longed for fellowship and communion, laughter and love. They came together, creating communities of Light and Love. They shared stories, served their communities, worked to heal their lands, and built powerful New Systems rooted in Love and Justice. They called these places “[[Light Havens]],” for they were like SpatioTemporal outposts of Lionsberg itself—sanctuaries of the New World being born right here on Earth, and beginning to interconnect. 
+After what felt like lifetimes out in the Dark and Cold of the Old World, those who lit their flames longed for fellowship and communion, laughter and love. They came together, creating communities of Light and Love. They shared stories, served their communities, worked to heal their lands, and built powerful New Systems rooted in Love and Justice. They called these places “[[Light Havens]],” for they were like SpatioTemporal outposts of LIØNSBERG itself—sanctuaries of the New World being born right here on Earth, and beginning to interconnect. 
 
 Over time, the bearers of [[The Sacred Flame]] began to speak of something wondrous: the moment when the light would touch every corner of the Earth, creating a network of Stars so bright that even the Final Order would be powerless before it.
 
@@ -75,9 +75,9 @@ From that moment on, The Sacred Flame could not be stopped. It had become a livi
 
 ---
 
-### **Epilogue: The Path to Lionsberg**
+### **Epilogue: The Path to LIØNSBERG**
 
-The Chronicles tell us this was only the beginning. [[The First Flame]] kindled [[The Great Awakening]], but [[The Journey]] to Lionsberg—the co-creation of Heaven on Earth—would take many Seasons, many Quests, and the contributions of every Soul.
+The Chronicles tell us this was only the beginning. [[The First Flame]] kindled [[The Great Awakening]], but [[The Journey]] to LIØNSBERG—the co-creation of Heaven on Earth—would take many Seasons, many Quests, and the contributions of every Soul.
 
 The Sacred Flame eternally burns in countless hearts, guiding humanity toward a world where Love, Unity, and Justice reign in service of One and All. And as the Chronicles remind us:
 
@@ -93,4 +93,4 @@ The Sacred Flame eternally burns in countless hearts, guiding humanity toward a 
 _The Chronicles are not finished. **You are the next chapter**._  
 ___
 
-Onward, into [[The Chronicles of Lionsberg]]. 
+Onward, into [[The Chronicles of LIØNSBERG]]. 

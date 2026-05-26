@@ -241,15 +241,15 @@
 - Light Up The Darkness
 - Light Your Candle
 - Limit Stories
-- Lionsberg
-- Lionsberg Constitution
-- Lionsberg Cycles of Growth
-- Lionsberg Integrated Delivery System
-- Lionsberg Lexicon
-- Lionsberg Lexicon|Lexicon
-- Lionsberg System
-- Lionsberg System of Governance
-- Lionsberg Wiki Books
+- LIØNSBERG
+- LIØNSBERG Constitution
+- LIØNSBERG Cycles of Growth
+- LIØNSBERG Integrated Delivery System
+- LIØNSBERG Lexicon
+- LIØNSBERG Lexicon|Lexicon
+- LIØNSBERG System
+- LIØNSBERG System of Governance
+- LIØNSBERG Wiki Books
 - Listen
 - Living System
 - Locality
@@ -426,7 +426,7 @@
 - Targets of Opportunity
 - Team of Teams
 - Teams
-- The 12 Pillars of Lionsberg
+- The 12 Pillars of LIØNSBERG
 - The Accuser
 - The Adults
 - The Barbarians
@@ -462,15 +462,15 @@
 - The Image
 - The Infrastructure, Systems, Services, and Support
 - The Invitation
-- The Lionsberg Co-Creator Handbook
-- The Lionsberg Toolkit
+- The LIØNSBERG Co-Creator Handbook
+- The LIØNSBERG Toolkit
 - The Matrix
 - The Memories
 - The Milestones
 - The Mission
 - The Mountain
 - The Movement
-- The Narrative Structure of Lionsberg
+- The Narrative Structure of LIØNSBERG
 - The Narrative Universe
 - The New
 - The Old

@@ -1,3 +1,3 @@
 # Organizing And Federating
 
-For now, see [[Organizations The Lionsberg Way]]. 
+For now, see [[Organizations The LIØNSBERG Way]]. 

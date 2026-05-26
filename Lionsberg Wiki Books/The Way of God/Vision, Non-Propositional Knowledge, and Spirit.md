@@ -37,4 +37,4 @@ ___
 Forward to [[Unity, Estrangement, and At-One-Ment]]  
 Back to [[The Prophetic Voice]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

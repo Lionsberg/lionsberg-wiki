@@ -96,7 +96,7 @@ Extensive travel brought Us into dialogue and relationship with amazing people f
 
 Extensive study of martial arts ultimately resulted in a deep body of knowledge being entrusted to Us that taught Us a tremendous amount about the deeper ways of being and rightly relating to Nature and its Source that had been lost to many of my Western traditions. 
 
-This is all to say that while Lionsberg very intentionally does not adopt or mandate any [[State Religion]], the concepts are entirely consistent and in harmony with Our most sacred scriptures and all that has been spoken by the various messengers of God throughout the millennia. 
+This is all to say that while LIØNSBERG very intentionally does not adopt or mandate any [[State Religion]], the concepts are entirely consistent and in harmony with Our most sacred scriptures and all that has been spoken by the various messengers of God throughout the millennia. 
 
 Because We are not attempting to conform Our Self to the language of one religion or ideology, it creates the freedom to speak as truthfully and as accurately as We possibly can. This has been both an immense challenge, and an immense gift, as it has forced Us to grapple with the [[Most Important Things]] and absorb them as Our own to the point of being able to freely express them using entirely different words. It has been among the greatest tests and challenges of this lifetime.  
 

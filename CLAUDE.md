@@ -155,7 +155,7 @@ The wiki follows a hierarchical content organization with three distinct content
    - Located in `LIØNSBERG Wiki Blogs/` and `LIØNSBERG Wiki Books/`
 
 2. **Formal System Content** (Core Documents)
-   - Speaks from the collective "we" voice of Lionsberg
+   - Speaks from the collective "we" voice of LIØNSBERG
    - Requires careful editing to maintain system coherence
    - Changes should be placed in the Suggestion Box with rationale
    - Located in `LIØNSBERG Core Documents/`
@@ -195,7 +195,7 @@ The wiki follows a hierarchical content organization with three distinct content
 
 **Critical Understanding**: The Caves, The Story, and the awakening are not merely allegory—they describe actual current reality using archetypal language.  
 
-**The Caves Narrative** (`LIØNSBERG Wiki Books/The Book of Lionsberg/Chapter 1 - Genesis/1.5 The Caves.md`):  
+**The Caves Narrative** (`LIØNSBERG Wiki Books/The Book of LIØNSBERG/Chapter 1 - Genesis/1.5 The Caves.md`):  
 - Billions of people chained in darkness, asleep, mindlessly repeating the words of their Keepers
 - This is a "true myth"—an archetypal framework that accurately describes humanity's imprisoned state
 - The awakening IS happening now
@@ -405,7 +405,7 @@ git push                    # Send to cloud
 
 ### Git Repository
 
-- **Remote**: `git@github.com:Lionsberg/lionsberg-wiki.git`
+- **Remote**: `git@github.com:LIØNSBERG/LIØNSBERG-wiki.git`
 - **Default branch**: `main`
 
 ## Massive Wiki Builder (CI/CD Only)
@@ -417,8 +417,8 @@ The wiki is automatically built into a static website using **Massive Wiki Build
 ### Configuration (Reference Only)
 
 - **Config file**: `.massivewikibuilder/mwb.yaml`
-- **Wiki title**: "Lionsberg Wiki"
-- **Author**: "the Lionsberg Wiki Team"
+- **Wiki title**: "LIØNSBERG Wiki"
+- **Author**: "the LIØNSBERG Wiki Team"
 - **License**: Creative Commons Attribution 4.0 International
 - **Sidebar**: `Sidebar.md`
 
@@ -504,7 +504,7 @@ Link liberally to related concepts using `[[wiki links]]`. The system is designe
 
 ## System Philosophy
 
-The Lionsberg Wiki embodies several key principles:
+The LIØNSBERG Wiki embodies several key principles:
 
 - **Coherence**: Core content functions as integrated system design (like architectural plans)
 - **Modularity**: Content is chunked into reusable, linkable pieces
@@ -527,7 +527,7 @@ The Lionsberg Wiki embodies several key principles:
 
 **Symptom**: A page exists locally and in git, but shows "coming soon" or doesn't appear on the published website.
 
-**Common Cause**: MWB CI/CD build process may cache old file states or have case-sensitivity issues, particularly with filename changes (e.g., "lionsberg" vs "LIØNSBERG").
+**Common Cause**: MWB CI/CD build process may cache old file states or have case-sensitivity issues, particularly with filename changes (e.g., "LIØNSBERG" vs "LIØNSBERG").
 
 **Workaround**:  
 1. Rename the file to a temporary placeholder (e.g., "The Story of LIØNSBERG.md" → "The Story of X.md")

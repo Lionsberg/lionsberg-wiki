@@ -1,7 +1,7 @@
 ---
 status: captured
 fold_target: VI
-themes: [book-of-lionsberg, playbook, personal-practice, one-hour, foundational]
+themes: [book-of-LIØNSBERG, playbook, personal-practice, one-hour, foundational]
 source: Phase 2.1 audit of The Power of One
 captured: 2026-05-19
 ---

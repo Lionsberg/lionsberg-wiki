@@ -72,7 +72,7 @@ This is the Way. This is the Practice.
 
 Everything is the Way. Everything is Practice. Everything is a Process.  
 
-The Lionsberg System is not about the Answers. It is about the continually wrestling with the Questions, the Process, the Practice through which we Become.  
+The LIØNSBERG System is not about the Answers. It is about the continually wrestling with the Questions, the Process, the Practice through which we Become.  
 
 ## Questions
 
@@ -278,7 +278,7 @@ Every being has a unique level of Experience and Understanding.
 
 Doing something willingly. No compulsion. Acting out of your own free will in service of a [[Greater Good]].  
 
-Lionsberg is a [[Volunteer Force Force Good]]. There is no compelled service. There are no [[Employee Consumer Slaves]]. In the New World we are all Free and Empowered Co-Creators.  
+LIØNSBERG is a [[Volunteer Force Force Good]]. There is no compelled service. There are no [[Employee Consumer Slaves]]. In the New World we are all Free and Empowered Co-Creators.  
 ## Withholding Judgment and Learning To Work With Others  
 
 We are the kinds of people the world is made up of. Perfectly Imperfect.  

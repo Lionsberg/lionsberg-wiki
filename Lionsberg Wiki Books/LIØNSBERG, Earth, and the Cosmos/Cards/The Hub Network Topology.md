@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [strategy, infrastructure, federation, operational]
-source: Phase 2.1 audit of The Lionsberg Strategy and Plan of Action
+source: Phase 2.1 audit of The LIØNSBERG Strategy and Plan of Action
 captured: 2026-05-18
 ---
 
@@ -27,7 +27,7 @@ Each Hub is **physical** — actual buildings, actual land, actual people. Exist
 
 Each Hub is **a node of [[The Sovereign Superorganism|the Sovereign Superorganism]]** — sovereign within its scale, federated outward by mutual consent, never subordinated.
 
-The total budget topology (per The Lionsberg Strategy and Plan of Action) aggregates to approximately $15-20 trillion across the full Hub Network — the redirection target for [[Swords to Ploughshares|the Swords-to-Ploughshares reallocation]] of military spending.
+The total budget topology (per The LIØNSBERG Strategy and Plan of Action) aggregates to approximately $15-20 trillion across the full Hub Network — the redirection target for [[Swords to Ploughshares|the Swords-to-Ploughshares reallocation]] of military spending.
 
 The Hub Network is **how Heaven on Earth gets built physically**. Without the Hubs, the Pattern stays in conversation. With the Hubs, the Pattern stands in the land, becomes a place beings can come to, becomes the visible alternative the awakening can see and join.
 

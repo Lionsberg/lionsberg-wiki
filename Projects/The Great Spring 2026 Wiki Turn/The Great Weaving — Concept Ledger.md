@@ -117,12 +117,12 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
   - NEW root file [[Weaving vs. Starting New]] (the existential framing) — pending
   - NEW root file [[The LIØNSBERG Offering]] (what is articulated and cohered in LIØNSBERG, why weaving in is wiser than starting from scratch) — pending; tracked at A.7
 - **Source material**:
-  - Closest fragments: [[Federate With Lionsberg]] (root — treats LIØNSBERG as singular option, needs reframing)
+  - Closest fragments: [[Federate With LIØNSBERG]] (root — treats LIØNSBERG as singular option, needs reframing)
   - [[The Pattern Governs, Not People]]
   - [[The Sovereign Superorganism]] (describes the FORM but never names LIØNSBERG as one instance)
   - [[Welcome to LIØNSBERG]]
 - **Weaving approach**: Card 1 (Prototype, Not Eternal Essence) authored. The Sovereign's existential framing — Weave into the Prototype-that-is, or refuse to weave — articulated in Card and (partially) in Superorganism-Earth README + Constitution main page. Root-level Weaving vs. Starting New page pending.
-- **Disposition of scatter**: [[Federate With Lionsberg]] to be updated to reflect the Weaving frame.
+- **Disposition of scatter**: [[Federate With LIØNSBERG]] to be updated to reflect the Weaving frame.
 - **Status**: `in-progress` (Card 1 woven; root-level page pending)
 
 ### A.4 — The Cosmic Symphony / Divine Tapestry
@@ -151,7 +151,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### A.7 — The LIØNSBERG Offering Page
 
 - **View**: Cosmic / Layer III · Cross-repo (Superorganism-Earth points here)
-- **Canonical home (proposed)**: NEW root file in lionsberg-wiki, likely [[The LIØNSBERG Offering]] or [[Why Weave Into The LIØNSBERG Golden Seed]]
+- **Canonical home (proposed)**: NEW root file in LIØNSBERG-wiki, likely [[The LIØNSBERG Offering]] or [[Why Weave Into The LIØNSBERG Golden Seed]]
 - **Purpose**: Articulate what is **already articulated and cohered** in LIØNSBERG (pattern language, governance, program management, Grand Strategy, 12 Pillars, technological substrate, fractal sovereignty framework, Sovereign Path, Playbook, Cards, etc.) and **why weaving in is wiser than starting from scratch**. Offering, not promotion. Frames LIØNSBERG as one available named Superorganism — one of potentially many — operationally a substantial way down the road.
 - **Where it is referenced from**: 
   - Superorganism-Earth README §"Request For Guidance" paragraph naming FSx pattern lineage (Evolutesix and LIØNSBERG)
@@ -184,13 +184,13 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### B.1 — Governance (Pillar II)
 
 - **View**: System
-- **Canonical home**: [[Pillar II — Sacred Governance and Stewardship]] + root [[Lionsberg System of Governance]] as system-view articulation
+- **Canonical home**: [[Pillar II — Sacred Governance and Stewardship]] + root [[LIØNSBERG System of Governance]] as system-view articulation
 - **Source material (17 articulations)**:
   - [[Pillar II — Sacred Governance and Stewardship]] (960w — best)
-  - [[Lionsberg System of Governance]] (root, 777w)
-  - `Lionsberg Wiki Books/Citizen Led Governance/` (48 files, full wiki book)
-  - [[The Lionsberg Handbook]] §Self-Governance (stub)
-  - [[7.5 The Lionsberg System of Governance]]
+  - [[LIØNSBERG System of Governance]] (root, 777w)
+  - `LIØNSBERG Wiki Books/Citizen Led Governance/` (48 files, full wiki book)
+  - [[The LIØNSBERG Handbook]] §Self-Governance (stub)
+  - [[7.5 The LIØNSBERG System of Governance]]
   - Multiple Substrate Cards
 - **Weaving approach**: Pillar II becomes the canonical articulation; root system file holds the operational system-view; Citizen Led Governance wiki book folds in as supporting material with cross-references.
 - **Disposition of scatter**: 15+ root stubs → redirect; Meta Guide §Governance → archive; Citizen Led Governance preserved as material to mine then folded.
@@ -207,10 +207,10 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
   - [[Capital Subordinate To Purpose]]
   - [[LUV]]
   - [[Commons]]
-  - [[9. The Lionsberg Economic System..]]
-  - Root files: [[Commons]], [[Lionsberg Commons]], [[Fair Shares Commons]]
+  - [[9. The LIØNSBERG Economic System..]]
+  - Root files: [[Commons]], [[LIØNSBERG Commons]], [[Fair Shares Commons]]
 - **Weaving approach**: Pillar III + PDG 16.10 stand as canonical (liturgical + operational). Cards in Substrate remain as atomic articulations. Root Commons files fold or remain as Cards.
-- **Disposition of scatter**: Root [[Capital Subordinate To Purpose]] → fold or Card. [[Fair Shares Commons]] (72w) → Card. Lionsberg Simple and Clear ch.9 → references canonical.
+- **Disposition of scatter**: Root [[Capital Subordinate To Purpose]] → fold or Card. [[Fair Shares Commons]] (72w) → Card. LIØNSBERG Simple and Clear ch.9 → references canonical.
 - **Status**: `pending`
 
 ### B.3 — Justice (Pillar XI)
@@ -225,7 +225,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### B.4 — Integrated Delivery / IPD
 
 - **View**: System (cross-cutting) · Pattern Language (Element 9) · Playbook (operational)
-- **Canonical home**: Vol VII `Lionsberg Wiki Books/The Program Delivery Guide/` — **both forms preserved**: `Original IPD Guide/` (native AEC) + [[16.5 Integrated Delivery]] (cosmic articulation)
+- **Canonical home**: Vol VII `LIØNSBERG Wiki Books/The Program Delivery Guide/` — **both forms preserved**: `Original IPD Guide/` (native AEC) + [[16.5 Integrated Delivery]] (cosmic articulation)
 - **Source material (18 files, ~10,700 words of overlap — CRITICAL severity)**:
   - PDG [[PDG - Integrated Project Delivery]] (3178w)
   - PDG [[16.5 Integrated Delivery]] (1957w)
@@ -240,9 +240,9 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: System
 - **Canonical home**: [[Pillar VII — Sacred Culture, Art, and Story]] + Vol II `The Story of LIØNSBERG`
-- **Source material**: Pillar VII; root [[Lionsberg Community]]; Meta Guide §Culture and Community (stub); System of Story stub; [[Why Story?]]
+- **Source material**: Pillar VII; root [[LIØNSBERG Community]]; Meta Guide §Culture and Community (stub); System of Story stub; [[Why Story?]]
 - **Weaving approach**: Pillar VII canonical for systemic articulation. Vol II Story is the corpus. Resolve: Story is the corpus, Pillar VII is the systemic view.
-- **Disposition of scatter**: Root [[Lionsberg Community]] → fold into Pillar VII or remain as Card. Meta Guide §Culture and Community archived.
+- **Disposition of scatter**: Root [[LIØNSBERG Community]] → fold into Pillar VII or remain as Card. Meta Guide §Culture and Community archived.
 - **Status**: `pending`
 
 ### B.6 — Stewardship
@@ -258,7 +258,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: System (meta) · Cosmic (nested-scale frame)
 - **Canonical home**: Root [[Levels of Abstraction]] (already canonical, 170 lines, mature)
-- **Source material**: Single mature articulation (Source → Logos → Energy → Matter → Life kingdoms → Humans → Families → Groups → Tribes → Communities → Bioregions → Nations → Planets → Solar Systems → Human System → Living System → Lionsberg System → Meta System → Source)
+- **Source material**: Single mature articulation (Source → Logos → Energy → Matter → Life kingdoms → Humans → Families → Groups → Tribes → Communities → Bioregions → Nations → Planets → Solar Systems → Human System → Living System → LIØNSBERG System → Meta System → Source)
 - **Weaving approach**: Keep as canonical root reference; expand to incorporate the 9-layer model after Superorganism-Earth import.
 - **Disposition of scatter**: None — already cohered.
 - **Status**: `awaiting-superorganism-earth` (for the 9-layer expansion)
@@ -293,7 +293,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: Playbook + System (cross-Pillar)
 - **Canonical home**: [[Holofractal Omnifederation]] (root, 1334w — most mature concept) + [[Federate Everything]] (root Play, 85 lines)
-- **Source material (13 articulations)**: Above + 2 Fragments + [[Federate With Lionsberg]] (9-line stub — needs Weaving reframe per A.3) + [[ReMembering How To Co-Create and Co-Operate Federations]] (stub)
+- **Source material (13 articulations)**: Above + 2 Fragments + [[Federate With LIØNSBERG]] (9-line stub — needs Weaving reframe per A.3) + [[ReMembering How To Co-Create and Co-Operate Federations]] (stub)
 - **Weaving approach**: Holofractal Omnifederation as canonical concept; Federate Everything as canonical Play; supporting Plays for stacking-up sequence.
 - **Disposition of scatter**: ReMembering stub archived; Fragments folded.
 - **Status**: `pending`
@@ -301,7 +301,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### C.3 — Field of Agreements
 
 - **View**: Playbook + System (Pillar II adjacent) + Core Doctrine
-- **Canonical home**: [[Forge a Field of Agreements]] (root Play) AS Play; [[The Lionsberg Field of Agreements]] AS institutional/doctrinal layer (currently 47-word stub) — **needs migration of 683w content from root Play into Core Doc**
+- **Canonical home**: [[Forge a Field of Agreements]] (root Play) AS Play; [[The LIØNSBERG Field of Agreements]] AS institutional/doctrinal layer (currently 47-word stub) — **needs migration of 683w content from root Play into Core Doc**
 - **Source material (10 articulations — HIGH severity)**: Above + [[Field of Agreements]] (root concept, 60 lines) + [[Template For Field of Agreements]] + [[2.3 Domains and Field of Agreement]] + [[9. The Field of Agreements]] + [[The LIØNSBERG Field of Agreements (Summer 2025)]] (blog)
 - **Weaving approach**: Three-tier distinction: **Play** (operational — root) + **Concept** (definitional — [[Field of Agreements]]) + **Institutional Doctrine** (Core Doc — needs upgrade from 47w stub). Migrate Play content into Core Doc; preserve root Play as operational entry.
 - **Disposition of scatter**: Fragment archived; Great Game chapter cross-links canonical; blog preserved per author-consent.
@@ -365,7 +365,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: Playbook · System (Pillar II)
 - **Canonical home**: [[Govern Your Circles]] (root Play, 99 lines) as Play; Pillar II as System view; Wise Eldership as Foundational Pattern
-- **Source material**: Above + [[Governance]] (9-line stub); [[ReMembering How To Embody Wise Servant Leadership]]; [[Lionsberg System of Governance]] (system-layer); Handbook §Governance
+- **Source material**: Above + [[Governance]] (9-line stub); [[ReMembering How To Embody Wise Servant Leadership]]; [[LIØNSBERG System of Governance]] (system-layer); Handbook §Governance
 - **Weaving approach**: Root Play stays operational; system-layer separate (B.1).
 - **Disposition of scatter**: ReMembering stub archived; root [[Governance]] → stub-pointer.
 - **Status**: `pending`
@@ -414,7 +414,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 - **View**: System (Pillars) · Pattern Language (Pillar Patterns layer)
 - **Canonical home**: Each Pillar's wiki book + Pattern Language Pillar Patterns layer
-- **Source material**: `Lionsberg Wiki Books/The 12 Pillars of LIØNSBERG/` (14 files — ØNE + 12 Pillars + root); aligned with `The LIØNSBERG Lexicon`
+- **Source material**: `LIØNSBERG Wiki Books/The 12 Pillars of LIØNSBERG/` (14 files — ØNE + 12 Pillars + root); aligned with `The LIØNSBERG Lexicon`
 - **Weaving approach**: 12 Pillars become the canonical domain taxonomy (resolving the Pillars vs Domains vs Named Systems tension). Pillar Patterns become the largest Pattern Language layer (~144).
 - **Disposition of scatter**: Archive's 12 Domains content folds into Pillar Patterns layer in Phase 4 rebuild.
 - **Status**: `pending` — Phase 4
@@ -423,18 +423,18 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 
 ## E. Source Repository Migration
 
-### E.1 — The Meta Guide / The Lionsberg Handbook
+### E.1 — The Meta Guide / The LIØNSBERG Handbook
 
 - **State**: Hollowed; header-only outline; every section marked `*Migrated to [[The LIØNSBERG Way]]*`
-- **Source material**: [[The Lionsberg Handbook]] (590 lines) + 9 chapter files
+- **Source material**: [[The LIØNSBERG Handbook]] (590 lines) + 9 chapter files
 - **Weaving approach**: Once each Handbook section's content is woven into the appropriate canonical home (Pillars, Plays, Pattern Language, Cards), the Meta Guide is archived with provenance.
-- **Disposition of scatter**: Archive [[The Lionsberg Meta Guide (Archived YYYY-MM-DD)]] with full provenance pointer to where each section's content now lives.
+- **Disposition of scatter**: Archive [[The LIØNSBERG Meta Guide (Archived YYYY-MM-DD)]] with full provenance pointer to where each section's content now lives.
 - **Status**: `pending` — depends on Pillar and Play consolidation completing
 
 ### E.2 — The LIØNSBERG Way
 
 - **State**: Chaotic WIP; receiving Handbook content; 16 `ReMembering How To...` stubs (3–15 lines each)
-- **Source material**: `Lionsberg Wiki Books/The LIØNSBERG Way/` (17 files)
+- **Source material**: `LIØNSBERG Wiki Books/The LIØNSBERG Way/` (17 files)
 - **Weaving approach**: Once root Plays are mature (C.1–C.10) and Pillar pages complete (B.1–B.7), archive The Way; promote any ReMembering content into matching Plays before archival.
 - **Disposition of scatter**: Archive with provenance.
 - **Status**: `pending` — depends on Plays + Pillars
@@ -458,7 +458,7 @@ _These entries depend on the 9-layer model stabilizing on Superorganism-Earth be
 ### E.5 — Pass The Flame Book Variants (4 near-duplicates)
 
 - **State**: Same content in 4 formattings (bold / pagebreak / plain / glossary)
-- **Source material**: 4 files in `Lionsberg Wiki Books/Pass The Flame/`
+- **Source material**: 4 files in `LIØNSBERG Wiki Books/Pass The Flame/`
 - **Weaving approach**: Keep plain version as canonical; archive 3 redundant format variants with provenance.
 - **Disposition of scatter**: Archive 3 variants.
 - **Status**: `pending`

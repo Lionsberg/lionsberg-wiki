@@ -78,7 +78,7 @@ Question One: How dare you?
 
 Question One: What is Meta Project trying to do?
 
-Question One: What's the difference between Lionsberg and The Meta Project?
+Question One: What's the difference between LIØNSBERG and The Meta Project?
 
 Question One: Need considered description, with info re range of projects (geographically, scale (individual/group/larger group), who & how  do we connect & share, how do we help, knowing skills and capacity of participant(s) & participant groups, what are the “rules”, to who do we direct questions, & how communicate.
 
@@ -114,9 +114,9 @@ Question One: Are you (the group of ~50) the metaproject, or a small part of the
 
 Question One: Does Jordan run the metaproject?
 
-Question One: What is Lionsberg?
+Question One: What is LIØNSBERG?
 
-Question One: Does Jordan run Lionsberg?
+Question One: Does Jordan run LIØNSBERG?
 
 Question One: Where do other orgs fit in?
 
@@ -146,7 +146,7 @@ Question Two:  The audacious vision of what's possible, linked with the challeng
 
 Question Two: I have found in 1-1s with Jonathan the opportunity to run some practical ideas about Lionberg by him and get helpful and reflective feedback. I think this is one benefit of a group like this where we can get feedback on specific projects we are working on. 
 
-Question Two: I have been encouraged in seeing likeminded interest from others in the Wednesday meetings. It tells me that what we have been doing for 4 years in Lionsberg does indeed resonate with others.
+Question Two: I have been encouraged in seeing likeminded interest from others in the Wednesday meetings. It tells me that what we have been doing for 4 years in LIØNSBERG does indeed resonate with others.
 
 Question Two: I have learned other perspectives that opens my mind to other projects getting at different issues or different aspects of the big issues.
 
@@ -182,7 +182,7 @@ Question Three: What I will also do is to become a go-to person to help us all g
 
 Question Three: When I offer something to the group, it seems I don’t quite have the magic to invite curiosity or questions. It feels like rejection. And yet, I also see the flip side which is that all of us are offering something to the group and not much is pursued. I do not have a suggestion or solution yet, although, perhaps each offering might become a “wow, let’s meet later over this one” and … well, i am not quite sure. This is my fundamental frustration with MP.
 
-Question Three: Thinking of the Lionsberg path, and how it gave birth to the idea of an overall community, I have found myself wondering how long it will take the practical aspects I have worked on to actually come into being and begin supporting many projects in practical terms. I wonder if it is a matter of needing to cultivate patience on my part, or if I need to be more pro-active and focused. Appreciating the supportive community of the metaproject has counterbalanced that sense of delay, however.
+Question Three: Thinking of the LIØNSBERG path, and how it gave birth to the idea of an overall community, I have found myself wondering how long it will take the practical aspects I have worked on to actually come into being and begin supporting many projects in practical terms. I wonder if it is a matter of needing to cultivate patience on my part, or if I need to be more pro-active and focused. Appreciating the supportive community of the metaproject has counterbalanced that sense of delay, however.
 
 Question Three: The metaproject is bold in the height of its vision, but it could be bolder in its breadth. I find myself wanting to focus outward and under others, not as much inward focus on our own procedures and practices.
 

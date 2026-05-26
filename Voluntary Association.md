@@ -4,7 +4,7 @@ A voluntary association refers to a group of [[Sovereigns]] who come together wi
 
 In the context of the [[LIØNSBERG System]], voluntary associations play a vital role in fostering collaboration, community building, and the pursuit of shared objectives. They can help create a sense of belonging, provide opportunities for mutual support, and serve as a platform for collective action and decision-making.
 
-Key principles and practices related to voluntary associations in the Lionsberg System include:
+Key principles and practices related to voluntary associations in the LIØNSBERG System include:
 
 1.  **Autonomy and Self-Governance:** Encourage voluntary associations to operate independently and govern themselves, making decisions and taking actions based on the collective interests and goals of their members.
     
@@ -19,4 +19,4 @@ Key principles and practices related to voluntary associations in the Lionsberg 
 6.  **Continuous Learning and Growth:** Support the ongoing learning and growth of voluntary associations and their members, creating opportunities for reflection, skill development, and the sharing of knowledge and expertise.
     
 
-By embracing these principles and practices, voluntary associations within the Lionsberg System can contribute to the development of strong, resilient communities that work together to achieve common goals and enhance the well-being of all.
+By embracing these principles and practices, voluntary associations within the LIØNSBERG System can contribute to the development of strong, resilient communities that work together to achieve common goals and enhance the well-being of all.

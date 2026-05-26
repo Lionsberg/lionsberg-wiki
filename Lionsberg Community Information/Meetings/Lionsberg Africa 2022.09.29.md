@@ -1,4 +1,4 @@
-# 2022.09.29 Lionsberg Kenya Call
+# 2022.09.29 LIØNSBERG Kenya Call
 
 ## Pokot Update
 - 115,000 KS donated by Jordan...  
@@ -109,7 +109,7 @@
 
 
 ## Final Hypothesis
-- Lionsberg will try to help line up $10k loan fund. 
+- LIØNSBERG will try to help line up $10k loan fund. 
 - Loan fund will be used to: 
 	- Buy materials for 4 classrooms
 	- Buy 100 bee hives
@@ -122,7 +122,7 @@
 - Government certification of the school will trigger local government providing teachers and food... 
 
 ## Food for Thought... 
-- Jordan also wants to explore whether Lionsberg should increase the size of its microfinance experiment in conjunction... 
+- Jordan also wants to explore whether LIØNSBERG should increase the size of its microfinance experiment in conjunction... 
 - Two loan pools
 	- One microfinance to fuel business startups and economic flow... can partner with Jamii Bora foundation if we'd like to... 
 	- One for school and business construction... 

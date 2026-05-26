@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-Following the [[The 7 Year Window of Preparatory Work and Learning]] that ended February 29, 2024 and the extension of the first invitations in March 2024, the purpose of the April road trip / segment 1 of the [[Above The Chaos Tour]] was to find the [[Wise Right People]] to complete Cycle 7 and expand the Lionsberg Movement out to at least 34 committed [[Lionsberg Co-Creators]].  
+Following the [[The 7 Year Window of Preparatory Work and Learning]] that ended February 29, 2024 and the extension of the first invitations in March 2024, the purpose of the April road trip / segment 1 of the [[Above The Chaos Tour]] was to find the [[Wise Right People]] to complete Cycle 7 and expand the LIØNSBERG Movement out to at least 34 committed [[LIØNSBERG Co-Creators]].  
 
 With that [[Milestones|Milestone]] now completed, it is our hope that the tipping point strategy can become self-sustaining as each Co-Creator invites in the right people at the right time as the epic Story unfolds.  
 
@@ -12,7 +12,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 - [[David Blume]] - [Blume Distillation](https://www.blumedistillation.com) - permaculture and plant based alcohol for fuel - via [[George Orbelian]] and [[Jahn Ballard]]  
 - [[Warren Linney]] - via [[Jahn Ballard]]  
 - [[Justin LeBlanc]] - via [[Jahn Ballard]]  
-- [[David Anderson]] - Working with Blume, and interested in the higher levels of abstraction and the Lionsberg System as a Whole - via [[Justin LeBlanc]]  
+- [[David Anderson]] - Working with Blume, and interested in the higher levels of abstraction and the LIØNSBERG System as a Whole - via [[Justin LeBlanc]]  
 - Karen 
 - [[David Milarch]]  - [Arch Angel Ancient Tree Archive](https://www.ancienttreearchive.org) - Tree restoration is essential to success - via [[George Orbelian]]  
 - [[Tyler Milarch]] - David's Grandson focused on tissue cultivation and propagation - [Arch Angel Ancient Tree Archive](https://www.ancienttreearchive.org) - via [[George Orbelian]]   
@@ -239,7 +239,7 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 	- Synergize the [[General Solutions]] into [[The Prototype]] 
 		- Train [[Teams]] to implement the [[General Solutions]]  
 			- Begin the propagation of strategic elements of [[The Prototype]] to [[Bioregions]] and [[Watersheds]] around the world.  
-- Consider a [[Lionsberg Challenge]]  
+- Consider a [[LIØNSBERG Challenge]]  
 	- Drawing on the Buckminster Fuller Challenge model 
 	- Drawing on the XPrize model  
 		- Or - partner with XPrize 
@@ -277,15 +277,15 @@ With that [[Milestones|Milestone]] now completed, it is our hope that the tippin
 
 - After the [[The 7 Year Window of Preparatory Work and Learning]], where are you at? What pieces have been articulated and built? 
 	- 1. Thousands of hours of thought and dialogue around [[Worksite Earth]] as Whole to be transformed [[FROM the Old TO the New]] within a single generation. 
-	- 2. Articulation of Divine connection, philosophy, theory, and practice via the [[LIØNSBERG Wiki]] and [[Lionsberg Wiki Books]]   
-	- 3. Years of full time legal and governance work with dozens of advisors resulting in the instantiation of the Lionsberg [[Provisional Structure]]. 
-	- 4. Creation of a backbone platform to connect and empower the [[Force For Good]]. ~10% of the capabilities surfaced into a user interface under the brand Open Impact brand, and tested with several hundreds groups in 50+ countries in MVP, Alpha, and Beta Phases. Public facing version can be seen at [Open Future Coalition](https://impact.openfuturecoalition.org/marketplace/card-grid). A clean, unpopulated Lionsberg version exists and will be populated in a few weeks when we hit 30 to 40 co-creators and the next major update is pushed. 
-	- 5. Creation of the beginning of a collective brain via a Memory for The Movement. This technology underlying the [Lionsberg Wiki](https://lionsberg.wiki) is built intentionally simple and "low to the ground" in anticipation of large sections of the internet being taken down or fire walled. It allows for the decentralized storage, retrieval, and updating of our collective memory of the [[New Vision and Plan]], even during times of crisis. 
+	- 2. Articulation of Divine connection, philosophy, theory, and practice via the [[LIØNSBERG Wiki]] and [[LIØNSBERG Wiki Books]]   
+	- 3. Years of full time legal and governance work with dozens of advisors resulting in the instantiation of the LIØNSBERG [[Provisional Structure]]. 
+	- 4. Creation of a backbone platform to connect and empower the [[Force For Good]]. ~10% of the capabilities surfaced into a user interface under the brand Open Impact brand, and tested with several hundreds groups in 50+ countries in MVP, Alpha, and Beta Phases. Public facing version can be seen at [Open Future Coalition](https://impact.openfuturecoalition.org/marketplace/card-grid). A clean, unpopulated LIØNSBERG version exists and will be populated in a few weeks when we hit 30 to 40 co-creators and the next major update is pushed. 
+	- 5. Creation of the beginning of a collective brain via a Memory for The Movement. This technology underlying the [LIØNSBERG Wiki](https://LIØNSBERG.wiki) is built intentionally simple and "low to the ground" in anticipation of large sections of the internet being taken down or fire walled. It allows for the decentralized storage, retrieval, and updating of our collective memory of the [[New Vision and Plan]], even during times of crisis. 
 	- 6. Travel to dozens of countries and convening of dozens of advisors for over a thousand human-hours of discernment around the [[New Pattern Language]] and the [[New Operating System]].  
 - What pieces are still missing? 
 - Key Questions 
 	- **Networking Question** - how the invitation only strategy invites in the [[Wise Right People]], at the [[Wise Right Time]], for the [[Wise Right Reasons]].  
-	- **Timing Question**: How the [[Lionsberg Cycle Time]] is monitored along the fibonacci unfurling / [[Lionsberg Cycles of Growth]] to move 10 billion people in 10 years to safety, harmony, and coherence in the [[New]]. 
+	- **Timing Question**: How the [[LIØNSBERG Cycle Time]] is monitored along the fibonacci unfurling / [[LIØNSBERG Cycles of Growth]] to move 10 billion people in 10 years to safety, harmony, and coherence in the [[New]]. 
 	- **Resourcing Question**: How we get the right [[Resource Stewards]] paying attention, recognizing, and resourcing [[Value Creation]]. 
 	- **Internal Awareness Question**: How do we become aware of the good work "out there" that could come "in here" with "Us"?  
 		- Use existing filtering across [[The Movement]]... 

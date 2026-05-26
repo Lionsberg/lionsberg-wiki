@@ -1,4 +1,4 @@
-# Our Journey Towards Lionsberg | Jordan Nicholas and Bill Larson | EP 3
+# Our Journey Towards LIØNSBERG | Jordan Nicholas and Bill Larson | EP 3
 
 A WikiCast post in [[Above The Chaos]] 
 
@@ -44,7 +44,7 @@ X Link  - Coming Soon
 
 **Episode Summary**:
 
-Our host Jordan Nicholas and attorney Bill Larson share stories and background on why they are so deeply invested in the issues, principles, and values Lionsberg is addressing.
+Our host Jordan Nicholas and attorney Bill Larson share stories and background on why they are so deeply invested in the issues, principles, and values LIØNSBERG is addressing.
 
 **Timestamps**:
 
@@ -76,11 +76,11 @@ Our host Jordan Nicholas and attorney Bill Larson share stories and background o
 - Service  
 - Shift of Awareness  
 - Designing and Building a Better World 
-- Lionsberg  
+- LIØNSBERG  
 
 **Resources and Links**:  
-- [Lionsberg Wiki](https://lionsberg.wiki) 
-- [Lionsberg Website](https://www.Lionsberg.org)  
+- [LIØNSBERG Wiki](https://LIØNSBERG.wiki) 
+- [LIØNSBERG Website](https://www.LIØNSBERG.org)  
 - Mondragon Corporation [www.wikipedia.org/wiki/Mondragon_Corporation](http://www.wikipedia.org/wiki/Mondragon_Corporation)  
 - Iranian Revolution [https://en.wikipedia.org/wiki/Iranian_Revolution](https://en.wikipedia.org/wiki/Iranian_Revolution)  
 

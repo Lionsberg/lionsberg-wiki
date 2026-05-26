@@ -38,13 +38,13 @@ Without a shared intention, vision, and goal, it will be impossible to align our
 ## Team / Group / Organization Resources
 - [[Your Team]] - Work in progress  
 - [[Organize and Federate]] - Work in progress  
-- [[Organizations The Lionsberg Way]] - Work in progress  
-- [[The Lionsberg Handbook]]  
-- [[Lionsberg Integrated Delivery Guide]] - Work in progress  
+- [[Organizations The LIØNSBERG Way]] - Work in progress  
+- [[The LIØNSBERG Handbook]]  
+- [[LIØNSBERG Integrated Delivery Guide]] - Work in progress  
 - [[Agreements]] - Work in progress  
 
 ## Community Resources
-- [[Lionsberg Community]] - Work in progress
+- [[LIØNSBERG Community]] - Work in progress
 
 ## System Resources
 - [[LIØNSBERG System]] - Work in progress

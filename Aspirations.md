@@ -2,7 +2,7 @@
 
 In the context of the [[LIØNSBERG System]], "Aspirations" refer to the deeply held hopes, dreams, and desires that inspire and motivate us to work together towards the [[New World]]. These aspirations represent our [[Collective Longing]] for a [[Better Future]], characterized by [[Peace]], [[Abundance]], [[Justice]], and [[Harmony]] among [[All]] living beings.
 
-Aspirations serve important functions in the Lionsberg System, such as:
+Aspirations serve important functions in the LIØNSBERG System, such as:
 
 1.  Fueling our passion and commitment to the mission, even in the face of obstacles and setbacks.
 2.  Guiding our actions and decisions, ensuring that we stay aligned with our shared [[Vision]] and the [[Meta Goal]].
@@ -10,7 +10,7 @@ Aspirations serve important functions in the Lionsberg System, such as:
 4.  Unifying diverse individuals and groups around a common purpose and shared values.
 5.  Fostering a sense of meaning, purpose, and fulfillment in our personal and collective lives.
 
-Some examples of Aspirations in the Lionsberg System include:
+Some examples of Aspirations in the LIØNSBERG System include:
 
 -   Creating a world where all people have access to the resources and opportunities necessary to lead fulfilling, healthy, and meaningful lives.
 -   Building a [[Society]] that values and respects the inherent worth and dignity of every individual, regardless of their background, beliefs, or circumstances.

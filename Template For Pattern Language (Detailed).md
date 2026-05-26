@@ -20,7 +20,7 @@
 
 **Implementation**: Describes the step-by-step process for implementing the pattern, including key milestones and timelines. This section should be detailed, providing a clear understanding of how to implement the pattern.
 
-**Phases of development**: Describes the progression of the pattern from initial implementation to full integration within the Lionsberg operating system. This section should be detailed, providing a clear understanding of the steps and stages involved in implementing the pattern.
+**Phases of development**: Describes the progression of the pattern from initial implementation to full integration within the LIØNSBERG operating system. This section should be detailed, providing a clear understanding of the steps and stages involved in implementing the pattern.
 
 **Maintenance and Sustainability**: Describes how the pattern can be maintained over time and how it contributes to sustainability. This section should be detailed, providing a clear understanding of the long-term benefits and drawbacks of implementing the pattern.
 

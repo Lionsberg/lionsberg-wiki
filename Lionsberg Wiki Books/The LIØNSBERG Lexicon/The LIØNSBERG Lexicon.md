@@ -27,7 +27,7 @@ The three Volumes are interexistent. Each holds its facing canonically; the othe
 
 ## **⚖️ Framework for Organizing the Lexicon**
 
-The Lexicon begins by defining **12 Core Categories** aligned with **[[The 12 Pillars of Lionsberg]]**, and an additional “Meta Layer” of Foundational and Meta-Terms.  
+The Lexicon begins by defining **12 Core Categories** aligned with **[[The 12 Pillars of LIØNSBERG]]**, and an additional “Meta Layer” of Foundational and Meta-Terms.  
 
 As a basic [[Pattern Language]] for the Lexicon, the page for each term should include:
 
@@ -77,7 +77,7 @@ These are the **Root Keys** required to understand and speak [[The Language of L
 
 ---
 
-# **[[The 12 Pillars of Lionsberg]]**
+# **[[The 12 Pillars of LIØNSBERG]]**
 
 ## **🕊** 
 
@@ -615,14 +615,14 @@ This domain integrates:
 63. [[Becoming]]  
 64. [[Reciprocal Opening]]  
 
-## Lionsberg 
+## LIØNSBERG 
 
 65. [[LIØNSBERG]]  
 66. [[LIØNSBERG Narrative Universe]]  
 67. [[LIØNSBERG Lexicon]]  
 68. [[LIØNSBERG System]]  
 69. [[The LIØNSBERG Co-Creator's Handbook]]  
-70. [[The Lionsberg Toolkit]]  
+70. [[The LIØNSBERG Toolkit]]  
 
 
 ## Boundaries and Limits of Conception  
@@ -738,9 +738,9 @@ This domain integrates:
 50. [[Creator's Intent]] / [[Designer's Intent]] 
 51. [[Divine Blueprints]] / [[Plans and Specifications]]  
 52. [[Work Breakdown Structure]]  
-53. [[The 12 Pillars of Lionsberg]]   
+53. [[The 12 Pillars of LIØNSBERG]]   
 54. [[Air]], [[Water]], [[Soil]], [[Microbiome]], [[Biodiversity]]  
-55. [[Elevation Initiative]] / [[The Lionsberg Elevation Initiative]] 
+55. [[Elevation Initiative]] / [[The LIØNSBERG Elevation Initiative]] 
 
 ## Problems, Needs, and Aspirations  
 
@@ -766,14 +766,14 @@ This domain integrates:
 72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]
 73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]]
 74. The [[LIØNSBERG System]] is designed as an Interoperable [[System of Systems]]
-75. It is designed to be a [[New Earth Operating System]], and it includes a [[Lionsberg Human System Living System Interface]].
+75. It is designed to be a [[New Earth Operating System]], and it includes a [[LIØNSBERG Human System Living System Interface]].
 76. [[The System]] is what enables [[The Whole]] to co-operate as [[ØNE Body]].
 
 ## Tribe of Tribes / Group of Groups / Team of Teams
 
 77. [[Tribe Of Tribes]] / [[Group Of Groups]] / [[Team of Teams]]
 78. [[Forging Or Joining A Team]] / [[Forging or Joining a Group]]
-79. [[Organizations The Lionsberg Way]]
+79. [[Organizations The LIØNSBERG Way]]
 80. [[Self Governance]] / [[Sovereignty]] / [[Autonomy]]
 81. [[Domains of Responsibility and Authority]]
 82. [[Action Domains]] / [[Integration Domains]]
@@ -797,7 +797,7 @@ This domain integrates:
 
 ## The Elevation Initiative
 
-100. [[Elevation Initiative]] / [[The Lionsberg Elevation Initiative]]
+100. [[Elevation Initiative]] / [[The LIØNSBERG Elevation Initiative]]
 
 ## The War
 
@@ -816,11 +816,11 @@ This domain integrates:
 ## The Metaphors
 
 109. [[Metaphor]] / [[Metaphors]]
-110. See [[The Lionsberg Book of Metaphors]]
+110. See [[The LIØNSBERG Book of Metaphors]]
 
 ## Quotes
 
-111. See [[The Lionsberg Book of Quotes]]
+111. See [[The LIØNSBERG Book of Quotes]]
 
 ## Built to Transform - Continuous Learning and Improvement
 
@@ -850,7 +850,7 @@ This domain integrates:
 [[Receiver]]  
 
 [[Mandate]]  
-[[Lionsberg Mandate]]  
+[[LIØNSBERG Mandate]]  
 [[The Cosmic Mandate]]  
 
 [[Meta Crisis]]  
@@ -903,7 +903,7 @@ This domain integrates:
 [[Wisdom Group]]  
 [[Wisdom Council]]  
 [[Wisdom, Principles, and Values]]  
-[[Lionsberg Wisdom Council]]  
+[[LIØNSBERG Wisdom Council]]  
 
 [[Liberty]]  
 

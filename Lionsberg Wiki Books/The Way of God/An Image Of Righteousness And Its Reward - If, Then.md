@@ -66,4 +66,4 @@ ___
 Forward to [[What Is At Stake?]]  
 Back to [[The Values And Anti-Values Of God]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

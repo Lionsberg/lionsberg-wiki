@@ -1,4 +1,4 @@
-# Lionsberg Africa 2023.02.09
+# LIØNSBERG Africa 2023.02.09
 
 ## From Last Week 
 - The idea of an ecosystem that has EVERYTHING needed for flourishing and abundant life.

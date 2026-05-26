@@ -4,18 +4,18 @@ By [[Jordan Nicholas Sukut]], 2024.05.30 _(updated 2024.06.03)_
 
 An entry in [[Above The Chaos]]. 
 
-For a scannable Lionsberg table of contents, see [[LIØNSBERG Summary]]. 
+For a scannable LIØNSBERG table of contents, see [[LIØNSBERG Summary]]. 
 
 ## Abstract 
 
-This 3-4 page working document outlines the transition from the self-funded aggregation of tens of millions of dollars of Value into the Lionsberg Commons during [[The 7 Year Window of Preparatory Work and Learning]] (2017-2024 Q1), towards raising a $10 Million [[Resource Tranche 2]] as we commence the [[10 Year Grand Strategy]] to avert world war, overcome the [[Meta Crisis]], connect and empower the leading 3% of the population, and collaborate to land humanity and our planet on a safe trajectory towards the [[Best Possible Future]] for [[All]].  
+This 3-4 page working document outlines the transition from the self-funded aggregation of tens of millions of dollars of Value into the LIØNSBERG Commons during [[The 7 Year Window of Preparatory Work and Learning]] (2017-2024 Q1), towards raising a $10 Million [[Resource Tranche 2]] as we commence the [[10 Year Grand Strategy]] to avert world war, overcome the [[Meta Crisis]], connect and empower the leading 3% of the population, and collaborate to land humanity and our planet on a safe trajectory towards the [[Best Possible Future]] for [[All]].  
 ## Introduction and Context 
 
 Hello friends, allies, and co-creators, 
 
 On its quest towards Destiny, humanity is at a pivotal point. The path we are collectively on isn't working. As we face into the [[Meta Crisis]], it is apparent that the systems, institutions, and ways of being that led us here will not carry us forward to [[The Future]] we dream of—a world filled with peace, love, justice, abundance, opportunity and freedom for our children, grandchildren and future generations. 
 
-Adding urgency to the situation, a growing array of prophetic voices are warning of a significant [[Non-Zero Probability of Systems Collapse]] and World War. Both indigenous voices and modern analysts are warning that the death of 2/3 of the life on Earth is a likely outcome of the existing trajectory towards ecological, social, and geopolitical collapse coupled with the chaos, conflict, and tyranny that inevitably follows. [[Most People Have No Idea What Is Coming]] and the other [[Lionsberg Wiki Books]] examine this in more detail. 
+Adding urgency to the situation, a growing array of prophetic voices are warning of a significant [[Non-Zero Probability of Systems Collapse]] and World War. Both indigenous voices and modern analysts are warning that the death of 2/3 of the life on Earth is a likely outcome of the existing trajectory towards ecological, social, and geopolitical collapse coupled with the chaos, conflict, and tyranny that inevitably follows. [[Most People Have No Idea What Is Coming]] and the other [[LIØNSBERG Wiki Books]] examine this in more detail. 
 
 To make matters worse, it has become increasingly apparent the last several years that the [[Visible Power Structures]] we have looked to for leadership and guidance in the past have been co-opted and are being collusively puppeted by parasitical, corrupt, and willfully blind [[Invisible Power Structures]]. 
 
@@ -31,14 +31,14 @@ On March 1st 2024, we transitioned from [[The 7 Year Window of Preparatory Work 
 Our aim is to connect, equip, and empower [[The First Three Percent]] of the population by 2026 (~250 Million Individuals), creating a powerful and optimally decentralized [[Force For Good]] capable of working together to meet the needs, solve the problems, and accomplish the goals at hand throughout [[The 7 Year Window of Crisis and Opportunity]]. Following this significant milestone, we will progressively invite all humanity to take up an equal [[New Citizenship]] in the [[New Era]] we are co-creating. 
 ### The First Eight Cycles of Growth 
 
-After 7 years of co-creating the conditions to facilitate an emergent process, we are monitoring the organic growth of the movement using the metaphor of a Sacred Tree emerging from [[The Golden Seed]]. After testing the foundational infrastructure to our satisfaction with hundreds of groups in ~50+ countries, over the first ~90 days, we completed the first eight [[Lionsberg Cycles of Growth]], connecting the first 60+ carefully selected [[Lionsberg Co-Creators]] while surfacing a list of hundreds of the [[Wise Right People]] to invite in next. These first 100 to 200 co-creators are network nodes that bring every requisite resource and relationship within one relational degree. 
+After 7 years of co-creating the conditions to facilitate an emergent process, we are monitoring the organic growth of the movement using the metaphor of a Sacred Tree emerging from [[The Golden Seed]]. After testing the foundational infrastructure to our satisfaction with hundreds of groups in ~50+ countries, over the first ~90 days, we completed the first eight [[LIØNSBERG Cycles of Growth]], connecting the first 60+ carefully selected [[LIØNSBERG Co-Creators]] while surfacing a list of hundreds of the [[Wise Right People]] to invite in next. These first 100 to 200 co-creators are network nodes that bring every requisite resource and relationship within one relational degree. 
 
 ### 120 Day Plan 
 
-The bold and transformative plan below requires requires completion of [[Lionsberg Cycles of Growth|Cycles 9 through 12]] at no more than 4 week intervals, as well as sufficient resourcing via [[Resource Tranche 2]]. 
+The bold and transformative plan below requires requires completion of [[LIØNSBERG Cycles of Growth|Cycles 9 through 12]] at no more than 4 week intervals, as well as sufficient resourcing via [[Resource Tranche 2]]. 
 
 1. June: 
-	1. Continue to monitor the [[Lionsberg Cycles of Growth]] and [[Lionsberg Cycle Time]], paving the way towards a first [[Quarterly Summit]] in July.  
+	1. Continue to monitor the [[LIØNSBERG Cycles of Growth]] and [[LIØNSBERG Cycle Time]], paving the way towards a first [[Quarterly Summit]] in July.  
 	2. Respond to the first nations with the preliminary strategy and plan to heal and generate society and the earth.  
 	3. Raise [[Resource Tranche 2]] ($10M)  
 2. Early July: 
@@ -65,7 +65,7 @@ Following ratification of [[The Grand Strategy]] in September, we intend to laun
 
 ### The First 3% 
 
-The widespread planetary awareness campaign(s), coupled to the invitational strategy to [[Pass The Flame]] to the Wise Right next co-creators, is intended to surface [[The First Three Percent]] of most capable and enlightened leaders, who we aim to connect, equip, and empower by 2026.= (~250 million individuals). This milestone is accomplished with the successful completion of the [[Lionsberg Cycles of Growth|40th Cycle of Growth]]. As of June 2024, there are 31 cycles remaining to this milestone and 31 months to achieve it, requiring a minimum [[Lionsberg Cycle Time]] of ~4 weeks.  
+The widespread planetary awareness campaign(s), coupled to the invitational strategy to [[Pass The Flame]] to the Wise Right next co-creators, is intended to surface [[The First Three Percent]] of most capable and enlightened leaders, who we aim to connect, equip, and empower by 2026.= (~250 million individuals). This milestone is accomplished with the successful completion of the [[LIØNSBERG Cycles of Growth|40th Cycle of Growth]]. As of June 2024, there are 31 cycles remaining to this milestone and 31 months to achieve it, requiring a minimum [[LIØNSBERG Cycle Time]] of ~4 weeks.  
 
 ### Self-Governing, Self-Sustaining, and Self-Replicating Teams
 
@@ -86,7 +86,7 @@ Autonomous leaders and teams will be invited to engage in a series of continuall
 
 ### Ecosystememic Resource Flows and Supply Chain Management
 
-The Lionsberg Platform and Networked Instantiation Hubs will enable ecosystemic resource flows and [[Optimally Decentralized]] planetary supply chain management, connecting and empowering localities, for the first time in history, to transparently visualize and allocate excesses and shortages, stocks and flows, information and solutions. 
+The LIØNSBERG Platform and Networked Instantiation Hubs will enable ecosystemic resource flows and [[Optimally Decentralized]] planetary supply chain management, connecting and empowering localities, for the first time in history, to transparently visualize and allocate excesses and shortages, stocks and flows, information and solutions. 
 
 ### Value Creation 
 
@@ -94,7 +94,7 @@ The Lionsberg Platform and Networked Instantiation Hubs will enable ecosystemic 
 
 Our interim target is to have at least 50 million teams engaged in quarterly quests with an average [[Value]] of at least $10,000 by 2026, co-creating [[Flow]] of at least a half trillion dollars of [[Value]] every 90 days within 30 months. 
 
-[[Value Creation]] will be tracked via both local fiat currency and [[Lionsberg Units of Value (LUV)]], paving the way towards the integrated planetary [[Time-Energy Accounting]] system. 
+[[Value Creation]] will be tracked via both local fiat currency and [[LIØNSBERG Units of Value (LUV)]], paving the way towards the integrated planetary [[Time-Energy Accounting]] system. 
 
 ### A Blended Ecosystem 
 
@@ -106,23 +106,23 @@ All Teams will Federate their activities, leading to a blended post-[[Mondragon]
 
 This New Confederation would constitute the largest private economic federation in the world and would rank in the top 10 in terms of both population and GDP if treated as a nation. 
 
-We plan to monitor the [[Lionsberg Cycles of Growth]] against the list of [[Countries By Population]], and begin expanding the exchange of [[Diplomatic Recognition]] with various tribes and nations through 2025 and 2026. 
+We plan to monitor the [[LIØNSBERG Cycles of Growth]] against the list of [[Countries By Population]], and begin expanding the exchange of [[Diplomatic Recognition]] with various tribes and nations through 2025 and 2026. 
 ### Working Capital 
 
 The [[Provisional Structure]] has been instantiated to deal with a combination of philanthropic, investment, and political capital flows. 
 
-Following the example of [[Mondragon]] that successfully grew out beyond $10 Billion / year, investment capital in [[The System]] will be paid an annual rate of return varying from 0% to 7% based on system performance, as determined by the [[Lionsberg General Assembly]]. 
+Following the example of [[Mondragon]] that successfully grew out beyond $10 Billion / year, investment capital in [[The System]] will be paid an annual rate of return varying from 0% to 7% based on system performance, as determined by the [[LIØNSBERG General Assembly]]. 
 
 ### Resource Tranches 
 
-- [[Resource Tranche 1]] (2017-Q1 2024): Tens of millions of dollars of Value curated in the [[Lionsberg Commons]], ~$2M in capital self-funded by [[Jordan]], ~$5M+ in time invested by [[Jordan]] and the network of co-creators. 
+- [[Resource Tranche 1]] (2017-Q1 2024): Tens of millions of dollars of Value curated in the [[LIØNSBERG Commons]], ~$2M in capital self-funded by [[Jordan]], ~$5M+ in time invested by [[Jordan]] and the network of co-creators. 
 	- We estimate that the [[The Starting Point]] would require 4 to 5 years and $40 Million to $50 Million to recreate. 
 	- This means that it actually cannot be recreated, because of the rate at which events will unfold throughout [[The 7 Year Window of Crisis and Opportunity]]. 
 - [[Resource Tranche 2]]: $10M - Summer 2024  
 - [[Resource Tranche 3]]: $100M - 2025  
 - [[Resource Tranche 4]]: $1 Billion+ - 2026  
 - [[Resource Tranche 5]]: During the [[10 Year Grand Strategy]], $15 Trillion to $20 Trillion of the $30 Trillion already budgeted for omnicidal World War, redirected to the largest [[Citizen Led]] infrastructure, wellness, and education project in human history, transforming our [[Weapons Into Tools of Life]]. 
-- [[Lionsberg Resource Runway]] provides additional detail on the sources and uses of capital and the [[Multi-Phase Poly-Centric Ecosystemic Resourcing Approach]]. 
+- [[LIØNSBERG Resource Runway]] provides additional detail on the sources and uses of capital and the [[Multi-Phase Poly-Centric Ecosystemic Resourcing Approach]]. 
 ### Your Role in This Epic Journey
 
 While this document is specifically intended as a Resource Request to generate the next $10M+ in working capital, the world needs *you* far more than the resources you steward. 

@@ -98,12 +98,12 @@ By [[Jordan Nicholas Sukut]]
 #### [[12.2 The challenges and successes of these early efforts]] 
 #### [[12.3 The potential of the rising movement to create meaningful and lasting change]]  
 
-### Chapter 13: The Lionsberg System 
+### Chapter 13: The LIØNSBERG System 
 
 #### [[13.1 The need for a new operating system and approach]]
-#### [[13.2 The concept of the Lionsberg System as a new operating system for humanity]] 
-#### [[13.3 How the Lionsberg System will empower individuals and communities to address their specific issues and pain points]] 
-#### [[13.4 The potential for the Lionsberg System to create a more united and harmonious world]] 
+#### [[13.2 The concept of the LIØNSBERG System as a new operating system for humanity]] 
+#### [[13.3 How the LIØNSBERG System will empower individuals and communities to address their specific issues and pain points]] 
+#### [[13.4 The potential for the LIØNSBERG System to create a more united and harmonious world]] 
 
 ### Chapter 14: The United Front
 
@@ -185,9 +185,9 @@ By [[Jordan Nicholas Sukut]]
 
 #### [[26 The Role of the United Front]] 
 
-### Chapter 27: The Role of the Lionsberg System  
+### Chapter 27: The Role of the LIØNSBERG System  
 
-#### [[27 The Role of the Lionsberg System]]  
+#### [[27 The Role of the LIØNSBERG System]]  
 
 ## Section IX: Reflections and Next Steps
 
@@ -234,7 +234,7 @@ By [[Jordan Nicholas Sukut]]
 
 ## Section XI: Tools and Resources For Action 
 
-[[The Lionsberg Toolkit]] is coming soon! 
+[[The LIØNSBERG Toolkit]] is coming soon! 
 
 ## Section XII: Appendices
 

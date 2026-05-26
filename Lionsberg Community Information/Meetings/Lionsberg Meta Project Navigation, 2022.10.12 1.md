@@ -1,8 +1,8 @@
-# Lionsberg Meta Project Navigation, 2022.10.12
+# LIØNSBERG Meta Project Navigation, 2022.10.12
 
 ## Topics
 - Revisit Issue / Vision / Process...
-- Jordan, Lionsberg, and Meta Project adjustments for Q4... 
+- Jordan, LIØNSBERG, and Meta Project adjustments for Q4... 
     - Near navigation error! 
 - Data and Comms Platforms
     - Jason - Three Counties in Area - Data Project
@@ -92,7 +92,7 @@
 - Comms System 
     - Mapping
     - Groups writing out what they know... 
-    - Conceptually, can we fill in the Metaproject (Lionsberg map/infographic) withOUT building, but rather, recognizing what exists and can be supported?
+    - Conceptually, can we fill in the Metaproject (LIØNSBERG map/infographic) withOUT building, but rather, recognizing what exists and can be supported?
     - Build a map in action - mapping that is emergent - co-designed
     - Will be difficult to collect information from users about their need... 
         - often a gap between what they think they need, and what they actually need at different levels of analysis...

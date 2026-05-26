@@ -20,7 +20,7 @@ Several factors can challenge authenticity, such as societal pressure, fear of j
 
 Cultivating authenticity involves self-exploration and introspection to understand one's values, beliefs, and desires. It also involves courage to express oneself honestly and openly, despite potential criticism or rejection.
 
-**Authenticity in the Context of Lionsberg**
+**Authenticity in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, authenticity serves as a guiding principle. It demands courage to break away from old narratives that do not serve the truth of who we are, and bravery to forge a new path aligned with our genuine Selves. Authenticity propels us to question, explore, and redefine our identities in our collective quest towards the New World.
 

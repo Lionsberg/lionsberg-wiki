@@ -65,4 +65,4 @@ ___
 Forward to [[Chapter 4 - The Shadow of World War]]  
 Back to [[Chapter 2 - Supply Chain Breakdown and Economic Chaos]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

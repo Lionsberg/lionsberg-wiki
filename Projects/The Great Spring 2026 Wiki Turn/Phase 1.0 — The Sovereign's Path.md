@@ -131,7 +131,7 @@ The Codex is a noun. The Experience is a verb.
 What a Sovereign actually walks, in order:
 
 ### Stage 1 — Discovery
-- Receives `lionsberg.wiki` link from someone they trust
+- Receives `LIØNSBERG.wiki` link from someone they trust
 - Lands at **[[README]]** (The Golden Seed)
 - Feels the resonance
 

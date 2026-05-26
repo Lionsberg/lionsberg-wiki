@@ -4,7 +4,7 @@
 
 Congratulations on arriving at day five of our transformative journey. With each day of hard-fought Practice and [[Progress]], we get a little nearer to [[The Goal]]. Your commitment, courage, and engagement are truly appreciated and are at the heart of this emerging community's collective power and potential. Yesterday we faced into the imprisonment of the caves and started to understand the invisible chains that hold us within the dark recesses of the [[Old World]]. Today, we will shift our focus to the remarkable phenomenon that breaks through the illusions and delusions of the caves, shaking us awake and summoning us toward a brighter reality – **The Phenomenal Calling, the Voice and Vision that Awakens**.
 
-In the grand narrative of Lionsberg, this is the moment of The Call, the inciting incident that inbreaks and disrupts the delusive status quo, and sets us on the path of our individual and collective [[Quest]] toward [[The Goal]].
+In the grand narrative of LIØNSBERG, this is the moment of The Call, the inciting incident that inbreaks and disrupts the delusive status quo, and sets us on the path of our individual and collective [[Quest]] toward [[The Goal]].
 
 ## The Voice that Awakens
 
@@ -93,23 +93,23 @@ Today's practical exercise is designed to help you attune to your own Voice and 
 
 ## Getting Into Action Together
 
-As we awaken to the Phenomenal Calling and arise, let us unite to translate this awakening into action. Lionsberg's ethos thrives on collective action, and the responsibility lies within each of us as Conscious Agents to facilitate and contribute towards our collective progress.
+As we awaken to the Phenomenal Calling and arise, let us unite to translate this awakening into action. LIØNSBERG's ethos thrives on collective action, and the responsibility lies within each of us as Conscious Agents to facilitate and contribute towards our collective progress.
 
 Remember, the first step is to recognize and shed your personal and systemic chains, opening your heart and mind to New possibilities and potentials. Once you have identified an area of passion or interest, [[Forge or Join a Group]] to begin co-creating. Remember, there is no hierarchy here, only self-organization and voluntary alignment. Listen to the Spirit within you, step into action, and if you need help or support, remember to reach out.
 
-For those with an entrepreneurial drive, remember that the Pioneer cohort is rich with like-minded individuals eager to form businesses within the Lionsberg federation. Ultimately, we must co-create New and meaningful work together, so that the Value we Co-Create can help sustain us and our families through all that lies ahead. The strength of our collective action lies in our ability to form teams, collaborate, and create. Again, forge a group around your idea, remember that [[Everything Is A Project]], write up a proposal or plan, and start moving. Be sure to align your proposals with the **structural federation** of Lionsberg as we work together as one diverse body, advancing towards One overarching and uniting Goal.
+For those with an entrepreneurial drive, remember that the Pioneer cohort is rich with like-minded individuals eager to form businesses within the LIØNSBERG federation. Ultimately, we must co-create New and meaningful work together, so that the Value we Co-Create can help sustain us and our families through all that lies ahead. The strength of our collective action lies in our ability to form teams, collaborate, and create. Again, forge a group around your idea, remember that [[Everything Is A Project]], write up a proposal or plan, and start moving. Be sure to align your proposals with the **structural federation** of LIØNSBERG as we work together as one diverse body, advancing towards One overarching and uniting Goal.
 
 ## Administration
 
-As we delve deeper into our transformative journey, it's important to ensure we are all on the same page, with adequate clarity, structure, and values to protect our progress. Familiarize yourself with the [[Lionsberg Participation Agreement]] and the [[Lionsberg Code of Conduct]]. Adhere to these guidelines in all your interactions within the community.
+As we delve deeper into our transformative journey, it's important to ensure we are all on the same page, with adequate clarity, structure, and values to protect our progress. Familiarize yourself with the [[LIØNSBERG Participation Agreement]] and the [[LIØNSBERG Code of Conduct]]. Adhere to these guidelines in all your interactions within the community.
 
-As previously noted, [[The Gate]] will close behind the Pioneer Cohort after Day 7. If you haven't signed the Participation Agreement yet, make sure to do so using the [Lionsberg Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
+As previously noted, [[The Gate]] will close behind the Pioneer Cohort after Day 7. If you haven't signed the Participation Agreement yet, make sure to do so using the [LIØNSBERG Participation Agreement Signature Form](https://forms.gle/zWKpbvfQv1f6xYfe6).
 
 For those who may need to step back, we respect your decision. You will be celebrated, honored, and welcomed to join [[The Queue]] for Future Cohorts when you're ready. 
 
 ## Governance Consideration For Collective Discernment
 
-As of Day 4, We are up to **12 signatures** so far between the two Pioneer Cohorts out of ~24 invited. If we have fewer than 16 total who are willing and able to respond by Day 7, we should consider consolidating to one International Cohort to unite our wisdom and efforts. This would force us to change up our rhythms and comfort zones a bit, but could open up powerful new synergies among the most committed and passionate few. Please mediate and pray on this as we watch and see what happens in the Lionsberg Experience over the next few days. 
+As of Day 4, We are up to **12 signatures** so far between the two Pioneer Cohorts out of ~24 invited. If we have fewer than 16 total who are willing and able to respond by Day 7, we should consider consolidating to one International Cohort to unite our wisdom and efforts. This would force us to change up our rhythms and comfort zones a bit, but could open up powerful new synergies among the most committed and passionate few. Please mediate and pray on this as we watch and see what happens in the LIØNSBERG Experience over the next few days. 
 
 ## Closing
 

@@ -55,11 +55,11 @@ It is [[The One Thing That Makes All Things Possible]].
 It is the eternal [[Fundamental Tone]], revealing [[The Cacophony]] of division and inviting [[All]] into [[Harmony]] and [[Coherence]].
 
 **Can you hear [[The Call]]? Will you [[ReMember]] and [[ReTurn]]?**
-### **Lionsberg, a Servant of All**
+### **LIØNSBERG, a Servant of All**
 
 If you are awakening and longing to join a [[Force For Good]] far greater than the sum of its parts, [[LIØNSBERG]] was **Purpose-Built** to guide and empower humanity in this Mission.
 
-- Lionsberg offers the protocols, patterns, and [[Minimum Standards of Interoperability]] needed to unite [[The First Three Percent]] into [[ØNE Body]].
+- LIØNSBERG offers the protocols, patterns, and [[Minimum Standards of Interoperability]] needed to unite [[The First Three Percent]] into [[ØNE Body]].
 - It provides the tools, relationships, and frameworks required to overcome the [[Meta Crisis]], pass [[The Final Test]], and co-create [[Heaven On Earth]].
 
 The [[Next Steps]] are clear:  
@@ -78,7 +78,7 @@ We have sacrificed everything to lay the foundations and prepare the [[Way]].
 
 ### **The Seven Commitments of Every Co-Creator**
 
-By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace these simple yet profound commitments:
+By joining [[The LIØNSBERG Alliance]], you affirm your willingness to embrace these simple yet profound commitments:
 
 1. **Join as a Sovereign Individual:**  
     Stand as a free, unbound individual while contributing uniquely to [[The Whole]].
@@ -101,7 +101,7 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 7. **Act with Integrity and Mutual Consent:**  
     Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship, always strengthening [[The Whole]].
 
-*These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ØNE Body]].*
+*These commitments are not burdens but sacred invitations to rise together. LIØNSBERG provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ØNE Body]].*
 
 ---
 

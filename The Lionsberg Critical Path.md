@@ -1,4 +1,4 @@
-# The Lionsberg Critical Path
+# The LIØNSBERG Critical Path
 
 By 2017, we had discerned that the [[Critical Path]] likely ran through three primary issues: 
 

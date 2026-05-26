@@ -3,7 +3,7 @@
 **Cluster:** Spiritual / Way Cluster  
 **Source transcript:** `agent-a111de10026a769db.jsonl`  
 **Extracted:** 2026-05-19 (final assistant message of Phase 2.7 audit subagent)  
-**Scope:** 15 wiki books / ~395 files / ~1.8 MB markdown; includes per-book inventories for The Way of God, The Power of Today, The One, Rediscovering the Way, The Wisdom of the Way, A Way Beyond Fear/Anxiety/Depression, The Power of One, An Alternative to Apocalypse, Lionsberg Simple & Clear, Lionsberg - A Biblical Perspective, The Quest Towards The Goal, The Roving Temple Dojo, Becoming a Warrior of The Way, Playing With Poetry, When It's All On The Line.  
+**Scope:** 15 wiki books / ~395 files / ~1.8 MB markdown; includes per-book inventories for The Way of God, The Power of Today, The One, Rediscovering the Way, The Wisdom of the Way, A Way Beyond Fear/Anxiety/Depression, The Power of One, An Alternative to Apocalypse, LIØNSBERG Simple & Clear, LIØNSBERG - A Biblical Perspective, The Quest Towards The Goal, The Roving Temple Dojo, Becoming a Warrior of The Way, Playing With Poetry, When It's All On The Line.  
 
 This file is the verbatim transcription of the audit memo delivered by the subagent. Card-table content and inventories are preserved exactly as produced. No files were modified during the original audit.
 
@@ -27,8 +27,8 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | A Way Beyond Fear, Anxiety, and Depression | 60 | TOC + 11 chapter files | Deep |
 | The Power of One | 11 | TOC + 3 chapter files | Mid (book is partial) |
 | An Alternative to Apocalypse | 18 | TOC + 5 chapter files | Deep |
-| Lionsberg, Simple and Clear | 18 | TOC + 4 chapter files | Mid-Deep |
-| Lionsberg - A Biblical Perspective | 17 | TOC + 4 chapter files | Deep (voice flagged) |
+| LIØNSBERG, Simple and Clear | 18 | TOC + 4 chapter files | Mid-Deep |
+| LIØNSBERG - A Biblical Perspective | 17 | TOC + 4 chapter files | Deep (voice flagged) |
 | The Quest Towards The Goal | 1 | TOC outline only | Outline (book is unwritten) |
 | The Roving Temple Dojo | 1 | First 200 lines of the large doc | Deep (operational/technical) |
 | Becoming a Warrior of The Way | 2 | Both files | Full |
@@ -54,7 +54,7 @@ Cosmological/liturgical "Sacred Blueprint for Awakening All Consciousness." Symp
 Martial-arts-framed book. Strong: Ultimate Reality of One Generative Source, underlying universal Energy/Logos, balance/harmony/flow, interconnectedness, prayer & meditation, breath control, cultivating strong & flexible Spirit/Mind/Body, becoming a conduit eliminating the ego, overcoming fear of suffering and death, ethical/moral compass, ancient wisdom in modern contexts. **Take 2** is a fully restructured 21-chapter outline (Sacred Context → Foundations of Ascent → Journey of Ascent → Mastery and Co-Creation → Eternal Horizon) — this is essentially a re-envisioned spine for a different book.
 
 ### 5. The Wisdom of the Way (20 files)
-Compressed wisdom book — short pithy pages. Wisdom Cries Out, One, A Few, The 20%, The All, First Do No Harm, Sacrifice for Something Better, Attend to Most Important First, Spending Attention/Time/Energy, Operationalizing Wisdom, Memento Mori, Fear Not Death. Book is partial. Voice is closest to **The Lionsberg Voice** template — staccato, declarative, definitive.
+Compressed wisdom book — short pithy pages. Wisdom Cries Out, One, A Few, The 20%, The All, First Do No Harm, Sacrifice for Something Better, Attend to Most Important First, Spending Attention/Time/Energy, Operationalizing Wisdom, Memento Mori, Fear Not Death. Book is partial. Voice is closest to **The LIØNSBERG Voice** template — staccato, declarative, definitive.
 
 ### 6. A Way Beyond Fear, Anxiety, and Depression (60 files)
 **Most operational/clinical book in cluster**. Four parts: (1) Emotions & Biology — Autonomic Nervous System as default-on, Body↔Brain signaling, Dopamine, Mania/Depression poles, rewiring the brain, Choosing a Worthy Aim, Advance/Remain/Retreat, Green/Yellow/Red signal system; (2) Conscious Agency — envisioning futures, boundaries, losing/regaining consciousness; (3) Stories — forward & backward-looking stories, self-limiting beliefs, narrative coherence; (4) Navigating/Moving — Smallest Step, Proper Orientation/Stance, Making Selves Strong, Confronting What We Fear, Raising the Standard, Co-Creating Heaven. **Net-new patterns galore** for healing/practice work. Voice is gentle, accessible, science-aware-but-spiritual.
@@ -65,11 +65,11 @@ Compressed wisdom book — short pithy pages. Wisdom Cries Out, One, A Few, The 
 ### 8. An Alternative to Apocalypse - The New Covenant (18 files)
 **Eschatology** book. Part I: Current Path Towards Apocalypse (American collapse, supply chain, famine/migration/plague, world war shadow, environmental collapse). Part II: New Covenant (principles: Truth/Love/Justice/Stewardship/Wisdom/Unity Under God; Spiritual War; Building Bridges & Alliances; Resisting). Part III: Jubilee — radical reset; debt/property/economic reset; Co-Creating conditions for new era. **Spiritual War chapter** is operationally rich: not-against-flesh-and-blood, fractal nature of the war, strategies (personal transformation → family → community → ethical leadership → inter-belief dialogue → prayer → integrated wellbeing). **Heavy Christian framing** — Jesus, Paul, scripture citations, "Unity Under God" as foundational principle.
 
-### 9. Lionsberg, Simple and Clear (18 files)
+### 9. LIØNSBERG, Simple and Clear (18 files)
 **Comforting/accessible** entry-point book. 17 chapters cover the entire LIØNSBERG architecture (Story, Meta Crisis, Vision/Plan, Manifesto, System/Approach, Great Game, Economic System, Governance, Education, Structure, Values, Hope/Resilience, Action, Traps/Pitfalls). Strong Traps/Pitfalls chapter (14 distinct failure-mode patterns). Voice is well-disciplined, accessible.
 
-### 10. Lionsberg - A Biblical Perspective (17 files)
-**Explicit Christian apologetic** for LIØNSBERG. Frames Jordan as addressing "esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." Defends LIØNSBERG as not-Anti-Christ / not-one-world-government per Revelation. Contains **100-numbered list of "God is X" with scripture citations** (Perfect Nature, Character, Intention of God). **Highest religion-elevation risk in the entire cluster.** May be appropriate as a translated companion piece for Christian audiences but cannot stand as canonical universal Lionsberg.
+### 10. LIØNSBERG - A Biblical Perspective (17 files)
+**Explicit Christian apologetic** for LIØNSBERG. Frames Jordan as addressing "esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." Defends LIØNSBERG as not-Anti-Christ / not-one-world-government per Revelation. Contains **100-numbered list of "God is X" with scripture citations** (Perfect Nature, Character, Intention of God). **Highest religion-elevation risk in the entire cluster.** May be appropriate as a translated companion piece for Christian audiences but cannot stand as canonical universal LIØNSBERG.
 
 ### 11. The Quest Towards The Goal (1 file, outline only)
 A book Jordan **hoped to write but didn't**. The single file is a 70+ link outline of "Remembering Why and How to..." patterns: Breathe, Eat, Drink, Sleep, Walk, Learn, Laugh, Play, Perceive, Orient, Move, Navigate, Map, Ground, Love (and commune with One/Self/Neighbor/All), Wrestle with God/Reality, Incarnate/Transcend, Differentiate Levels of Abstraction, Cultivate/Channel/Exchange/Create/Heal/Destroy with Energy, Receive/Channel from Beyond, Think/Speak/Write, Collaborate, Co-Create, Forge Groups, Establish Boundaries, Govern Selves, Quest, transform Quests→Projects→Programs→Meta Programs, Pull Plan, Set Milestones, Make Decisions, Transform Conflict, Coach/Mentor, Tell Stories, Co-Create Systems/Tools/Technology. **This outline is itself a Pattern Language compression** of huge value.
@@ -141,7 +141,7 @@ Below: Voice-disciplined, universal articulation. "Source" = book.
 | The Spiritual War — Fractal Nature | War is fractal: individual → family → community → bioregion → planet → cosmos. Must be fought "in here" before "out there." | An Alt to Apocalypse 9 |
 | Not Against Flesh and Blood | Enemy is patterns/forces, not the individuals they act through. The patterns persist across generations as individuals come and go. | An Alt to Apocalypse 9 |
 | The Crossroads of History | The two paths: collapse vs. renewal. The leaves are changing, the warning signals flashing red, most remain asleep. | An Alt to Apocalypse Intro |
-| Traps and Pitfalls (14-Pattern Set) | Short-term thinking, self-optimizing, complacency, cynicism, lack of retrospection, blind spots, centralized control, lack of diversity, overemphasis on technology, losing the One Center, confusing activity for value, creating dependencies, factions/divisions, allowing bottlenecks. | Lionsberg Simple & Clear 16 |
+| Traps and Pitfalls (14-Pattern Set) | Short-term thinking, self-optimizing, complacency, cynicism, lack of retrospection, blind spots, centralized control, lack of diversity, overemphasis on technology, losing the One Center, confusing activity for value, creating dependencies, factions/divisions, allowing bottlenecks. | LIØNSBERG Simple & Clear 16 |
 | When It's All On The Line | The crucible-of-decision moment. Complex adaptive systems at the brink either collapse into chaos or leap to higher-order. | When It's All On The Line 1.1 |
 | The Once-In-A-Millennia Meta Opportunity | The shadow of the Obstacle contains an Opportunity of equal and opposite proportion. The greatest crisis IS the greatest opportunity. | When It's All On The Line 2.3 |
 | Having Been Hardened, Become Soft (The Beatitudes Inversion) | Having been Robbed → become Generosity; Slandered → Truth; Betrayed → Loyalty; Rejected → Love; Killed → Resurrection. The 12-step inversion pattern. | Playing With Poetry 32 |
@@ -197,7 +197,7 @@ These files should be considered **canonical sources** that may need direct incl
 6. **The Roving Temple Dojo (Sanctuary spec)** — Infrastructure canon. The pattern for the Mobile Embassy of the New Civilization.
 7. **Rediscovering the Way — Take 2** — This 21-chapter outline is itself a complete book proposal. Should be either built out or absorbed into The Sacred Ascent.
 8. **The Quest Towards The Goal — outline** — The 70+ "Remembering Why and How to..." pattern compression is itself a Pattern Language draft. Mine for cards then archive.
-9. **Lionsberg, Simple and Clear — Ch 16 Traps and Pitfalls** — 14 distinct failure-mode patterns. Direct lift candidates.
+9. **LIØNSBERG, Simple and Clear — Ch 16 Traps and Pitfalls** — 14 distinct failure-mode patterns. Direct lift candidates.
 10. **The Way of God — The Patterns of Spiraling Up/Down** — The civilizational cycle pattern, universally extractable.
 
 ---
@@ -206,7 +206,7 @@ These files should be considered **canonical sources** that may need direct incl
 
 ### Severe (require translation before any Codex inclusion):
 
-- **`Lionsberg - A Biblical Perspective/`** (entire book, 17 files) — Opens "Esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." 100-item numbered list of "God is X (scripture citation)." Frames LIØNSBERG as Christian apologetic. **Status: NOT canonical for universal Codex.** Two options: (a) archive as a Christian-audience companion piece clearly marked as such; (b) translate the underlying patterns to universal voice and let the original sunset.
+- **`LIØNSBERG - A Biblical Perspective/`** (entire book, 17 files) — Opens "Esteemed brothers and sisters, fellow children of God, following the footsteps of Jesus." 100-item numbered list of "God is X (scripture citation)." Frames LIØNSBERG as Christian apologetic. **Status: NOT canonical for universal Codex.** Two options: (a) archive as a Christian-audience companion piece clearly marked as such; (b) translate the underlying patterns to universal voice and let the original sunset.
 
 - **`The Way of God/`** — Title alone elevates a religious framing. Three of four Parts are lensed through Isaiah, Jesus, and the Canonical (heavily Christian-Hebrew). Voice repeatedly says "God" where universal articulation would say "ØNE." Strong material in the book — pattern language of Spiraling Up/Down, Logos, Avoiding Idolatry, Word Tools, Universal Wisdom — but each chapter needs translation. **The Patterns of Spiraling Up/Down** is the highest-priority extraction candidate (universal civilizational pattern); the Christian wrapper can be stripped.
 
@@ -226,7 +226,7 @@ These files should be considered **canonical sources** that may need direct incl
 
 - **`The One/`** — Cleanest universal voice in the cluster. Symphony cosmology transcends religious framing. **Outline drift**: Ch 16 "The Art and Science of Divine Collaboration", Ch 18 "Wrestling with the All", Part IV "Becoming Co-Creators With God" — "God" word should be reviewed against `[[ØNE]]` convention.
 
-- **`Lionsberg, Simple and Clear/`** — Clean universal voice. Strong example.
+- **`LIØNSBERG, Simple and Clear/`** — Clean universal voice. Strong example.
 
 - **`When It's All On The Line/`** — Mostly clean. Outline mentions "the full armor of God" (Pauline reference) and "the Spirit of God"; section 2.3 uses "ØNE" extensively.
 
@@ -255,7 +255,7 @@ With **15 books** in this cluster, consolidation is urgent. Candidate consolidat
 
 2. **The Power of Today + The Power of One** → **ØNE consolidated work** — The Power of One is essentially a section of Power of Today. The "One Hour a Day / Four Periods of Action" pattern fits naturally inside Power of Today's Chapter 4 (Daily Practice).
 
-3. **Lionsberg, Simple and Clear + Lionsberg - A Biblical Perspective** → Simple and Clear is the universal version; Biblical Perspective is the Christian apologetic translation. Either (a) archive Biblical Perspective as a companion piece clearly marked "translation for Christian audiences," or (b) sunset it entirely since Simple and Clear covers the same architecture in universal voice.
+3. **LIØNSBERG, Simple and Clear + LIØNSBERG - A Biblical Perspective** → Simple and Clear is the universal version; Biblical Perspective is the Christian apologetic translation. Either (a) archive Biblical Perspective as a companion piece clearly marked "translation for Christian audiences," or (b) sunset it entirely since Simple and Clear covers the same architecture in universal voice.
 
 4. **The Quest Towards The Goal** → **Archive the outline as Pattern Language source-material** since the book was never written and the outline itself contains ~70 named patterns that can each become Cards. Don't try to write the book — mine it then retire it.
 
@@ -273,7 +273,7 @@ With **15 books** in this cluster, consolidation is urgent. Candidate consolidat
 - **The Power of Today** (with Power of One absorbed) — operational/devotional Volume
 - **The One** (kept as cosmological/liturgical Volume) — needs completion of Chs 15-30
 - **A Way Beyond Fear, Anxiety, and Depression** — healing-practice canon, kept
-- **Lionsberg Simple and Clear** — accessible entry-point, kept; Biblical Perspective archived
+- **LIØNSBERG Simple and Clear** — accessible entry-point, kept; Biblical Perspective archived
 - **An Alternative to Apocalypse + When It's All On The Line** — possibly merged eschatology/crucible Volume
 - **Playing With Poetry** — liturgical reservoir, kept
 - **Warrior + Sanctuary cluster** — practice-embodiment Volume
@@ -302,11 +302,11 @@ This reduces 15 books to **~6-7 canonical works** plus archived precursors.
 
 6. **Voice-discipline drift is most severe in the older Christian-framed works** (Way of God, Biblical Perspective, parts of Alt to Apocalypse). The newer works (The One, Wisdom of the Way, Way Beyond Fear, Becoming a Warrior) are much more universal. There is a clear **evolution toward universal voice** across the cluster's history — the consolidation should respect and complete that arc.
 
-7. **The "By [[Jordan Nicholas Sukut]]" attribution** appears on Power of Today, Power of One, Way Beyond Fear, Lionsberg Simple and Clear, Rediscovering the Way, and Becoming a Warrior. Should be reviewed against the current "the nameless one" framing.
+7. **The "By [[Jordan Nicholas Sukut]]" attribution** appears on Power of Today, Power of One, Way Beyond Fear, LIØNSBERG Simple and Clear, Rediscovering the Way, and Becoming a Warrior. Should be reviewed against the current "the nameless one" framing.
 
 8. **The "Wiki Book is a Work in Progress" disclaimer** appears in multiple books — appropriate during preparation phase but should be **removed from Codex-canonical Volumes** when they enter that status. Books in this cluster are either work-in-progress (and remain in the wiki as such) or they are canonical (and become Volumes).
 
-9. **Section numbering drift**: Power of Today uses "1.1, 1.2..."; Way Beyond Fear uses "1.1, 1.2..."; Lionsberg Simple uses "1., 2., 3."; Way of God uses prose-titled files without numbering; The One uses "1., 2., 3." This inconsistency complicates cross-referencing. Future Volumes should adopt **one canonical numbering convention**.
+9. **Section numbering drift**: Power of Today uses "1.1, 1.2..."; Way Beyond Fear uses "1.1, 1.2..."; LIØNSBERG Simple uses "1., 2., 3."; Way of God uses prose-titled files without numbering; The One uses "1., 2., 3." This inconsistency complicates cross-referencing. Future Volumes should adopt **one canonical numbering convention**.
 
 10. **The "Pattern Language compression" outlines** — Quest Towards The Goal's 70+ "Remembering Why and How to..." list, Way of God's chapter list, Rediscovering Take 2's 21-chapter spine, When It's All On The Line's "How to X When It's All On The Line" list — these outlines are themselves Pattern Language drafts. Mine them all, then they can be archived as fulfilled drafts.
 

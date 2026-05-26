@@ -1,4 +1,4 @@
-# The Lionsberg Operating System - Overview
+# The LIØNSBERG Operating System - Overview
 
 ### **Introduction: The Crossroads of Humanity**
 
@@ -38,9 +38,9 @@ But how could it be possible for the Divine Blueprints to come to life and bring
 
 ---
 
-### **The Lionsberg Way**
+### **The LIØNSBERG Way**
 
-Lionsberg was purpose-built for this reason. [[The LIØNSBERG Operating System (LIOS)]] is a continuously improving Way to pull the **Divine Blueprints** into Reality within a single generation. It is a fractal, dynamic, and scalable system designed to guide humanity’s transformation from fragmentation to unity, from waste to flourishing, from stagnation to transcendence, and from Earth to Beyond.
+LIØNSBERG was purpose-built for this reason. [[The LIØNSBERG Operating System (LIOS)]] is a continuously improving Way to pull the **Divine Blueprints** into Reality within a single generation. It is a fractal, dynamic, and scalable system designed to guide humanity’s transformation from fragmentation to unity, from waste to flourishing, from stagnation to transcendence, and from Earth to Beyond.
 
 At its core, LIOS is:
 
@@ -51,22 +51,22 @@ At its core, LIOS is:
     LIOS is not rigid; it evolves as humanity evolves. Designed to continually improve across millennia, it empowers individuals, communities, and systems to embody their highest potential through constant feedback, learning, and iteration.
     
 3. **A Process for Co-Creation:**  
-    Through tools like the **Lionsberg Pattern Language**, **Seasonal Quests**, **Stories of Transformation**, and **The Elevation Initiative**, Lionsberg fosters collaboration and creativity at every level, uniting diverse gifts and perspectives into a coherent Whole.
+    Through tools like the **LIØNSBERG Pattern Language**, **Seasonal Quests**, **Stories of Transformation**, and **The Elevation Initiative**, LIØNSBERG fosters collaboration and creativity at every level, uniting diverse gifts and perspectives into a coherent Whole.
     
 4. **A Catalyst for Transformation:**  
-    Lionsberg offers a Pathway for awakening and aligning individuals and communities to their true purpose and Destiny. It reignites [[The Sacred Flame]] within each of Us, guiding Our steps on [[The Sacred Ascent]] toward Heaven on Earth.
+    LIØNSBERG offers a Pathway for awakening and aligning individuals and communities to their true purpose and Destiny. It reignites [[The Sacred Flame]] within each of Us, guiding Our steps on [[The Sacred Ascent]] toward Heaven on Earth.
     
 
-By embracing the Lionsberg Way and its New Operating System, humanity can harness the power of collective intention and action to realign its systems, rediscover its essence, and rise together as One Body towards One Goal.
+By embracing the LIØNSBERG Way and its New Operating System, humanity can harness the power of collective intention and action to realign its systems, rediscover its essence, and rise together as One Body towards One Goal.
 
 ---
 
 ### **Conclusion: The Call to Build Heaven on Earth**
 
-Humanity’s potential is vast, but it can only be realized through alignment with the Divine Blueprints and a shared commitment to co-create Heaven On Earth. The Lionsberg Operating System provides the **Way**, the tools, and the processes to align our lives, communities, and world with the principles of flourishing, unity, light, and love.
+Humanity’s potential is vast, but it can only be realized through alignment with the Divine Blueprints and a shared commitment to co-create Heaven On Earth. The LIØNSBERG Operating System provides the **Way**, the tools, and the processes to align our lives, communities, and world with the principles of flourishing, unity, light, and love.
 
 The stakes could not be higher, but the opportunity is equally profound. Humanity has everything it needs to succeed: the resources, the creativity, and the Spirit to co-create Heaven on Earth. What is required now is the courage to step forward, the humility to learn, and the commitment to act.
 
-> **This is the Framework. This is the Pathway. The Sacred Flame burns within you, and Lionsberg offers a Way to help guide, serve, and align your steps so We can walk together as One Body.**
+> **This is the Framework. This is the Pathway. The Sacred Flame burns within you, and LIØNSBERG offers a Way to help guide, serve, and align your steps so We can walk together as One Body.**
 
 The Way is illuminated. Will you walk it Together as One?

@@ -10,7 +10,7 @@ Until we have a more robust distributed support system in place, please reach ou
 
 ## Jump Pages You Might Find Useful
 
-[[Lionsberg Wiki Books]]  
+[[LIØNSBERG Wiki Books]]  
 [[Above The Chaos]]  
 [[A Poetic Map of Content]]  
 [[Help! I Am Lost]]  

@@ -20,7 +20,7 @@ Rigid thinking, fear of change, or attachment to familiar patterns can challenge
 
 Cultivating flexibility involves developing an open mindset, practicing adaptability, and learning to embrace uncertainty. It requires curiosity, a willingness to learn, and the courage to step outside one's comfort zone. It can be fostered through practices that encourage mindfulness, self-awareness, and adaptability.
 
-**Flexibility in the Context of Lionsberg**
+**Flexibility in the Context of LIØNSBERG**
 
 As we journey from the Old World to the New, flexibility becomes essential. We are called to adapt to new realities, to let go of old narratives, and to embrace new ways of being. Flexibility enables us to navigate the challenges of the journey, to learn from each other, and to evolve together.
 

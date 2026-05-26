@@ -1,5 +1,5 @@
-# Organizations The Lionsberg Way
-**Organizations The Lionsberg Way** describes pattens, processes, and tools that help [[Sovereign]] and [[Autonomous]] [[Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
+# Organizations The LIØNSBERG Way
+**Organizations The LIØNSBERG Way** describes pattens, processes, and tools that help [[Sovereign]] and [[Autonomous]] [[Individuals]] form and organize independent and autonomous [[Group|Groups]] and [[Organization|Organizations]]. 
 
 We are co-creating these recommendations in concert with various sovereigns in the coalition, and intend to continuously improve them to reflect the [[Current Best Understanding]] of the [[Community]].  
 
@@ -121,7 +121,7 @@ It is cyclical and recursive process, but the patterns are often something like:
 11. Dissolution
 12. Rebirth
 
-The desire of the Lionsberg System is to move towards a future in which these cycles are occurring in a [[Way]] that benefits [[All]], and in which each birth and dissolution enriches the topsoil of the ecosystem from which diverse [[New]] forms of life continually emerge. 
+The desire of the LIØNSBERG System is to move towards a future in which these cycles are occurring in a [[Way]] that benefits [[All]], and in which each birth and dissolution enriches the topsoil of the ecosystem from which diverse [[New]] forms of life continually emerge. 
 
 ## Rebirth
-People and resources are recycled and reborn into other organizations within the Lionsberg Community and Commons. This makes dissolution a happy and generative phase of an organization, rather than a tragedy. 
+People and resources are recycled and reborn into other organizations within the LIØNSBERG Community and Commons. This makes dissolution a happy and generative phase of an organization, rather than a tragedy. 

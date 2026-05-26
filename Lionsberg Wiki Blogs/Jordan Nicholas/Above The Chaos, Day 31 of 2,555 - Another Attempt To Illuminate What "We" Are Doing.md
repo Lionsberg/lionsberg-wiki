@@ -52,7 +52,7 @@ If we were going to take this *at least* as seriously as we took the Manhattan P
 
 We, the citizens of Earth, can do anything we want to do within the boundaries of the Living System and the Universal Law. After all, it is OUR WORLD. 
 
-If you are with us, meet us @Lionsberg. 
+If you are with us, meet us @LIØNSBERG. 
 
 Much Love, 
 

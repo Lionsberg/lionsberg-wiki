@@ -37,9 +37,9 @@ If we are to avoid catastrophic failure, we must arise and unite.
 
 There can only be [[ØNE]] that unites Us [[All]]. 
 
-Therefore, the entire Lionsberg System and Approach is centered around a New Covenant between the Creator and All Creation, and the Mission and Goal of Lionsberg is to enable the emergence of One Citizenship, Under God, Indivisible, with Liberty and Justice for All. A Higher Order Functional Unity among the Force For Good actually capable of meeting the needs, solving the problems, and accomplishing the goals at hand, while navigating courageously together, as One Body, towards Destiny. 
+Therefore, the entire LIØNSBERG System and Approach is centered around a New Covenant between the Creator and All Creation, and the Mission and Goal of LIØNSBERG is to enable the emergence of One Citizenship, Under God, Indivisible, with Liberty and Justice for All. A Higher Order Functional Unity among the Force For Good actually capable of meeting the needs, solving the problems, and accomplishing the goals at hand, while navigating courageously together, as One Body, towards Destiny. 
 
-While the entire Lionsberg concept is to place the Creator at The Center and base everything upon Love, like the United States Constitution, the Lionsberg Constitution explicitly prohibits the establishment of an institutional 'state religion', explicitly protects freedom of Individual and Local thought, speech, and conscience. 
+While the entire LIØNSBERG concept is to place the Creator at The Center and base everything upon Love, like the United States Constitution, the LIØNSBERG Constitution explicitly prohibits the establishment of an institutional 'state religion', explicitly protects freedom of Individual and Local thought, speech, and conscience. 
 
 The amazing thing about the resurrection and rediscovery of the Wisdom of God is that it simultaneously Orders and Unites All things within Itself, while basing the entire Divine Order upon Free Will and the Responsibility and Authority of Sovereign Individuals and Localities, created in the Image of God, and invited to continuously transform, together, towards The Ideal. 
 

@@ -46,4 +46,4 @@ ___
 Forward to [[Chapter 7 - Principles and Values of the New Covenant]]  
 Back to [[Chapter 5 - Environmental Collapse]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

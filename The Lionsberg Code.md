@@ -1,3 +1,3 @@
-# The Lionsberg Code
+# The LIØNSBERG Code
 
-The Lionsberg Code shall initially refer to the [[Lionsberg Code of Conduct]], and subsequently to the full body of articulated law, policy and standards that the Lionsberg Community articulates and co-creates. 
+The LIØNSBERG Code shall initially refer to the [[LIØNSBERG Code of Conduct]], and subsequently to the full body of articulated law, policy and standards that the LIØNSBERG Community articulates and co-creates. 

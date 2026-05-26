@@ -3,7 +3,7 @@
 
 [[Values]] form the foundation of the [[LIØNSBERG System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]] and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative [[Superorganism]] that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
 
-The Lionsberg System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[ØNE]] Absolute [[Meta Value]]. 
+The LIØNSBERG System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[ØNE]] Absolute [[Meta Value]]. 
 
 These are reflected in [[The LIØNSBERG System of Values]]. 
 
@@ -78,9 +78,9 @@ From this single lens of Unconditional, Ultimate, and All-Encompassing Love, eve
 
 It is the Powerful Motive Force and Intention of Unconditional Love, as a Living Spirit in Action, that is what reconciles, coheres, and orders within Itself what otherwise may be Perceived as contradictory Values. 
 
-### The Meta Value in Lionsberg  
+### The Meta Value in LIØNSBERG  
 
-This highest uniting [[Meta Value]] is the Foundation, Center, Purpose, and Goal of the Lionsberg System. It is the [[One Thing]] around which [[All]] aspects of the System revolve. 
+This highest uniting [[Meta Value]] is the Foundation, Center, Purpose, and Goal of the LIØNSBERG System. It is the [[One Thing]] around which [[All]] aspects of the System revolve. 
 
 One level up the hierarchy of abstraction, one understands that [[ØNE]] is [[Love]], and therefore the [[Meta Value]] is [[ØNE]], inclusive of the Spirit of the [[ØNE]] that creates and sustains [[All]]. This understanding fundamentally unifies the Deepest Level of Abstraction in One Thing that coheres within Itself All other Things. 
 

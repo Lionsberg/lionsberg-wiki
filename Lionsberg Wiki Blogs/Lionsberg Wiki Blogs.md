@@ -1,4 +1,4 @@
-# Lionsberg Wiki Blogs
+# LIØNSBERG Wiki Blogs
 
 - [[Something Powerful, New, and Good]]  
 - [[Above The Chaos]]  

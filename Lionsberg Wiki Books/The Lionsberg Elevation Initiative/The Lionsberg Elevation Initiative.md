@@ -1,11 +1,11 @@
-# The Lionsberg Elevation Initiative - A Way towards Universal Flourishing and Harmony
+# The LIØNSBERG Elevation Initiative - A Way towards Universal Flourishing and Harmony
 
-By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and Approach]], this is a [[Work In Progress]]. 
+By [[Jordan Nicholas Sukut]]. Like all aspects of the [[LIØNSBERG System and Approach]], this is a [[Work In Progress]]. 
 
 ## 1.  Introduction 
 
 ### [[1.1 The Central Animating Spirit]] 
-### [[1.2 The Vision and Intention of the Lionsberg Elevation Initiative]] 
+### [[1.2 The Vision and Intention of the LIØNSBERG Elevation Initiative]] 
 ### [[1.3 The Purpose and Goal]]  
 ### [[1.4 A System and Infrastructure Purpose-Built to Lift Up One and All]] 
   
@@ -45,22 +45,22 @@ By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and App
 ### 3.13 The Harsh Reality of the Evil and Parasitical  
 ### 3.14 Overcoming Obstacles and Navigating Challenges on the Path to Flourishing  
 
-## 4.  Building and Sustaining the Lionsberg Community: A Global Ecosystem for Flourishing
+## 4.  Building and Sustaining the LIØNSBERG Community: A Global Ecosystem for Flourishing
 
 ### 4.1 The Need for a Community and Federation  
 ### 4.2 The Need for Structural Connection  
-### 4.3 The Lionsberg Community, Federation, System and Structure 
+### 4.3 The LIØNSBERG Community, Federation, System and Structure 
 ### 4.4 Developing Shared Vision, Culture, and Values  
 ### 4.5 Cultivating Trust, Empathy, and Compassion 
 ### 4.6 Establishing Networks and Communication Channels - Local and Global Connections  
 ### 4.7 Local Initiatives and Global Collaboration - Scalable and Adaptable Solutions 
 ### 4.8 Participatory Governance and Shared Decision-Making - Empowering Voices around the World  
 ### 4.9 Economic Stewardship and the Infinite Game 
-### 4.10 The Great Game of Lionsberg 
-### 4.11 The Lionsberg Pattern Language   
+### 4.10 The Great Game of LIØNSBERG 
+### 4.11 The LIØNSBERG Pattern Language   
 ### 4.12 Shared Infrastructure, Services, and Support 
-### 4.13 Localizing and Adapting the Lionsberg System and Approach 
-### 4.14 The Lionsberg System Toolkit  
+### 4.13 Localizing and Adapting the LIØNSBERG System and Approach 
+### 4.14 The LIØNSBERG System Toolkit  
   
 ## 5.  Engaging with the Critical Path and Collective Aspirations 
 
@@ -79,7 +79,7 @@ By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and App
 ### 6.4 The Pattern for Living System Flourishing 
 ### 6.5 The Pattern for Flourishing in Harmony 
 
-## 7.  Spreading the Lionsberg Elevation Initiative - A Global Movement Towards Flourishing and Harmony  
+## 7.  Spreading the LIØNSBERG Elevation Initiative - A Global Movement Towards Flourishing and Harmony  
 
 ### 7.1 Who Is Included? Leaving No One Behind 
 ### 7.2 Empowering Ambassadors, Change Agents, and Catalysts for Transformation  
@@ -100,4 +100,4 @@ By [[Jordan Nicholas Sukut]]. Like all aspects of the [[Lionsberg System and App
 
 [[Beyond The Meta Crisis - A Blueprint for a Better Future]]  
 [[The LIØNSBERG Pattern Language]]  
-[[The Lionsberg Toolkit]]  
+[[The LIØNSBERG Toolkit]]  

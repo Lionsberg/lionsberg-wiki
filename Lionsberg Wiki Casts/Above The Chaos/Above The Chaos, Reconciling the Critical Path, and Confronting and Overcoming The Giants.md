@@ -39,9 +39,9 @@ The [[10 Year Grand Strategy]] can be thought of in two parallel streams:
 
 To build [[The Movement]], [[Light Your Candle]], [[Pass The Flame]], and illuminate the Darkness.  
 
-As we become [[ØNE Body]] and [[Progress]] out [[The Caves]] via the [[Lionsberg Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]].  
+As we become [[ØNE Body]] and [[Progress]] out [[The Caves]] via the [[LIØNSBERG Cycles of Growth]], we begin engaging together in the [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]].  
 
-This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of Lionsberg]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand.  
+This involves [[Citizen Led Joint Ventures]] around each of [[The 12 Pillars of LIØNSBERG]] to enable individuals and localities meet the needs, solve the problems, and accomplish the goals at hand.  
 
 The resulting pattern is the local and bioregional poly-centric implementation and adaptation of shared solutions and technologies. This ensures the sovereignty, autonomy, and local relevancy of each instance of [[The System]], while eliminating the need for each locality to reinvent the wheel, and enabling [[Interoperability]] and Resource Flows across [[The Body]].  
 
@@ -86,7 +86,7 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - The Creator is inviting All Humanity to become Co-Creators of a Better World 
 - From this standpoint, the [[Creator's Intent]] for the [[Universe]] becomes the [[Designer's Intent]] for [[Worksite Earth]], and the [[Meta Project]] becomes a Reality. 
 - Faced with the [[Meta Crisis]], it has to be Everything For Everybody, or oblivion. 
-- This is the heart and essence of the Lionsberg [[Meta Project]].  
+- This is the heart and essence of the LIØNSBERG [[Meta Project]].  
 
 ### The Role of the Individual
 
@@ -224,11 +224,11 @@ Note that the fraudulent and corrupted nature of the Collapsing Existing Order d
 - Graduating from carrying cattle along for trading in 1500 B.C. the Phoenicians invented metal money, which they first formed into iron half-rings that looked like a pair of bull’s horns, symbolizing the real [[Wealth]] cattle they formerly carried.
 - This switch to from livestock to coinage occurred coincidentally at just  about the same time as the great changeover from city-state dominance to line-of-supply dominance of the [[Invisible Power Structures]] group controlling most of world affairs. 
 
-#### Phonetic Spelling, Words, Sentences, Paragraphs, Books, and Lionsberg Wiki Books 
+#### Phonetic Spelling, Words, Sentences, Paragraphs, Books, and LIØNSBERG Wiki Books 
 
 - This was the time when the Phoenicians began trading with people of so many different languages that, in need of a means of recording the different word sounds made  by people around the world, the Phoenicians invented phonetic spelling—Phoenician spelling—which pronounced each successive sound separately and invented  letter symbols for each sound. With phonetic spelling human written communication changed very much—from  the visual-metaphor-concept writing of the Orient, accomplished with complex ideagraphics (ideographs), several  of which frequently experienced, generalized cartoons told the whole story visually. It was a big change from  ideographs to the Phoenicians’ phonetic spelling, wherein  each letter is a single sound—having no meaning in itself—and whereby it took several sounds to make a  whole word and many such words to make any sense—  i.e., a sentence.
 - This enabled humans to further abstract out, communicate and cross-pollinate ideas, composing letters into words, words into sentences, sentences into paragraphs, and eventually paragraphs into chapters, chapters into books, and books into science fiction trilogies. 
-- It may not be until later that people begin to understand what was being Co-Created through the [[Lionsberg Wiki Books]], which brought into existence living, interlinked writings that could be globally updated, locally stored, translated into any language, and survive the apocalypse. 
+- It may not be until later that people begin to understand what was being Co-Created through the [[LIØNSBERG Wiki Books]], which brought into existence living, interlinked writings that could be globally updated, locally stored, translated into any language, and survive the apocalypse. 
 - We will have to be very careful not to repeat the mistakes of the Tower of Babel, which we avoid by maintaining [[God]] and not our own creations in the Highest Place in order to avoid [[Idolatry]]. 
 
 #### Intentionally Inflicted Darkness 

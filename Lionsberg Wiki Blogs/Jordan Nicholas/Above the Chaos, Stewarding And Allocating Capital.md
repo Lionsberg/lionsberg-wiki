@@ -144,21 +144,21 @@ To the extent that is a faithful prototype as it strives to continuously improve
 
 It is just a seed... it is just a green shoot... but although small, if we cultivate it, it has the DNA to become a mighty forest, in which [[All Generations of Life]] can find refuge and abundance. 
 
-## Lionsberg 
+## LIØNSBERG 
 To begin to incarnate the Spirit of this Way into words, systems, and structures that we could actually implement and enact together, we forged a mythical [[New World]] and System named [[LIØNSBERG]]. 
 
-Lionsberg is first [[Word Tool]] that points at the [[Meta Idea]]. 
+LIØNSBERG is first [[Word Tool]] that points at the [[Meta Idea]]. 
 
-Lionsberg is second a voluntary association of Sovereign and Autonomous Individuals trying to [[Realize]] the [[Meta Idea]]. 
+LIØNSBERG is second a voluntary association of Sovereign and Autonomous Individuals trying to [[Realize]] the [[Meta Idea]]. 
 
-Lionsberg is third an attempt to act out the idea of the [[Meta Community]], engaged in the [[Meta Project]], to accomplish the [[Meta Goal]]. 
+LIØNSBERG is third an attempt to act out the idea of the [[Meta Community]], engaged in the [[Meta Project]], to accomplish the [[Meta Goal]]. 
 
-Lionsberg is fourth a pragmatic means to implement and Steward Systems, Structure, and Infrastructure to cultivate and protect [[That Which Is Trying to Emerge]]. 
+LIØNSBERG is fourth a pragmatic means to implement and Steward Systems, Structure, and Infrastructure to cultivate and protect [[That Which Is Trying to Emerge]]. 
 
 From those starting points, we began to actually design and build physical community, systems and infrastructure that we hope will help advance and empower you. 
 
 ## Deploying Energy to Accomplish the Goal 
-Lionsberg can be thought of as a System that helps Sovereign Individuals, Organizations, and Communities deploy Energy in a Way that produces [[Throughput]] of [[The Goal]]. 
+LIØNSBERG can be thought of as a System that helps Sovereign Individuals, Organizations, and Communities deploy Energy in a Way that produces [[Throughput]] of [[The Goal]]. 
 
 This is especially critical to you, the stewards of significant capital belonging to [[ØNE]] and [[All]]. 
 

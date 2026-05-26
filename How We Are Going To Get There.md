@@ -4,7 +4,7 @@ The [[LIØNSBERG System]] operates on a [[Narrative Framework]] married up to Sy
 
 [[How We Are Going To Get There]] corresponds to Step 4 in the System - Planning. 
 
-It invokes the [[Lionsberg Planning System]]. 
+It invokes the [[LIØNSBERG Planning System]]. 
 
 Narrative Framework:  
 1. [[Where We Are Going]] and [[Why]]  

@@ -5,7 +5,7 @@ I would like to invite you to the adventure of a lifetime.
 
 ## A Context of Crisis and Change 
 
-As you know from [[Above The Chaos]] and the [[Lionsberg Wiki Books]], my [[Current Best Understanding]] is that we are facing a [[Meta Crisis]] of unprecedented proportion. 
+As you know from [[Above The Chaos]] and the [[LIØNSBERG Wiki Books]], my [[Current Best Understanding]] is that we are facing a [[Meta Crisis]] of unprecedented proportion. 
 
 In 10 years, our lives and our world will look dramatically different. Armed with tools 10x more powerful than anything humanity has possessed in history, the vessel of society will rapidly accelerate towards the logical end of the trajectory *we choose.*
 
@@ -45,18 +45,18 @@ In [[Above The Chaos, Running The Play|Running The Play]], I laid out a simple w
 
 It simply requires that a wise right group of initial individuals commit to working together to do *whatever is required to iterate the next cycle and advance the play*. Come what may. 
 
-Because the Lionsberg domain is *invitation only*, the first participants will be crucial in shaping the Culture, forming the early Teams, inviting in subsequent members, and ensuring that The Quest progresses, avoids failure, and succeeds. 
+Because the LIØNSBERG domain is *invitation only*, the first participants will be crucial in shaping the Culture, forming the early Teams, inviting in subsequent members, and ensuring that The Quest progresses, avoids failure, and succeeds. 
 
 This invitation to *The Fellowship of The Quest* is a daring call to adventure into the [[Unknown]], to Progress towards [[The Goal]], and to do what has not been done before in service of [[ØNE]] and [[All]]. 
 
 ___
 ## An Offer, and Request 
 
-What I have to offer each participant is all that I am, the adventure of a lifetime, and a transformational program of personal development that will not leave any of us the same. Additionally, I can offer membership in Lionsberg, and thereby access to the Community and Commons of resources, relationships, infrastructure, and technology we have curated together as an empowering starting point. We have invested and sacrificed millions of dollars and far more blood, sweat and tears to create the starting point. It is my free gift to you. 
+What I have to offer each participant is all that I am, the adventure of a lifetime, and a transformational program of personal development that will not leave any of us the same. Additionally, I can offer membership in LIØNSBERG, and thereby access to the Community and Commons of resources, relationships, infrastructure, and technology we have curated together as an empowering starting point. We have invested and sacrificed millions of dollars and far more blood, sweat and tears to create the starting point. It is my free gift to you. 
 
 What I request of each Player is a Commitment to play by The Rules, to co-operate in a Spirit of Power and Love, and to reciprocally contribute a reliable percentage of your available flow of time and resources to help advance the Critical Path towards The Goal. 
 
-All Progress will be made by decentralized, self-governing and autonomous Teams that Players are responsible for self-organizing. Teams can leverage the Lionsberg infrastructure to raise funds and resource aligned Quests. Teams will share the first 1/10th of their available flow of time and resources to coordinating with, governing and empowering the Whole as we advance together in harmony towards The Goal. 
+All Progress will be made by decentralized, self-governing and autonomous Teams that Players are responsible for self-organizing. Teams can leverage the LIØNSBERG infrastructure to raise funds and resource aligned Quests. Teams will share the first 1/10th of their available flow of time and resources to coordinating with, governing and empowering the Whole as we advance together in harmony towards The Goal. 
 
 ____
 ## Conclusion and Call to Action

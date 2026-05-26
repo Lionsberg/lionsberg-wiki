@@ -60,4 +60,4 @@ ___
 Forward to [[The Spirit And The Incarnation]]  
 Back to [[The Destruction That Accompanies Ignorance And Estrangement]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

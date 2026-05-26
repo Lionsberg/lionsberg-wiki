@@ -13,10 +13,10 @@ For each SOE batch the final assistant message was extracted from the original s
 
 Transcripts located at:
 
-- SOE-1 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-af798f0f39aba8fef.jsonl` (meta: "SOE-1 Constitutional Spine audit")
-- SOE-2 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a26f30e73f97e0119.jsonl` (meta: "SOE-2 Operational Layers audit")
-- SOE-3 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a1d2b30ee2ad83893.jsonl` (meta: "SOE-3 Guidebook for the Emergence audit")
-- SOE-4 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-af5602450e880dd91.jsonl` (meta: "SOE-4 Appendices + Toolkit + Surrounding audit")
+- SOE-1 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-af798f0f39aba8fef.jsonl` (meta: "SOE-1 Constitutional Spine audit")
+- SOE-2 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a26f30e73f97e0119.jsonl` (meta: "SOE-2 Operational Layers audit")
+- SOE-3 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a1d2b30ee2ad83893.jsonl` (meta: "SOE-3 Guidebook for the Emergence audit")
+- SOE-4 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-af5602450e880dd91.jsonl` (meta: "SOE-4 Appendices + Toolkit + Surrounding audit")
 
 Memos extracted to [[SOE-{1,2,3,4}]].
 

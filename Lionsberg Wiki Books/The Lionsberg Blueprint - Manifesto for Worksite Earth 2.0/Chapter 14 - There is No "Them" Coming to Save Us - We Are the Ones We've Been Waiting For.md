@@ -30,9 +30,9 @@ As covered in the previous chapter, local communities are the crucibles in which
 
 We must envision society as a network of free and empowered agents, Sovereign Individuals connected through shared values and common goals, ultimately unified in The Goal of the Creator's Intent, full manifest on Earth as it is in Heaven. This is not a hierarchical structure but a fluid, dynamic network of co-operation, more akin to an ecosystem or organism than an organization. In such a network, or Body, the focus isn't on individual nodes of power but rather on the connections between them—the relationships built on mutual respect, understanding, and co-creative purpose. Like the various lifeforms in an ecosystem, or like the organ systems in a Body, unique functional specializations must stack up and align, such that cells become tissues, tissues become organs, organs become organ systems, and organ systems co-operate as One Body, guided by Spirit and Consciousness together towards The Goal. 
 
-### The Lionsberg Vision
+### The LIØNSBERG Vision
 
-A core aspect of the Mission of Lionsberg is to provide the essential frameworks and platforms for fostering this network of empowered agents and localities. By offering tools, resources, and platforms for collaboration, Lionsberg aims to act as catalyst, accelerating the pace at which this transformation occurs by connecting, synergizing, and empowering the diverse symphony of Co-Creation so that it manifests as One Coherent Whole in alignment and harmony with the Creator and All Creation. 
+A core aspect of the Mission of LIØNSBERG is to provide the essential frameworks and platforms for fostering this network of empowered agents and localities. By offering tools, resources, and platforms for collaboration, LIØNSBERG aims to act as catalyst, accelerating the pace at which this transformation occurs by connecting, synergizing, and empowering the diverse symphony of Co-Creation so that it manifests as One Coherent Whole in alignment and harmony with the Creator and All Creation. 
 
 ## Conclusion
 

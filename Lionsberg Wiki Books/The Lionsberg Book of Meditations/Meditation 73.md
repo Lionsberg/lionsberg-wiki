@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 74]]  
 Back to [[Meditation 72]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

@@ -1,7 +1,7 @@
 # Provisional Structure 
 *Updated June 26, 2025*
 
-For more information on the inception of the Lionsberg / Meta Project Structure, see the [[Lionsberg Wiki Books]] and [[LIØNSBERG Summary]]. 
+For more information on the inception of the LIØNSBERG / Meta Project Structure, see the [[LIØNSBERG Wiki Books]] and [[LIØNSBERG Summary]]. 
 
 Simply, it is designed and built as a [[New Earth Operating System]] and Structure, whose short term aim during the [[10 Year Grand Strategy]] is to invite all humanity to take up an equal, New, and Higher Order Citizenship in the [[Best Possible Future]] we can co-create in partnership the [[ØNE]] and [[All]].  
 _____
@@ -29,7 +29,7 @@ For a consolidated visual diagram, please see the embedded PDF below.
 
 Core Concepts:  
 1. From [[ØNE]] in service of [[All]], LIØNSBERG exists and flows.  
-2. Lionsberg is a mythical spiritual name pointing at the same Reality the [[Meta Idea]] / [[Meta Project]] / [[Meta Goal]] points at.  
+2. LIØNSBERG is a mythical spiritual name pointing at the same Reality the [[Meta Idea]] / [[Meta Project]] / [[Meta Goal]] points at.  
 3. From the Meta level, LIØNSBERG incarnates in various SpatioTemporal Domains as a reflection of the [[Creator's Intent]].  
 4. One level up from the overarching and uniting Spirit / Intention / Goal is the Divine Right and Moral Responsibility of Sovereign Individual, Groups, and Localities to Voluntarily Associate to bring the Creator's Intent into Reality.  
 5. As a result of this Voluntary Association of Sovereign entities, [[LIØNSBERG]] emerges in any domain as a Sovereign Spiritual Body, co-creating in service of [[ØNE]] and [[All]].  
@@ -40,8 +40,8 @@ Core Concepts:
 6. One level up from Individuals in voluntary association are [[Self-Governing, Self-Sustaining, and Self-Replicating]] [[Teams]], [[Groups]], and [[Communities]] in voluntary association. 
 	1. Each can consider itself (something like) a [[Private Ecclesiastical Voluntary Membership Association]] by default unless otherwise self-organized and differentiated.  
 7. From there, LIØNSBERG becomes a shared New Identity that can be used by its Co-Creators to register / instantiate / identify various aspects of ItSelf.  
-8. The [[Lionsberg Wiki Books]], [[LIØNSBERG Manifesto]], [[The LIØNSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ØNE]] and [[All]].  
-9. The Lionsberg System is designed as an Invitational System, Platform, and Way for each inhabitant of a given Domain to voluntarily take up an equal [[New Citizenship]] in the [[New Civilization]] and [[New Era]] we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
+8. The [[LIØNSBERG Wiki Books]], [[LIØNSBERG Manifesto]], [[The LIØNSBERG Constitution]] and other foundational writings capture the Spirit and help hold the space for this higher order, omniconsiderate, covenantal relationship among Individuals, Groups, and Localities of Goodwill with [[ØNE]] and [[All]].  
+9. The LIØNSBERG System is designed as an Invitational System, Platform, and Way for each inhabitant of a given Domain to voluntarily take up an equal [[New Citizenship]] in the [[New Civilization]] and [[New Era]] we are co-creating, and to collaborate to regenerate and transform our lives, our world, and our way of being within a single generation. 
 
 _All of the levels above happen before any legal structure, and exist purely on the basis of Spiritual resonance and voluntary association, collaboration, culture, social structure, and governance structure. This transcendent understanding of our Divine Right and Responsibility to Self-Organize and Self-Govern as a Tribe of Tribes / Group of Groups / Community of Communities is critical to protecting the Sovereignty and Independence of the Individuals and localities collaborating, while ensuring that there is no overly-centralized node or dependency, that if attacked or compromised, can bring down the Whole. All following and future structural elements are merely tools and supports for the Sovereignties co-operating them_. 
 
@@ -50,7 +50,7 @@ _All of the levels above happen before any legal structure, and exist purely on 
 12. The primary Legal and Governance Commons established in each Domain are designed to act like "Mother Trees" in an ecosystem that resource and support the emergence of a decentralized array of countless [[Self-Governing, Self-Sustaining, and Self-Replicating]] entities.  
 13. To support this emergence, [[The LIØNSBERG Strategy and Plan]] calls for the co-creation of ~100,000 local socioeconomic federations / ecosystems, each serving ~100,000 citizens, and co-operating around [[The Commons]] and the [[New Earth Operating System]], enabling ecosystemic resource and knowledge flows across the Federation.  
 14. These local ecosystems will self-organize and federate into self-governing [[Action Domains]] and [[Integration Domains]]—such as [[Bioregions]], which in turn will self-organize and federate into [[Georegions]] and then up into The Whole.  
-15. To support the emergence of these federations, [[The LIØNSBERG Strategy and Plan]] calls for reallocating ~2/3 of the $30 Trillion in planned military and defense expenditures during the [[10 Year Grand Strategy]] to instead co-create an interlinked network of [[Lionsberg Instantiation Hubs]]: 
+15. To support the emergence of these federations, [[The LIØNSBERG Strategy and Plan]] calls for reallocating ~2/3 of the $30 Trillion in planned military and defense expenditures during the [[10 Year Grand Strategy]] to instead co-create an interlinked network of [[LIØNSBERG Instantiation Hubs]]: 
 	1. ~12 to 24 [[Georegional Hubs]]  
 	2. ~150 to 200 [[Bioregional Hubs]]  
 	3. ~100,000 [[Local Hubs]]  
@@ -68,6 +68,6 @@ The [[LIØNSBERG System]] is designed to enable [[The Whole]] to co-operate as [
 
 For summarized learnings from Mondragon that helped inform key elements of the conceptual structure and design, see [[The Prophesy of Mondragon]]. 
 
-For a higher resolution PDF of the Image below: [[Lionsberg Diagram 8-15-22.pdf]] 
+For a higher resolution PDF of the Image below: [[LIØNSBERG Diagram 8-15-22.pdf]] 
 
-![[Lionsberg diagram 8-15-22.png]] 
+![[LIØNSBERG diagram 8-15-22.png]] 

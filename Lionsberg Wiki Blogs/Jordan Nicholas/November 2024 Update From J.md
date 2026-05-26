@@ -32,7 +32,7 @@ If what attacked him and what he discovered are True... and advanced [[Non-Human
 
 As for What We Are Becoming, We cannot in good conscience continue to participate in, comply with, resource, or support an Existing Order that has been revealed to be [[Omnicidal]], alien, and fraudulent in its inception. 
 
-We are therefore dissolving the Lionsberg legal infrastructure, and regrouping Beyond the reach of every power and authority on Earth. 
+We are therefore dissolving the LIØNSBERG legal infrastructure, and regrouping Beyond the reach of every power and authority on Earth. 
 
 Whether We Become a mighty army, confront and overcome the existential threat at hand, refound human civilization, and Co-Create Heaven On Earth...
 

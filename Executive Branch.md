@@ -1,3 +1,3 @@
 # Executive Branch
 
-See the [[LC 21. The Lionsberg Executive System]] in [[The LIØNSBERG Constitution]]. 
+See the [[LC 21. The LIØNSBERG Executive System]] in [[The LIØNSBERG Constitution]]. 

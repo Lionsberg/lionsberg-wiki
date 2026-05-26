@@ -23,7 +23,7 @@ By engaging with this Trinity of Approximate Fidelity, the spiritual seeker humb
 
 _____
 
-Forward to [[Why the Founder of Lionsberg Begins with the NASB]]  
+Forward to [[Why the Founder of LIØNSBERG Begins with the NASB]]  
 Back to [[No Translation is Perfect]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

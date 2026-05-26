@@ -1,5 +1,5 @@
 # FAQ - What Is The Intention?
 
-See [[Lionsberg Intention]] 
+See [[LIØNSBERG Intention]] 
 
 See more [[Frequently Asked Questions]]  

@@ -56,7 +56,7 @@
 - [[Avoiding Idolatry - Worshiping and Seeking in Spirit and Truth]]  
 - [[No Translation is Perfect]]  
 - [[From the Vast Array of Translations to a Trinity of Approximate Fidelity]]  
-- [[Why the Founder of Lionsberg Begins with the NASB]]  
+- [[Why the Founder of LIØNSBERG Begins with the NASB]]  
 - [[Circumambulation and Progressive Illumination - The Benefits of Multiple Lamps]]  
 
 ## Part IV: The Lens of the New Covenant

@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [great-game, meta-movement, federation, planetary, foundational]
-source: Phase 2.1 audit of The Lionsberg Guide To Movement Building + Beyond The Meta Crisis
+source: Phase 2.1 audit of The LIØNSBERG Guide To Movement Building + Beyond The Meta Crisis
 captured: 2026-05-19
 ---
 

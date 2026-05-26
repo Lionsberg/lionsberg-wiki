@@ -1,6 +1,6 @@
-# Lionsberg And Religion
+# LIØNSBERG And Religion
 
-Lionsberg is very intentionally _not_ written from the perspective of any particular religion. 
+LIØNSBERG is very intentionally _not_ written from the perspective of any particular religion. 
 
 Yet it also very openly and intentionally grapples with the [[Deepest]] things that religions were created to point towards. 
 

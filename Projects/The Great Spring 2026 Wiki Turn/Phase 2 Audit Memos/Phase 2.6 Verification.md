@@ -13,11 +13,11 @@ For each ATC batch the final assistant message was extracted from the original s
 
 Transcripts located at:
 
-- ATC-1 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a127fc2e9898ba14d.jsonl` (meta: "ATC-1: Above The Chaos batch 1")
-- ATC-2 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-ade090583eecfa24d.jsonl` (meta: "ATC-2: Above The Chaos batch 2")
-- ATC-3 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a147894310c903601.jsonl` (meta: "ATC-3: Above The Chaos batch 3")
-- ATC-4 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a448c54bb8d84a858.jsonl` (meta: "ATC-4: Above The Chaos batch 4")
-- ATC-5 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-lionsberg-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a42569c26292f5aea.jsonl` (meta: "ATC-5: Above The Chaos batch 5")
+- ATC-1 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a127fc2e9898ba14d.jsonl` (meta: "ATC-1: Above The Chaos batch 1")
+- ATC-2 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-ade090583eecfa24d.jsonl` (meta: "ATC-2: Above The Chaos batch 2")
+- ATC-3 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a147894310c903601.jsonl` (meta: "ATC-3: Above The Chaos batch 3")
+- ATC-4 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a448c54bb8d84a858.jsonl` (meta: "ATC-4: Above The Chaos batch 4")
+- ATC-5 — `/Users/jordansukut/.claude/projects/-Users-jordansukut-Documents-GitHub-LIØNSBERG-wiki/4e24fb61-c3a4-4a80-a8ca-8ae16d75a38a/subagents/agent-a42569c26292f5aea.jsonl` (meta: "ATC-5: Above The Chaos batch 5")
 
 Memos extracted to [[ATC-{1,2,3,4,5}]].
 
@@ -46,7 +46,7 @@ Memos extracted to [[ATC-{1,2,3,4,5}]].
 | **The Living Systems Framework** | II Pattern Language | Embedding human systems into the regenerative cycles of nature and cosmos; harm/healing ripples outward through ØNE Body. |
 | **The Human System / Living System Interface** | II Pattern Language | Measurable, transparent basis for transforming humanity from parasitic force to keystone species. |
 | **The Twelve Domains of Action / Pillars Pattern** | II Pattern Language | Engaging multiple domains in parallel (governance, learning, water, food, energy, etc.) as part of Domain-based bioregional planning. (Likely refinement of existing 12 Pillars.) |
-| **The Lionsberg Cycles of Growth** | III Great Game / IV Playbook | The numbered cycle/growth model — already canonical, but the specific time-bound trajectory model (Cycle 1, Cycle 7, Cycle 40 representing First Three Percent engagement) deserves a Card. (Note: appears as bare line item in ledger at line 314 and 715, never as a Card row in the ATC-1 Net-New table.) |
+| **The LIØNSBERG Cycles of Growth** | III Great Game / IV Playbook | The numbered cycle/growth model — already canonical, but the specific time-bound trajectory model (Cycle 1, Cycle 7, Cycle 40 representing First Three Percent engagement) deserves a Card. (Note: appears as bare line item in ledger at line 314 and 715, never as a Card row in the ATC-1 Net-New table.) |
 | **The Sacred Flame** | V Lexicon / III Great Game | The image-concept that anchors Pass The Flame — the Light passed from candle to candle, ignited by Source. (Note: distinct ATC-1 Card sourced from 144 Threads §144 + Astonishingly Simple Plan; ledger captures a related but different Card "The Sacred Flame / The Ash / Green Shoots" sourced from NW Art and Science. The ATC-1 transcript entry was dropped.) |
 
 **Refinements:** Transcript lists 8 refinements. Ledger captures all 8 in compressed list form. MATCH.
@@ -220,7 +220,7 @@ All 25 transcript Cards present in ledger Net-New table with matching folds and 
 - The Living Systems Framework
 - The Human System / Living System Interface
 - The Twelve Domains of Action / Pillars Pattern
-- The Lionsberg Cycles of Growth
+- The LIØNSBERG Cycles of Growth
 - The Sacred Flame (distinct ATC-1 Card; resolve disambiguation against NW's "The Sacred Flame / The Ash / Green Shoots")
 
 **ATC-2 (add 2 Cards to the Net-New table):**

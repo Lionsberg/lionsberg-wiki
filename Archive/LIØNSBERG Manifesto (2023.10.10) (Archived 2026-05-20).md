@@ -20,11 +20,11 @@ Yet even at this late hour, amidst these tribulations, there remains cause for H
 
 The [[Meta Crisis]] and the Crisis of Faith in our leaders and institutions underscore the urgent need for a united [[Citizen Led Response]] to this pivotal moment in history.
 
-The **Lionsberg Manifesto** is a rallying cry, a passionate call to action for each of us to join forces and work together to forge a brighter, more prosperous future. 
+The **LIØNSBERG Manifesto** is a rallying cry, a passionate call to action for each of us to join forces and work together to forge a brighter, more prosperous future. 
 
 We acknowledge the gravity of these circumstances and we recognize the enormity of our task. The time has come to awaken and take up our rightful responsibility and authority over the helm of our collective destiny as we navigate together towards [[The Future]] we seek. It is time to forge a New Path that resurrects our shared [[Vision]] and [[Values]], upholds our common humanity, and regenerates our society and our planet for all current and future generations. 
 
-In the spirit of the great leaders and visionaries who have come before us, we offer up this **Lionsberg Manifesto** as our battle cry and prayer for a Brighter Future for All. 
+In the spirit of the great leaders and visionaries who have come before us, we offer up this **LIØNSBERG Manifesto** as our battle cry and prayer for a Brighter Future for All. 
 
 ## Our Collective Inquiry 
 
@@ -39,17 +39,17 @@ As we gather beyond the ideologies and structures that have separated us in the 
 
 ## Our Offering and Invitation 
 
-As we enter [[The 7 Year Window of Crisis and Opportunity]], we are inviting the public to review the Lionsberg Manifesto and the [[New Vision and Plan]] - a bold, transformative strategy that empowers [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global scales, charting a Way toward a regenerative, just, and flourishing future. 
+As we enter [[The 7 Year Window of Crisis and Opportunity]], we are inviting the public to review the LIØNSBERG Manifesto and the [[New Vision and Plan]] - a bold, transformative strategy that empowers [[Citizens]] to confront and overcome the [[Meta Crisis]] at individual, local and global scales, charting a Way toward a regenerative, just, and flourishing future. 
 
 Our Aim is to coalesce Citizens of Goodwill into an independent, self-sustaining, and self-replicating Higher Order Functional Unity capable of meeting the needs and solving the problems at hand. 
 
 If you are one of us, please join us. 
 ## Our Shared Destiny 
 
-We acknowledge the monumental task that lies ahead. May the Lionsberg Manifesto and the [[New Vision and Plan]] serve as a beacon of hope and inspiration, a guiding light to illuminate the path forward as we embark on this Quest together. Guided by the hand of Providence and armed with the [[LIØNSBERG System]] and the Word of Truth, we are the architects of our own Destiny and the co-creators of our Future. 
+We acknowledge the monumental task that lies ahead. May the LIØNSBERG Manifesto and the [[New Vision and Plan]] serve as a beacon of hope and inspiration, a guiding light to illuminate the path forward as we embark on this Quest together. Guided by the hand of Providence and armed with the [[LIØNSBERG System]] and the Word of Truth, we are the architects of our own Destiny and the co-creators of our Future. 
 
-Together, let use arise and unite to confront and overcome the [[Meta Crisis]] and forge [[The Future]] we all desire - a future that thrives on the principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Liberty]] for [[All]]. Let us vanquish Corruption, Injustice, and Oppression in all their forms, and lift one another up towards our highest shared Destiny. May the Lionsberg Manifesto and [[New Vision and Plan]] rekindle the flame of Faith and Hope within us All, as we take action to [[Progress]] together towards [[The Future]] that can be brighter, more flourishing, and more regenerative in every way than the past we are leaving behind. 
+Together, let use arise and unite to confront and overcome the [[Meta Crisis]] and forge [[The Future]] we all desire - a future that thrives on the principles of [[Truth]], [[Love]], [[Justice]], [[Stewardship]], [[Wisdom]], and [[Liberty]] for [[All]]. Let us vanquish Corruption, Injustice, and Oppression in all their forms, and lift one another up towards our highest shared Destiny. May the LIØNSBERG Manifesto and [[New Vision and Plan]] rekindle the flame of Faith and Hope within us All, as we take action to [[Progress]] together towards [[The Future]] that can be brighter, more flourishing, and more regenerative in every way than the past we are leaving behind. 
 
-To learn more, visit [[Lionsberg Wiki Books]] to view the foundational literature. 
+To learn more, visit [[LIØNSBERG Wiki Books]] to view the foundational literature. 
 
 ***It's time to move.*** 

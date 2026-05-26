@@ -26,7 +26,7 @@ What I realized is that we need to remember and rediscover how to rebuild flouri
 
 ...by practicing with the billions of people who are currently living in terrible conditions, without access to basic things like water, sanitation, reliable energy, truthful information, decent shelter, and hope. 
 
-In [[Above The Chaos, The Lionsberg Energy Net, Water Net, Info Net, and Security Net]], I proposed a basic vision for curating together a basic solutions set for meeting the most basic needs and solving the most basic problems in life, and practicing how to rapidly deploy those around the world starting with the areas most desperate, hard hit, and in need. 
+In [[Above The Chaos, The LIØNSBERG Energy Net, Water Net, Info Net, and Security Net]], I proposed a basic vision for curating together a basic solutions set for meeting the most basic needs and solving the most basic problems in life, and practicing how to rapidly deploy those around the world starting with the areas most desperate, hard hit, and in need. 
 
 This will force us to grapple with how to rediscover how to build functional society, economy, governance, and systems of meaning and unity from the ground up. 
 

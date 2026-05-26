@@ -20,8 +20,8 @@ The near term objective is to forge, out of the many enlightened individuals aro
 2. Built a minimum viable shared Backbone - [[Provisional Backbone]]  
 3. Started a minimum viable shared Mind - [[Provisional Mind]]  
 4. Articulated minimum viable shared Goals and Values - [[Universal Goals and Values]]  
-5. Articulated the basic patterns of Organizing and Federating - [[Organizations The Lionsberg Way]] 
-6. Built a minimum viable shared Brand - [Lionsberg](https:www.lionsberg.org)
+5. Articulated the basic patterns of Organizing and Federating - [[Organizations The LIØNSBERG Way]] 
+6. Built a minimum viable shared Brand - [LIØNSBERG](https:www.LIØNSBERG.org)
 7. Established a way to organize and federate a [[Group Of Groups]] that is self-sustaining, self-replicating, sovereign, autonomous, and independent of the [[Old]] systems and structures. 
 8. Done many other things in preparation we hope will prove useful over time  
 
@@ -42,24 +42,24 @@ The basic Code is:
 The Projects: 
 
 1. Air, Water, and Soil Health 
-2. Lionsberg Water Network  
-3. Lionsberg Energy Network   
-4. Lionsberg Food Network  
-5. Lionsberg Shelter Network  
-6. Lionsberg Wellness Network  
-7. Lionsberg Technology Network  
-8. Lionsberg Economic Network 
-9. Lionsberg Learning Network 
-10. Lionsberg Waste Network  
-11. Lionsberg Infrastructure Network 
-12. Lionsberg Goods Network 
-13. Lionsberg Security Network  
-14. Lionsberg Wisdom and Knowledge Network    
-15. Lionsberg Personal Transformation  
-16. Lionsberg Group Transformation   
-17. Lionsberg Community Transformation  
-18. Lionsberg Political Transformation  
-19. Lionsberg Movement Building 
+2. LIØNSBERG Water Network  
+3. LIØNSBERG Energy Network   
+4. LIØNSBERG Food Network  
+5. LIØNSBERG Shelter Network  
+6. LIØNSBERG Wellness Network  
+7. LIØNSBERG Technology Network  
+8. LIØNSBERG Economic Network 
+9. LIØNSBERG Learning Network 
+10. LIØNSBERG Waste Network  
+11. LIØNSBERG Infrastructure Network 
+12. LIØNSBERG Goods Network 
+13. LIØNSBERG Security Network  
+14. LIØNSBERG Wisdom and Knowledge Network    
+15. LIØNSBERG Personal Transformation  
+16. LIØNSBERG Group Transformation   
+17. LIØNSBERG Community Transformation  
+18. LIØNSBERG Political Transformation  
+19. LIØNSBERG Movement Building 
 
 As these projects [[Progress]], they are progressively realizing what humanity has articulated as its [[Universal Goals and Values]]. 
 

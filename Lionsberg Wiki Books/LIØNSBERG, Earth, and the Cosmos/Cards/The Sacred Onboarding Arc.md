@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, onboarding, ritual, operational]
-source: Phase 2.1 audit of Lionsberg Orientation and Training System
+source: Phase 2.1 audit of LIØNSBERG Orientation and Training System
 captured: 2026-05-18
 ---
 

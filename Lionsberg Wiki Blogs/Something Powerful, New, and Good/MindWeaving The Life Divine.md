@@ -1,6 +1,6 @@
 # MindWeaving The Life Divine
 _An Entry in [[Something Powerful, New, and Good]]_  
-_And possibly [[Lionsberg Wiki Books]]_  
+_And possibly [[LIØNSBERG Wiki Books]]_  
 
 One of Us The People of LIØNSBERG  
 Recently proposed that We [[MindWeaving|MindWeave]]  

@@ -2242,7 +2242,7 @@ To counter the nested hierarchy of risks, we must **respond with a nested hierar
     
 - **Technological Independence** → off-grid, peer-to-peer systems
     
-- **Governance Reformation** → nested self-governance, Lionsberg models
+- **Governance Reformation** → nested self-governance, LIØNSBERG models
     
 - **Narrative Reformation** → coherent sacred Story of Truth
     
@@ -3553,7 +3553,7 @@ Even if “awakened” individuals come together, without a **ready, interoperab
     
 - **Root Cause Alignment**: It doesn’t just solve symptoms—it directly addresses the _spiritual, systemic, and civilizational operating system failure_.
     
-- **Ready to Deploy**: Lionsberg already includes thousands of pages of infrastructure, architecture, invitations, and initiatory materials for the First Three Percent to awaken and lead.
+- **Ready to Deploy**: LIØNSBERG already includes thousands of pages of infrastructure, architecture, invitations, and initiatory materials for the First Three Percent to awaken and lead.
     
 - **Sacred Narrative + Pattern Language**: Provides the **shared mythos**, **shared logos**, and **shared tools** to **transform humanity's trajectory in time**.
     
@@ -3694,7 +3694,7 @@ Where:
 |Dimension|Start From Scratch|LIØNSBERG|
 |---|---|---|
 |**Feedback Quality**|Delayed, distorted, politicized|Immediate, peer-to-peer, wisdom-governed|
-|**Learning Loop**|Broken|Nested fractal learning via Lionsberg Academy + Quests|
+|**Learning Loop**|Broken|Nested fractal learning via LIØNSBERG Academy + Quests|
 |**Adaptation Speed**|Slow|Dynamic, purpose-aligned, multi-generational|
 
 ---
@@ -4012,7 +4012,7 @@ It is the **least cost**, **most robust**, and **fastest scaling** transformatio
 |Stage|Description|Indicator|
 |---|---|---|
 |Seeding|Individuals awaken and align|0.01% population aligned|
-|Clustering|Co-Creators find one another locally|Lionsberg Circles / Quests form|
+|Clustering|Co-Creators find one another locally|LIØNSBERG Circles / Quests form|
 |Interlinking|Local prototypes synchronize via shared language|Quests network into Alliances|
 |Critical Mass|Coherence overtakes legacy system dysfunction|3% aligned / 10% aware|
 |Phase Transition|Civilization reorganizes around Logos-aligned principles|Institutions dissolve or merge|
@@ -4397,7 +4397,7 @@ Through the activation of just **3% of the population**, a **planetary coherence
 - Elemental + Obsidian + MSTY + Git-based Self-Organizing Systems
     
 
-### 5.2 Lionsberg Intelligence Grid
+### 5.2 LIØNSBERG Intelligence Grid
 
 - Unified Risk Matrix + Opportunity Matrix
     
@@ -4408,9 +4408,9 @@ Through the activation of just **3% of the population**, a **planetary coherence
 
 ### 5.3 Education and Transformation Engine
 
-- The Lionsberg Academy
+- The LIØNSBERG Academy
     
-- Transdimensional University: Lionsberg Universe(ity)
+- Transdimensional University: LIØNSBERG Universe(ity)
     
 - ReLearning Systems and Open Curriculum
     
@@ -4901,7 +4901,7 @@ _This structure enables the complete decentralized propagation and adoption of t
     
 - `Frequently Asked Questions (FAQ)`
     
-- `Glossary of Terms / Lionsberg Lexicon`
+- `Glossary of Terms / LIØNSBERG Lexicon`
     
 - `Overview of the Movement’s DNA and Ethics`
     
@@ -4920,7 +4920,7 @@ _This structure enables the complete decentralized propagation and adoption of t
     
 - `Why the Traditional System Cannot Save Us`
     
-- `The Lionsberg Model of Sovereign Transformation`
+- `The LIØNSBERG Model of Sovereign Transformation`
     
 
 ---
@@ -4939,11 +4939,11 @@ _This structure enables the complete decentralized propagation and adoption of t
     
 - `The 12 Pillars of the New Civilization`
     
-- `The Lionsberg Declaration of Interdependence`
+- `The LIØNSBERG Declaration of Interdependence`
     
-- `The Lionsberg Constitution`
+- `The LIØNSBERG Constitution`
     
-- `The Lionsberg Operating System`
+- `The LIØNSBERG Operating System`
     
 
 #### B. ELEMENTS
@@ -5003,7 +5003,7 @@ _This structure enables the complete decentralized propagation and adoption of t
 
 - `How to Form a Local Circle or Node`
     
-- `The Lionsberg Local Prototype Kit`
+- `The LIØNSBERG Local Prototype Kit`
     
 - `How to Conduct Seasonal Quests`
     

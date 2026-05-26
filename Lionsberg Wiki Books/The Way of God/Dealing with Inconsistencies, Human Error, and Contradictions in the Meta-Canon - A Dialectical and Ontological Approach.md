@@ -41,4 +41,4 @@ _____
 Forward to [[A Starting Point - Navigating Biblical Translations in Pursuit of Spiritual Illumination - a Case Study]]  
 Back to [[Parsing the Conceptual Meta Canon from the Wisdom and Perspective of God - An Ontological Exploration]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

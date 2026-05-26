@@ -106,7 +106,7 @@ You might observe that this is massively inefficient, and indeed, even on my Mac
 
 After skimming through the changes with `git diff`, it all looked good.  I noted the Perl one-liner had the effect of removing whitespace at the end of lines; I think that was okay, so I didn't do anything to handle that.
 
-Here is the resulting commit: [semi-automated spelling correction experiment](https://github.com/Lionsberg/lionsberg-wiki/commit/795c0484f441791dd73b7647b9b41a9de01922dd).
+Here is the resulting commit: [semi-automated spelling correction experiment](https://github.com/LIØNSBERG/LIØNSBERG-wiki/commit/795c0484f441791dd73b7647b9b41a9de01922dd).
 
 ### Conclusion
 

@@ -49,37 +49,37 @@ _Daily practice philosophy. The deep meditation on Today as the basic unit of et
 
 By [[Jordan Nicholas Sukut]] (2024). Four chapters covering the philosophical ground of Now/Today/Way, the integrated philosophy and gifts, your story and aim, and the operational daily practice. The philosophical companion to **[[The Daily Way]]** in [[The LIØNSBERG Experience|the Experience]]. Where Volume I holds the operational template, this Book holds the prophetic ground of _why_ the day matters as it does.
 
-### 4. [[The Lionsberg Book of Meditations]]
+### 4. [[The LIØNSBERG Book of Meditations]]
 
 _Meditative practices. Companion to the Daily Way and the Sacred Ascent._
 
 A growing collection of meditations articulated as instruments of contemplative practice. Each meditation a discrete, repeatable opening. Used as deepening material alongside the seven-minute morning stillness of [[The Coherent Divine Intention Wave|the Wave]], and as gateway material for those drawn from [[The Daily Way|the Essential Way]] into the Devoted and Mastery tiers.
 
-### 5. [[The Lionsberg Book of Quotes]]
+### 5. [[The LIØNSBERG Book of Quotes]]
 
 _Curated wisdom drops. The quotable canon._
 
 A continuously growing collection of canonical quotations — concentrated sentences that carry weight enough to be read aloud in Circles, written on walls, returned to in stillness. Companion to the prophetic voice of [[The Book of LIØNSBERG]] and the cosmic register of [[The Story of LIØNSBERG]]. The Library's compression of the Way into pointed lines.
 
-### 6. [[The LIØNSBERG Book of Emotions|The Lionsberg Book of Emotions]]
+### 6. [[The LIØNSBERG Book of Emotions|The LIØNSBERG Book of Emotions]]
 
 _Emotional integration. Companion to the Sacred Ascent and the Daily Way._
 
 The named field of emotional experience and integration — what emotions are, how they move, how the Sovereign works with them through daily and seasonal practice. Companion to [[The Sacred Ascent]]'s embodied mastery (emotional integration as one of the dimensions of the spiral) and to [[The Daily Way]]'s evening reflection (where emotional notice settles into the day's close).
 
-### 7. [[The Lionsberg Book Of Parables|The Lionsberg Book of Parables]]
+### 7. [[The LIØNSBERG Book Of Parables|The LIØNSBERG Book of Parables]]
 
 _Teaching stories. Companion to the prophetic narrative._
 
 A growing collection of parables in the LIØNSBERG voice — short narrative-form teachings that carry the Pattern in story rather than in proposition. Companion to [[The Book of LIØNSBERG]] (the integrated prophetic narrative) and to [[The Story of LIØNSBERG]] (the cosmic Story). Where the Volumes teach by articulation, the Parables teach by example.
 
-### 8. [[The LIØNSBERG System of Values|The Lionsberg System of Values]]
+### 8. [[The LIØNSBERG System of Values|The LIØNSBERG System of Values]]
 
 _The named field of canonical values._
 
 The articulation of the values the People of LIØNSBERG hold in common — Truth, Love, Justice, Stewardship, Wisdom, and the deeper field these touch. Companion to [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]] (where values inform every Part) and to [[The LIØNSBERG Constitution]] (where the Eternal Provisions are anchored). The Library's articulation of _what we hold_.
 
-### 9. [[The 12 Pillars of Lionsberg]]
+### 9. [[The 12 Pillars of LIØNSBERG]]
 
 _The canonical articulation of the 12 Sacred Pillars — the twelve substantive domains of civilization._
 

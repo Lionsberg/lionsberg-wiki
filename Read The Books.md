@@ -8,4 +8,4 @@ As [[Citizens]] immerse themselves in the foundational literature, they will bec
 
 It also creates an accessible starting point to interacting with the depth of the [[LIØNSBERG Wiki]]. 
 
-To dive in to the books, see [[Lionsberg Wiki Books]]. 
+To dive in to the books, see [[LIØNSBERG Wiki Books]]. 

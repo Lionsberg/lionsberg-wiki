@@ -1,4 +1,4 @@
-# The Lionsberg Book of People
+# The LIØNSBERG Book of People
 
 All Great Spirits Arise From [[ØNE]], Speak to [[All]], and return to [[ØNE]]. 
 

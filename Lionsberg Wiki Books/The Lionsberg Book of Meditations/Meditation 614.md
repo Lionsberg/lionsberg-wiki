@@ -4,5 +4,5 @@ ___
 
 Forward to [[Meditation 615]]  
 Back to [[Meditation 613]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
-Read other [[Lionsberg Wiki Books]] 
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  
+Read other [[LIØNSBERG Wiki Books]] 

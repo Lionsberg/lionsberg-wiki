@@ -6,7 +6,7 @@ In [[The Power of Today]], we laid out a section called [[4.4 A New Daily Practi
 
 The Practice contains a powerful subset of journaling questions and prompts. 
 
-Here are the basics. Remember, these are meant to be part of an integrated Way of Being and Daily Practice as outline in [[The Power of Today]], and integrated via the [[Lionsberg System and Approach]]. 
+Here are the basics. Remember, these are meant to be part of an integrated Way of Being and Daily Practice as outline in [[The Power of Today]], and integrated via the [[LIØNSBERG System and Approach]]. 
 
 These questions should be kept integrated and mutually updated with [[4.4 A New Daily Practice]]. 
 

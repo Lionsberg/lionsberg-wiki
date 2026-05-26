@@ -10,7 +10,7 @@ Below (from bottom to top) is:
 
 The working with the system through hundreds of thousands of words, ***the Grand Synthesis is a reasonable mirror of what We have in Mind***. 
 
-This is important because We are weaving [[The Lionsberg Theory of Everything]] to help guide humanity through [[The Final Test]] and into a [[New Era]]... 
+This is important because We are weaving [[The LIØNSBERG Theory of Everything]] to help guide humanity through [[The Final Test]] and into a [[New Era]]... 
 
 ## ChatGPT Grand Synthesis
 

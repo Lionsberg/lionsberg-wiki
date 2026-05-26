@@ -90,7 +90,7 @@ _The 12 Elements + foundational concept Cards. All HOLD pending Phase 4 Pattern 
 | **[[The Story of LIØNSBERG]]** | Vol II. The cosmic epic. | Per memory: "The Story rewrite + Book reweave is the single largest creative work item." Currently includes Epochs I-XII articulation. Multiple drafts and explorations exist. | **RETHINK** — full rewrite pending (multi-session work) |
 | **[[Quest]]** | The 90-day tangible body of meaningful work. | Card. | **KEEP** (verify state) |
 | **[[New Civilization]]** | The emerging civilizational order. | Card. | **KEEP** (verify state) |
-| **[[Lionsberg Cycles of Growth]]** | The Fibonacci pattern. | Card. | **KEEP** (verify state) |
+| **[[LIØNSBERG Cycles of Growth]]** | The Fibonacci pattern. | Card. | **KEEP** (verify state) |
 | **[[The Sacred Ascent]]** | Vol X. The vertical dimension of integral development. | "Coming Soon" stub. | **HOLD** — Phase 5 authorship work |
 
 ---
@@ -121,7 +121,7 @@ _The Sovereign's operational companion at the individual scale. Four Frames + th
 |---|---|---|---|
 | **[[The LIØNSBERG Sacred Codex]]** | The 12-Volume index — the bound spine. | **Strong.** Recent updates (Vol XI Living Library, etc.). | **KEEP** |
 | **[[LIØNSBERG, Earth, and the Cosmos]]** | The Card-Book substrate alongside the Codex. | **Strong.** Cards continuously growing. | **KEEP** |
-| **[[Lionsberg Wiki Books]]** | The broader procession index. | Reasonable. | **KEEP** (verify state) |
+| **[[LIØNSBERG Wiki Books]]** | The broader procession index. | Reasonable. | **KEEP** (verify state) |
 | **The 12 Volume root pages** | Each Volume's entry. | Variable: Vol I clean; Vol X "Coming Soon"; Vol V Plans & Specifications has substantial articulation; Pattern Language is provisional stub; others variable. | Per-Volume disposition tracked in Concept Weaving Ledger Section E |
 
 ---
@@ -174,7 +174,7 @@ Form A Circle · Name Your Circles · Set Your Cadence · Forge a Field of Agree
 
 **Other operational Plays from older eras** (DELETE or fold per Concept Weaving Ledger):
 - The 16 `ReMembering How To...` files in The LIØNSBERG Way — mostly 3-5 line stubs
-- The 30 numbered Fragments in The Lionsberg Playbook/Fragments For Synthesis/ — material being woven
+- The 30 numbered Fragments in The LIØNSBERG Playbook/Fragments For Synthesis/ — material being woven
 
 ---
 

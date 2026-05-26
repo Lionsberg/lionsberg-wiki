@@ -1,4 +1,4 @@
-# Above The Chaos, Why I Am Risking Everything To Build Lionsberg In Service Of The Meta Project
+# Above The Chaos, Why I Am Risking Everything To Build LIØNSBERG In Service Of The Meta Project
 
 By [[Jordan Nicholas Sukut]], 2022.10.25 _(updated 2022.10.25)_
 
@@ -48,15 +48,15 @@ We have spent the last 5 bringing together and integrating lifetimes of work int
 
 ...that we have full authority within... and that we can immediately activate... that is entirely self-governing beyond any existing authority or institution on earth... yet can compliantly interface with will all institutions on earth...
 
-...and the mythical name I call it by is Lionsberg. 
+...and the mythical name I call it by is LIØNSBERG. 
 
 You have your own Starting Points and groups and things that are within your own immediate sphere of authority and responsibility - let's explore how to bring them into right relationship, and help one another as we each strive to Love and Serve One and All in our own ways. 
 
 What is right relationship between you and me? As individuals? 
 
-What is right relationship between my domain of authority in Lionsberg and your domains of authority? 
+What is right relationship between my domain of authority in LIØNSBERG and your domains of authority? 
 
-What would I and Lionsberg need to provide for you and your projects to be who you are being called to be at this unique moment in history? 
+What would I and LIØNSBERG need to provide for you and your projects to be who you are being called to be at this unique moment in history? 
 
 What help could you use? How can I best serve? 
 
@@ -91,7 +91,7 @@ Within our generation, it is also absolutely possible that we stay fragmented, e
 
 ## What Is Immediately At Hand And Actionable
 
-What is immediately at hand and actionable for me if the invaluable store of resources, wisdom, technology, knowledge, and relationships that I and my network have at hand, and a Lionsberg System purpose-built to help all who are impelled by the spirit to move in service of Life to rise up towards a higher order functional unity.
+What is immediately at hand and actionable for me if the invaluable store of resources, wisdom, technology, knowledge, and relationships that I and my network have at hand, and a LIØNSBERG System purpose-built to help all who are impelled by the spirit to move in service of Life to rise up towards a higher order functional unity.
 
 This voice always feels like one crying out in the wilderness... 
 
@@ -103,7 +103,7 @@ And so we press onward, hoping and praying that we can reach her in time, libera
 
 This might not work, but until we can see another way, we must keep trying and never give up. 
 
-My next steps are to forge a core group to help me continuously improve Lionsberg's capability to ever more powerfully Love, Serve, meet needs, solve problems, and help all other things advance towards our highest overarching and uniting shared Goal. 
+My next steps are to forge a core group to help me continuously improve LIØNSBERG's capability to ever more powerfully Love, Serve, meet needs, solve problems, and help all other things advance towards our highest overarching and uniting shared Goal. 
 
 With this capacity, we will reach out to establish relationship with 5 to 20 other groups that are also advancing towards the Goal. We will listen carefully, and then leverage our network to do our best to love, help, and serve in the most pragmatic and powerful ways we can. 
 

@@ -178,7 +178,7 @@ The PDG's architecture maps directly to [[The Core Pattern]]:
 | Target Value Design | [[Design To The Goal]] |
 | Last Planner System | [[Networks of Commitments]] / [[Commitment-Based Management]] |
 | PDCA Continuous Improvement | [[Tightly Coupled Learning and Action]] |
-| Financial Incentives Plan | [[Lionsberg Units of Value]] / [[Meaningful Work]] |
+| Financial Incentives Plan | [[LIØNSBERG Units of Value]] / [[Meaningful Work]] |
 | Community of Practice | [[Community of Practice]] |
 | Lessons Learned / Prototype Control | [[Self-Sustenance and Self-Replication]] and continuous learning |
 

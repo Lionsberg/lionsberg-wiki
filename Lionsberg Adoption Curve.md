@@ -1,6 +1,6 @@
-# Lionsberg Adoption Curve
+# LIØNSBERG Adoption Curve
 
-The Lionsberg Adoption Curve is rooted in our [[Current Best Understanding]] of how human beings progressively adopt new ideas and technologies. 
+The LIØNSBERG Adoption Curve is rooted in our [[Current Best Understanding]] of how human beings progressively adopt new ideas and technologies. 
 
 ## Way To Adopt - Small Groups
 
@@ -42,22 +42,22 @@ To bound the time function, that would require:
 
 ## Hypothesis On Loss Rate
 
-Based on our [[Current Best Understanding]], we have developed a hypothesis on the [[Lionsberg Loss Rate]] to experiment with,
+Based on our [[Current Best Understanding]], we have developed a hypothesis on the [[LIØNSBERG Loss Rate]] to experiment with,
 
-- *If we continuously improve the [[Quality]] of the 1. Community 2. Platform and 3. Lived Experience of Lionsberg, we can hold [[Lionsberg Loss Rate]] to under 20%.* 
+- *If we continuously improve the [[Quality]] of the 1. Community 2. Platform and 3. Lived Experience of LIØNSBERG, we can hold [[LIØNSBERG Loss Rate]] to under 20%.* 
 
 ## Hypothesis On Expansion Rate
 
-Based on our [[Current Best Understanding]], we have developed a [[Hypothesis]] on the [[Lionsberg Expansion Rate]] to experiment with: 
+Based on our [[Current Best Understanding]], we have developed a [[Hypothesis]] on the [[LIØNSBERG Expansion Rate]] to experiment with: 
 
-- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of Lionsberg, we can hold the [[Lionsberg Expansion Rate]] to under 42_
+- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of LIØNSBERG, we can hold the [[LIØNSBERG Expansion Rate]] to under 42_
 
 ## Hypothesis On Success Rate
 
-- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of Lionsberg..._ 
-- _...we can hold the [[Lionsberg Expansion Rate]] to under 42 days_
-- _...while holding the [[Lionsberg Loss Rate]] to under 20%._ 
-- _This results in 54 or fewer cycles at a [[Lionsberg Cycle Time]] of 42 or fewer days, leading to an anticipated Project duration of 54 x 42 = 2,268 or fewer days._ 
+- _If we continuously improve the [[Quality]] of 1. Community 2. Platform and 3. Lived Experience of LIØNSBERG..._ 
+- _...we can hold the [[LIØNSBERG Expansion Rate]] to under 42 days_
+- _...while holding the [[LIØNSBERG Loss Rate]] to under 20%._ 
+- _This results in 54 or fewer cycles at a [[LIØNSBERG Cycle Time]] of 42 or fewer days, leading to an anticipated Project duration of 54 x 42 = 2,268 or fewer days._ 
 - _2,268 days / 365 = 6.2 years, leaving 0.8 years, or 9.6 months of float._ 
 - _This will result in us being able to accomplish our [[Aim]] of connecting and empowering 1 billion [[Sovereign]] and [[Autonomous]] groups, encompassing 97% of humanity, around shared Goals and Values, within 7 years... 
 

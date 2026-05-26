@@ -188,7 +188,7 @@ It might be that we and our loved ones are sick and suffering because the Invisi
 
 It might be that we decide it shouldn't be illegal to do the Wise Right Thing here locally, so we shred the decades of un-reviewed-lobbyist-written-omnibus-legislative-disasters and their enforcement agencies, and take back up responsibility for regulating and stewarding our own communities, cultures, and bioregions our Selves, without so much "help" from the Invisible-Power-Structure-Backed-Collusive-Federal-Puppet-Governments. 
 
-It might be that we establish Citizen Led Joint Ventures around each of [[The 12 Pillars of Lionsberg]] and our Shared Goals and Values, to make a continuously improving stream of health, wellbeing, enlightenment, and abundance available to all of Us, at continuously decreasing cost. 
+It might be that we establish Citizen Led Joint Ventures around each of [[The 12 Pillars of LIØNSBERG]] and our Shared Goals and Values, to make a continuously improving stream of health, wellbeing, enlightenment, and abundance available to all of Us, at continuously decreasing cost. 
 
 It might be that we decide that the collusive supranational soulless Giants of Big Tech, Big Agriculture, Big Pharma, Big Government, Big Finance, Big Weapons, Big Retail, Big State, etc. etc. etc. are weaponizing our resources and collective inheritance of Know How against us, and preventing us from entering the Promised Land. 
 
@@ -236,7 +236,7 @@ Would you allow me to set your candle Aflame, and will you Join Us in extending 
 
 If we simply choose to awaken, unite, and [[Pass The Flame]], within a few short months *everything else will become possible*. 
 
-To monitor the emergence of this global Movement towards Unity through Love, keep a close eye on the [[Lionsberg Cycles of Growth]]. 
+To monitor the emergence of this global Movement towards Unity through Love, keep a close eye on the [[LIØNSBERG Cycles of Growth]]. 
 
 To accept the invitation and take up The Flame, visit Jordan's website and [Join The Movement](https://jordannicholas.org/join_the_movement). 
 
@@ -249,7 +249,7 @@ So here the 3 Simple Steps that every Individual can take, today:
 	1. Aim for 3 to 13 other Individuals you enjoy being around and Co-Creating with. This should be fun and joyful.  
 	2. Love one another, help one another, discuss these issues, and send me questions. I will pool those into [[Frequently Asked Questions]] and answer them.  
 	3. Choose something to do together that makes your lives and your world a better place, and embark on your Quest. We are going to get really good at forming small groups to tackle the most meaningful projects and ideas we can identify.  
-	4. Figure out how to leverage and continuously improve the Lionsberg System to make your individual and group experience ever more joyful.  
+	4. Figure out how to leverage and continuously improve the LIØNSBERG System to make your individual and group experience ever more joyful.  
 3. [[Pass The Flame]] 
 	1. Remember that Unity among Us is the One Thing that makes all other things possible.  
 	2. Find at least one person each week to [[Pass The Flame]].  
@@ -276,6 +276,6 @@ With More Love, In More Community,
 
 ~ J 
 
-P.S.S.S. If you see something that needs to be done around here, that you are capable of doing and willing to do, please form or join a team and start doing it. We are all volunteering the first 1/10th of our time to chop wood, carry water, and clean the dojo. Lionsberg is only composed of us, The People. As of now, and hopefully always, it will have no Employees. Only free and empowered Co-Creators. I don't think the New World we are co-creating is composed of Employees doings Jobs. It is composed of Us, doing the most meaningful and significant work we can imagine to transform our lives and our world for the Better, Together. 
+P.S.S.S. If you see something that needs to be done around here, that you are capable of doing and willing to do, please form or join a team and start doing it. We are all volunteering the first 1/10th of our time to chop wood, carry water, and clean the dojo. LIØNSBERG is only composed of us, The People. As of now, and hopefully always, it will have no Employees. Only free and empowered Co-Creators. I don't think the New World we are co-creating is composed of Employees doings Jobs. It is composed of Us, doing the most meaningful and significant work we can imagine to transform our lives and our world for the Better, Together. 
 
 In the [[New Era]], we will probably decide that we no longer want to Tax our Selves, and that the world can be a better place if we simply coordinate the first 1/10th of our time and resources to meet the needs, solve the problems, and accomplish the goals at hand. 

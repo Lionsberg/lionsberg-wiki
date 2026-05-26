@@ -3,7 +3,7 @@
 **Cluster:** Operations / Strategy Cluster  
 **Source transcript:** `agent-a7ed758b88b5ce77e.jsonl`  
 **Extracted:** 2026-05-19 (final assistant message of Phase 2.7 audit subagent)  
-**Scope:** 15 wiki books including the 18,135-line Lionsberg Pattern Language; ~330 files / ~25,000+ lines surveyed; includes full Pattern Language inventory with ~310 named patterns across Layers Zero/One/Two/Three + Anti-Patterns + Domain Patterns.  
+**Scope:** 15 wiki books including the 18,135-line LIØNSBERG Pattern Language; ~330 files / ~25,000+ lines surveyed; includes full Pattern Language inventory with ~310 named patterns across Layers Zero/One/Two/Three + Anti-Patterns + Domain Patterns.  
 
 This file is the verbatim transcription of the audit memo delivered by the subagent. Card-table content and inventories are preserved exactly as produced. No files were modified during the original audit.
 
@@ -22,21 +22,21 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 
 | Book | Files | Read Depth | Status |
 |---|---|---|---|
-| The Lionsberg Pattern Language | 1 (~18,135 lines) | DEEP — full structural read + sampled all four layers | Canonical Foundational Source |
+| The LIØNSBERG Pattern Language | 1 (~18,135 lines) | DEEP — full structural read + sampled all four layers | Canonical Foundational Source |
 | The LIØNSBERG Way | 17 | DEEP root + sampled all 16 ReMembering stubs | Hub/index (chaotic WIP) |
-| The Lionsberg Playbook | 1 + ~30 root-level Plays | DEEP root; Plays already exist as wiki root files | Canonical operational handbook (index) |
-| The Lionsberg Strategy and Plan of Action | 35 | DEEP root (2,143 lines) + Q1 2026 update sampled | Canonical Strategic Source |
+| The LIØNSBERG Playbook | 1 + ~30 root-level Plays | DEEP root; Plays already exist as wiki root files | Canonical operational handbook (index) |
+| The LIØNSBERG Strategy and Plan of Action | 35 | DEEP root (2,143 lines) + Q1 2026 update sampled | Canonical Strategic Source |
 | The Meta Project | 31 across 2 subfolders | DEEP both index files; sampled spec lists | Foundational program-architecture |
-| The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0 | 37 | DEEP root + Ch.21 (Twelve Pillars) | Canonical Manifesto |
+| The LIØNSBERG Blueprint - Manifesto for Worksite Earth 2.0 | 37 | DEEP root + Ch.21 (Twelve Pillars) | Canonical Manifesto |
 | The Last Chance | 56 | Root + sampled key chapter | Q&A dialogue book |
-| Lionsberg Orientation and Training System | 20 | Root + v0.1 draft + Day index | Folded into LIØNSBERG Experience |
-| The Lionsberg Elevation Initiative | 26 | Root TOC | Lifelong development framework |
+| LIØNSBERG Orientation and Training System | 20 | Root + v0.1 draft + Day index | Folded into LIØNSBERG Experience |
+| The LIØNSBERG Elevation Initiative | 26 | Root TOC | Lifelong development framework |
 | The Program Delivery Guide | 14 chapters at root + index | DEEP root | Canonical Foundational Source |
 | The Kingdom of LIØNSBERG | 2 | DEEP both | Canonical architectural manual (v0.1) |
-| The Lionsberg System Toolkit | 5 | Root + 4 process templates | Reference catalog (placeholder) |
-| The Lionsberg System of Values | 1 | Full read | Reference catalog (~140 values listed) |
-| The Lionsberg Rules | 3 | Full read all 3 | Compressed canonical (2 rules) |
-| The Lionsberg Book of Conventions | 1 | Full read | Stub (2 links) |
+| The LIØNSBERG System Toolkit | 5 | Root + 4 process templates | Reference catalog (placeholder) |
+| The LIØNSBERG System of Values | 1 | Full read | Reference catalog (~140 values listed) |
+| The LIØNSBERG Rules | 3 | Full read all 3 | Compressed canonical (2 rules) |
+| The LIØNSBERG Book of Conventions | 1 | Full read | Stub (2 links) |
 
 **Total source-document coverage:** ~330 files, ~25,000+ lines of source material surveyed.
 
@@ -44,7 +44,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 
 ## II. Book-by-Book Inventory
 
-### 1. The Lionsberg Pattern Language (FOUNDATIONAL — DEEP READ)
+### 1. The LIØNSBERG Pattern Language (FOUNDATIONAL — DEEP READ)
 - One 18,135-line file, 431 headings.
 - Four-level architecture: **Source (ØNE)** → **12 Irreducible Elements** → **7 Moves** → **Domain Patterns (12 Domains)**.
 - Part Two contains: Index/Cross-Reference, Layer Zero (Core Covenant, 7 items), Layer One (14 Meta-Patterns M1–M14), Layer Two (Pattern Principles, ~140 numbered), Layer Three (Practice Specifications, parallel ~140).
@@ -57,7 +57,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 - Most ReMembering files are 5-15 line link-stubs pointing to root concept files.
 - Root file contains scaffolding for 70+ unwritten sections (Story, Solution, System, Structure, Strategy, Constitution, Commons, etc.) — many duplicate other books.
 
-### 3. The Lionsberg Playbook
+### 3. The LIØNSBERG Playbook
 - Root file is a thin index (85 lines) pointing to **~30 root-level Plays** already in the wiki:
   - Getting Started: Form A Circle, Choose A Quest, Choose Your Roles, Discern the Wise Right Next Steps, Pass The Flame
   - Circle Life: Name Your Circles, Set Your Cadence, Forge a Field of Agreements, Govern Your Circles, Establish Selectively Permeable Membranes, Establish Your Cellular Operating System and Way
@@ -67,9 +67,9 @@ This file is the verbatim transcription of the audit memo delivered by the subag
   - Resources: Fostering Ecosystemic Resource Flows
 - The Playbook IS canonical, but its "body" lives at the wiki root, not in the folder.
 
-### 4. The Lionsberg Strategy and Plan of Action
+### 4. The LIØNSBERG Strategy and Plan of Action
 - 35 numbered chapters (1–31) plus 2024 Q4 update + 2026 Q1 update + LIØNSBERG Strategy and Plan root.
-- Root file: 2,143 lines containing Fibonacci Cycles of Growth (50 cycles), Lionsberg Resource Runway, Sword-to-Ploughshares fiscal redirection ($30T → $17T freed), Instantiation Hub architecture (Core, Georegional, Bioregional, Ecoregional, City, Local, Community, Micro), Fractal Commonsing, Train-the-Trainer 15,000 Facilitators, 100 Steps Towards The Promised Land.
+- Root file: 2,143 lines containing Fibonacci Cycles of Growth (50 cycles), LIØNSBERG Resource Runway, Sword-to-Ploughshares fiscal redirection ($30T → $17T freed), Instantiation Hub architecture (Core, Georegional, Bioregional, Ecoregional, City, Local, Community, Micro), Fractal Commonsing, Train-the-Trainer 15,000 Facilitators, 100 Steps Towards The Promised Land.
 - Q1 2026 update: critical milestone tracking (Cycle 40 = 268M = 3.2% by end 2026), explicit "death of all provisional structures August 2025."
 
 ### 5. The Meta Project
@@ -77,20 +77,20 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 - Plans And Specifications contains: Designer's Intent, Joint Venture Framework, Meta System, Living System, Human System, LIØNSBERG System, "Everything Is A Client," "Everyone Is A Steward," "Everyone Is Sovereign," Agreements, Governance, Social/Technological/Economic/Narrative Infrastructure, Strategic Overview, Resourcing/Crowdfunding.
 - Program Statement: 21-section MPPS (Why, Basis of Design, Intention, Purpose, Alignment, Culture & Values, Right Relationship, Learning, Wellbeing, Living System, Land, Air, Water, Infrastructure, Governance, Administration, Economy, Spirituality, Reconciliation, Transforming Weaponry, Flourishing).
 
-### 6. The Lionsberg Blueprint - Manifesto for Worksite Earth 2.0
+### 6. The LIØNSBERG Blueprint - Manifesto for Worksite Earth 2.0
 - 33 chapters + 4 supporting files. Most comprehensive long-form manifesto.
 - Parts I (Meta Crisis/Solution, Ch.1-10), II (Imperative for New System, Ch.11-17), III (Foundations & Pillars, Ch.18-23), IV (Blueprint In Action, Ch.24-33), V-VII outlined but not yet written.
-- Ch.21 articulates the 12 Pillars as WBS; Ch.30 sources the Pattern Language; Ch.23 articulates The Lionsberg Approach as Ark and Bridge.
+- Ch.21 articulates the 12 Pillars as WBS; Ch.30 sources the Pattern Language; Ch.23 articulates The LIØNSBERG Approach as Ark and Bridge.
 
 ### 7. The Last Chance
 - 56 files, 9 sections + appendix. Q&A dialogue format between J and AI.
-- Useful for Meta Crisis articulation (Ch.2-5), Existing Solutions Fall Short (Ch.5), Lionsberg System introduction (Ch.7), Path Forward (Ch.8). Mostly redundant with Blueprint and Strategy.
+- Useful for Meta Crisis articulation (Ch.2-5), Existing Solutions Fall Short (Ch.5), LIØNSBERG System introduction (Ch.7), Path Forward (Ch.8). Mostly redundant with Blueprint and Strategy.
 
-### 8. Lionsberg Orientation and Training System
+### 8. LIØNSBERG Orientation and Training System
 - 20 files. Days 1-17 articulated; Days 18-49+ outlined. Self-marked "folded into The LIØNSBERG Experience."
 - Maps a 7-week initiation journey: Awakening → Departure → Vision → Wilderness Part I & II → Commandments → Sacred Space → Multi-Generational Journey.
 
-### 9. The Lionsberg Elevation Initiative
+### 9. The LIØNSBERG Elevation Initiative
 - 26 files. 8-section framework: Introduction, Foundational Principles (16), Integrated Pathway of Lifelong Learning, Building/Sustaining the Community, Engaging Critical Path, Patterns for Flourishing, Spreading the Initiative, Conclusion.
 - Substantially overlaps with Pattern Language (especially Domain VI Education and Domain VII Life/Regeneration).
 
@@ -104,19 +104,19 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 - Articulates a **12-Part (later 15-Part) Twelvefold Architecture**: Orientation & Mandate / Cycle of Divine Co-Creation / LIØNSBERG Experience / Divine Blueprints / System of Systems / Governance / Economy & Commons / Culture & Rites / Great Game & Playbook / Intelligence & Meta-Science / Safeguards / Appendices.
 - Introduces: **Concentric Mandala** (Core Light + 12 rings, inner-3/middle-6/outer-3 division), Ethic of Right InterExistence, Kernel (Immutable Core), Core Services (Time & Cycle, Identity & Stewardship, Commons Registry, Value Exchange, Knowledge Graph, Rites Engine), LUV (LIØNSBERG Units of Value), Mutual Credit and Abundance Economy, Rite Wheel, Canon of Rites, Seven Phases of Play.
 
-### 12. The Lionsberg System Toolkit
-- 5 files. Root file is a placeholder/WIP. Contents are mostly link-lists pointing to: Domains of R&A, Roles, Functional Accountability Chart, Decision Making, Proposals, Range of Tolerance, Consent, Meaningful Objection, Quarterly Quests, Project Template, Issue Tracker, Transforming Conflict, Template For Pattern Language, Tool For Aiming, Organizations The Lionsberg Way.
+### 12. The LIØNSBERG System Toolkit
+- 5 files. Root file is a placeholder/WIP. Contents are mostly link-lists pointing to: Domains of R&A, Roles, Functional Accountability Chart, Decision Making, Proposals, Range of Tolerance, Consent, Meaningful Objection, Quarterly Quests, Project Template, Issue Tracker, Transforming Conflict, Template For Pattern Language, Tool For Aiming, Organizations The LIØNSBERG Way.
 - Sub-pages: Everything Is A Process, Template For Process (Blank/Example/Instructions).
 
-### 13. The Lionsberg System of Values
+### 13. The LIØNSBERG System of Values
 - 1 file. Catalog of ~140 named values: 1 Meta Value (ØNE), 6 Universal Core Values (Truth, Love, Justice, Stewardship, Wisdom, Beauty), ~130 Universal Derivative Values (Acceptance through Zeal), and an Anti-Values section just begun (Crime, Dishonesty, Dishonest Gain, Dissoluteness).
 
-### 14. The Lionsberg Rules
+### 14. The LIØNSBERG Rules
 - 3 files (radically compressed):
   - **Rule Number One:** "There is only ØNE rule. Everything is ØNE."
   - **Rule Number 2:** "Do The Wise Right Thing at The Wise Right Time with The Wise Right People to Progressively Realize The Goal."
 
-### 15. The Lionsberg Book of Conventions
+### 15. The LIØNSBERG Book of Conventions
 - 1 file. Two links: "We Have Heard" and "Everything Is A Project." Effectively empty.
 
 ---
@@ -240,15 +240,15 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | The False Prophet | Pattern-language used in service of opposite | PL Anti-Patterns |
 | The Parasite | Drawing from commons without contribution | PL Anti-Patterns |
 
-### E. From The Lionsberg Strategy and Plan
+### E. From The LIØNSBERG Strategy and Plan
 
 | Card | Essence | Source |
 |---|---|---|
 | Throughput of The Goal | The measure of system effectiveness | Strategy §Waste/Value |
-| Lionsberg Cycle Time | The pace at which the system produces throughput | Strategy |
+| LIØNSBERG Cycle Time | The pace at which the system produces throughput | Strategy |
 | Time-Energy Accounting | New ledger of contribution beyond money | Strategy |
 | FROM Weaponry TO Livingry | The redirection of resources | Strategy §Swords to Ploughshares |
-| The Lionsberg Resource Runway | The trajectory from $2M working capital to self-funding | Strategy |
+| The LIØNSBERG Resource Runway | The trajectory from $2M working capital to self-funding | Strategy |
 | Instantiation Hubs | The kit-of-parts physical infrastructure | Strategy |
 | Core Hub | The planetary nexus | Strategy |
 | Georegional Hub | The continental-scale facility | Strategy |
@@ -360,7 +360,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | Drift Detection | Mechanism for sensing mission departure | Kingdom |
 | Intervention Council | Cross-domain mirror-holding body | Kingdom |
 
-### I. From The Lionsberg Way (root concept stubs worth surfacing)
+### I. From The LIØNSBERG Way (root concept stubs worth surfacing)
 
 | Card | Essence | Source |
 |---|---|---|
@@ -372,7 +372,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | Differentiating Levels of Abstraction | The cognitive move that prevents confusion | Way |
 | Embodied Wise Servant Leadership | Leadership as service made flesh | Way |
 
-### J. From The Lionsberg Toolkit / System
+### J. From The LIØNSBERG Toolkit / System
 
 | Card | Essence | Source |
 |---|---|---|
@@ -386,9 +386,9 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | Range of Tolerance | Bounds within which consent holds | Toolkit |
 | Meaningful Objection | The disciplined "no" | Toolkit |
 | Functional Accountability | The role-based clarity tool | Toolkit |
-| Organizations The Lionsberg Way | The blueprint for institutional form | Toolkit |
+| Organizations The LIØNSBERG Way | The blueprint for institutional form | Toolkit |
 
-### K. From The Lionsberg System of Values (selection — many overlap with existing queue)
+### K. From The LIØNSBERG System of Values (selection — many overlap with existing queue)
 
 Most ~140 values likely already in queue. Net-new candidates worth confirming:
 
@@ -451,7 +451,7 @@ Most ~140 values likely already in queue. Net-new candidates worth confirming:
 | The Zone of Meaning and Optimum Development | The growth-edge sweet spot | Elevation §3.6 |
 | Interexistence | "I can't reach my potential unless you reach yours" | Elevation §3.2 |
 | Mentoring, Coaching, and Peer-to-Peer Support | The relational scaffolding of growth | Elevation §3.7 |
-| The Lionsberg Community Federation | The connecting body | Elevation §4 |
+| The LIØNSBERG Community Federation | The connecting body | Elevation §4 |
 
 ---
 
@@ -492,11 +492,11 @@ These five documents are **foundational source-texts** for the Sacred Codex and 
 
 1. **The LIØNSBERG Pattern Language** ([[The LIØNSBERG Pattern Language]]) — **Tier 1 canonical foundation.** The single densest articulation in the corpus. 18,135 lines, four-layer architecture, ~140+ named patterns, 14 meta-patterns, 9 anti-patterns. **This is Volume III-or-IV canonical root material.**
 2. **The Program Delivery Guide** (`LIØNSBERG Wiki Books/The Program Delivery Guide/`) — **Tier 1 canonical foundation.** The $20M-of-funded-research that informed Elements 9–12. Direct lineage map from PDG concept to Pattern Language Element is documented inside the file. The "Federal Receivership of Earth" parallel is structurally central.
-3. **The Lionsberg Strategy and Plan of Action** ([[The LIØNSBERG Strategy and Plan]]) — **Tier 1 strategic foundation.** Fibonacci Cycles, Resource Runway, Swords-to-Ploughshares accounting, Instantiation Hub architecture. Q1 2026 Update is the freshest strategic ground-truth.
-4. **The Meta Project Plans and Specifications** ([[Lionsberg Plans and Specifications]]) — **Tier 1 architectural foundation.** The "construction documents" frame of the entire system.
-5. **The Lionsberg Blueprint Ch.21** ([[Chapter 21 - The Twelve Pillars of Lionsberg - a Framework for Collaborative Thought and Action]]) — **Tier 1 work-breakdown canonical source.** The 12 Pillars articulated as WBS.
+3. **The LIØNSBERG Strategy and Plan of Action** ([[The LIØNSBERG Strategy and Plan]]) — **Tier 1 strategic foundation.** Fibonacci Cycles, Resource Runway, Swords-to-Ploughshares accounting, Instantiation Hub architecture. Q1 2026 Update is the freshest strategic ground-truth.
+4. **The Meta Project Plans and Specifications** ([[LIØNSBERG Plans and Specifications]]) — **Tier 1 architectural foundation.** The "construction documents" frame of the entire system.
+5. **The LIØNSBERG Blueprint Ch.21** ([[Chapter 21 - The Twelve Pillars of LIØNSBERG - a Framework for Collaborative Thought and Action]]) — **Tier 1 work-breakdown canonical source.** The 12 Pillars articulated as WBS.
 
-Secondary high-fidelity sources to preserve: **The Kingdom of LIØNSBERG - Plans and Specifications** (v0.1 — most recent architectural articulation), **The Lionsberg Playbook root + the ~30 root-level Plays**, and **The Rules** (Rule 1 and Rule 2 are the maximally compressed form of the entire system).
+Secondary high-fidelity sources to preserve: **The Kingdom of LIØNSBERG - Plans and Specifications** (v0.1 — most recent architectural articulation), **The LIØNSBERG Playbook root + the ~30 root-level Plays**, and **The Rules** (Rule 1 and Rule 2 are the maximally compressed form of the entire system).
 
 ---
 
@@ -594,25 +594,25 @@ The Playbook itself is a 85-line index pointing to ~30 Plays that live at the wi
 **Yes — 15 operations books IS too many.** Significant overlap exists. Recommended consolidation:
 
 ### Tier 1: Canonical — Preserve as Foundation
-- **The Lionsberg Pattern Language** (foundational extraction for Phase 3)
-- **The Lionsberg Playbook** (operational handbook — but the root file is just an index; the actual Plays live as root-level files)
+- **The LIØNSBERG Pattern Language** (foundational extraction for Phase 3)
+- **The LIØNSBERG Playbook** (operational handbook — but the root file is just an index; the actual Plays live as root-level files)
 - **The Program Delivery Guide** (foundational source-document; preserve as historical/archival reference)
-- **The Lionsberg Strategy and Plan of Action** (active strategic plan; keep Q1 2026 Update fresh)
+- **The LIØNSBERG Strategy and Plan of Action** (active strategic plan; keep Q1 2026 Update fresh)
 
 ### Tier 2: Specialized — Preserve but Subordinate
 - **The Meta Project** (program-architecture frame — could fold into Strategy or Kingdom)
 - **The Kingdom of LIØNSBERG** (v0.1 — most recent architectural articulation; likely supersedes parts of Meta Project)
-- **The Lionsberg Blueprint** (long-form manifesto — partial overlap with Strategy and Pattern Language; Chapters 11-23 redundant with PL Domains)
-- **The Lionsberg System of Values** (reference catalog — keep, but flag as flat dictionary)
+- **The LIØNSBERG Blueprint** (long-form manifesto — partial overlap with Strategy and Pattern Language; Chapters 11-23 redundant with PL Domains)
+- **The LIØNSBERG System of Values** (reference catalog — keep, but flag as flat dictionary)
 
 ### Tier 3: ARCHIVE CANDIDATES (likely consolidate)
 - **The LIØNSBERG Way** — Self-marked as "chaotic Work In Progress; ignore for now." The 16 ReMembering stubs are mostly link-rolodexes. **RECOMMENDATION:** Archive or fold into Pattern Language (the ReMembering concepts are all already articulated as PL Patterns).
-- **The Lionsberg Elevation Initiative** — Substantially overlaps Pattern Language Domain VI (Education) and Domain VII (Life/Regeneration), plus the 16 Foundational Principles overlap M-Patterns. **RECOMMENDATION:** Mine for Cards then archive.
+- **The LIØNSBERG Elevation Initiative** — Substantially overlaps Pattern Language Domain VI (Education) and Domain VII (Life/Regeneration), plus the 16 Foundational Principles overlap M-Patterns. **RECOMMENDATION:** Mine for Cards then archive.
 - **The Last Chance** — Q&A dialogue format. Useful for Meta Crisis articulation but otherwise redundant with Blueprint and Strategy. **RECOMMENDATION:** Mine for Cards then consider archiving the chapter-by-chapter dialogue as historical reference.
-- **Lionsberg Orientation and Training System** — Self-marked "folded into The LIØNSBERG Experience." **RECOMMENDATION:** Already folded; archive the v0.1 draft.
-- **The Lionsberg System Toolkit** — Placeholder/WIP with mostly link-lists. **RECOMMENDATION:** Mine for tool-Cards; the Toolkit as a book may not need to exist — the tools themselves live in the wiki.
-- **The Lionsberg Rules** — Only 2 rules. Could compress into a single Card on the Card Codex rather than maintaining a book folder.
-- **The Lionsberg Book of Conventions** — 2 links. Effectively empty. **RECOMMENDATION:** Archive or fold into Playbook.
+- **LIØNSBERG Orientation and Training System** — Self-marked "folded into The LIØNSBERG Experience." **RECOMMENDATION:** Already folded; archive the v0.1 draft.
+- **The LIØNSBERG System Toolkit** — Placeholder/WIP with mostly link-lists. **RECOMMENDATION:** Mine for tool-Cards; the Toolkit as a book may not need to exist — the tools themselves live in the wiki.
+- **The LIØNSBERG Rules** — Only 2 rules. Could compress into a single Card on the Card Codex rather than maintaining a book folder.
+- **The LIØNSBERG Book of Conventions** — 2 links. Effectively empty. **RECOMMENDATION:** Archive or fold into Playbook.
 
 ### Net recommendation
 **From 15 books → 7 canonical books** for Operations/Strategy:
@@ -646,7 +646,7 @@ The Playbook itself is a 85-line index pointing to ~30 Plays that live at the wi
 
 8. **The Meta Project Program Statement (MPPS) is a 21-section program brief that overlaps heavily with the 12 Pillars.** The MPPS structure (Why / Basis of Design / Intention / Purpose / Alignment / Culture & Values / Right Relationship / Learning / Wellbeing / Living System / Land / Air / Water / Infrastructure / Governance / Administration / Economy / Spirituality / Reconciliation / Transforming Weaponry / Flourishing) could either be archived (subsumed by Pillars) or kept as the program-brief layer.
 
-9. **The Last Chance is a Q&A dialogue artifact.** Its chapter structure (Introduction → Current State → Inevitability of Collapse → Human/Ecological Toll → Why Existing Solutions Fail → Need for New Approach → Lionsberg System → Path Forward) is the standard Crisis-and-Solution arc. Useful for understanding the case made *to* an awakening reader, but the canonical content lives elsewhere.
+9. **The Last Chance is a Q&A dialogue artifact.** Its chapter structure (Introduction → Current State → Inevitability of Collapse → Human/Ecological Toll → Why Existing Solutions Fail → Need for New Approach → LIØNSBERG System → Path Forward) is the standard Crisis-and-Solution arc. Useful for understanding the case made *to* an awakening reader, but the canonical content lives elsewhere.
 
 10. **The Elevation Initiative articulates a Pattern for Flourishing structure** (Individual / Group / Community / Living System / Harmony) that is finer-grained than the Pattern Language's typical individual/Circle/community/bioregion framing. Worth mining the Patterns for Flourishing as net-new Cards.
 
@@ -676,7 +676,7 @@ The Playbook itself is a 85-line index pointing to ~30 Plays that live at the wi
 
 - **[[Rule Number One]]** — Maximally compressed canonical wisdom. "There is only ØNE rule. Everything is ØNE."
 
-- **[[Lionsberg Plans and Specifications]]** — The "construction-document" framing for the whole system. "Every Defect Is A Gift." "Like Gold Refined Seven Times." "Progressive Articulation, Progressive Realization, Continuous Improvement." This is the engineering-ethic document.
+- **[[LIØNSBERG Plans and Specifications]]** — The "construction-document" framing for the whole system. "Every Defect Is A Gift." "Like Gold Refined Seven Times." "Progressive Articulation, Progressive Realization, Continuous Improvement." This is the engineering-ethic document.
 
 - **[[The LIØNSBERG Way]]** — Striking *because* it's so empty for such a foundationally-named book. Self-marked "chaotic Work In Progress." The 16 ReMembering stubs are mostly link-rolodexes. **This is the book most in need of either deep articulation or honest archival.**
 

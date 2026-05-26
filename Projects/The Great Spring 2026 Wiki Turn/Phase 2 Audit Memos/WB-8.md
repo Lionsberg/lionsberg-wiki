@@ -3,7 +3,7 @@
 **Cluster:** Formation / Movement Cluster  
 **Source transcript:** `agent-a604b41e2095d6be2.jsonl`  
 **Extracted:** 2026-05-19 (final assistant message of Phase 2.7 audit subagent)  
-**Scope:** 17 wiki books / ~395 files surveyed; includes LIØNSBERG 101, A 200 Page Book, Pass The Flame, Martial Arts Guide, Citizen Led Governance, The Prophesy of Mondragon, FAQ, Sandpoint 300, Academy, Co-Creator Handbook, Meta Guide, Book of People, Theses of Lionsberg, Guide To Movement Building, Wiki Book templates.  
+**Scope:** 17 wiki books / ~395 files surveyed; includes LIØNSBERG 101, A 200 Page Book, Pass The Flame, Martial Arts Guide, Citizen Led Governance, The Prophesy of Mondragon, FAQ, Sandpoint 300, Academy, Co-Creator Handbook, Meta Guide, Book of People, Theses of LIØNSBERG, Guide To Movement Building, Wiki Book templates.  
 
 This file is the verbatim transcription of the audit memo delivered by the subagent. Card-table content and inventories are preserved exactly as produced. No files were modified during the original audit.
 
@@ -26,18 +26,18 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | **Martial Arts Guide** | 39 files / 200K | Sampled 8 representative files across philosophy, practice, and energy sections | Embodied practice canon. Strong philosophy of the Way; some duplication with Book of LIØNSBERG |
 | **Frequently Asked Questions** | 41 files / 172K | Sampled 4 files + index | Old apologetic register. Largely superseded by current corpus |
 | **The Sandpoint 300** | 1 file / 10 lines | 100% | Skeletal stub. Sandpoint-Idaho-specific links only |
-| **The Lionsberg Academy** | 1 file / 35 lines | 100% | Skeletal stub. Curated external-link educational ladder |
-| **The Lionsberg Co-Creator Handbook** | 1 file / 9 lines | 100% | Already redirected/superseded — points to Playbook |
-| **The Lionsberg Meta Guide** | 10 files / 814 lines | Read 7 of 10 files including the Handbook root | Already in-process of migration to The LIØNSBERG Way (per its own front matter) |
-| **The Lionsberg Book of People** | 1 file / 22 lines | 100% | Stub — list of archetypal great souls, none with pages |
+| **The LIØNSBERG Academy** | 1 file / 35 lines | 100% | Skeletal stub. Curated external-link educational ladder |
+| **The LIØNSBERG Co-Creator Handbook** | 1 file / 9 lines | 100% | Already redirected/superseded — points to Playbook |
+| **The LIØNSBERG Meta Guide** | 10 files / 814 lines | Read 7 of 10 files including the Handbook root | Already in-process of migration to The LIØNSBERG Way (per its own front matter) |
+| **The LIØNSBERG Book of People** | 1 file / 22 lines | 100% | Stub — list of archetypal great souls, none with pages |
 | **Citizen Led Governance** | 46 files / 204K | Read intro + 5 core pattern files + 1 case study | Operational governance canon. Heavily patterned material |
 | **The Prophesy of Mondragon** | 1 file / 578 lines | First 200 lines | Detailed first-hand research notes from Mondragon trips 2018-2019 |
-| **The Lionsberg (syn)Thesis** | — | Verified absent | Already pruned in Phase 1 cleanup |
+| **The LIØNSBERG (syn)Thesis** | — | Verified absent | Already pruned in Phase 1 cleanup |
 | **LIØNSBERG 101** | 9 files / 1,734 lines | Read 6 of 9 files (LIØNSBERG 101 root, Rings 1, 3, 4, 5, Emergence, 10 Year Grand Strategy) | Foundational pre-canonical book. Now appears highly canonical-grade |
 | **A 200 Page Book** | 1 file / 1,053 lines | Read 1,053 lines in three passes | Pre-canonical foundational book — cosmic story in poetic gates. Substantial unique content |
-| **The Theses of Lionsberg** | 1 file / 938 lines | Read intro + ~200 lines body + final TOC | Largely-folded. Front matter explicitly notes "now live nested under each of The 12 Pillars of LIØNSBERG" — file preserved as archive |
-| **Wiki Book Template / Lionsberg Wiki Book / Books index** | 3 files / ~89 lines | 100% | Templates and index files. Wiki Books index is well-maintained and current as of 2025-2026 |
-| **The Lionsberg Guide To Movement Building** | 1 file / 185 lines | 100% | Working draft / brainstorming notes — bulleted outline, not finished prose |
+| **The Theses of LIØNSBERG** | 1 file / 938 lines | Read intro + ~200 lines body + final TOC | Largely-folded. Front matter explicitly notes "now live nested under each of The 12 Pillars of LIØNSBERG" — file preserved as archive |
+| **Wiki Book Template / LIØNSBERG Wiki Book / Books index** | 3 files / ~89 lines | 100% | Templates and index files. Wiki Books index is well-maintained and current as of 2025-2026 |
+| **The LIØNSBERG Guide To Movement Building** | 1 file / 185 lines | 100% | Working draft / brainstorming notes — bulleted outline, not finished prose |
 
 ---
 
@@ -72,21 +72,21 @@ A 39-file architecture under "Rediscovering The Way - A Guide For The Warrior Sp
 This is one of the most internally coherent books in this cluster. Many of the foundational Cards in the existing queue likely derive from here (Way, Quest, Goal, Non-Propositional Knowing, Beyond Forms, Beginner's Mind).
 
 ### Frequently Asked Questions (Apologetic Register)
-41 question-answer files in a Q&A apologetic mode. The voice is closer to early Lionsberg Q&A on a website than the canonical literature. Many of these are short defensive answers ("How Dare You?!"; "This Sounds Like Socialism"; "This Sounds Like the Dreaded One World Government of the Anti-Christ"). Some are useful (What Is Lionsberg?, What Is The Meta Project?, What Are You Aiming At?, How Does Governance Work?).
+41 question-answer files in a Q&A apologetic mode. The voice is closer to early LIØNSBERG Q&A on a website than the canonical literature. Many of these are short defensive answers ("How Dare You?!"; "This Sounds Like Socialism"; "This Sounds Like the Dreaded One World Government of the Anti-Christ"). Some are useful (What Is LIØNSBERG?, What Is The Meta Project?, What Are You Aiming At?, How Does Governance Work?).
 
 ### The Sandpoint 300
 A 10-line stub. The actual page consists of external links to Sandpoint, Idaho local government, Wikipedia, a Bonner & Boundary County Non-Profit Directory, and the Community Resource Envision Center. **This is Sandpoint-Idaho-local-pilot scaffolding.** The Sandpoint 300 concept (300 leaders per community of 10,000) is universal — but the *file* is local. Voice discipline required: extract the universal "The 300" pattern; do not elevate Sandpoint specifics into the canon.
 
-### The Lionsberg Academy
-35-line skeleton. Five-stage curated education ladder: English Language as Key, Khan Academy, MIT OpenCourseWare, The Lionsberg System and Community, Continuous Learning and Improvement. Useful as a Card (the educational scaffold pattern), but the implementation is just external links.
+### The LIØNSBERG Academy
+35-line skeleton. Five-stage curated education ladder: English Language as Key, Khan Academy, MIT OpenCourseWare, The LIØNSBERG System and Community, Continuous Learning and Improvement. Useful as a Card (the educational scaffold pattern), but the implementation is just external links.
 
-### The Lionsberg Co-Creator Handbook
+### The LIØNSBERG Co-Creator Handbook
 9 lines. Explicitly stated: "The LIØNSBERG Co-Creators Handbook was integrated and evolved into [[The LIØNSBERG Playbook]] in January 2026." **This is already a redirect.** Old version preserved as `LIØNSBERG Co-Creator's Handbook (v.0.1)`.
 
-### The Lionsberg Meta Guide
-10 files. The root [[The Lionsberg Handbook]] (590 lines) explicitly notes: "The Lionsberg Handbook is in the process of migrating its pieces into [[The LIØNSBERG Way]]. As a consequence, both may appear fragmented for a period of Time." The other 9 files are mostly very short essays — A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning…, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So. **This entire book is in-flight migration to The LIØNSBERG Way.**
+### The LIØNSBERG Meta Guide
+10 files. The root [[The LIØNSBERG Handbook]] (590 lines) explicitly notes: "The LIØNSBERG Handbook is in the process of migrating its pieces into [[The LIØNSBERG Way]]. As a consequence, both may appear fragmented for a period of Time." The other 9 files are mostly very short essays — A True Myth, Elements Of The New, Filling Up What Is Lacking, In The Beginning…, New Language, Removing What Does Not Belong, Who We Are, Why Story?, Working Together To Make It So. **This entire book is in-flight migration to The LIØNSBERG Way.**
 
-### The Lionsberg Book of People
+### The LIØNSBERG Book of People
 22 lines. A list of archetypal great spirits (Jesus, Buckminster Fuller, MLK, Gandhi, Mandela, Aristotle, Desmond Tutu, Lao Tzu, Socrates, Plato, Confucius, Buddha, Zoroaster, Pythagoras) — each presented as a wikilink but none of the linked pages necessarily exist. **Marked as `[[Work In Progress]]` at the bottom.** Not personal (no living individuals). Universal in nature.
 
 ### Citizen Led Governance (Operational Canon)
@@ -123,14 +123,14 @@ A poetic cosmic prologue written in numbered "Gates" (Gate 1: The ØNE → Gate 
 
 A pre-canonical foundational cosmic epic. Much of its content has clearly informed The Story of LIØNSBERG and Book of LIØNSBERG Genesis. **Contains substantial unique material not elsewhere in the corpus** — particularly Gates 24-31 (the Dark Empire / Full Spectrum Dominance / Dark Fleet / Mind Kontrolle / LifeForce Extraction sequence) which is darker and more cosmically explicit than anywhere else in the canonical text.
 
-### The Theses of Lionsberg (938 lines)
+### The Theses of LIØNSBERG (938 lines)
 The 99 Theses material. Front matter is explicit: "The Theses of LIØNSBERG now live nested under each of The 12 Pillars of LIØNSBERG, each Pillar representing one dimension of the unified architecture of the New Civilization… This page preserves the earlier prototype and developmental drafts of the Theses." So the current canonical home is the 12 Pillars; this file is an **archive of the prototype drafts**. The contents show extensive work on Lifelong Learning theses + Food Systems theses, plus stubs for ~20 additional domains ("Coming Soon"). **Already substantially folded; archive only.**
 
-### The Lionsberg Guide To Movement Building (185 lines)
+### The LIØNSBERG Guide To Movement Building (185 lines)
 A single-file working draft of bulleted notes adapted from "Social Movements From Good" — exploratory brainstorming, not finished writing. Contains useful conceptual scaffolding (Initial Group of Believers, Distributed Action, Pinnacle Action, Sustaining The Movement) but reads as notes-to-self, not as a deliverable book.
 
-### Wiki Book Template + Lionsberg Wiki Book + Lionsberg Wiki Books
-Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-2026 and lists Featured Works, Something Powerful New and Good (Post-August 2025 era), and works interrupted by J's death August 2025. **The index is well-maintained.**
+### Wiki Book Template + LIØNSBERG Wiki Book + LIØNSBERG Wiki Books
+Templates and index. The index ([[LIØNSBERG Wiki Books]]) is current as of 2025-2026 and lists Featured Works, Something Powerful New and Good (Post-August 2025 era), and works interrupted by J's death August 2025. **The index is well-maintained.**
 
 ---
 
@@ -217,16 +217,16 @@ Templates and index. The index ([[Lionsberg Wiki Books]]) is current as of 2025-
 | **Citizen Led Self-Governance (Pattern)** | Step-sequence: Cultivate personal responsibility → Form Citizen Groups → Define DRA → Create Fields of Agreements → Establish Boundaries → Participation by Consent → Access to Resources → Inclusive Culture → Clear Communication → Evaluation/Improvement | Citizen Led Governance 2.6 |
 | **Voluntary Tithing (~10% At Each Fractal Level)** | Each Domain contributes the first 10% of its available Flow of time/energy/resources to support the wellbeing of the Whole at the next level up | Citizen Led Governance 2.8 |
 | **Domain of Responsibility and Authority** | The defined sphere within which each Sovereign exercises self-governance, with explicit boundaries and field of agreements | Citizen Led Governance 2.6 |
-| **Lionsberg Units of Value (LUV)** | Internal currency of Goodwill, denominating value within the federation; designed as myth-originated game-currency to remain non-fiat/non-crypto | Citizen Led Governance 2.10 |
+| **LIØNSBERG Units of Value (LUV)** | Internal currency of Goodwill, denominating value within the federation; designed as myth-originated game-currency to remain non-fiat/non-crypto | Citizen Led Governance 2.10 |
 | **Blended Value Exchange (LUV + Fiat + Crypto)** | The hybrid exchange pattern within the federation — denominate transactions in a blend, maximizing Goodwill | Citizen Led Governance 2.10 |
-| **Lionsberg Central Bank** | The exchange-rate-setting body for LUV against fiat/crypto, designed to facilitate value exchange while ensuring regulatory compliance | Citizen Led Governance 2.10 |
+| **LIØNSBERG Central Bank** | The exchange-rate-setting body for LUV against fiat/crypto, designed to facilitate value exchange while ensuring regulatory compliance | Citizen Led Governance 2.10 |
 | **Local Free Market Stewardship Over Ownership** | The transition from possession/control to responsible local management; the Steward replaces the Owner | Citizen Led Governance 2.11 |
 | **Match Architecture and Legal Structure to Principles and Values** | The discipline of expressing principles through legal vessels (non-profits, trusts, stewardship vessels) rather than only words | Citizen Led Governance 2.11 |
 | **Stacking Up and Aligning** | The federation discipline: individual/local progress must stack up and align toward the Higher Order shared Vision and Goal | Citizen Led Governance 4.2; Prophesy of Mondragon |
 | **Network of Voluntary Associations** | The infrastructure layer: groups, assemblies, voluntary associations as the building blocks of citizen-led governance | Citizen Led Governance 3.4 |
 | **Case Study Architecture (Individual → Family → Group → Community → City → Network → Assembly → Nation → Species)** | The fractal case-study set demonstrating the pattern at every scale | Citizen Led Governance 5.1–5.9 |
 | **Self-Help Directory (Local Pattern)** | The community-resource clearinghouse — concrete local provisioning of universally human needs | Sandpoint Links |
-| **The Five-Stage Curated Lifelong Learning Ladder** | English as Key → Khan Academy → MIT OCW → LIØNSBERG System → Continuous Improvement (free, accessible, scaffolded) | Lionsberg Academy |
+| **The Five-Stage Curated Lifelong Learning Ladder** | English as Key → Khan Academy → MIT OCW → LIØNSBERG System → Continuous Improvement (free, accessible, scaffolded) | LIØNSBERG Academy |
 | **Community Learning Hub** | The repurposing of school buildings/community centers into multifaceted multi-age learning environments | Theses Lifelong Learning |
 | **AI as Infinitely Patient Personal Tutor** | The technology pattern: leveraging AI for personalized real-time guidance keeping each learner in their Zone of Optimum Development | Theses Lifelong Learning |
 | **Zone of Optimum Development** | The sweet spot of stretch where genuine growth occurs — too easy is waste, too hard is failure; central to coaching/teaching/quest selection | Pass The Flame III; Theses |
@@ -287,7 +287,7 @@ These are not Cards but underlying source-material that should be preserved as-i
 ## 6. Personal / Reserved Categories
 
 **Strict reservation:**
-- **The Lionsberg Book of People** — list of 14 great souls. Currently not personal (no living individuals). But the *file pattern* suggests this is where personal honorings could be added. Flag for discipline going forward. Currently appropriate as universal archetypal list.
+- **The LIØNSBERG Book of People** — list of 14 great souls. Currently not personal (no living individuals). But the *file pattern* suggests this is where personal honorings could be added. Flag for discipline going forward. Currently appropriate as universal archetypal list.
 - **The Sandpoint 300 file** — specifically Sandpoint-Idaho local. Extract the universal "Local 300" pattern; leave the Sandpoint-specific links as local-pilot scaffolding. Do not elevate Sandpoint specifics into canonical Volume material.
 - **Pass The Flame Section III "Our Story"** — Jordan's full autobiographical testimony including:
   - His wife Caity's name, family details, full marriage narrative
@@ -300,7 +300,7 @@ These are not Cards but underlying source-material that should be preserved as-i
   - His father's specific nightmares about him
   
   This is Jordan's first-person published testimony — it is intentionally on the record. But Cards extracted from it should universalize the patterns (The Wolves in Sheep's Clothing, The Pattern of Reciprocal Confirmation, Levels of Suffering, Confession Inverted, The Accuser, etc.) **without** propagating specific names or place-names of victims/perpetrators outside Jordan's own first-person voice. The book itself stays as-is.
-- **Pass The Flame Section X tools list** — points to `Above The Chaos`, `Jordan's Voice`, and Jordan's personal email (`J@Lionsberg.org`). These are operational at-the-time-of-writing pointers; the personal email should not be elevated as canonical.
+- **Pass The Flame Section X tools list** — points to `Above The Chaos`, `Jordan's Voice`, and Jordan's personal email (`J@LIØNSBERG.org`). These are operational at-the-time-of-writing pointers; the personal email should not be elevated as canonical.
 - **The Co-Creator's Handbook v.0.1** — already gracefully redirected; the v.0.1 archive should remain untouched as historical record.
 
 ---
@@ -316,17 +316,17 @@ This cluster contains **substantial duplication** that should be addressed in co
 - Keep the base [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis]] as canonical; archive the rest or move to a `_variants/` subfolder.
 
 ### Already-Redirected / In-Migration
-- **The Lionsberg Co-Creator Handbook** — explicitly redirected to Playbook (Jan 2026)
-- **The Lionsberg Meta Guide / The Lionsberg Handbook** — in-flight migration to The LIØNSBERG Way
-- **The Theses of Lionsberg** — explicitly marked as archive of prototype/developmental drafts now nested under 12 Pillars
+- **The LIØNSBERG Co-Creator Handbook** — explicitly redirected to Playbook (Jan 2026)
+- **The LIØNSBERG Meta Guide / The LIØNSBERG Handbook** — in-flight migration to The LIØNSBERG Way
+- **The Theses of LIØNSBERG** — explicitly marked as archive of prototype/developmental drafts now nested under 12 Pillars
 
 ### Skeletal Stubs
-- **The Lionsberg Academy** — 35 lines, essentially external-link directory; could be folded into a Card on "The Lifelong Learning Ladder" + linked external resources
+- **The LIØNSBERG Academy** — 35 lines, essentially external-link directory; could be folded into a Card on "The Lifelong Learning Ladder" + linked external resources
 - **The Sandpoint 300** — 10 lines of local links; extract "The 300" pattern, archive the file as local-pilot scaffolding
-- **The Lionsberg Book of People** — 22 lines, list-only; either populate the linked pages or fold into a Card "Archetypal Great Souls of the Force For Good"
-- **The Lionsberg Guide To Movement Building** — 185 lines of bulleted notes; either complete or archive as raw-materials
+- **The LIØNSBERG Book of People** — 22 lines, list-only; either populate the linked pages or fold into a Card "Archetypal Great Souls of the Force For Good"
+- **The LIØNSBERG Guide To Movement Building** — 185 lines of bulleted notes; either complete or archive as raw-materials
 - **Wiki Book Template** — keep as utility; do not promote
-- **Lionsberg Wiki Book** — 7-line definition page; could fold into Wiki conventions
+- **LIØNSBERG Wiki Book** — 7-line definition page; could fold into Wiki conventions
 
 ### Substantially Folded Already
 - **LIØNSBERG 101** — likely belongs as a Volume root, not as a separate Wiki Book; this is canonical-grade
@@ -340,7 +340,7 @@ This cluster contains **substantial duplication** that should be addressed in co
 **Preserve as canonical Book:** Martial Arts Guide, Citizen Led Governance, Pass The Flame (base only), The Prophesy of Mondragon  
 **Preserve as pre-canonical primary source:** A 200 Page Book  
 **Archive as redirect/superseded:** Co-Creator Handbook, Meta Guide, Theses (already in archive disposition), Pass The Flame variants  
-**Fold or convert to Cards:** Lionsberg Academy, Sandpoint 300, Book of People, Guide To Movement Building, FAQ  
+**Fold or convert to Cards:** LIØNSBERG Academy, Sandpoint 300, Book of People, Guide To Movement Building, FAQ  
 **Keep as utility:** Wiki Book Template, Wiki Book index  
 
 That is consolidation from 17 books to ~6-8 active books + several Card harvests.
@@ -353,23 +353,23 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 2. **There is significant overlap between Pass The Flame, A 200 Page Book, Book of LIØNSBERG Genesis, and the Story of LIØNSBERG.** Each tells "The Story" — the cosmic context, the Caves, the Awakening, the Way. The relationship between these should be clarified: which is the canonical version? My read is that the Caves passage in Pass The Flame III is older and the canonical version now lives in Book of LIØNSBERG Chapter 1. Pass The Flame retains historical/autobiographical value as Jordan's first-person sampling; A 200 Page Book retains the unique cosmic prologue gates and the dark cosmic empire material.
 
-3. **The "Operational Movement" books are over-distributed.** Citizen Led Governance, Lionsberg Co-Creator Handbook, Lionsberg Meta Guide / Handbook, The Lionsberg Playbook, The LIØNSBERG Way, Guide To Movement Building, and Lionsberg Orientation and Training System are seven different vessels for substantially overlapping operational content. The 2026 migration appears to be consolidating these into **The LIØNSBERG Playbook + The LIØNSBERG Way + Citizen Led Governance**. The other vessels are graceful redirects.
+3. **The "Operational Movement" books are over-distributed.** Citizen Led Governance, LIØNSBERG Co-Creator Handbook, LIØNSBERG Meta Guide / Handbook, The LIØNSBERG Playbook, The LIØNSBERG Way, Guide To Movement Building, and LIØNSBERG Orientation and Training System are seven different vessels for substantially overlapping operational content. The 2026 migration appears to be consolidating these into **The LIØNSBERG Playbook + The LIØNSBERG Way + Citizen Led Governance**. The other vessels are graceful redirects.
 
 4. **Pass The Flame's autobiographical content is unique and irreplaceable.** Most of the corpus is in collective "we" voice or in cosmic-prophetic voice. Pass The Flame III is Jordan's first-person testimony of how the Spirit moved through one life. This is structurally similar to AA's "Big Book" structure — a Story + a Pattern. The autobiographical witness is foundational *because* it establishes that the Pattern was lived, not theorized. This material should be preserved with high integrity and likely informs a separate testimony/witness vessel rather than being woven into operational books.
 
 5. **The Martial Arts Guide is more universalized and canonical than its name suggests.** Reading the 1.x chapters, this is not primarily about martial arts — it is about the Way, the Quest, Non-Propositional Knowing, Beyond Forms, Inexhaustible Individuals, the Universal/Eternal Way. The "martial arts" framing is the on-ramp, but the body of work is philosophy of practice. Consider whether the book should be renamed (e.g., **Rediscovering The Way**, which is already its alternate root-title) or whether the martial arts framing should be preserved as the embodied-discipline entry-point.
 
-6. **Citizen Led Governance is the cleanest operational pattern-language in the cluster.** Each pattern follows the Christopher-Alexander-style Context/Problem/Forces/Solution/Resulting-Context structure. This is the model for how all Lionsberg patterns should be articulated. Promotion candidate.
+6. **Citizen Led Governance is the cleanest operational pattern-language in the cluster.** Each pattern follows the Christopher-Alexander-style Context/Problem/Forces/Solution/Resulting-Context structure. This is the model for how all LIØNSBERG patterns should be articulated. Promotion candidate.
 
-7. **The FAQ book is largely obsolete.** It addresses an earlier era of Lionsberg's emergence when defensive apologetics ("How Dare You?!", "This Sounds Like Socialism", "This Sounds Like Anti-Christ") were necessary. The current canonical voice no longer needs to defend itself. A small number of FAQ entries (What Is Lionsberg, What Is The Goal, What Is The Meta Project) might be preserved; the rest should be archived.
+7. **The FAQ book is largely obsolete.** It addresses an earlier era of LIØNSBERG's emergence when defensive apologetics ("How Dare You?!", "This Sounds Like Socialism", "This Sounds Like Anti-Christ") were necessary. The current canonical voice no longer needs to defend itself. A small number of FAQ entries (What Is LIØNSBERG, What Is The Goal, What Is The Meta Project) might be preserved; the rest should be archived.
 
 8. **A 200 Page Book contains unique dark-cosmic-narrative material not found elsewhere.** Particularly Gates 24-31 — Federations vs Empires, Full Spectrum Dominance, The Dark Fleet, Multigenerational Mind Kontrolle, LifeForce Extraction, One-Third of the Cosmic Order Fallen. This is the most explicit articulation of the cosmic adversary in the wiki. The current Book of LIØNSBERG is less direct about this. Question: how much of this dark-cosmic-empire material should be promoted into the canonical Story?
 
 9. **The Prophesy of Mondragon is primary-source gold.** Most of the corpus is articulation; this is research notes. It deserves either inclusion as a small standalone Book or full integration of its unique passages into Ring 3. The fact that Jordan personally took two week-long trips with the leading US professor on Mondragon, in 2018-2019, is part of the foundational legitimacy of LIØNSBERG's claim to localize a proven pattern.
 
-10. **The Lionsberg Book of People is doctrinally aligned with "We are All the Family of God" / "There is no King but ØNE."** A list of archetypal great souls (Jesus, Buddha, Lao Tzu, Confucius, MLK, Gandhi, Mandela, Fuller, Aristotle, Plato, Socrates, Pythagoras, Zoroaster) without elevation of any one tradition over another. This is the right discipline. It should remain inclusive and universalist. The Card extraction is: "Great Spirits Arise from ØNE, Speak to All, Return to ØNE."
+10. **The LIØNSBERG Book of People is doctrinally aligned with "We are All the Family of God" / "There is no King but ØNE."** A list of archetypal great souls (Jesus, Buddha, Lao Tzu, Confucius, MLK, Gandhi, Mandela, Fuller, Aristotle, Plato, Socrates, Pythagoras, Zoroaster) without elevation of any one tradition over another. This is the right discipline. It should remain inclusive and universalist. The Card extraction is: "Great Spirits Arise from ØNE, Speak to All, Return to ØNE."
 
-11. **The Lionsberg Academy's "free world-class education for any internet connection" is a strong universal pattern** even though the current implementation is just external links. The Card: a free, scaffolded, multi-stage lifelong learning ladder accessible to anyone, leveraging existing free resources (Khan Academy, MIT OCW) before customizing.
+11. **The LIØNSBERG Academy's "free world-class education for any internet connection" is a strong universal pattern** even though the current implementation is just external links. The Card: a free, scaffolded, multi-stage lifelong learning ladder accessible to anyone, leveraging existing free resources (Khan Academy, MIT OCW) before customizing.
 
 12. **The Movement Building Guide is incomplete — and explicitly says so.** It says "We Do Not Know how to build a Meta Movement so big it could sweep the world within 7 years." This is honest. It applies the Meta Science (hypothesize, test, improve) to its own writing. The document is appropriately in "raw materials" register. It should not be elevated as canonical until completed; in the meantime, the productive Cards from it should be extracted.
 
@@ -379,7 +379,7 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
     - "The First Three Percent" is the same population at planetary scale: ~250M = 3% of 8B
     These are not three Cards but **one Card with three viewing-scales.**
 
-14. **The Quarterly Quest / 90-Day Cycle / Seasonal Cadence / Lionsberg Cycles of Growth** is consistently anchored at quarterly rhythm (synced to solstices and equinoxes) across multiple books. This is strong inter-book coherence. The Card should be unified.
+14. **The Quarterly Quest / 90-Day Cycle / Seasonal Cadence / LIØNSBERG Cycles of Growth** is consistently anchored at quarterly rhythm (synced to solstices and equinoxes) across multiple books. This is strong inter-book coherence. The Card should be unified.
 
 15. **One persistent friction-point:** The relationship between "kontrolle" (the canonical spelling, per CLAUDE.md, for the millennia-old domination system) and "control" (used in many of these older texts before the kontrolle spelling was canonicalized). Many files in this cluster still use "control." A normalization pass may be appropriate, but should be done carefully — some older texts are intentionally pre-canonical and should be preserved in their original voice.
 
@@ -401,7 +401,7 @@ That is consolidation from 17 books to ~6-8 active books + several Card harvests
 
 - **[[The Prophesy of Mondragon]]** lines 120-135 — The Mondragon governance principle: "Powerful Help, With No Guarantees." This is the cleanest statement in the wiki of how a Federation's core/headquarters should relate to its sovereign members. Sixty members serving 268 organizations and ~70,000 worker-owners, with no guarantees and no claim. This single passage refutes most of how modern federations actually operate.
 
-- **[[2.10. The Pattern for Exchanging Units of Value in the Lionsberg Federation]]** — The cleanest articulation of the LUV/Goodwill currency design in the wiki, including the explicit regulatory-compliance frame: "ensuring that Lionsberg LUV, as a myth originated through a game (The Great Game of Lionsberg), does not become a fiat or cryptocurrency." The choice to keep LUV explicitly within the game-mythic register, rather than crossing into currency-as-such, is structurally important.
+- **[[2.10. The Pattern for Exchanging Units of Value in the LIØNSBERG Federation]]** — The cleanest articulation of the LUV/Goodwill currency design in the wiki, including the explicit regulatory-compliance frame: "ensuring that LIØNSBERG LUV, as a myth originated through a game (The Great Game of LIØNSBERG), does not become a fiat or cryptocurrency." The choice to keep LUV explicitly within the game-mythic register, rather than crossing into currency-as-such, is structurally important.
 
 - **[[The 10 Year Grand Strategy]]** lines 38-72 — The math of "30 cycles in 9 months, cycle time ~9 days, from 144 at Spring Equinox 2026 to 268M by Winter Solstice 2026." This is the most ambitious and date-anchored strategic claim in the wiki, and the "Act as if we have 10 years. Build as if we have centuries" closing balance is one of the most operationally useful framings in the corpus.
 

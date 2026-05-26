@@ -4,7 +4,7 @@ The [[LIØNSBERG System]] operates on a [[Narrative Framework]] married up to Sy
 
 [[How We Are Going To Get A Little Better Every Day]] corresponds to Step 6 in the System - [[Continuous Improvement]].   
 
-It invokes the [[Lionsberg System of Continuous Improvement]]. 
+It invokes the [[LIØNSBERG System of Continuous Improvement]]. 
 
 Narrative Framework:  
 1. [[Where We Are Going]] and [[Why]]  

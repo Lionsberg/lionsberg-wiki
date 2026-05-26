@@ -2,9 +2,9 @@
 
 This page is a [[Work In Progress]]
 
-**Agreements** are an essential aspect of collaboration within the Lionsberg Community. They help establish clear expectations, roles, and responsibilities for all involved parties, and play a significant role is establishing and maintaining [[Right Relationship]]. 
+**Agreements** are an essential aspect of collaboration within the LIØNSBERG Community. They help establish clear expectations, roles, and responsibilities for all involved parties, and play a significant role is establishing and maintaining [[Right Relationship]]. 
 
-This page provides a collection of agreement templates that can be used to guide and support various types of collaborations within the Lionsberg ecosystem. These templates are designed to be fractally consistent, allowing individuals to become comfortable using them across different contexts and situations.
+This page provides a collection of agreement templates that can be used to guide and support various types of collaborations within the LIØNSBERG ecosystem. These templates are designed to be fractally consistent, allowing individuals to become comfortable using them across different contexts and situations.
 
 The Agreements herein map to various [[Levels of Abstraction]], enabling them to be stacked up and aligned across all levels of being and doing. 
 
@@ -38,7 +38,7 @@ Collaboration often will evolve out of or into a more persistent group. Particip
 
 - [[Template For Agreement Between Groups]]  
 
-## Agreement with Lionsberg - Federal Agreement
+## Agreement with LIØNSBERG - Federal Agreement
 
 
 

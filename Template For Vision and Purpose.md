@@ -1,6 +1,6 @@
 # Template For Vision and Purpose
 
-The purpose of this template is to guide individuals and teams in the development of a clear and compelling [[Vision and Purpose]] as part of the [[Lionsberg System of Work]]. By following this template, individuals and teams will be able to align their personal and collective efforts with a shared vision, purpose, and goal, and to focus their unique efforts and contributions on what is most important to both the and the Whole. 
+The purpose of this template is to guide individuals and teams in the development of a clear and compelling [[Vision and Purpose]] as part of the [[LIØNSBERG System of Work]]. By following this template, individuals and teams will be able to align their personal and collective efforts with a shared vision, purpose, and goal, and to focus their unique efforts and contributions on what is most important to both the and the Whole. 
 
 ## Step 1: Define the Purpose of the Vision and Purpose
 
@@ -29,9 +29,9 @@ The purpose of this template is to guide individuals and teams in the developmen
 
 ## Step 4: Align Your Personal Vision and Purpose with the Shared Vision and Purpose
 
--   Align your personal vision and purpose with the shared vision and purpose of the teams you participate in and the Lionsberg System as a whole.
+-   Align your personal vision and purpose with the shared vision and purpose of the teams you participate in and the LIØNSBERG System as a whole.
 -   Consider the following questions:
-    -   How does your personal vision and purpose align with the shared vision and purpose of the Lionsberg System?
+    -   How does your personal vision and purpose align with the shared vision and purpose of the LIØNSBERG System?
     -   How can you use your strengths and talents to contribute to the shared vision and purpose?
     -   How can you work effectively with others towards the shared vision and goal?
 
@@ -42,11 +42,11 @@ The purpose of this template is to guide individuals and teams in the developmen
     -   Is your vision and purpose clear and compelling?
     -   Does it inspire and motivate you?
     -   Does it align with your core values and beliefs?
-    -   Does it align with the shared vision and purpose of the Lionsberg System?
+    -   Does it align with the shared vision and purpose of the LIØNSBERG System?
 
 ## Step 6: Communicate Your Vision and Purpose
 
--   Communicate your vision and purpose to others, including your team, stakeholders, and the Lionsberg System as a whole.
+-   Communicate your vision and purpose to others, including your team, stakeholders, and the LIØNSBERG System as a whole.
 -   Consider the following questions:
     -   How can you communicate your vision and purpose in a clear and compelling way?
     -   How can you inspire and motivate others with your vision and purpose?
@@ -55,4 +55,4 @@ The purpose of this template is to guide individuals and teams in the developmen
 
 ## Conclusion
 
-By following this template, individuals and teams will have a clear and compelling vision and purpose that aligns with the shared vision and purpose of the Lionsberg System. This will help to focus their efforts on what is most important and to work together effectively towards a common goal.
+By following this template, individuals and teams will have a clear and compelling vision and purpose that aligns with the shared vision and purpose of the LIØNSBERG System. This will help to focus their efforts on what is most important and to work together effectively towards a common goal.

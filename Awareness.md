@@ -20,7 +20,7 @@ Various factors can limit awareness, including distractions, preoccupations, bia
 
 Cultivating awareness involves practices such as mindfulness, meditation, reflection, and self-observation. It also includes seeking feedback from others to overcome personal blind spots. Training in specific domains (e.g., social skills, environmental literacy) can enhance specific forms of awareness.
 
-**Awareness in the Context of Lionsberg**
+**Awareness in the Context of LIØNSBERG**
 
 In the journey towards the New World, cultivating awareness is crucial. Awareness enables us to perceive the limitations of the Old World, recognize the potential of the New, and navigate the transition between the two.
 

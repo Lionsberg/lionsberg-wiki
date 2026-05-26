@@ -1,4 +1,4 @@
-# The Lionsberg Toolkit
+# The LIØNSBERG Toolkit
 
 This page is a placeholder / [[Work In Progress]]. 
 
@@ -8,11 +8,11 @@ If you need a Tool or a Solution to a problem or challenge you are facing please
 - [[Something Powerful, New, and Good]]  
 - [[Above The Chaos]]  
 - [[The LIØNSBERG Co-Creator's Handbook]]  
-- [[Lionsberg Wiki Books]]  
+- [[LIØNSBERG Wiki Books]]  
 - [[The Book of LIØNSBERG]]  
 - [[LIØNSBERG Invitation|The Invitation]]   
 - [[Frequently Asked Questions]]  
-- [[Lionsberg Case Studies]]  
+- [[LIØNSBERG Case Studies]]  
 - [[Everything Is A Project]]  
 - [[Forge or Join a Group]]  
 - [[Template For Group]]  
@@ -38,7 +38,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing please
 - [[Transforming Conflict]]    
 - [[Template For Pattern Language (Detailed)]] 
 - [[Tool For Aiming]]  
-- [[Organizations The Lionsberg Way]]  
+- [[Organizations The LIØNSBERG Way]]  
 - [[Project Delivery Guide]]  
 - [[Your Story]] 
 - [[3.2 Crowdfunding Overview]]  
@@ -59,24 +59,24 @@ _The Armory of the Awakening_
 
 
 
-### The Lionsberg System Toolkit - Overview 
-#### 34.1 Overview of the Lionsberg System
+### The LIØNSBERG System Toolkit - Overview 
+#### 34.1 Overview of the LIØNSBERG System
 
-#### 34.2 Introduction to the Lionsberg System Toolkit
+#### 34.2 Introduction to the LIØNSBERG System Toolkit
 
-#### 34.3 The key components of the Lionsberg System Toolkit
+#### 34.3 The key components of the LIØNSBERG System Toolkit
 
-#### 34.4 How to use the Lionsberg System Toolkit for personal, group, community, and systemic transformation
+#### 34.4 How to use the LIØNSBERG System Toolkit for personal, group, community, and systemic transformation
 
-#### 34.5 Adapting the Lionsberg System for Different Contexts and Cultures
+#### 34.5 Adapting the LIØNSBERG System for Different Contexts and Cultures
 
-#### 34.6 Accessing and contributing to the Lionsberg System Toolkit
+#### 34.6 Accessing and contributing to the LIØNSBERG System Toolkit
 
 #### 34.7 Training, Mentoring, and Support For Your Quest
 
 ## Tools for Personal Transformation
 
-#### 35.1 Implementing the Lionsberg System at the Individual Level
+#### 35.1 Implementing the LIØNSBERG System at the Individual Level
 
 #### 35.2 The Six Step Process For Individuals
 
@@ -95,7 +95,7 @@ _The Armory of the Awakening_
 
 ## Tools for Group Transformation
 
-#### 36.1 Implementing the Lionsberg System at the Group Level
+#### 36.1 Implementing the LIØNSBERG System at the Group Level
 
 #### 36.2 The Six Step Process For Groups
 
@@ -114,7 +114,7 @@ _The Armory of the Awakening_
 
 ## Tools for Community Transformation
 
-#### 37.1 Implementing the Lionsberg System at the Community Level
+#### 37.1 Implementing the LIØNSBERG System at the Community Level
 
 #### 37.2 The Six Step Process For Communities
 
@@ -133,7 +133,7 @@ _The Armory of the Awakening_
 
 ## Tools for Systemic Transformation
 
-#### 38.1 Implementing the Lionsberg System at the Systems Level
+#### 38.1 Implementing the LIØNSBERG System at the Systems Level
 
 #### 38.2 The Six Step Process For Systems
 

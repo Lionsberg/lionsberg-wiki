@@ -15,10 +15,10 @@ If this book resonated with you, the time for action is now. Every day is crucia
 
 **Step 4: Forge or Join a Group** - None of us can do it alone. [[Forging or Joining a Group]] to continue your education and transformation is key. [[LIØNSBERG]] is developing a variety of tools, resources, and technologies to support and empower groups around the world. 
 
-**Step 5: Federate With Lionsberg** - To structurally connect your group and gain access to resources, community and support, [[Federate With Lionsberg]]. 
+**Step 5: Federate With LIØNSBERG** - To structurally connect your group and gain access to resources, community and support, [[Federate With LIØNSBERG]]. 
 
 ___  
 The End, and The Beginning!  
 Back to [[Conclusion - A Choice for Humanity]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

@@ -2,7 +2,7 @@
 
 ## Topics
 
-- Goal: agree on process and tools for optimizing both creativity and content moderation in Lionsberg Wiki
+- Goal: agree on process and tools for optimizing both creativity and content moderation in LIØNSBERG Wiki
 - This was a good pattern, and we'd like to reflect on it, share it, refine it
 
 ## Agenda
@@ -30,11 +30,11 @@ not included - see below at concerns
 
 separate subdomains,  
 
-- lionsberg.wiki - just "getting started" and a table of contents
-- core.lionsberg.wiki
-- community.lionsberg.wiki
+- LIØNSBERG.wiki - just "getting started" and a table of contents
+- core.LIØNSBERG.wiki
+- community.LIØNSBERG.wiki
 
-or, integrate into one website, lionsberg.wiki (probably better)  
+or, integrate into one website, LIØNSBERG.wiki (probably better)  
 
 
 ## Issue / What Happened
@@ -171,7 +171,7 @@ A Wiki Blogs section…
 
 A Wiki Books section…  
 
-And a Lionsberg System Design section…  
+And a LIØNSBERG System Design section…  
 
 We defined a proposed system similar to what is used on complex systems and projects where proposed changes or improvements to the content of the System Design section are placed into a [[Suggestion Box]], where then the function akin to Architect can review and accept, modify, or reject with an explanation. I can handle that Architect function for a period of time as we get up to speed, but we will quickly need to assign that function to a team that is passionate about it and good at it and really understands the design of the entire System.  
 

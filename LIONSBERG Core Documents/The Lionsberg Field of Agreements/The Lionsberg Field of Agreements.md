@@ -1,4 +1,4 @@
-# The Lionsberg Field of Agreements
+# The LIØNSBERG Field of Agreements
 
 [[LIØNSBERG Declaration of InterDependence]]  
 [[LIØNSBERG Core Statements]]  
@@ -10,7 +10,7 @@
 [[Provisional Conditions]]  
 [[LIØNSBERG Provisional Documents]]  
 [[The LIØNSBERG Constitution]]  
-[[Lionsberg Honor System]]  
+[[LIØNSBERG Honor System]]  
 
 ## Misc
 
@@ -18,4 +18,4 @@
 
 ## Revisit 
 
-[[Lionsberg Code of Conduct]]  
+[[LIØNSBERG Code of Conduct]]  

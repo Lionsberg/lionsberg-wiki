@@ -48,12 +48,12 @@ The Inventory pairs with **structural responses**. For each captured Domain, the
 - Captured Commerce → bioregional markets, mutual credit, contribution accounting
 - Captured Currency → [[LUV — LIØNSBERG Units of Value]], asset-backed Sacred Value
 - Captured Governance → [[Subsidiarity and the Swiss Pattern]], [[Federations vs Empires]], the [[The Planetary Grid]]
-- Captured Education → [[The Lionsberg Academy]], [[The Pedagogy of Trust and Sirimiri]]
+- Captured Education → [[The LIØNSBERG Academy]], [[The Pedagogy of Trust and Sirimiri]]
 - Captured Health → the Healer Codex, somatic healing, [[Trauma as Master Key of Slavery|trauma-aware practice]]
 - Captured Religion → direct relationship with the ØNE, [[The Whisper Within|the inner sanctuary]]
 - Captured Assembly → the Circle, the Hub, the bioregional gathering
 - Captured Speech-Culture-Commerce-Trade-Finance-Currency-Governance-Education-Health-Religion-Assembly → the **entire Pattern of the New Civilization** as the comprehensive answer
-- Weaponized Fear → the practices of [[A Way Beyond Fear, Anxiety, and Depression|the Healer Codex]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|the Wise Elder posture]], the [[The Lionsberg Cycles of Growth|disciplined cultivation of courage]]
+- Weaponized Fear → the practices of [[A Way Beyond Fear, Anxiety, and Depression|the Healer Codex]], [[The Posture — Wise Elder at the Fire, General of Cosmic Armies|the Wise Elder posture]], the [[The LIØNSBERG Cycles of Growth|disciplined cultivation of courage]]
 
 The Inventory is therefore both **a diagnostic of where we are** and **a map of what must be built**. A Sovereign or Circle running the Inventory against their actual context produces an action plan: here is where we withdraw, here is where we build, here is where we hospice, here is where we wait.
 

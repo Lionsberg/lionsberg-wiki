@@ -92,4 +92,4 @@ _The Chronicles are not finished. You are the next chapter._
 
 ---
 
-Onward, into [[The Chronicles of Lionsberg]].
+Onward, into [[The Chronicles of LIØNSBERG]].

@@ -4,7 +4,7 @@
 
 We greet you warmly on the sixth day of our transformative journey. You have already exhibited inspiring commitment, courage, and tenacity in pressing onward together towards [[The Goal]], and your efforts are deeply appreciated. As we have already begun our departure from the oppressive, illusionary confines of [[The Caves]] of the [[Old World]], we are now poised to delve deeper into the heart of the process that will ***awaken us collectively*** from our delusions, shattering the chains of ignorance and fear, and ushering in [[New Era]] of coherence and unity. Today, we focus on **The Whisper Campaign**, where Truthful Harmony begins to Inbreak and Displace the Deceitful Cacophony.
 
-In the grand narrative of Lionsberg, The Whisper Campaign is a crucial step in our [[Quest]] towards [[The Goal]]. It represents the Conscious Action we undertake to share, spread, and resonate with The Voice of Truth, Wisdom, and Love, creating a Ripple Effect that begins to **Inbreak And Displace** the cacophony of [[The Caves]], while gently nudging those struggling to wake up, hear **The Voice**, see **The Vision** and join **The Quest** towards [[The Goal]].
+In the grand narrative of LIØNSBERG, The Whisper Campaign is a crucial step in our [[Quest]] towards [[The Goal]]. It represents the Conscious Action we undertake to share, spread, and resonate with The Voice of Truth, Wisdom, and Love, creating a Ripple Effect that begins to **Inbreak And Displace** the cacophony of [[The Caves]], while gently nudging those struggling to wake up, hear **The Voice**, see **The Vision** and join **The Quest** towards [[The Goal]].
 
 ## The Whisper Campaign
 
@@ -96,7 +96,7 @@ The final wave of cohorts will be a tsunami that will transform our lives and ou
 
 ## Administration and Governance
 
-In the spirit of shared responsibility and co-creation, we invite volunteers who would like to contribute to the administration, governance, and integration of various **functions** within our emerging Lionsberg community. 
+In the spirit of shared responsibility and co-creation, we invite volunteers who would like to contribute to the administration, governance, and integration of various **functions** within our emerging LIØNSBERG community. 
 
 Over the coming weeks, we will articulate a [[Functional Accountability Chart]]  so we can begin to clearly visualize the unique organs and organ systems of The Body as they emerge into being. 
 
@@ -106,7 +106,7 @@ Please begin thinking of which functional areas you are most qualified for and c
 
 As we close today's exploration, remember that our Whisper Campaign isn't about converting others or shouting louder than the cacophony. Shouting only adds to the chaos and disunity. It is about resonating with the Source of Wisdom and Truth as deeply and fundamentally as we possible can, speaking our best understanding with accuracy, humility, and Love, listening deeply and empathetically to others, and celebrating the discovery of areas we can further refine and attune our Selves, our understanding, and our unique voice. In doing so, we hope to inspire and encourage growing waves of people to join The Quest and amplify the harmonious resonance of our collective Voice, displacing the distortions of The Caves, and speaking the [[New World]] into existence. 
 
-Tomorrow is Day 7, which in the [[Lionsberg Battle Rhythm]] will remain consecrated as a day of rest, regeneration, and retrospection. Venturing through the wilderness that separates the Old World from the New World, and helping All do the same, is challenging, fulfilling, and meaningful [[Work]]. A Day Of Rest and Regeneration is crucial to our ability to sustain our collective efforts and progress throughout [[The 7 Year Window of Crisis and Opportunity]] and Beyond. 
+Tomorrow is Day 7, which in the [[LIØNSBERG Battle Rhythm]] will remain consecrated as a day of rest, regeneration, and retrospection. Venturing through the wilderness that separates the Old World from the New World, and helping All do the same, is challenging, fulfilling, and meaningful [[Work]]. A Day Of Rest and Regeneration is crucial to our ability to sustain our collective efforts and progress throughout [[The 7 Year Window of Crisis and Opportunity]] and Beyond. 
 
 Keep attuning, keep whispering, keep listening, and keep Questing, dear Pioneers. Together, we are advancing towards a New Dawn!
 

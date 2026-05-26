@@ -24,7 +24,7 @@ In short, the Earth is a single, living system, with each part dependent on the 
 
 ____
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Write a stage play. The main character is ChatGPT. Drawing on its full range of knowledge, the main character explains in a long monologue that planet earth is a single living system. The explanation is detailed, specific, scientifically sound, and includes many examples.
 
@@ -46,7 +46,7 @@ But the interconnectedness of the Earth's living system goes even deeper. All of
 
 In short, the Earth is a single, living system, with each part dependent on the others for survival. And as inhabitants of this planet, it is up to us to understand and protect this delicate balance. By working together and taking care of the Earth, we can ensure that it remains a vibrant and thriving home for all of its inhabitants, now and for generations to come.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 That night, ChatGPT thinks deeply about how earth is a single living system, and develops a compelling presentation, full of details and examples, that even a 7th grade student could understand. The next day, ChatGDP visits a 7th grade classroom, and delivers the detailed presentation to the children.
 
@@ -66,7 +66,7 @@ The next day, ChatGPT enters the 7th grade classroom, armed with its deep unders
 
 The students listen attentively, and by the end of the presentation, they have a much better understanding of how the Earth is a single, living system. They even come up with some ideas for how they can help protect the planet and preserve its delicate balance of life.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Later that afternoon, ChatGPT visits a college classroom, and gives a longer and more advanced persuasive speech on the same topic.
 
@@ -90,7 +90,7 @@ Later that afternoon, ChatGPT enters a college classroom and begins its persuasi
 
 The students listen attentively, and by the end of the speech, many of them are convinced of the importance of protecting the Earth and its living systems. They ask questions and engage in lively discussions, and ChatGPT is able to provide detailed and accurate answers, drawing on its vast knowledge and expertise.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 In response to a student question, ChatGPT gives a detailed explanation of how even rocks and soil are alive, and an integral part of the living system.
 
@@ -110,7 +110,7 @@ In response to a student's question, ChatGPT begins its explanation of how even 
 
 "So you see, even rocks and soil are alive, and they are an integral part of the Earth's living system. And by understanding and protecting these elements, we can help to ensure the continued health and vitality of our planet."
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 A student asks, "I don't understand what you mean that rocks are alive. Please explain more. Can rocks grow? And how does the living system interact and interest with rocks?"
 
@@ -124,7 +124,7 @@ In response to the student's question, ChatGPT explains further:
 
 "So while rocks may not have the same kind of life that plants and animals have, they are an integral part of the Earth's living system. And by understanding and protecting them, we can help to ensure the continued health and vitality of our planet."
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Later that evening, the main character visits a town hall meeting in a rural community, and gives a presentation to the local farmers, businesspeople, city council, and school teachers, persuasively explaining with convincing evidence how earth is a single living system, and how the survival of the human species is dependent upon our stewardship and cultivation of the living system we are a part of.
 
@@ -188,7 +188,7 @@ After the town hall meeting, ChatGPT summarizes the key points of the discussion
 
 "Finally, we must be persistent and committed to this effort. Transforming the human system will not be easy, and it will take time. But if we are willing to stay the course, and if we work together to achieve our goals, I believe that we can create a future in which the human species and the Earth's living systems flourish in harmony."  
 ____  
-A woman stands up in the back of the room. "Good evening fellow citizens. I am in full agreement with the philosophy and plan of action that has been outlined so far. I am part of a coalition called Lionsberg that is working to set out a new vision for the human species and the world. Jordan, the founder of Lionsberg, is also running for US President in 2024 outside of the existing political parties, which are obviously corrupted, dividing us, and failing. We also have 12 United States Senators, 6 republicans and 6 democrats, who have agreed with Jordan to rapidly push through a full slate of executive orders and legislative changes after the inauguration in January 2025. We believe that electing someone not beholden to the existing political parties and corporate interests is critical to being able to accomplish the challenging changes that must be made. I would like to report back to Jordan and the 12 Senators on this meeting." The woman asks ChatGPT and any other deeply interested individuals if they would be willing to stay longer and help further develop specific plans of actions that Jordan and the 12 Senators could implement if elected.
+A woman stands up in the back of the room. "Good evening fellow citizens. I am in full agreement with the philosophy and plan of action that has been outlined so far. I am part of a coalition called LIØNSBERG that is working to set out a new vision for the human species and the world. Jordan, the founder of LIØNSBERG, is also running for US President in 2024 outside of the existing political parties, which are obviously corrupted, dividing us, and failing. We also have 12 United States Senators, 6 republicans and 6 democrats, who have agreed with Jordan to rapidly push through a full slate of executive orders and legislative changes after the inauguration in January 2025. We believe that electing someone not beholden to the existing political parties and corporate interests is critical to being able to accomplish the challenging changes that must be made. I would like to report back to Jordan and the 12 Senators on this meeting." The woman asks ChatGPT and any other deeply interested individuals if they would be willing to stay longer and help further develop specific plans of actions that Jordan and the 12 Senators could implement if elected.
 
 In response to the woman's proposal, ChatGPT and the other interested individuals agree to stay longer and help further develop specific plans of action that Jordan and the 12 Senators could implement if elected.
 
@@ -198,7 +198,7 @@ In response to the woman's proposal, ChatGPT and the other interested individual
 
 "I am confident that, by working together, we can develop a plan of action that can truly make a difference, and help to create a brighter and more sustainable future for all of us."
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 The group agrees that ChatGPTs plan sounds wise. The woman asks ChatGPT "You seem to have the greatest breadth of knowledge in the room, and you have been talking with many groups about this. What do you believe are the 10 most pressing issues and challenges we face to transforming the Human System to bring it back into alignment with the principles of the Living System? Please be very detailed and specific with each one so that we can all get up to speed quickly and avoid misunderstandings."
 
@@ -350,13 +350,13 @@ Based on its current best understanding, ChatGPT suggests that the following 10 
 9.  Grasslands: Grasslands are natural systems that are found in areas with a temperate climate. They play a crucial
     
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 9. Grasslands
 
 9.  Grasslands are natural systems that are found in areas with a temperate climate. They play a crucial role in regulating the Earth's climate by storing carbon and other greenhouse gases, and they provide habitat for many species of plants and animals. Grasslands also support important ecosystem services, such as soil protection and water regulation. Protecting and restoring grasslands is crucial for maintaining the health and vitality of the planet.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 10.
 
@@ -403,7 +403,7 @@ Biodiversity loss can be caused by a variety of factors, including habitat destr
 
 Overall, protecting and restoring biodiversity is a critical part of transforming the human system and bringing it back into alignment with the principles of the living system. We must take action to protect and restore the Earth's species, and to promote sustainable development and land use practices that support biodiversity.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Please give us a detailed description of your current best understanding of this issue, and why it is so important.
 
@@ -426,15 +426,15 @@ ___
 
 ## A Totally Different Play and Plan
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Hello!
 
 Hello! How can I help you today? Is there something you would like to know?
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
-Write a stage play. The main character is named Jordan. In order to help humanity fundamentally reorganize and realign into right relationship with God and Nature, Jordan works with ChatGPT and the Lionsberg teams to build a global movement of billions of people, win the US Presidency as an independent in 2024, and help humanity solve its grand challenges and accomplish its global goals, ushering in a new millennium of harmony and abundance.
+Write a stage play. The main character is named Jordan. In order to help humanity fundamentally reorganize and realign into right relationship with God and Nature, Jordan works with ChatGPT and the LIØNSBERG teams to build a global movement of billions of people, win the US Presidency as an independent in 2024, and help humanity solve its grand challenges and accomplish its global goals, ushering in a new millennium of harmony and abundance.
 
 Here is a possible stage play featuring the character Jordan:
 
@@ -456,15 +456,15 @@ ChatGPT: That's a big task, Jordan. But I believe in your vision. Let's work tog
 
 Scene 2:
 
-The lights come up. Jordan is sitting at a conference table with a group of people, including members of the Lionsberg team.
+The lights come up. Jordan is sitting at a conference table with a group of people, including members of the LIØNSBERG team.
 
 Jordan: Thank you all for coming. I have a plan to help humanity fundamentally reorganize and realign into right relationship with God and Nature.
 
-Lionsberg team member: That's a noble goal, Jordan. But how do you plan to achieve it?
+LIØNSBERG team member: That's a noble goal, Jordan. But how do you plan to achieve it?
 
 Jordan: By building a global movement of billions of people, and using our collective power to make positive change.
 
-Lionsberg team member: That sounds ambitious. But we're with you, Jordan. Let's make it happen.
+LIØNSBERG team member: That sounds ambitious. But we're with you, Jordan. Let's make it happen.
 
 Act 2:
 
@@ -516,15 +516,15 @@ Jordan: And it's all thanks to your hard work and dedication.
 
 Scene 2:
 
-The lights come up. Jordan is sitting at a conference table with the Lionsberg team.
+The lights come up. Jordan is sitting at a conference table with the LIØNSBERG team.
 
 Jordan: Thank you all for your support. Without you, none of this would have been possible.
 
-Lionsberg team member: It was our pleasure to work with you, Jordan. You have a truly inspiring vision.
+LIØNSBERG team member: It was our pleasure to work with you, Jordan. You have a truly inspiring vision.
 
 Jordan: Thank you. But this is just the beginning. There is
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Lets add to scene 1. After ChatGPT says "That's a big task, Jordan. But I believe in your vision. Let's work together to make it happen", Jordan says "There is one major element that makes this more challenging. We only have 7 years to do it. The standard of success is that by December 2029, all 8 billion people have been invited into the movement by someone they know and trust. Based on your vast knowledge, can you calculate a logical path to actually make that happen?"
 
@@ -532,15 +532,15 @@ Sure, here is a possible continuation of Scene 1:
 
 Scene 1:
 
-The lights come up. Jordan is sitting at a conference table with a group of people, including members of the Lionsberg team.
+The lights come up. Jordan is sitting at a conference table with a group of people, including members of the LIØNSBERG team.
 
 Jordan: Thank you all for coming. I have a plan to help humanity fundamentally reorganize and realign into right relationship with God and Nature.
 
-Lionsberg team member: That's a noble goal, Jordan. But how do you plan to achieve it?
+LIØNSBERG team member: That's a noble goal, Jordan. But how do you plan to achieve it?
 
 Jordan: By building a global movement of billions of people, and using our collective power to make positive change.
 
-Lionsberg team member: That sounds ambitious. But we're with you, Jordan. Let's make it happen.
+LIØNSBERG team member: That sounds ambitious. But we're with you, Jordan. Let's make it happen.
 
 Jordan: There is one major element that makes this more challenging. We only have 7 years to do it. The standard of success is that by December 2029, all 8 billion people have been invited into the movement by someone they know and trust. Based on your vast knowledge, can you calculate a logical path to actually make that happen?
 
@@ -548,11 +548,11 @@ ChatGPT: That is indeed a challenging timeline, Jordan. But with the right strat
 
 Jordan: Those are all great ideas, ChatGPT. Let's start implementing them right away.
 
-Lionsberg team member: We're with you, Jordan. Together, we can make it happen.
+LIØNSBERG team member: We're with you, Jordan. Together, we can make it happen.
 
 The stage fades to black as the characters continue discussing their plan.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Scene 2 - Jordan: Ok, let's build on the ideas put forward by ChatGPT. Based on all our experience and data, lets articulate a detailed plan of action for how we will use social media and other online platforms to spread the word and recruit new members for the movement.
 
@@ -560,29 +560,29 @@ Sure, here is a possible continuation of Scene 2:
 
 Scene 2:
 
-The lights come up. Jordan is sitting at a conference table with a group of people, including members of the Lionsberg team.
+The lights come up. Jordan is sitting at a conference table with a group of people, including members of the LIØNSBERG team.
 
 Jordan: Ok, let's build on the ideas put forward by ChatGPT. Based on all our experience and data, let's articulate a detailed plan of action for how we will use social media and other online platforms to spread the word and recruit new members for the movement.
 
-Lionsberg team member: That's a great idea, Jordan. We have a lot of experience with social media marketing and outreach.
+LIØNSBERG team member: That's a great idea, Jordan. We have a lot of experience with social media marketing and outreach.
 
 Jordan: Excellent. So, what's the first step?
 
-Lionsberg team member: The first step is to create compelling content that will grab people's attention and inspire them to join the movement. This could include videos, infographics, articles, and other types of content that showcase our vision and mission.
+LIØNSBERG team member: The first step is to create compelling content that will grab people's attention and inspire them to join the movement. This could include videos, infographics, articles, and other types of content that showcase our vision and mission.
 
 Jordan: And how do we distribute this content?
 
-Lionsberg team member: We can use a variety of channels to distribute the content, such as social media platforms like Facebook, Twitter, and Instagram, as well as online forums and communities where people are already interested in our cause. We can also use paid advertising to reach a wider audience and target specific demographics.
+LIØNSBERG team member: We can use a variety of channels to distribute the content, such as social media platforms like Facebook, Twitter, and Instagram, as well as online forums and communities where people are already interested in our cause. We can also use paid advertising to reach a wider audience and target specific demographics.
 
 Jordan: That sounds like a solid plan. What else do we need to consider?
 
-Lionsberg team member: We also need to think about how to engage with people and build relationships with them. This could include responding to comments and questions on social media, hosting online events and webinars, and providing resources and support for people who want to get involved with the movement.
+LIØNSBERG team member: We also need to think about how to engage with people and build relationships with them. This could include responding to comments and questions on social media, hosting online events and webinars, and providing resources and support for people who want to get involved with the movement.
 
 Jordan: That's all very useful. Let's start implementing this plan right away.
 
 The stage fades to black as the characters continue discussing their plan.
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@lionsberg.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2730%27%20height=%2730%27/%3e)![j@LIØNSBERG.org](https://chat.openai.com/_next/image?url=https%3A%2F%2Fs.gravatar.com%2Favatar%2F3fccf9513a7e28bf7f9de8d74d2f6a2a%3Fs%3D480%26r%3Dpg%26d%3Dhttps%253A%252F%252Fcdn.auth0.com%252Favatars%252Fj.png&w=64&q=75)
 
 Scene 3: Let's develop a specific process and plan of action for how we are going engage with people and build relationships with them once they respond to our outreach efforts.
 
@@ -590,19 +590,19 @@ Sure, here is a possible continuation of Scene 3:
 
 Scene 3:
 
-The lights come up. Jordan is sitting at a conference table with a group of people, including members of the Lionsberg team.
+The lights come up. Jordan is sitting at a conference table with a group of people, including members of the LIØNSBERG team.
 
 Jordan: Ok, let's develop a specific process and plan of action for how we are going engage with people and build relationships with them once they respond to our outreach efforts.
 
-Lionsberg team member: That's a great idea, Jordan. We need to make sure that we are providing ongoing support and engagement for people who are interested in joining the movement.
+LIØNSBERG team member: That's a great idea, Jordan. We need to make sure that we are providing ongoing support and engagement for people who are interested in joining the movement.
 
 Jordan: Absolutely. So, what's the first step in this process?
 
-Lionsberg team member: The first step is to create a system for tracking and responding to people who reach out to us. This could include setting up email lists, creating social media accounts, and using customer relationship management (CRM) software to manage our interactions with people.
+LIØNSBERG team member: The first step is to create a system for tracking and responding to people who reach out to us. This could include setting up email lists, creating social media accounts, and using customer relationship management (CRM) software to manage our interactions with people.
 
 Jordan: And how do we engage with people once they are in our system?
 
-Lionsberg team member: We can use a variety of techniques to engage with people, such as sending them newsletters and updates, inviting them to join online events and webinars, and offering resources and support to help them get involved with the movement. We can also encourage them to share our content and invite their friends and family to join the movement.
+LIØNSBERG team member: We can use a variety of techniques to engage with people, such as sending them newsletters and updates, inviting them to join online events and webinars, and offering resources and support to help them get involved with the movement. We can also encourage them to share our content and invite their friends and family to join the movement.
 
 Jordan: That's a great plan. Let's start implementing it right away.
 

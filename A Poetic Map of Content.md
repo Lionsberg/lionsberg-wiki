@@ -17,7 +17,7 @@ Here Above The Chaos [[The Story of LIØNSBERG]] can be seen
 Unfolding across Dimensions without a single seam  
 
 More weighty incarnate Ideas precipitate into Form  
-Where joining the [[Lionsberg Wiki Books]] becomes the New Norm  
+Where joining the [[LIØNSBERG Wiki Books]] becomes the New Norm  
 
 As [[Wise Right People]] Resonate and Respond  
 The [[Above the Chaos - WikiCast]] hosts their Sacred Song  

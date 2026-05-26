@@ -1,6 +1,6 @@
 # Case Study - Soft Franchises - Business In A Box
 
-In a few weeks, we will commence training the first Lionsberg Intrapreneurs.
+In a few weeks, we will commence training the first LIØNSBERG Intrapreneurs.
 
 ## **A New Paradigm of Entrepreneurship**
 
@@ -14,13 +14,13 @@ As we work to train and equip [[The First Three Percent]] of the population—ro
 
 ## **The 1,000 Heroes Project**  
 
-We are embarking on a pioneering [[1,000 Heroes]] project to identify, train, and equip the first 1,000 [[Lionsberg Intrapreneurs]]. Each intrapreneur will receive support to establish a cooperatively run business or non-profit as part of the emergent Lionsberg Confederation.
+We are embarking on a pioneering [[1,000 Heroes]] project to identify, train, and equip the first 1,000 [[LIØNSBERG Intrapreneurs]]. Each intrapreneur will receive support to establish a cooperatively run business or non-profit as part of the emergent LIØNSBERG Confederation.
 
-Drawing inspiration from successful socioeconomic experiments like Mondragon and the United States, each intrapreneur will have an equal membership, voice and opportunity within the Lionsberg System and the abundance we co-create.  
+Drawing inspiration from successful socioeconomic experiments like Mondragon and the United States, each intrapreneur will have an equal membership, voice and opportunity within the LIØNSBERG System and the abundance we co-create.  
 
 ## **Ownership and Stewardship**
 
-The Lionsberg System operates on the spiritual principle of multi-generational **Stewardship** rather than the narrower lens of self-interested ownership.
+The LIØNSBERG System operates on the spiritual principle of multi-generational **Stewardship** rather than the narrower lens of self-interested ownership.
 
 Each **Intrapreneurial Team** of 5 to 7 individuals will have the autonomy to set up their local legal and governance structures in a manner that enables collective governance and stewardship. Additionally, each individual will have a voice in the system, adhering to the principle of [[One Citizen One Voice]]. 
 
@@ -56,11 +56,11 @@ The design of **The System** reflects the **Wisdom of Nature**, where everything
 
 Capital in **The System** is viewed as a subordinate, non-equity tool earning a maximum of 7% interest. Capital can enter **The System** in two ways:
 
-1. **Donations** to the Lionsberg 501(c)(3) public charity.
+1. **Donations** to the LIØNSBERG 501(c)(3) public charity.
 
-2. **Investments** into the Lionsberg Community Development Fund.
+2. **Investments** into the LIØNSBERG Community Development Fund.
 
-Startup capital will be lent by the **Lionsberg Community Development Fund** to the **Intrapreneurial Teams**, who will repay it with moderate interest. This will grow the fund, offset risks, and make the funds available rapidly to empower the next cohort of heroes. This pattern will operate similarly to microfinance, eventually helping the **Regenerative Banking Network** emerge.
+Startup capital will be lent by the **LIØNSBERG Community Development Fund** to the **Intrapreneurial Teams**, who will repay it with moderate interest. This will grow the fund, offset risks, and make the funds available rapidly to empower the next cohort of heroes. This pattern will operate similarly to microfinance, eventually helping the **Regenerative Banking Network** emerge.
 
 ## **Accounting and Cash Flow**
 
@@ -68,7 +68,7 @@ Startup capital will be lent by the **Lionsberg Community Development Fund** to 
 
 1. Fiat currency.
 
-2. Lionsberg Units of Value (Time-Energy Accounting System).
+2. LIØNSBERG Units of Value (Time-Energy Accounting System).
 
 ## **Key Roles**
 
@@ -105,6 +105,6 @@ The project will have two parallel advisory teams:
 
 2. **Capital Council** (Composed of significant lenders and donors).
 
-The Core Team will issue a Progress Report and Request for Guidance to each of the councils and the **Intrapreneurial Teams** no less than monthly, in accordance with the Lionsberg Communications System.
+The Core Team will issue a Progress Report and Request for Guidance to each of the councils and the **Intrapreneurial Teams** no less than monthly, in accordance with the LIØNSBERG Communications System.
 
 If you have any suggested improvements, please reach out to [[Jordan]]  

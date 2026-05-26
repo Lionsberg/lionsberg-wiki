@@ -38,13 +38,13 @@ If you are only going to skim one, read [[Above The Chaos, Game Plan For March|G
 If you want to dive into more detail, explore: 
 
 - [[Above The Chaos]] for a stream of posts, interviews, etc.  
-- [[Lionsberg Wiki Books]] for more formalized and structured presentations of [[The Idea]].  
+- [[LIØNSBERG Wiki Books]] for more formalized and structured presentations of [[The Idea]].  
 
 ## The Invitation
 
 This invitation is going to several select several individuals globally, as well as here locally in Sandpoint, Idaho. If a few Individuals in each group accept, we will be on the Path, and will work together to refine [[The Story of LIØNSBERG]] and craft the invitation to subsequent Individuals in our networks. 
 
-All that is required in the next few [[Lionsberg Cycles of Growth]] is to expand from 3, to 5, to 8, and then to 13 Co-Creators. 
+All that is required in the next few [[LIØNSBERG Cycles of Growth]] is to expand from 3, to 5, to 8, and then to 13 Co-Creators. 
 
 That critical first group creates the critical mass to then discern and accomplish the next cycles. 
 

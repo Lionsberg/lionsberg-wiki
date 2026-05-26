@@ -27,4 +27,4 @@ ___
 Forward to [[The New Covenant Between God And Humanity]]  
 Back to [[A Vision, A Hope, And A Future For All Tribes, Nations, Tongues, And Peoples]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

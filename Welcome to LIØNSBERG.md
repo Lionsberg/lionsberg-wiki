@@ -107,7 +107,7 @@ Weekly gatherings. Seasonal Quests. The ancient rhythm of sowing, tending, harve
 
 Each Sovereign identifies the two or three they know who are ready — and shares the invitation forward, **within one week**. Those who resonate gather their own Circle. Those Circles pass the Flame again.
 
-This is the [[Lionsberg Cycles of Growth|Fibonacci]] mathematics of life itself:
+This is the [[LIØNSBERG Cycles of Growth|Fibonacci]] mathematics of life itself:
 
 1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 → ...
 
@@ -177,7 +177,7 @@ This Walk cannot be done in isolation. It must be undertaken in community — as
 ### How to Begin
 
 1. **Identify three to thirteen people** already awakening, already sensing the urgency, already seeking others who understand. You know who they are.
-2. **Send them the link**: `lionsberg.wiki`
+2. **Send them the link**: `LIØNSBERG.wiki`
 3. **Ask them to read** the Golden Seed (Homepage) and this Welcome.
 4. **Set a gathering** — choose a date and time for your first 90-minute session, in person or by video.
 

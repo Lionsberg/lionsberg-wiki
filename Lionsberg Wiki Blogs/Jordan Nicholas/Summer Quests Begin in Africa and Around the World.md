@@ -118,7 +118,7 @@ You will receive:
     
 - Ways to immediately **start your own Circle or Quest**  
     
-- A path into deeper collaboration and co-creation with the **Lionsberg community**  
+- A path into deeper collaboration and co-creation with the **LIØNSBERG community**  
     
 - A digital copy of **The Great Unveiling** book upon release this summer  
 
@@ -145,7 +145,7 @@ But it is real. And it is happening. Now.
 ---
 
 If your heart is moved to offer any amount of energy, love, or support to this work  
-and the broader Lionsberg Mission to co-create  
+and the broader LIØNSBERG Mission to co-create  
 the **Best Possible World for All**,  
 please simply click below and take your first step.  
 
@@ -162,7 +162,7 @@ We'll follow up with each responder personally to share how it works.
 **Your first simple step is here**:  
 
 <a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
-<script src='https://lionsberg-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
+<script src='https://LIØNSBERG-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
 
 With unwavering Love, Faith, and Hope,  
 

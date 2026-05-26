@@ -73,7 +73,7 @@ This documentation should live in your workspace as markdown files, not in Claud
 
 ## Integration with This Wiki
 
-When working in the Lionsberg Wiki specifically:
+When working in the LIØNSBERG Wiki specifically:
 
 - Respect the three content modes (Individual Voice, Formal System, Community)
 - Follow the wiki editing conventions (first line = filename, double-bracket links, etc.)

@@ -6,4 +6,4 @@ ___
 
 Forward to [[Meditation 589]]  
 Back to [[Meditation 587]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

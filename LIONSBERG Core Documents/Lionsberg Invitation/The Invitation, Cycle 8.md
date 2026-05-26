@@ -15,7 +15,7 @@ On March 1st, we transitioned from [[The 7 Year Window of Preparatory Work and L
 
 ### The First Seven Cycles of Growth 
 
-In just seven short weeks, we were able to complete the first seven [[Lionsberg Cycles of Growth]], connecting the first 30 to 40 [[Lionsberg Co-Creators]] while surfacing a list of over 100 of the [[Wise Right People]] to invite in next. 
+In just seven short weeks, we were able to complete the first seven [[LIØNSBERG Cycles of Growth]], connecting the first 30 to 40 [[LIØNSBERG Co-Creators]] while surfacing a list of over 100 of the [[Wise Right People]] to invite in next. 
 
 [[Above The Chaos, The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History|The 10 Year Movement, Grand Strategy, and the Greatest Celebration in History]], a post in the [[Above The Chaos]] series, highlights some of the exciting individuals, teams, projects, and initiatives that are coalescing and exploring how we can unite our efforts. 
 

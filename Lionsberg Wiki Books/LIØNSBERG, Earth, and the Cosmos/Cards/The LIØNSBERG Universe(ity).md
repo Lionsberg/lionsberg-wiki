@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [university, universe, learning, practice, lionsberg-architecture]
+themes: [university, universe, learning, practice, LIØNSBERG-architecture]
 ---
 
 # The LIØNSBERG Universe(ity)
@@ -25,5 +25,5 @@ The process of practice / play / learning is what continuously improves the arti
 - [[The 144 Gates of Initiation]] — the foundational curriculum
 - [[The Sacred Ascent]] — the lifetime arc beyond foundation
 - [[Capacity Development Architecture]] — the nested arcs of becoming
-- [[The Lionsberg Pattern Language]] — the grammar that animates the practice
+- [[The LIØNSBERG Pattern Language]] — the grammar that animates the practice
 - [[The LIØNSBERG Playbook]] — the Plays that compose Patterns for operational needs

@@ -21,7 +21,7 @@ Our first and primary focus of energy has been on connecting, equipping, and emp
 
 We are simultaenously co-creating both a powerful Community and successor System that has the potential to be so far superior, it renders the Old obsolete. 
 
-We are calling this effort the Lionsberg | Meta Project. 
+We are calling this effort the LIØNSBERG | Meta Project. 
 
 To do this we have been hosting multiple weekly international convenings online, and engaging in weekly action to advance the infrastructure, frameworks and patterns of organizing across the lines that formerly divided us. 
 
@@ -63,7 +63,7 @@ With the basic infrastructure, patterns, and declarations in place, the next ste
 
 We are not far away from having a community and platform capable of helping any individual or community in the world with an internet connection have the opportunity for a world class life-long learning and development process, coordinated with a community dedicated to helping one another rise towards our potential and flourish. 
 
-**Action**: We are making rapid progress on the Lionsberg | Meta Project - if you would like to engage or support in any way, please reach out and let me know. 
+**Action**: We are making rapid progress on the LIØNSBERG | Meta Project - if you would like to engage or support in any way, please reach out and let me know. 
 
 ## Front 2: Leveraging Existing Systems of Justice to Hold Corrupt and Exploitative Actors Accountable 
 Beyond our own experience with church and County governance, new evidence is surfacing every day highlighting how corrupt and dysfunctional our Old leadership and institutions have become. 
@@ -104,7 +104,7 @@ Now we need your help.
 
 Because it is only a matter of time until we are deplatformed, we are building internal tech platforms and a mailing list. 
 
-For now - DM me or send an email to J@Lionsberg.org with your email if you'd like to follow along or support in any way, and we will connect you to the emerging community. 
+For now - DM me or send an email to J@LIØNSBERG.org with your email if you'd like to follow along or support in any way, and we will connect you to the emerging community. 
 
 I am currently not able to respond to every inbound message, but I will do my best to read them all and take wise next steps based on the content, offers, and needs expressed. If I do not respond, _please_ do not take it personally or think I do not love you and care deeply. It is a heavy lift to bootstrap this. 
 
@@ -120,5 +120,5 @@ With Love, In Community,
 
 P.S. If you start seeing Jordan Nicholas floating around, it's still me, just using my middle name to make it easier to say, while trying to shield innocent family members from the battles and embarrassments that lie ahead. 
 
-For more information on Lionsberg, see the [Lionsberg Wiki](http:lionsberg.wiki)  
+For more information on LIØNSBERG, see the [LIØNSBERG Wiki](http:LIØNSBERG.wiki)  
 To stay in touch with me, see [[Jordan Nicholas Sukut]]   

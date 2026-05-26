@@ -22,7 +22,7 @@
 - Mechanism for ongoing presentation and integration of the work being created into the Community.. 
 - Mechanism for all 3 being publically accountable for the transparent accounting of funds... 
 - Maybe use Open Collective as the mechanism... or Co-Budget... Open Impact...  
-- read organizations the lionsberg way
+- read organizations the LIØNSBERG way
 - by what process will project proposals be evaluated and approved?
 
 ## Layering of Levels of Abstraction 
@@ -52,8 +52,8 @@
 - Teams of 3 express what they think they can do towards goals, present out to community to be resourced if community finds value in it.
 - Jordan offers to spend an hour with Jonathan
 - We aggregate highest value items from the list of many and advance them towards funding, articulating what is valuable and why. 
-- Idea of collaborative funding that can be set up fast - not a lot of money, but can be raised rapidly, to lubricate projects/needs moving forward. Patreon for Lionsberg.
-- Parking lot epiphany - nonprofit like Lionsberg backs individuals doing projects; contributions to nonprofits tax-deducible to donors. Needs solid reporting and legal oversight.
+- Idea of collaborative funding that can be set up fast - not a lot of money, but can be raised rapidly, to lubricate projects/needs moving forward. Patreon for LIØNSBERG.
+- Parking lot epiphany - nonprofit like LIØNSBERG backs individuals doing projects; contributions to nonprofits tax-deducible to donors. Needs solid reporting and legal oversight.
 - Patreon can be done today, vs needing to set it up.
 - Abuse of the system potential if individual is set up to be supported by nonprofit.
 - Proposal - Jonathan takes lead on focus area of funding acute needs for him and beyond (or he finds someone to own the process), make a decision - Patreon is good enough, or some other next step - say within a week have a first draft saying "this is fundraising for MP container", leader reaches out as needed to move it forward, get content, support from community etc. Setting deadline gets it moving and done.

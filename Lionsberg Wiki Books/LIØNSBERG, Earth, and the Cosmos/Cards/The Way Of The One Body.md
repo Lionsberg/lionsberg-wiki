@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [way-of-the-one-body, universal-path, plus-one-guild, lionsberg-architecture]
+themes: [way-of-the-one-body, universal-path, plus-one-guild, LIØNSBERG-architecture]
 ---
 
 # The Way Of The One Body

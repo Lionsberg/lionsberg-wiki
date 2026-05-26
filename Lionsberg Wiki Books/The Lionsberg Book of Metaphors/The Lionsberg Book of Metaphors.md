@@ -1,10 +1,10 @@
-# The Lionsberg Book of Metaphors
+# The LIØNSBERG Book of Metaphors
 
-1. [[Metaphor]] / [[Metaphors]] / [[The Lionsberg Book of Metaphors]]  
+1. [[Metaphor]] / [[Metaphors]] / [[The LIØNSBERG Book of Metaphors]]  
 2. [[The Caves]] / [[Keepers of The Caves]] / [[Captivity]] / [[Employee Consumer Slaves]]   
 3. [[Ark]]  
 4. [[The Golden Seed]]  
-5. [[The Sacred Tree]] / [[Lionsberg Cycles of Growth]] / [[Lionsberg Cycle Time]]   
+5. [[The Sacred Tree]] / [[LIØNSBERG Cycles of Growth]] / [[LIØNSBERG Cycle Time]]   
 6. [[The Body]] / [[ØNE Body]]  
 7. [[Family of God]] / [[Family of Families]]  
 8. [[Tribe Of Tribes]]  

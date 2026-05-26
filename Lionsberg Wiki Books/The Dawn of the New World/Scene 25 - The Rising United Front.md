@@ -16,4 +16,4 @@ ___
 Forward to: [[Scene 26 - The Day of Battle]]  
 Back to: [[Scene 24 - The New Vision Spreads]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

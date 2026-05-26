@@ -1,6 +1,6 @@
 ---
 status: settled
-themes: [function, mission, lionsberg-architecture]
+themes: [function, mission, LIØNSBERG-architecture]
 ---
 
 # The LIØNSBERG Function

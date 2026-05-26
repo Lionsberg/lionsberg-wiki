@@ -20,7 +20,7 @@ This is also true for any team or organization, which must integrate its individ
 
 In turn, for a [[Community]] to truly flourish, each element (Individual, Organization, Group) must of their own freewill integrate them [[Selves]] into a single, integrated, functioning [[Community]] capable of rightly relating, internally to and among all its elements, and externally to its world. 
 
-At the outer levels of practicality, you have a bounded place, such as Mondragon, Lionsberg, or Earth, in which the total set of all individuals, organizations, groups, and communities must voluntarily integrate themselves into some kind of higher order functional unity, rightly related internally within itself, and externally to the world. 
+At the outer levels of practicality, you have a bounded place, such as Mondragon, LIØNSBERG, or Earth, in which the total set of all individuals, organizations, groups, and communities must voluntarily integrate themselves into some kind of higher order functional unity, rightly related internally within itself, and externally to the world. 
 
 For each individual on Earth to have the opportunity to develop into the fullness of their potential and flourish, all individuals would have to have the opportunity to develop into the fullness of their potential and flourish, and the entire [[Human System]] that enabled and optimized for that to occur would have to be rightly related and integrated, not only internally within itself, but externally to the [[Living System]] that contained it. 
 
@@ -63,15 +63,15 @@ From my perspective, what needs to happen next is that [[Individuals]] who want 
 
 Those teams and groups should then [[Organize and Federate]] to accomplish together what they cannot accomplish in isolation. 
 
-This should be accompanied by the development of the basic [[Lionsberg Communications System]] that will make the "group of groups" aware of one another, provide the ability to communicate offers and needs, and open up the potential for deepening coordination and collaboration at the [[Wise Right]] pace over time. 
+This should be accompanied by the development of the basic [[LIØNSBERG Communications System]] that will make the "group of groups" aware of one another, provide the ability to communicate offers and needs, and open up the potential for deepening coordination and collaboration at the [[Wise Right]] pace over time. 
 
 As the deepening of relationship occurs, the "group of groups" can share among itself what is working and what is not working in order co-create a continuously improving conceptual [[Prototype]] that any new group can evaluate, localize, and instantiate. 
 
 As a starting point for commitment, I would recommend that each group make a [[Commitments|Commitment]] to allocate 10% of its available [[Flow]] of [[Time]] and [[Resources]] to helping other groups. 
 
-Each time help is rendered, the [[Solution]] to the problem or need should be generalized into a [[General Solutions|General Solution]] for the issue, and loaded onto the [[Lionsberg Platform]], so that any other Group grappling with that same issue in the future can log into the Platform and access it. 
+Each time help is rendered, the [[Solution]] to the problem or need should be generalized into a [[General Solutions|General Solution]] for the issue, and loaded onto the [[LIØNSBERG Platform]], so that any other Group grappling with that same issue in the future can log into the Platform and access it. 
 
-Over time, this will create a continuously improving set of [[General Solutions]] that any group or locality can draw from and deploy to meet its needs and solve its problems. Each time a General Solution is deployed in a specific [[Time]] or [[Place]], the learnings can be folded back in to the [[Lionsberg Platform]] so that each Solution continually improves. 
+Over time, this will create a continuously improving set of [[General Solutions]] that any group or locality can draw from and deploy to meet its needs and solve its problems. Each time a General Solution is deployed in a specific [[Time]] or [[Place]], the learnings can be folded back in to the [[LIØNSBERG Platform]] so that each Solution continually improves. 
 
 ___
 

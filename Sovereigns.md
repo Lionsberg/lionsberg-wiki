@@ -4,9 +4,9 @@ In the context of the [[LIØNSBERG System]], "Sovereigns" refers to self-governi
 
 This term refers to the concept of recognizing and honoring the inherent sovereignty, autonomy, and agency of each individual, group, and locality as a unique and self-determining being. Sovereignty, in this context, is about respecting the autonomy, agency, and freedom of choice of every person and voluntary association of persons, acknowledging their right to make decisions about their own lives, values, and goals, provided that they do not violate, harm, or hinder the lives, values and goals of others. 
 
-The notion of sovereigns within the Lionsberg System emphasizes the importance of [[Individual And Local]] responsibility, self-governance, and self-actualization, while fostering a culture of mutual respect, collaboration, and support among individuals, groups and localities who are each striving to realize their unique potential.
+The notion of sovereigns within the LIØNSBERG System emphasizes the importance of [[Individual And Local]] responsibility, self-governance, and self-actualization, while fostering a culture of mutual respect, collaboration, and support among individuals, groups and localities who are each striving to realize their unique potential.
 
-Key principles and practices related to sovereigns in the Lionsberg System include:
+Key principles and practices related to sovereigns in the LIØNSBERG System include:
 
 1.  **Autonomy and Self-Governance:** Recognize and respect the autonomy and self-governance of each individual, group, and locality, supporting their right to make choices and decisions that align with their values, beliefs, and aspirations.
     
@@ -19,4 +19,4 @@ Key principles and practices related to sovereigns in the Lionsberg System inclu
 5.  **Continuous Growth and Self-Actualization:** Encourage sovereigns to engage in ongoing personal growth, self-discovery, and the pursuit of their unique potential, recognizing that each person's journey is a valuable contribution to the collective wisdom and well-being.
     
 
-By embracing these principles and practices, the Lionsberg System seeks to create an environment where [[Individuals]], [[Groups]] and [[Localities]] are empowered to become the best versions of themselves, while contributing to a vibrant, resilient, and interconnected community that respects and honors the sovereignty and [[Progress]] of all its members.
+By embracing these principles and practices, the LIØNSBERG System seeks to create an environment where [[Individuals]], [[Groups]] and [[Localities]] are empowered to become the best versions of themselves, while contributing to a vibrant, resilient, and interconnected community that respects and honors the sovereignty and [[Progress]] of all its members.

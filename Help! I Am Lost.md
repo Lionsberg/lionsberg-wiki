@@ -10,13 +10,13 @@ If you fall down a rabbit hole and want to get back to Where You Where, you can 
 
 Here is a soft table of contents to help you find your [[Way]].  
 
-1. [[README|Lionsberg Home Page]], or clicking "Lionsberg Wiki" at the top of any page, takes you home to the main page. 
+1. [[README|LIØNSBERG Home Page]], or clicking "LIØNSBERG Wiki" at the top of any page, takes you home to the main page. 
 2. [[Something Powerful, New, and Good]] is the current live stream of what is emerging.  
 3. [[The LIØNSBERG Playbook]] provides pragmatic guidance for individuals and circles. 
 4. [[The LIØNSBERG Quick Start Guide]] can get you moving in 90 minutes.  
 5. [[Above The Chaos]] was a creative stream that followed along with The Story in real time, personally and accessibly from the perspective of [[J]].  
 6. [[Above the Chaos - WikiCast]] was a series of videos and dialogues hosted by [[J]].   
-7. The [[Lionsberg Wiki Books]] are more structured, formalized works. They [[Circumambulate]] the issues, ideas, and opportunities at stake from a number of perspectives.  
+7. The [[LIØNSBERG Wiki Books]] are more structured, formalized works. They [[Circumambulate]] the issues, ideas, and opportunities at stake from a number of perspectives.  
 8. To learn more about the technology underlying the [[LIØNSBERG Wiki]], explore [[Collaborative Technology and AI - Pete Kaminski - EP 5]] with J + Pete Kaminski.    
 9. [[The LIØNSBERG Lexicon|The Lexicon]] is *definitely* a work in progress, beginning to explore key [[Word Tools]] that are being used and defined in the [[LIØNSBERG System]]. 
 10. [[A Poetic Map of Content]] and [[Welcome to LIØNSBERG]] are other creative maps to begin to navigate the wiki with

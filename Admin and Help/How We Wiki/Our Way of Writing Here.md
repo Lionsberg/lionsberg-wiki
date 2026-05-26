@@ -9,34 +9,34 @@ We are trying to learn how to write as a team, and reflect both our individual a
 
 There are several elements or "parts" of the Wiki.
 
-Each section requires a varying level of coordination, depending on how it affects other elements of Lionsberg and the Meta Project. 
+Each section requires a varying level of coordination, depending on how it affects other elements of LIØNSBERG and the Meta Project. 
 
-Because Lionsberg is being co-created as a coherent System, words and concepts matter a lot, just like they would in a set of plans and specifications for a complex system or building. 
+Because LIØNSBERG is being co-created as a coherent System, words and concepts matter a lot, just like they would in a set of plans and specifications for a complex system or building. 
 
 ### Imagery
 
-If you were to imagine a community working together to design and build something, you could imagine that every member of the community is always welcomed to speak truthfully and freely and share their own voice, perspective and experience. This can be done in sections of the Wiki that are purpose-built for this, such as the [[Lionsberg Membership]] pages, and [[Lionsberg Wiki Blogs]] section. These were built so that each individual can freely speak and represent their own best understanding, thoughts, suggestions, etc. 
+If you were to imagine a community working together to design and build something, you could imagine that every member of the community is always welcomed to speak truthfully and freely and share their own voice, perspective and experience. This can be done in sections of the Wiki that are purpose-built for this, such as the [[LIØNSBERG Membership]] pages, and [[LIØNSBERG Wiki Blogs]] section. These were built so that each individual can freely speak and represent their own best understanding, thoughts, suggestions, etc. 
 
 You could also imagine that if someone changed a definition in the main body of work, or set of plans and specifications, without fully understanding the total philosophy and system architecture, it could potentially "break" the integrity of the system or confuse other co-creators. 
 
 In order to address this, we are using a framework similar to what is used on large scale design build projects. 
 
-### Lionsberg Wiki Blogs (aka Journals)
-The [[Lionsberg Wiki Blogs]] (aka Journals) section was co-created to create the empowerment and freedom for each individual to speak freely and openly from their own perspective and point of view. In this section, we want to bring forth as much truthful diversity and perspective as possible, and our [[Current Best Understanding]] does not need to be reconciled or cohered. We can simply be free to individually think and speak as accurately as we can. 
+### LIØNSBERG Wiki Blogs (aka Journals)
+The [[LIØNSBERG Wiki Blogs]] (aka Journals) section was co-created to create the empowerment and freedom for each individual to speak freely and openly from their own perspective and point of view. In this section, we want to bring forth as much truthful diversity and perspective as possible, and our [[Current Best Understanding]] does not need to be reconciled or cohered. We can simply be free to individually think and speak as accurately as we can. 
 
 If you would like to co-Author or edit another Author's blog, please obtain their consent and approval of any proposed changes. 
 
-In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg reserves the right to decide who can establish a blog on the main Lionsberg.Wiki site. 
+In order to preserve the integrity and values of the LIØNSBERG System and prevent intentional disruption, LIØNSBERG reserves the right to decide who can establish a blog on the main LIØNSBERG.Wiki site. 
 
-### Lionsberg Wiki Books
-The [[Wiki Book Template|Wiki Books]] section was co-created to empower individuals to bring forth more formalized, coherent, and persistent bodies of work. Like blogs, these books do not speak from the voice of Lionsberg as "we", and therefore do not necessarily need to reflect the collective best understanding. They can freely speak from the voice of each author. 
+### LIØNSBERG Wiki Books
+The [[Wiki Book Template|Wiki Books]] section was co-created to empower individuals to bring forth more formalized, coherent, and persistent bodies of work. Like blogs, these books do not speak from the voice of LIØNSBERG as "we", and therefore do not necessarily need to reflect the collective best understanding. They can freely speak from the voice of each author. 
 
 If you would like to co-Author or edit another Author's books, please obtain their consent and approval of any proposed changes. 
 
-In order to preserve the integrity and values of the Lionsberg System and prevent intentional disruption, Lionsberg preserves the right to decide what books can be published on the main Lionsberg.Wiki site. 
+In order to preserve the integrity and values of the LIØNSBERG System and prevent intentional disruption, LIØNSBERG preserves the right to decide what books can be published on the main LIØNSBERG.Wiki site. 
 
-### Lionsberg Formal Body of Work / System Design 
-There is also a formal body of work that exists on the Wiki, that speaks from the voice of Lionsberg as "we", and contains things like Declarations, Core Documents, Plans and Specifications, Guides, etc. 
+### LIØNSBERG Formal Body of Work / System Design 
+There is also a formal body of work that exists on the Wiki, that speaks from the voice of LIØNSBERG as "we", and contains things like Declarations, Core Documents, Plans and Specifications, Guides, etc. 
 
 Like a complicated system, device, or building, each of these elements is intentionally designed and built to co-operate and interact as part of one coherent Whole. 
 
@@ -47,14 +47,14 @@ For now, the process is as follows:
 - Everyone is acting as co-creators, and is taking responsibility for designing and building various elements of the System.
 - The simple process is intended to create freedom and agency for anyone to propose any change without needing permission, while simultaneously ensuring the integrity and coherence of the Whole is maintained.
 	- Any co-creator can propose an improvement to any part of the System Design at any time. The entire idea is to ensure it gets a little better every day. 
-	- Proposed improvements are placed in the [[Suggestion Box]] and a message sent to the Lionsberg Wiki Posse mattermost channel. 
+	- Proposed improvements are placed in the [[Suggestion Box]] and a message sent to the LIØNSBERG Wiki Posse mattermost channel. 
 	- The Architect function reviews and has the responsibility to either accept and incorporate the changes, modify them, or reject if they are not compatible with the Whole. 
 	- The Architect should accompany any rejection or modification with an explanation that helps improve understanding and encourages forward momentum. 
 
 ### Agency and Ease
 We gratefully accept and appreciate any new information and thoughts in the form of an individual Wiki Blog or Wiki Book. Feel free to link to and cross reference to any concepts or any parts of the System you would like to discuss. 
 
-We also gratefully accept and appreciate any new suggestions that affect core design elements or speak from the voice of Lionsberg in the [[Suggestion Box]]. 
+We also gratefully accept and appreciate any new suggestions that affect core design elements or speak from the voice of LIØNSBERG in the [[Suggestion Box]]. 
 
 
 ## Questions

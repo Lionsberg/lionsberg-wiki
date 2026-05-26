@@ -11,7 +11,7 @@ This book is a [[Work In Progress]]. Please excuse our dust.
 [[6. Navigating Towards Wisdom and Truth]]  
 [[7. The Opportunity and Adventure of a Lifetime]]  
 [[8. Translation Across Languages and Levels of Abstraction]]  
-[[9. The Lionsberg Strategy and Plan]]  
+[[9. The LIØNSBERG Strategy and Plan]]  
 [[10. Grappling With Beings From Beyond]]  
 [[11. Human Beings on Earth]]  
 [[12. In The Beginning, We Do Not Know]]  
@@ -30,4 +30,4 @@ This book is a [[Work In Progress]]. Please excuse our dust.
 [[25. What's Next]]  
 [[26. For Further Investigation]]  
 
-See other [[Lionsberg Wiki Books]] 
+See other [[LIØNSBERG Wiki Books]] 

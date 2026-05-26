@@ -15,7 +15,7 @@ As opposed to the Old paradigm where Big Consumer Companies create products and 
 
 Lastly, to reintegrate regenerative crops into the broader markets, milling and blending capacities will be relocalized so that non-commodity crops, like those with high protein contents, can be locally milled and blended to varying specifications with precision. 
 
-By leveraging the Lionsberg Systems, Infrastructure, and Technology to steward the continuously improving Regenerative Pattern Language, each local bioregional demonstration project can be connected to a global network of like-minded, values-driven citizens working together, sharing knowledge, and ensuring that no bioregion is left behind. 
+By leveraging the LIØNSBERG Systems, Infrastructure, and Technology to steward the continuously improving Regenerative Pattern Language, each local bioregional demonstration project can be connected to a global network of like-minded, values-driven citizens working together, sharing knowledge, and ensuring that no bioregion is left behind. 
 
 ## Methodology
 
@@ -33,7 +33,7 @@ The methodology for transforming food systems from an extractive, centralized mo
     
 6. **Market Development and Access:** Building non-commodity markets for regenerative crops by identifying and fostering demand for locally produced, sustainable foods. This includes creating partnerships with local restaurants, schools, hospitals, and retailers to supply regenerative, locally-sourced products, while tapping into values-aligned sources of demand in adjacent regions.
     
-7. **Technology and Infrastructure Support:** Leveraging Lionsberg Systems and other technological solutions to support the scaling and replication of the Regenerative Pattern Language. This includes the development of digital platforms for knowledge sharing, market access, and community engagement.
+7. **Technology and Infrastructure Support:** Leveraging LIØNSBERG Systems and other technological solutions to support the scaling and replication of the Regenerative Pattern Language. This includes the development of digital platforms for knowledge sharing, market access, and community engagement.
     
 8. **Monitoring, Learning, and Adaptation:** Establishing a system for ongoing monitoring and evaluation to track progress, learn from and share experiences, and make necessary adjustments. This adaptive management approach ensures the continuous improvement of practices and outcomes.
 
@@ -57,7 +57,7 @@ The transformation project in the Palouse region unfolds in distinct phases, eac
     
 8. **Evaluation and Scaling:** Conducting a comprehensive evaluation of the project's impact on soil health, biodiversity, economic viability, and community resilience. Lessons learned and successful strategies are documented and shared for replication in other bioregions.
     
-9. **Replication and Global Networking:** Leveraging the Lionsberg Systems to connect the Palouse project with other regenerative initiatives worldwide. This global network facilitates knowledge exchange, mutual support, and the collective advancement of regenerative food systems.
+9. **Replication and Global Networking:** Leveraging the LIØNSBERG Systems to connect the Palouse project with other regenerative initiatives worldwide. This global network facilitates knowledge exchange, mutual support, and the collective advancement of regenerative food systems.
 
 ## Challenges and Opportunities
 
@@ -76,6 +76,6 @@ The methodology and project phases outlined in this study provide a replicable f
 
 The Palouse project's emphasis on soil health, biodiversity, economic viability, and community resilience offers a blueprint for a future where food systems are not only sustainable but are also sources of regeneration and flourishing for all life. By reconnecting with the land and each other, communities can forge food systems that are resilient, just, and aligned with the natural cycles of our planet.
 
-Furthermore, the global networking and knowledge sharing facilitated by the Lionsberg System promises to accelerate the spread of regenerative practices, creating a worldwide movement towards sustainability and resilience. This interconnected network of bioregional projects embodies the spirit of cooperation and shared learning that is essential for empowering localities around the world to address the shared global challenges we face.
+Furthermore, the global networking and knowledge sharing facilitated by the LIØNSBERG System promises to accelerate the spread of regenerative practices, creating a worldwide movement towards sustainability and resilience. This interconnected network of bioregional projects embodies the spirit of cooperation and shared learning that is essential for empowering localities around the world to address the shared global challenges we face.
 
 In conclusion, the transformation of the Palouse region into a thriving example of regenerative agriculture demonstrates the immense potential that lies in embracing a bottom-up, bioregional approach to farm to fork food systems. As we look to the future, let this case study serve as both a guide and an inspiration for communities in Palouse and around the world to embark on their own journeys towards regeneration and resilience. Together, we can create a world where food systems nourish not just our bodies, but also our communities, economies, and the planet itself.

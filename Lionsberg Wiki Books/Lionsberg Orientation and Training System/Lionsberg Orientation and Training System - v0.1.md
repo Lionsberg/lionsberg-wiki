@@ -1,11 +1,11 @@
-# Lionsberg Orientation and Training System - OLD
+# LIØNSBERG Orientation and Training System - OLD
 
 v0.1  
 
 ## Week 1: Awakening and Calling 
 
-- [[Day 1 - The Narrative Structure of Lionsberg and Consciousness - The Quest Towards The Goal]]  
-- [[Day 2 - The Story of Lionsberg - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
+- [[Day 1 - The Narrative Structure of LIØNSBERG and Consciousness - The Quest Towards The Goal]]  
+- [[Day 2 - The Story of LIØNSBERG - Weaving and Articulating a Meta Narrative Big Enough to Unite Us All]]  
 - [[Day 3 - Your Story - Your Unique Voice in the Symphony of Stories]]  
 - [[Day 4 - Being Alive Without Truly Living - The Darkness and Exploitation of The Caves]]  
 - [[Day 5 - The Phenomenal Calling - The Voice and Vision that Awakens]]  
@@ -68,7 +68,7 @@ Day 42 - Rest, Regeneration, and Retrospection
 ## Week 6: Building the Sacred Space  
 
 Day 43 - Co-Creating Our Future - Actively Envisioning, Designing and Building Our Reality  
-Day 44 - The Lionsberg System and Approach - Why a Comprehensive and Named System and Approach is Required  
+Day 44 - The LIØNSBERG System and Approach - Why a Comprehensive and Named System and Approach is Required  
 Day 45 - Gathering Resources - Identifying and Engaging Resources, Skills and Assets   
 Day 46 - Wise Strategy and Planning  
 Day 47 - Courageous and Persistent Action  
@@ -135,11 +135,11 @@ Day 89 - Preparing for Self Governance: The Responsibility for Navigating Indivi
 Day 91 - Graduation and Sending Forth: Continuing the Journey  
 Day 92 - Rest, Regeneration, and Retrospection  
 
-## Week 13 / Week 1: The Lionsberg Elevation Initiative - The Next Steps on Your Transformational Quest Towards Destiny 
+## Week 13 / Week 1: The LIØNSBERG Elevation Initiative - The Next Steps on Your Transformational Quest Towards Destiny 
 
 Your transformational journey is not over - it is just beginning.  
 
-The Lionsberg Elevation Initiative is a transformational program designed to help every individual, group, community, and ecosystem develop towards the fullness of their unique potential and flourish in harmony.  
+The LIØNSBERG Elevation Initiative is a transformational program designed to help every individual, group, community, and ecosystem develop towards the fullness of their unique potential and flourish in harmony.  
 
 It consists of six modules:  
 
@@ -150,11 +150,11 @@ It consists of six modules:
 5. Cultural Regeneration and Transformation  
 6. Ecosystem Regeneration and Transformation  
 
-These modules each draw on a common set up universal wisdom, principles, and values, transformed into a Lionsberg Pattern Language that can be applied at any fractal level.  
+These modules each draw on a common set up universal wisdom, principles, and values, transformed into a LIØNSBERG Pattern Language that can be applied at any fractal level.  
 
 During the 3 year membership period and prior to being admitted into Citizenship, every prospective Citizen is required to complete all 6 modules.  
 
-The courses are available to members who have successfully completed the Lionsberg Orientation and Training Program.  
+The courses are available to members who have successfully completed the LIØNSBERG Orientation and Training Program.  
 
 Your next step is to being Module 1: Human Regeneration and Transformation. Your life and your world may never be the same!  
 

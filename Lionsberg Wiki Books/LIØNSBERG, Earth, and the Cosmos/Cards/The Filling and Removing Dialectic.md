@@ -2,7 +2,7 @@
 status: captured
 fold_target: IV
 themes: [playbook, dialectic, triad, co-creation, operational]
-source: Phase 2.1 audit of The Lionsberg Meta Guide; expanded to triad 2026-05-22
+source: Phase 2.1 audit of The LIØNSBERG Meta Guide; expanded to triad 2026-05-22
 captured: 2026-05-18
 ---
 

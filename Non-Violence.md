@@ -20,7 +20,7 @@ Several factors can challenge the practice of non-violence, such as societal nor
 
 Cultivating non-violence involves fostering self-awareness, emotional intelligence, and effective communication and conflict resolution skills. It requires a deep commitment to respect the dignity and rights of all individuals and to uphold peace and justice. However, it also recognizes the moral obligation to protect oneself or others when they are in immediate danger.
 
-**Non-Violence in the Context of Lionsberg**
+**Non-Violence in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, non-violence becomes a fundamental guiding principle. It urges us to break away from old narratives that may justify violence unnecessarily, encouraging instead a commitment to peaceful coexistence, dialogue, and mutual respect.
 

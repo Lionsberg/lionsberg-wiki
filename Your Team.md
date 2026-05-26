@@ -5,7 +5,7 @@ You will then need to [[Organize and Federate]] Your Team with the emergent [[Te
 
 Your Team (or Teams) if You join multiple teams, will be the core unit(s) through which things get done. 
 
-We would recommend that You follow the principles outlined in [[Organizations The Lionsberg Way]] as Your Team Co-Creates itself. 
+We would recommend that You follow the principles outlined in [[Organizations The LIØNSBERG Way]] as Your Team Co-Creates itself. 
 
 Remember, the entire [[LIØNSBERG System]] is designed to function as an Integrated Whole, so there may be elements of the System that You haven't thought through yet that You may discover are important later. 
 

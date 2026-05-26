@@ -19,4 +19,4 @@ _____
 Forward to [[Avoiding Idolatry - Worshiping and Seeking in Spirit and Truth]]  
 Back to [[Culture and Context - The Time and Place in Which Word Tools are Articulated]]  
 Back to table of contents [[The Way of God]]  
-Onward to other [[Lionsberg Wiki Books]]  
+Onward to other [[LIØNSBERG Wiki Books]]  

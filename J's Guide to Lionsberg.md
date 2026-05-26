@@ -1,4 +1,4 @@
-# J's Guide To Lionsberg
+# J's Guide To LIØNSBERG
 *Updated April 2025*  
 [[Work In Progress]]  
 
@@ -14,41 +14,41 @@ How many of Us, how quickly, can exit [[The Caves]] and [[Cross The Chasm]]? How
 
 As the [[Existing Order]] accelerates into [[The Collapse]], how many billions of lives can be saved?   
 
-## The Lionsberg Manifesto   
+## The LIØNSBERG Manifesto   
 
-[[The Lionsberg Manifesto]]  
+[[The LIØNSBERG Manifesto]]  
 
-## The Lionsberg WikiBooks 
+## The LIØNSBERG WikiBooks 
 
-[[Lionsberg Wiki Books]]  
+[[LIØNSBERG Wiki Books]]  
 ## Above The Chaos
 
 [[Above The Chaos]]  
-## The Lionsberg Co-Creator's Handbook
+## The LIØNSBERG Co-Creator's Handbook
 
 The [[The LIØNSBERG Co-Creator's Handbook]] 
 
-## The Lionsberg History, Inception, and Trust Manifesto
+## The LIØNSBERG History, Inception, and Trust Manifesto
 
 [[LIØNSBERG - History, Inception, and Trust Manifesto]]  
 
-## The Lionsberg Lexicon
+## The LIØNSBERG Lexicon
 
 [[The LIØNSBERG Lexicon]]  
 
-## The WatchWords of Lionsberg
+## The WatchWords of LIØNSBERG
 
 [[The Watchwords of LIØNSBERG]]  
-## The Lionsberg Core Documents
+## The LIØNSBERG Core Documents
 
-- [[OneLionsberg]]
-- [[Lionsberg Spirit]]  
-- [[Lionsberg Intention]]   
-- [[Lionsberg Vision]]  
-- [[Lionsberg Mission]]  
-- [[Lionsberg Metaphors]]  
-- [[Lionsberg Personality]]  
-- [[Lionsberg Structure]]  
-- [[Lionsberg System and Approach]]  
+- [[OneLIØNSBERG]]
+- [[LIØNSBERG Spirit]]  
+- [[LIØNSBERG Intention]]   
+- [[LIØNSBERG Vision]]  
+- [[LIØNSBERG Mission]]  
+- [[LIØNSBERG Metaphors]]  
+- [[LIØNSBERG Personality]]  
+- [[LIØNSBERG Structure]]  
+- [[LIØNSBERG System and Approach]]  
 
-[[The Lionsberg Core Documents]]  
+[[The LIØNSBERG Core Documents]]  

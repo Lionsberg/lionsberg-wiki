@@ -1,4 +1,4 @@
-# Above The Chaos, The Great Game of Lionsberg
+# Above The Chaos, The Great Game of LIØNSBERG
 
 By [[Jordan Nicholas Sukut]], 2022.11.2 _(updated 2022.11.30)_
 
@@ -6,7 +6,7 @@ A post in [[Above The Chaos]].
 
 As you are aware, we have been working with a network of allies around the world on a secret plan to meet the needs, solve the problems, and capture the opportunities inherent in this moment of the epic Story of Life aboard Vessel: Earth.  
 
-The Great Game of Lionsberg is about to begin. 
+The Great Game of LIØNSBERG is about to begin. 
 
 ## The Plan 
 
@@ -43,7 +43,7 @@ During that time, I am I am going to reach out to network allies and see who is 
 11. Awareness regarding the network of networks and solutions we have at hand to meet this moment in history 
 12. An equal individual stewardship stake in the Value that will be created as the network effects and critical mass emerges over the coming years  
 13. Access to a collective knowledge repository of wisdom, solutions, and ideas - housed on a distributed network of machines that is not dependent on internet access 
-14. Access to the resources emerging through the Lionsberg | Elevation Initiative
+14. Access to the resources emerging through the LIØNSBERG | Elevation Initiative
 	1. Integrated Personal Development  
 	2. Integrated Group Development  
 	3. Integrated Community Development  
@@ -63,7 +63,7 @@ If it works, over the coming years this will get billions of dollars of resource
 
 In the meantime, I would like to secure bridge funding so I can can work closely with a core team of 5 to 12 to advance the critical infrastructure and technology. 
 
-While it is not required for the plan to succeed, if I were the world I would take ~$10 Million of the _already existing flow of $500 Billion of philanthropic spending each year_ and contribute it to the Lionsberg 501(c)(3) so that we can get the right world class talent working on this. 
+While it is not required for the plan to succeed, if I were the world I would take ~$10 Million of the _already existing flow of $500 Billion of philanthropic spending each year_ and contribute it to the LIØNSBERG 501(c)(3) so that we can get the right world class talent working on this. 
 
 ### 3. Solutions
 

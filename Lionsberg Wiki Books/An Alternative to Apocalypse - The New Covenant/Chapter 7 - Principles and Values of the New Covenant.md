@@ -45,4 +45,4 @@ ___
 Forward to [[Chapter 8 - Becoming One Citizenship Under God]]  
 Back to [[Chapter 6 - Why The Path Towards Apocalypse Affects Every Family On Earth]]  
 Back to Table of Contents [[An Alternative to Apocalypse - The New Covenant]]  
-Beyond to other [[Lionsberg Wiki Books]]  
+Beyond to other [[LIØNSBERG Wiki Books]]  

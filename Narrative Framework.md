@@ -32,17 +32,17 @@ Narrative frameworks also significantly influence our identity and self-percepti
 
 Furthermore, narrative frameworks can facilitate psychological healing and growth. Therapeutic approaches often utilize the power of narrative frameworks to help individuals reframe their experiences, identify and overcome [[Self-Limiting Beliefs]], and develop more accurate and empowering narratives.
 
-## Narrative Framework in Lionsberg
+## Narrative Framework in LIØNSBERG
 
-Recognizing the deep impact narratives have on our understanding and actions, Lionsberg uses a narrative framework as the backbone of its transformational journey. This narrative framework provides a structure to guide individuals and communities through the processes of growth and change in a meaningful way.
+Recognizing the deep impact narratives have on our understanding and actions, LIØNSBERG uses a narrative framework as the backbone of its transformational journey. This narrative framework provides a structure to guide individuals and communities through the processes of growth and change in a meaningful way.
 
-### Elements of Lionsberg's Narrative Framework
+### Elements of LIØNSBERG's Narrative Framework
 
 1. **Participants**: Individuals or groups embarking on the transformational journey.
 2. **Context**: The sociocultural and ecological context that shapes our experiences and actions.
-3. **Journey**: The sequence of experiences, learning, and transformations that occur through the Lionsberg programs.
+3. **Journey**: The sequence of experiences, learning, and transformations that occur through the LIØNSBERG programs.
 4. **Challenges**: The personal, societal, and ecological challenges that we aim to address.
 5. **Transformation**: The desired changes and outcomes of the transformational journey.
 6. **Resolution**: The ongoing co-creation of the New World. 
 
-Lionsberg's narrative framework seeks not only to guide but also to inspire, motivate, and empower individuals and communities towards positive change. This framework acknowledges the power of narratives in shaping our consciousness and aims to consciously utilize this power for transformation and growth.
+LIØNSBERG's narrative framework seeks not only to guide but also to inspire, motivate, and empower individuals and communities towards positive change. This framework acknowledges the power of narratives in shaping our consciousness and aims to consciously utilize this power for transformation and growth.

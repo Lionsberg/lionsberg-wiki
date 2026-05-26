@@ -20,7 +20,7 @@ Several factors can challenge transparency, including fear of criticism or rejec
 
 Cultivating transparency involves developing honesty, openness, and integrity. It requires the willingness to share one's thoughts, feelings, and actions openly, and to accept the vulnerability that comes with such openness. It also requires the courage to be open to scrutiny, critique, and accountability.
 
-**Transparency in the Context of Lionsberg**
+**Transparency in the Context of LIØNSBERG**
 
 In the journey from the Old World to the New, transparency becomes a guiding principle. It encourages us to examine and share our experiences, learnings, and challenges honestly, and to be open to scrutiny and accountability as we co-create the New World.
 

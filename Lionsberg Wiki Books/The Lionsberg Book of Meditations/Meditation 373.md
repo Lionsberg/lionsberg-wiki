@@ -10,4 +10,4 @@ ___
 
 Forward to [[Meditation 374]]  
 Back to [[Meditation 372]]  
-Back to table of contents [[The Lionsberg Book of Meditations]]  
+Back to table of contents [[The LIØNSBERG Book of Meditations]]  

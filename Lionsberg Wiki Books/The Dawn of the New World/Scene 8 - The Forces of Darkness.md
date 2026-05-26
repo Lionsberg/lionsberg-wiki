@@ -10,4 +10,4 @@ ___
 Forward to: [[Scene 9 - They Asked, And No One Answered]]  
 Back to: [[Scene 7 - The Beginning of the Perilous Descent]]  
 Back to Table of Contents: [[The Dawn of the New World]]  
-Onward to Other [[Lionsberg Wiki Books]]  
+Onward to Other [[LIØNSBERG Wiki Books]]  

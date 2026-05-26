@@ -10,7 +10,7 @@ One crisp morning, a stranger arrived. They wore simple robes, but their eyes sh
 
 The villagers, worn by hardship and distrust, muttered among themselves, suspicious of this newcomer. Yet curiosity stirred among them as the stranger stepped into the village square and gently placed the Cosmic Stone and the candle upon a low table.
 
-“Peace to all,” the stranger said, their voice resonating like the hum of a perfect chord. “I have traveled far, carrying this Cosmic Stone and this Sacred Flame. They are gifts, not from me, but from the [[Sacred Mountain]], Lionsberg itself, where the Eternal Flame burns unceasingly. With them, I can prepare a meal—a feast, in fact—that will nourish not only your bodies but also your souls. All I need is a cauldron of water and some wood for a fire.”
+“Peace to all,” the stranger said, their voice resonating like the hum of a perfect chord. “I have traveled far, carrying this Cosmic Stone and this Sacred Flame. They are gifts, not from me, but from the [[Sacred Mountain]], LIØNSBERG itself, where the Eternal Flame burns unceasingly. With them, I can prepare a meal—a feast, in fact—that will nourish not only your bodies but also your souls. All I need is a cauldron of water and some wood for a fire.”
 
 The villagers scoffed. “A feast from a stone and a flame? Nonsense!” they muttered. Yet curiosity, that ancient spark of the Divine, stirred among them. Of course it was a child, unburdened by fear, who first stepped forward and tugged at their mother’s sleeve. “Let them try,” the child whispered. The mother hesitated but nodded. An elder eventually agreed, retrieving a cauldron and placing it in the center of the square.
 
@@ -58,4 +58,4 @@ And so, the story of the Cosmic Stone became a living legend—a guiding star bo
 > And the Way to the Sacred Mountain lies within you.”
 ---
 
-Onward, into [[The Chronicles of Lionsberg]]. 
+Onward, into [[The Chronicles of LIØNSBERG]]. 

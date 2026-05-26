@@ -1,13 +1,13 @@
 # Your Starting Point
 
-Hello, welcome to Lionsberg. 
+Hello, welcome to LIØNSBERG. 
 
 We are attempting to [[Help One Another]] learn how to act out and embody the [[Meta Idea]] that we are [[All]] part of a [[Meta Community]], a [[Meta Project]], and a [[Meta Game]] that is bigger than any of us. And the only way we can 'win' the Game and accomplish [[The Goal]] is if we do it together. 
 
 Until we have a better [[Orientation and Onboarding Process]] up and running, this page is intended as a simple way to help you get quickly oriented and connected. 
 
 ## How We Use The Word Meta
-You may have arrived here by hearing about Lionsberg, or about the [[Meta Project]], the [[Meta Game]], or  the [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
+You may have arrived here by hearing about LIØNSBERG, or about the [[Meta Project]], the [[Meta Game]], or  the [[Meta Story]]. Before you go further, it might be helpful to understand how we are using the word [[Meta]]. 
 
 The word [[Meta]] as it is used in the [[LIØNSBERG System]] points to the most eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
@@ -44,9 +44,9 @@ The entire [[Meta Philosophy]] is meant to be operationalized through a comprehe
 
 For a personal view of how you can begin to elevate and transform your life, starting with [[Today]], see [[The Power of Today]]. 
 
-## The Books of Lionsberg
+## The Books of LIØNSBERG
 
-If it would be helpful to engage in a more comprehensive unfolding work of story, wisdom, and art, please visit [[Lionsberg Wiki Books]] and follow along as the series writes itself.
+If it would be helpful to engage in a more comprehensive unfolding work of story, wisdom, and art, please visit [[LIØNSBERG Wiki Books]] and follow along as the series writes itself.
 
 ## Help 
 

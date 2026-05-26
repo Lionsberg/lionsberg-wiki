@@ -12,7 +12,7 @@ A post in [[Above The Chaos]].
 [[#Heroic Groups Around The World]]  
 [[#A Simple Yet Sophisticated Plan Of Action]]  
 [[#An Invitation To A Game Big Enough That It Might Work]]  
-[[#The Myth of Lionsberg]]  
+[[#The Myth of LIØNSBERG]]  
 [[#Co-Creating The New World]]  
 [[#Crossing The Threshold and Closing The Boundary]]  
 [[#Rules and Structure of The Game]]  
@@ -45,7 +45,7 @@ This week, the clock began ticking on a **7 year opening plan of action** to con
 
 I am going on an opening pilgrimage the next couple weeks to visit sacred sites and spend a few days with allies at the United Nations COP even in Egypt. 
 
-When I return, I am going to close the borders of Lionsberg and begin working from within with whatever Groups want to play [[The Great Game of LIØNSBERG]]. 
+When I return, I am going to close the borders of LIØNSBERG and begin working from within with whatever Groups want to play [[The Great Game of LIØNSBERG]]. 
 
 The Goal of the Game is to help all Life rise towards the fullness of its potential and flourish in harmony, initially by connecting and empowering 1 billion small groups within 7 years. 
 
@@ -91,9 +91,9 @@ We have spent many years at great cost great preparing a Myth and a Great Game b
 
 I am inviting you to a party big enough for us All. 
 
-## The Myth of Lionsberg
+## The Myth of LIØNSBERG
 
-The Myth of Lionsberg is an epic Story set in a time of chaos and decay. 
+The Myth of LIØNSBERG is an epic Story set in a time of chaos and decay. 
 
 In the Story, cities, institutions, and nations of the Old World are crumbling and at war. The wealthiest live in luxury behind their walls, while the poor suffer and die in the streets. Violence, theft, and hatred break out openly. The world has so corrupted itself that all rainwater on earth is toxic to drink. The Four Horsemen are on the move, with plagues, famine, wars and death around the world. Hundreds of millions are displaced. Supply chains are shaking. Social tensions are increasing. A parade of corrupt leaders spews lies, propaganda, and fabricated money to calm and control the people. 
 
@@ -113,7 +113,7 @@ Millions around the world are already moving in response to that same Spirit and
 
 I am making a pilgrimage to see the sacred sites, and be present for a few days at the United Nations Climate Change Conference in Sharm El Sheikh, Egypt. 
 
-When I return, I will "close the boundary" and commence The Great Game of Lionsberg. Forging a Boundary will clearly define what and who is "in" and what and who is "out", and allow us to forge a closed loop System of energy and resources. I can personally participate in and serve up to 12 small groups to begin. 
+When I return, I will "close the boundary" and commence The Great Game of LIØNSBERG. Forging a Boundary will clearly define what and who is "in" and what and who is "out", and allow us to forge a closed loop System of energy and resources. I can personally participate in and serve up to 12 small groups to begin. 
 
 From that Starting Point, the near term Aim / Milestone is to connect and empower 1 billion small groups within 7 years. Small Groups will work together to communicate, solve problems, and help one another in the Wise Right Way as we navigate the transformation FROM the [[Old World]] TO the [[New World]]. Our current System Wide Master Plan shows that this is possible by Q1 2029, with 8 months remaining before the deadline of Christmas Day, 2029. 
 
@@ -128,7 +128,7 @@ The basic rules of The Game are:
 1. Individuals organize into small groups of 3 to 20. Each small group is sovereign, autonomous,  self-governing, and responsible and accountable for its own wellbeing, and the wellbeing of those around them.  
 2. Small groups are connected up to a Platform that equips and empowers them with a continuously improving set of training, solutions, and capabilities. 
 3. Small groups use 90% of their available Flow of energy and resources to meet needs, solve problems, and accomplish goals in their local context. Small groups contribute 10% of their available Flow of energy and resources to The Game to continuously improve the System, Platform, Infrastructure and Community that elevates and empowers All.  This creates exponential network effects and incentives for All. 
-4. Lionsberg will operate a two-way Communication and Guidance System that reflects 1) the current embodied State of Being of the total Group of Groups (Internal Context) 2) a shared picture of the opportunities, threats, and objectives at hand (External Context).  
+4. LIØNSBERG will operate a two-way Communication and Guidance System that reflects 1) the current embodied State of Being of the total Group of Groups (Internal Context) 2) a shared picture of the opportunities, threats, and objectives at hand (External Context).  
 5. Based on Internal Context, External Context, and our overarching and uniting Meta Goal and Values, the self-governing groups will begin navigating together in a Spirit of Truth and Love towards their Aim, with all individual and local Aims aligned to the universal Meta Aim. 
 
 The **Values** of The Game are Truth, Love, Justice, Stewardship, and Wisdom. 
@@ -151,15 +151,15 @@ No one owns The Game. It is transparently stewarded for the Good of all past, pr
 
 ## What And Who Can Enter The Boundary
 
-If it belongs in the New World, it belongs in Lionsberg and can enter the boundary. 
+If it belongs in the New World, it belongs in LIØNSBERG and can enter the boundary. 
 
-If it does not belong in the New World, it does not belong in Lionsberg and cannot enter the boundary. 
+If it does not belong in the New World, it does not belong in LIØNSBERG and cannot enter the boundary. 
 
 All individuals who ascribe to the [[Meta Goal]] and the [[Universal Values]] are welcome, subject to the agreement and voluntary consent of those already playing The Game. 
 
 All irreconcilable political, ideological, denominational and other differences and factions must be left behind in the Old World, so we can advance together in a spirit of Love towards higher order functional unity. 
 
-All Wisdom and Knowledge must imported into Lionsberg as part of the Lionsberg | Meta Science. This requires that propositions are stated humbly in terms of our [[Current Best Understanding]], which can be tested and conformed more closely to Ultimate Reality over Time. 
+All Wisdom and Knowledge must imported into LIØNSBERG as part of the LIØNSBERG | Meta Science. This requires that propositions are stated humbly in terms of our [[Current Best Understanding]], which can be tested and conformed more closely to Ultimate Reality over Time. 
 
 ## Dinner Party Rules 
 
@@ -194,7 +194,7 @@ If you are interested in some of the value created to date, see [[2022.Q2 Presen
 1. Let Jordan know : 
 	1) Are you in or out  
 	2) If you are in, whether you already have a small group of at least 3, or would like help forging or joining one.  
-2. November 16th - The Great Game of Lionsberg begins. 
+2. November 16th - The Great Game of LIØNSBERG begins. 
 3. November 16th through December 24th - training and onboarding of initial 3 to 13 groups, and creation of onboarding pipeline and process for additional groups. 
 4. January 1 - Begin the process of helping individuals forge or join groups, towards the Aim of helping 1 billion small groups from all tribes, nations, and peoples join the New Platform within 7 years by Christmas 2029.  
 5. Understand we do not know, this is totally an emergent process, chaos, obstacles and adventure lies ahead, and all we can do is commit to learn, grow, move in the Spirit, and get a little better every day as we work together to design and build the best possible future for All. 
@@ -202,9 +202,9 @@ If you are interested in some of the value created to date, see [[2022.Q2 Presen
 ## Additional Reading and Resources 
 
 1. For more on what I am doing and Why, see [[Jordan Nicholas Sukut]]  
-2. For more on the Myth of Lionsberg, see [[The Book of LIØNSBERG]] - work in progress 
+2. For more on the Myth of LIØNSBERG, see [[The Book of LIØNSBERG]] - work in progress 
 3. For friends and family suffering from Fear / Anxiety / Depression, see [[A Way Beyond Fear, Anxiety, And Depression]] - work in progress 
-4. For more on the Lionsberg System, see [[LIØNSBERG System]] 
+4. For more on the LIØNSBERG System, see [[LIØNSBERG System]] 
 
 
 

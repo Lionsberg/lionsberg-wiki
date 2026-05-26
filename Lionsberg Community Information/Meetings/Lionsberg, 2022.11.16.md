@@ -1,4 +1,4 @@
-# # Lionsberg, 2022.11.16
+# # LIØNSBERG, 2022.11.16
 
 ## Where Are We? 
 
@@ -11,7 +11,7 @@
 - smaller groups
     - Maybe all the work that actually needed to based on the sovereign autonomous action of of 3 to 20 people.
 - maybe something like a mind would be required.
-- kind of the first stage of a the brain: https://lionsberg.wiki/
+- kind of the first stage of a the brain: https://LIØNSBERG.wiki/
 - 4 x 6 week cycles evaluating Meta Project (in the abstract)
     - now instantiate in practice
     - 7 year time horizon - future backwards stated in days
@@ -47,13 +47,13 @@ Erik's questions
         - what is high functioning, for example
 - Jordan
     - Legal structure and governance structure to use now
-    - [Lionsberg Integrated Delivery Guide](https://lionsberg.wiki/lionsberg_system_design/the_way/the_lionsberg_system/lionsberg_integrated_delivery_guide/lionsberg_integrated_delivery_guide) 
+    - [LIØNSBERG Integrated Delivery Guide](https://LIØNSBERG.wiki/LIØNSBERG_system_design/the_way/the_LIØNSBERG_system/LIØNSBERG_integrated_delivery_guide/LIØNSBERG_integrated_delivery_guide) 
     - Listening deeply
     - Looking for the generalised solutions
     - Load these onto the platform
     - Look for network effects
 
-Lionsberg, Meta Project Disambiguation  
+LIØNSBERG, Meta Project Disambiguation  
 
 Marianne -  
     We need to try with a smaller instance  
@@ -65,17 +65,17 @@ Marjorie Kelly & Kate Raworth offer gaining clarity on:
 4. Ownership
 5. Finance
 
-The Different Lionsbergs  
-- Lionsberg the Idea or Myth
+The Different LIØNSBERGs  
+- LIØNSBERG the Idea or Myth
     - I like the idea and I am part of a movement; hovering and in principle support it
-- Lionsberg the Voluntary Association 
-    - I turn up and you, 'Lionsberg Volunteers' , accept my gift so I am a member
-- Lionsberg the Core Enterprise 
-    - I come because I am a formal member and I promise and do things reliably  for 'Lionsberg Core Enterprise' and the relationship also provides benefits in ways that are meaningful to me.
-- Lionsberg the Legal Structure 
-    - I have a formal role with responsibilities as law for the activities of 'Lionsberg Legal'
+- LIØNSBERG the Voluntary Association 
+    - I turn up and you, 'LIØNSBERG Volunteers' , accept my gift so I am a member
+- LIØNSBERG the Core Enterprise 
+    - I come because I am a formal member and I promise and do things reliably  for 'LIØNSBERG Core Enterprise' and the relationship also provides benefits in ways that are meaningful to me.
+- LIØNSBERG the Legal Structure 
+    - I have a formal role with responsibilities as law for the activities of 'LIØNSBERG Legal'
 
-Proposed Lionsbergs and/or Roles  
+Proposed LIØNSBERGs and/or Roles  
 - A Monitoring Group (along with the Core Enterprise)
     - And when we have a couple of prototypes, what will we see or hear to know we have evidence that what we are doing is working or is not working?
 - A Copywriter (explainer in simple terms)
@@ -110,7 +110,7 @@ Pete's order for today:
 
 ## Resources
 
-- [Lionsberg Provisional Structure](https://lionsberg.wiki/lionsberg_system_design/lionsberg_core_documents/provisional_structure)
+- [LIØNSBERG Provisional Structure](https://LIØNSBERG.wiki/LIØNSBERG_system_design/LIØNSBERG_core_documents/provisional_structure)
 - Massive Wiki - Brain - third piece ?what was 2nd piece
 - Open Impact - 
 

@@ -56,7 +56,7 @@ The inner transformation of individual souls holds the key to systemic change. S
 
 We know from centuries of coaching, mentoring, and spiritual formation that a natural outcome of genuine spiritual transformation is a deep desire for community with others who have their feet on the same path. 
 
-Therefore the Lionsberg strategy is rooted first in a profound spiritual transformation and shift in consciousness, second around forging a movement / community helping one another advance with All Creation towards The Goal, and third in the pragmatic systems, infrastructures, and processes to enable that movement towards Destiny to succeed and avoid failure. 
+Therefore the LIØNSBERG strategy is rooted first in a profound spiritual transformation and shift in consciousness, second around forging a movement / community helping one another advance with All Creation towards The Goal, and third in the pragmatic systems, infrastructures, and processes to enable that movement towards Destiny to succeed and avoid failure. 
 
 ### The Role of Prophetic Voices
 

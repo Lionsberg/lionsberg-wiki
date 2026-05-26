@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The question of measurement transcends the limitations of mere data points or statistical analysis. It touches the core of epistemology, ethics, and intentionality. As Lionsberg aspires for a metamorphosis of society and individuals, its metrics and methodologies for measurement should similarly be transformational. This chapter aims to create a framework for such metrics, connecting them to the overarching aim of facilitating a mass exodus from archaic, destructive systems to paradigms of justice, sustainable well-being, and meaningful existence.
+The question of measurement transcends the limitations of mere data points or statistical analysis. It touches the core of epistemology, ethics, and intentionality. As LIØNSBERG aspires for a metamorphosis of society and individuals, its metrics and methodologies for measurement should similarly be transformational. This chapter aims to create a framework for such metrics, connecting them to the overarching aim of facilitating a mass exodus from archaic, destructive systems to paradigms of justice, sustainable well-being, and meaningful existence.
 
 ---
 
@@ -10,11 +10,11 @@ The question of measurement transcends the limitations of mere data points or st
 
 ### The Ethics of Measurement
 
-Traditional metrics often risk reducing human experience and spiritual aspirations to quantifiable variables, thereby ignoring the essential qualities that make life meaningful. The ethical lens of measurement in Lionsberg, therefore, begins with the recognition of each individual's inherent worth, dignity, and transformative potential. This respect is operationalized through metrics that honor these qualities, guided by principles of justice, compassion, and mutual respect.
+Traditional metrics often risk reducing human experience and spiritual aspirations to quantifiable variables, thereby ignoring the essential qualities that make life meaningful. The ethical lens of measurement in LIØNSBERG, therefore, begins with the recognition of each individual's inherent worth, dignity, and transformative potential. This respect is operationalized through metrics that honor these qualities, guided by principles of justice, compassion, and mutual respect.
 
 ### Wisdom-Based Metrics
 
-In a world awash in information but starved for wisdom, our metrics should not merely indicate 'what' but also illuminate 'why' and 'how.' We need metrics grounded in spiritual and ethical wisdom, rooted in universal principles that guide our collective quest for meaningful change. Wisdom-based metrics look beyond the superficial to gauge the alignment of activities and outcomes with the foundational values and principles of Lionsberg.
+In a world awash in information but starved for wisdom, our metrics should not merely indicate 'what' but also illuminate 'why' and 'how.' We need metrics grounded in spiritual and ethical wisdom, rooted in universal principles that guide our collective quest for meaningful change. Wisdom-based metrics look beyond the superficial to gauge the alignment of activities and outcomes with the foundational values and principles of LIØNSBERG.
 
 ---
 
@@ -51,7 +51,7 @@ In a world awash in information but starved for wisdom, our metrics should not m
 
 1. **Node Activity Levels**: Quantifying the vitality and effectiveness of each decentralized node in the system.
     
-2. **Network Cohesiveness Index**: A measure of the coherence and synergistic potential among the various nodes and elements within the Lionsberg system.
+2. **Network Cohesiveness Index**: A measure of the coherence and synergistic potential among the various nodes and elements within the LIØNSBERG system.
     
 3. **Decentralized Initiative Adoption Rate**: Speed and frequency at which autonomous projects align with the overall vision and principles are initiated, resourced, completed, and reported on.
     

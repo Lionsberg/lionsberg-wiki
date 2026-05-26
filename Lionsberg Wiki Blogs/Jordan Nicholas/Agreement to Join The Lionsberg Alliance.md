@@ -1,15 +1,15 @@
-# **Agreement to Join The Lionsberg Alliance**
+# **Agreement to Join The LIØNSBERG Alliance**
 *This is preliminary draft to capture the Spirit and Essence of Our Collaboration. If you see ways to improve it, We can do that Together.*
  
 **Beloved One,**
 
 On its Quest towards Destiny, humanity is at a crossroads, standing before [[The Final Test]]—a moment of profound challenge and opportunity. Around the world, millions are awakening, stepping into their unique roles to help heal, elevate, and regenerate our shared reality. Yet in isolation, even the most gifted among Us lack the resources, relationships, and collective strength to transform the root causes of suffering and forge [[The Future We Seek]].
 
-Lionsberg was purpose-built to guide and empower humanity in this [[Quest]]: to confront and overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]. To succeed, We must identify, connect, and empower [[The First Three Percent]]—a planetary grid of leadership, light, and love—_**by 2026.**_ This is Our [[Critical Path]], and time is short.
+LIØNSBERG was purpose-built to guide and empower humanity in this [[Quest]]: to confront and overcome the [[Meta Crisis]] and co-create [[Heaven On Earth]]. To succeed, We must identify, connect, and empower [[The First Three Percent]]—a planetary grid of leadership, light, and love—_**by 2026.**_ This is Our [[Critical Path]], and time is short.
 
 _**You are here for a reason.**_
 
-This agreement invites you to step forward as a sovereign, free, and uniquely gifted individual to join [[The Lionsberg Alliance]]: a voluntary federation of awakening souls united in purpose and service to [[ØNE]] and [[All]].
+This agreement invites you to step forward as a sovereign, free, and uniquely gifted individual to join [[The LIØNSBERG Alliance]]: a voluntary federation of awakening souls united in purpose and service to [[ØNE]] and [[All]].
 
 By participating in [[The Alliance]], you affirm your alignment with the principles of truth, love, justice, stewardship, and wisdom, and commit to co-creating the [[Best Possible Future]] for [[All]]. Together, We can weave a tapestry of strength and abundance, lifting [[One Another]] and Our world toward the fullness of Our shared potential.
 
@@ -31,12 +31,12 @@ By participating in [[The Alliance]], you affirm your alignment with the princip
 	To function as [[ØNE Body]], The Alliance establishes basic agreements, protocols and practices that enable collaboration and mutual support. These [[Minimum Standards of Interoperability]] ensure that Our diversity strengthens rather than fragments Us.
     
 6. **Evolution and Growth**  
-    The Lionsberg System is a living framework, designed to emerge, evolve and adapt as We co-create Our [[New Civilization]]. By joining, you contribute your unique skills and insights to its continuous refinement, helping it meet the needs of humanity and beyond as [[The Movement]] grows.
+    The LIØNSBERG System is a living framework, designed to emerge, evolve and adapt as We co-create Our [[New Civilization]]. By joining, you contribute your unique skills and insights to its continuous refinement, helping it meet the needs of humanity and beyond as [[The Movement]] grows.
         
 
 ### **The Commitments We Honor**
 
-By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]].
+By joining [[The LIØNSBERG Alliance]], you affirm your willingness to embrace these simple yet profound commitments, which form a unified foundation for [[The Whole]].
 
 1. **Join as a Sovereign Individual:**  
     Stand as a free, unbound individual while contributing uniquely to [[The Whole]]. Strengthen the autonomy and capacity of your Self, your Teams, and your Communities to Self-Replicate and Self-Sustain. 
@@ -59,7 +59,7 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 ---
 
 5. **[[Pass The Flame]]:**  
-    Actively identify others who are awakening, share this Vision, and invite them to join [[The Lionsberg Alliance]]. Commit to empowering [[The First Three Percent]] by 2026, multiplying Our collective strength and reach within the [[Critically Effective Time Limit]].
+    Actively identify others who are awakening, share this Vision, and invite them to join [[The LIØNSBERG Alliance]]. Commit to empowering [[The First Three Percent]] by 2026, multiplying Our collective strength and reach within the [[Critically Effective Time Limit]].
 
 ---
 
@@ -70,11 +70,11 @@ By joining [[The Lionsberg Alliance]], you affirm your willingness to embrace th
 ---
 
 7. **Federate Everything and Act with Integrity:**  
-    Pursue opportunities, insights, and resources through [[Federated Teams]] within [[The Lionsberg Alliance]], ensuring that every success strengthens [[The Whole]] and enriches [[The Commons]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
+    Pursue opportunities, insights, and resources through [[Federated Teams]] within [[The LIØNSBERG Alliance]], ensuring that every success strengthens [[The Whole]] and enriches [[The Commons]]. Build [[Trust]], [[Reciprocity]], and [[Ongoing Mutual Consent]] in every relationship by acting transparently, sharing openly, and honoring [[Commitments]] in every relationship. 
 
 ---
 
-_These commitments are not burdens but sacred invitations to rise together. Lionsberg provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ØNE Body]]._
+_These commitments are not burdens but sacred invitations to rise together. LIØNSBERG provides the tools, guidance, and community needed to empower Us All to co-create joyfully as [[ØNE Body]]._
 
 ---
 

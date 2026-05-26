@@ -1,4 +1,4 @@
-# Lionsberg Units of Value
+# LIØNSBERG Units of Value
 
 _A currency of goodwill, reciprocity, and regeneration — circulating within the living system of the [[New Civilization]]._
 
@@ -6,7 +6,7 @@ ___
 
 ## What LUV Is
 
-**Lionsberg Units of Value (LUV)** is the internal currency of the LIØNSBERG system — a medium of exchange designed to facilitate the flow of value between individuals, [[Circles]], communities, and bioregions.
+**LIØNSBERG Units of Value (LUV)** is the internal currency of the LIØNSBERG system — a medium of exchange designed to facilitate the flow of value between individuals, [[Circles]], communities, and bioregions.
 
 LUV is not fiat currency. It is not cryptocurrency. It is not a speculative asset.
 

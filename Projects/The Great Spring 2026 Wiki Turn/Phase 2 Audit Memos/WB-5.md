@@ -26,7 +26,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 | 3 | Existential Threat | 27 | Read TOC + Ch. 3, 5, 11, 13, 16. Ch. 16 is the master hypothesis. | Strong. Jordan's personal disclosure testimony + 60-point indictment of "illegal secret government." |
 | 4 | The Great UnVeiling | 28 | Read TOC + Ch. 13, 15, plus the 99 Theses. | Strong. The cluster's prophetic/liturgical capstone. Contains 99 Theses, ~85K words, plus map of unfinished Gates V–XII. |
 | 5 | The 66 Most Protected and Distorted Narratives | 6 | Read master index + YHWH Matrix file + False Flags file (sample) | Master taxonomy of contested narratives, 4 essays written, 62 stubs. |
-| 6 | The Theses of Lionsberg | 1 | Read first 120 lines of 938. | Archive — explicitly marked as "Old Theses Archive." Migrated to 144 Theses under 12 Pillars. |
+| 6 | The Theses of LIØNSBERG | 1 | Read first 120 lines of 938. | Archive — explicitly marked as "Old Theses Archive." Migrated to 144 Theses under 12 Pillars. |
 | 7 | The Greatest Fraud, Deception, and Existential Threat in History | 1 | Read first 200 lines of 310. | Standalone synthesis essay. Likely the proto-essay that seeded the other books. |
 | 8 | Anomalies of Interest | 1 | Full read (72 lines). | Working scratchpad. Brian Roemmele tracking, AI/biology/cosmos anomalies. Not a book. |
 | 9 | Beyond Earth | 17 | Read TOC + Note 2 (Hierarchy of Beings) + Note 4 (Kontrolle Matrix). | Substantial. Marked "rapidly produced by AI + J." ~50K words. |
@@ -50,7 +50,7 @@ This file is the verbatim transcription of the audit memo delivered by the subag
 
 **5. The 66 Most Protected and Distorted Narratives** — Master taxonomy in 6 sections: False Cosmologies & Origins (1–11), False Theologies (12–22), False Histories & Wars (23–33), False Sciences (34–44), False Economies & Governance (45–55), False Identities (56–66). Only 4 of 66 written. Powerful **scaffold** — operates as a research register.
 
-**6. The Theses of Lionsberg** — Archive. Explicitly migrated to 12 Pillars × 144 Theses architecture. Recommend leaving as historical reference.
+**6. The Theses of LIØNSBERG** — Archive. Explicitly migrated to 12 Pillars × 144 Theses architecture. Recommend leaving as historical reference.
 
 **7. The Greatest Fraud, Deception, and Existential Threat in History** — Single-essay synthesis (~10K words) of the cluster's whole argument. Reads as a proto-essay or executive-summary version.
 
@@ -190,7 +190,7 @@ These exist or have been queued in earlier Phase 2 batches and should be **refin
 - **[[Controlled Disclosure]]** — Refine via ET Ch. 6, Thesis 88, AFG 22.
 - **[[Spiritual Warfare]]** — MPHNI 8.4 gives a sharper formulation than earlier articulations.
 - **[[Operation Paperclip]] / [[Fourth Reich]]** — Harvested + AFG 22 give the textured history. These remain factual-historical Cards, not pattern Cards.
-- **[[The 12 Pillars of LIØNSBERG]] / [[144 Theses]]** — The Theses of Lionsberg book is explicitly the migrated archive. Note: it has 938 lines of legacy content that should be cross-referenced when the 144 Theses are finalized.
+- **[[The 12 Pillars of LIØNSBERG]] / [[144 Theses]]** — The Theses of LIØNSBERG book is explicitly the migrated archive. Note: it has 938 lines of legacy content that should be cross-referenced when the 144 Theses are finalized.
 
 ---
 
@@ -285,7 +285,7 @@ The cluster's most striking property is **massive overlap**. The same material a
 
 ### 7.2 Archive Candidates (Move Out of Main Wiki Books)
 
-- **The Theses of Lionsberg** — already explicitly marked archive. Move to an `_Archive/` location with a redirect note.
+- **The Theses of LIØNSBERG** — already explicitly marked archive. Move to an `_Archive/` location with a redirect note.
 - **Anomalies of Interest** — working scratchpad, not a book. Move to a personal notebooks location or fold into a "Current Anomalies Register" wiki section.
 - **Transmedium Ark Exploration** — explicitly self-flagged as possibly hallucinated. Either move to an `_AI Explorations/` location or radically compress to a single Card noting "advanced craft engineering principles per AI exploration."
 
@@ -373,4 +373,4 @@ This cluster is the wiki's **diagnostic and prophetic-disclosure pole**. It is o
 
 **Voice-discipline flags:** ~30 specific translation tasks, with Beyond Earth Note 2 and 99 Theses Theses 2/9/13/26 as highest priority.
 
-**Consolidation recommendation:** 12 books → 4 books (1 unified Great UnVeiling volume in 4 Books) + 1 Sources Cited registry + 3 archive moves (Theses of Lionsberg, Anomalies of Interest, Transmedium Ark).
+**Consolidation recommendation:** 12 books → 4 books (1 unified Great UnVeiling volume in 4 Books) + 1 Sources Cited registry + 3 archive moves (Theses of LIØNSBERG, Anomalies of Interest, Transmedium Ark).

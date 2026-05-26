@@ -1,3 +1,3 @@
-# Lionsberg 2023.02.08
+# LIØNSBERG 2023.02.08
 
 - Jordan sick - cancelled meeting. 

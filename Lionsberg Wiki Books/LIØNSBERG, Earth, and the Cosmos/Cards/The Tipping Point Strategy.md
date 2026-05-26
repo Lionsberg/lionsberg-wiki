@@ -2,7 +2,7 @@
 status: captured
 fold_target: III
 themes: [great-game, tipping-point, cascade, strategy, foundational]
-source: Phase 2.1 audit of The Dawn of the New World + The Lionsberg Strategy and Plan
+source: Phase 2.1 audit of The Dawn of the New World + The LIØNSBERG Strategy and Plan
 captured: 2026-05-19
 ---
 

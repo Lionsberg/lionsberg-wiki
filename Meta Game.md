@@ -11,9 +11,9 @@ Success in the Meta Game is measured in terms of progress towards the [[Meta Goa
 
 Below is an elementary _starting point_ / conceptual design for how we might attempt to instantiate / act out a continuously improving version of the Meta Game. 
 
-To avoid [[Concretizing The Absolute]], we call it the Lionsberg | Meta Game to differentiate it from the Absolute concept. The same concept has been explored under [[The Great Game]] / [[The Great Game of LIØNSBERG]].  
+To avoid [[Concretizing The Absolute]], we call it the LIØNSBERG | Meta Game to differentiate it from the Absolute concept. The same concept has been explored under [[The Great Game]] / [[The Great Game of LIØNSBERG]].  
 ___
-# The Lionsberg | Meta Game
+# The LIØNSBERG | Meta Game
 
 ## Introduction  
 Over the past years, it has become obvious that in addition to the [[Meta Project]] framework a [[Meta Game]] is also trying to emerge. 
@@ -22,9 +22,9 @@ Like the [[Meta Project]], no one "owns" the universal and eternal Meta Game tha
 
 And yet in order for us to play it, pragmatic requirements emerge around structure, governance, currencies, and other pragmatic issues that demand that a framework emerge. 
 
-The Lionsberg [[Provisional Structure]] was purpose-built to empower the Meta Community to act out and embody the Meta Project / Meta Game / Meta Idea. 
+The LIØNSBERG [[Provisional Structure]] was purpose-built to empower the Meta Community to act out and embody the Meta Project / Meta Game / Meta Idea. 
 
-Therefore as a bridge between the [[Meta]] level of abstraction, the incarnation of that framework / spirit / goal in our time and place, we are proposing that we try to figure out how to play the Lionsberg | Meta Game in parallel with the Lionsberg | Meta Project. 
+Therefore as a bridge between the [[Meta]] level of abstraction, the incarnation of that framework / spirit / goal in our time and place, we are proposing that we try to figure out how to play the LIØNSBERG | Meta Game in parallel with the LIØNSBERG | Meta Project. 
 
 ## Emergence
 From early discussion in the first three six week cycles of the Meta Project, it became apparent that mechanisms for the measurement and exchange of Time and Energy were required. 
@@ -33,24 +33,24 @@ Experts in the group encouraged us to articulate hypotheses, and test / play / e
 
 ## Warning
 
-The Lionsberg | Meta Game is a game so powerful and dangerous that as we play it our lives and our world literally transform. Play with great caution, for as you do both you and your world will be changed. 
+The LIØNSBERG | Meta Game is a game so powerful and dangerous that as we play it our lives and our world literally transform. Play with great caution, for as you do both you and your world will be changed. 
 
 ## Purpose / Intention 
 The purpose / intention of the game is to empower everyone, everywhere to begin rising towards the fullness of their unique potential and flourishing, by helping [[All]] others do the same. This is logical and efficient Way / Path towards the overarching and uniting [[Meta Goal]]. 
 
-## Place in the Lionsberg System
+## Place in the LIØNSBERG System
 
-Whereas the Lionsberg | [[Meta Project]] was designed to be a more rigorous and technical view of the total program of action required to solve the grand challenges and accomplish the global goals...
+Whereas the LIØNSBERG | [[Meta Project]] was designed to be a more rigorous and technical view of the total program of action required to solve the grand challenges and accomplish the global goals...
 
 ...the [[Meta Game]] is intended as an accessible entry point for any child, family, or playful adult. It helps solve the core requirement that the platforms and infrastructure of the New World reach out and are accessible to every being on earth, without exception, regardles of their background of current [[State of Being]]. 
 
-The Core DNA / Logic / Way of Being behind Lionsberg / Meta Project / Meta Game is all same, flowing from one spirit / mind. 
+The Core DNA / Logic / Way of Being behind LIØNSBERG / Meta Project / Meta Game is all same, flowing from one spirit / mind. 
 
-In order to succeed, and avoid failure, the Meta Game needs to be coordinated and harmonized out with all other elements of the Lionsberg System or the System will not function as Intended. 
+In order to succeed, and avoid failure, the Meta Game needs to be coordinated and harmonized out with all other elements of the LIØNSBERG System or the System will not function as Intended. 
 
 ## Logos / Logic of the Game
 
-The [[Logos]] / [[Logic]] of the Meta Game is the same as the Logos of every other element of the Lionsberg System, which to the best of our understanding harmonizes with the Logos of the entire Living System. 
+The [[Logos]] / [[Logic]] of the Meta Game is the same as the Logos of every other element of the LIØNSBERG System, which to the best of our understanding harmonizes with the Logos of the entire Living System. 
 
 If 8 billion people chose to play the Game, the universal symphony would sound. 
 
@@ -63,7 +63,7 @@ Rather than pick one named Game, we need to make the total set of all Games succ
 
 As we discover other emergent games with different names, we can disover how to serve / cooperate / empower them to rise towards their potential and flourish together. 
 
-The only requirement is Sovereignty - we can never subordinate any element of Lionsberg or the Meta Framework to anything other than the eternal and universal One and All, or the entire [[Meta Logic]] / [[Logos]] they are predicated upon will fail, and destroy the System. 
+The only requirement is Sovereignty - we can never subordinate any element of LIØNSBERG or the Meta Framework to anything other than the eternal and universal One and All, or the entire [[Meta Logic]] / [[Logos]] they are predicated upon will fail, and destroy the System. 
 
 The moment we subordinate any element to any other Game or System, is the moment it dies and ceases to embody the spirit of what we are trying to accomplish, which demands that every element of the System _directly_ relates back to and flow from the deepest possible level of abstraction.  
 ___
@@ -184,7 +184,7 @@ When the Team to Team commitment is Accepted, and the Commitment thereby fulfill
 ## Everything Is A Project / Everything Is A Story
 Applying the [[Everything Is A Project]] framework, or [[Everything Is A Story]] framework, these Packages or Stories of Work need to be aggregated up into higher level stories and projects that are accomplishing the [[Meta Project]] / [[Meta Story]]. 
 
-The mechanics of how this can be accomplished can be found in the [[Lionsberg Integrated Delivery Guide]] - the project based langauge can be transformed to simple Game / Quest based language. 
+The mechanics of how this can be accomplished can be found in the [[LIØNSBERG Integrated Delivery Guide]] - the project based langauge can be transformed to simple Game / Quest based language. 
 
 ## Markup
 Each Team is entitled to 10% "markup" on its [[Package of Work]] in order to create a pool of [[Time Currency]] to accomplish its Overhead and Administration Function. 
@@ -204,7 +204,7 @@ REMEMBER - Whenever possible, a Team should be established _within_ the Game to 
 
 The technical reason for this relates to the [[Velocity of Currency]] within the System. 
 
-Currency can be exchanged via the [[Lionsberg Central Bank]].  
+Currency can be exchanged via the [[LIØNSBERG Central Bank]].  
 
 ## Flow and Velocity of Currency Within the System
 When [[Time Currency]] is earned within the Game, and Spent within the Game, it is gauranteed to return much faster to the spender, leading to ever greater abundance and exchange between Agents in the Game. 
@@ -213,12 +213,12 @@ When [[Time Currency]] is exchanged for [[Fiat Currency]] and leaves the System,
 
 As such, there is a tremendous incentive to keep as much [[Time Currency]] within the Game as possible, so that it circulates at a very high velocity and causes All Agents and Teams to spiral upward quickly together. 
 
-## The Lionsberg Central Bank
-The Lionsberg Central Bank is responsible for overseeing the monetary system of the Lionsberg System, as well as its interface with the [[Old World]]. 
+## The LIØNSBERG Central Bank
+The LIØNSBERG Central Bank is responsible for overseeing the monetary system of the LIØNSBERG System, as well as its interface with the [[Old World]]. 
 
 As [[Meaningful Work]] is performed within the Game / System, it will present the [[Value Creation]] to the world on a regular, and request that the world Reciprocally [[Transact]] on that Value. 
 
-These transaction can enter the Lionsberg System in the form of multiple capital flows, from philanthropic donations to fuel the Meaningful Work that is occurring, to payments on contracts and joint ventures executed on by the Team of Teams. 
+These transaction can enter the LIØNSBERG System in the form of multiple capital flows, from philanthropic donations to fuel the Meaningful Work that is occurring, to payments on contracts and joint ventures executed on by the Team of Teams. 
 
 The ratio of the total value of Assets in the System, divided by the total [[Time Currency]] in circulation, will forge the basis for the [[Exchange Rate]] on the [[Time Currency x Fiat Currency Interface]]. 
 
@@ -283,14 +283,14 @@ For instance, a Team with superpowers in sales and marketing should be _extremel
 There is a massive need and market for such services in genuinely wonderful organizations and institutions who are not yet part of the Game, but are working entirely in the same spirit towards the same Goals. 
 
 #### A List of Clients Who Need Meaningful Work
-To help facilitate / empower this effort, Lionsberg should amass a growing list of organizations in the Old Work who require and contract out [[Meaningful Work]], and help Agents in the Game select the most meaningful work available at each given point in [[Space and Time]]. 
+To help facilitate / empower this effort, LIØNSBERG should amass a growing list of organizations in the Old Work who require and contract out [[Meaningful Work]], and help Agents in the Game select the most meaningful work available at each given point in [[Space and Time]]. 
 
 ## Creating Our Own Largest Client
-Over time, Lionsberg / the Meta Game / the Meta Project itself should be co-created into our own largest and most meaningful client. 
+Over time, LIØNSBERG / the Meta Game / the Meta Project itself should be co-created into our own largest and most meaningful client. 
 
 This will allow all Agents in the Game, as a Community, to entirely self-govern and decide what is most important and why, and then work together towards it. 
 
-Just like any contractor or non-profit presents its valuable work out to the world / clients / donors for funding, so too can the Lionsberg Meta Game / Meta Project / Community aggregate up and present out its Value to the world. 
+Just like any contractor or non-profit presents its valuable work out to the world / clients / donors for funding, so too can the LIØNSBERG Meta Game / Meta Project / Community aggregate up and present out its Value to the world. 
 
 As resources flow into the Central Bank, teams that then determine the [[Wise Right]] mix of [[Time Currency]] and [[Fiat Currency]] they would like to receive. 
 
@@ -300,10 +300,10 @@ Over time, the goal is to experience the Reality of how surpassingly greater the
 ## Internal Work More Valuable Than External Work
 Similary, over time the goal is to move the amount of time spent on Work outside the System from 100% towards 0%, and the amount of Time spent on the Most Meaningful Work inside the System from 0% towards 100%. 
 
-## The Lionsberg Sovereign Wealth Fund 
-The Lionsberg Sovereign Wealth Fund will be responsible for the multi-generational Structuring and Stewardship of Assets in the System. 
+## The LIØNSBERG Sovereign Wealth Fund 
+The LIØNSBERG Sovereign Wealth Fund will be responsible for the multi-generational Structuring and Stewardship of Assets in the System. 
 
-The total Value stewarded by the Lionsberg Sovereign Wealth Fund, divided by the total number of Agents in the Game, will represent an approximation of the theoretical "wealth" being stewarded by each Agent in the Game over their Lifetime. 
+The total Value stewarded by the LIØNSBERG Sovereign Wealth Fund, divided by the total number of Agents in the Game, will represent an approximation of the theoretical "wealth" being stewarded by each Agent in the Game over their Lifetime. 
 
 However unlike the Old System, in which wealth was hoarded by individuals, in the New System wealth will be represented by rapidly circulating [[Time Currency]] that is used to unlock abundance, meet needs, and solve problems for All. 
 
@@ -369,7 +369,7 @@ There is a very real and non-zero probability of a significant collapse of life 
 So, we don't know, but if we collectively put our hearts and minds towards continuously improving the starting point we already have at hand, _it might work._
 
 ## Invitation
-I am offering up my life, Lionsberg, and the Meta Project / Meta Game concepts as a starting point to the New Game that is trying to emerge. 
+I am offering up my life, LIØNSBERG, and the Meta Project / Meta Game concepts as a starting point to the New Game that is trying to emerge. 
 
 Let's gather up some people, start playing the Game, and see what happens. 
 

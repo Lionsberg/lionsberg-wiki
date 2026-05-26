@@ -20,7 +20,7 @@ As the opportunities in the Meta Project presenced themselves around our fledgli
 
 As crisis and opportunity expanded in September, we hit an energetic and practical wall where it became evident that without greater vision, structure, communication, and clarity, energy was leaking from the abstract space we were holding for the meta project. 
 
-It also became evident that we had to clarify and define the relationship between Jordan, Lionsberg, Meta Project, and the various groups and individuals relating to one another in various ways. 
+It also became evident that we had to clarify and define the relationship between Jordan, LIØNSBERG, Meta Project, and the various groups and individuals relating to one another in various ways. 
 
 About 4 to 6 weeks ago, it became evident that those of us who wanted to facilitate the emergence and functionality of the ‘group of groups’ needed greater organization, structure, and clarity to hold the energy we were pouring in… 
 
@@ -50,21 +50,21 @@ So the only option I can see that might work is to rapidly advance and iterate f
 
 I see **5 clear steps** we can take to get across this chasm to the next phase of the quest. 
 
-### Step 1: Core Lionsberg Group of 5 to 12 Individuals
+### Step 1: Core LIØNSBERG Group of 5 to 12 Individuals
 
-Solidify a core group of 5 to 12 people to help rapidly iterate Lionsberg as a continuously improving community, platform, system, and legal “commons” in service of All. Shift from 6 week cycles to lean 2 weeks iterative cycles. I will use the fullness of my being to help hold the space for both being and doing, ensure pattern integrity, and provide clarity, vision, and leadership. (Structure in place, what is needed is 5 to 12 people to accept the invitation to deeper co-creation with Jordan and Lionsberg). 
+Solidify a core group of 5 to 12 people to help rapidly iterate LIØNSBERG as a continuously improving community, platform, system, and legal “commons” in service of All. Shift from 6 week cycles to lean 2 weeks iterative cycles. I will use the fullness of my being to help hold the space for both being and doing, ensure pattern integrity, and provide clarity, vision, and leadership. (Structure in place, what is needed is 5 to 12 people to accept the invitation to deeper co-creation with Jordan and LIØNSBERG). 
 
 ### Step 2: Invite 5 to 20 Groups Into Relationship 
 
-Invite 5 to 20 groups, out of the 100s of groups already in the group of groups, into relationship with Lionsberg and one another (every group is sovereign and continues to govern and structure itself however it sees fit). (Structure in place, what is needed is 5 to 20 groups to accept the invitation to relationship with Lionsberg). 
+Invite 5 to 20 groups, out of the 100s of groups already in the group of groups, into relationship with LIØNSBERG and one another (every group is sovereign and continues to govern and structure itself however it sees fit). (Structure in place, what is needed is 5 to 20 groups to accept the invitation to relationship with LIØNSBERG). 
 
 ### Step 3: Minimum Viable Super Mind 
 
-Establish the basic function of the Lionsberg | Mind - that can rhythmically take in communication signals regarding the state / opportunities / needs / emergence of each group,  and represent a shared picture of the Whole and its various possible futures back out to the group. 
+Establish the basic function of the LIØNSBERG | Mind - that can rhythmically take in communication signals regarding the state / opportunities / needs / emergence of each group,  and represent a shared picture of the Whole and its various possible futures back out to the group. 
 
 ### Step 4: Minimum Viable Internal Communication System
 
-Train the groups on a basic internal communication system that brings the group of groups into greater awareness and communication with one another, and allows Lionsberg and the group of groups to prioritize needs and help one another in any way that they can. (System in place - need to train and establish social norms and processes around use).
+Train the groups on a basic internal communication system that brings the group of groups into greater awareness and communication with one another, and allows LIØNSBERG and the group of groups to prioritize needs and help one another in any way that they can. (System in place - need to train and establish social norms and processes around use).
 
 ### Step 5: Minimum Viable Broadcasting System 
 
@@ -79,7 +79,7 @@ If we do a great job serving and empowering them, and inspiring more leaders and
 
 ### Value Created In Season One
 
-I and Lionsberg will work with the 5 to 12 to wrap up the value, knowledge, and content we co-created in Season One and publish it to the Lionsberg Wiki so that everyone has access to it under Creative Commons licensing. Any value realized from it in the future will be transparently stewarded through Lionsberg for the good of all.  
+I and LIØNSBERG will work with the 5 to 12 to wrap up the value, knowledge, and content we co-created in Season One and publish it to the LIØNSBERG Wiki so that everyone has access to it under Creative Commons licensing. Any value realized from it in the future will be transparently stewarded through LIØNSBERG for the good of all.  
 
 We will also pull it together into a presentation that can be used externally to communicate clearly with outside groups. 
 
@@ -87,17 +87,17 @@ We will also pull it together into a presentation that can be used externally to
 
 In Season Two, we will begin to experiment with a basic system to track our time and contributions. Everyone engaged will have a membership / stake / voice in whatever Value we co-create as we build on the Value created in Season One. 
 
-The Lionsberg System is designed up front with the potential and intention that 8 billion people are eventually invited into equal citizenship, rights, and responsibilities in a loving, just, and good System that reintegrates the human system with the living system. 
+The LIØNSBERG System is designed up front with the potential and intention that 8 billion people are eventually invited into equal citizenship, rights, and responsibilities in a loving, just, and good System that reintegrates the human system with the living system. 
 
 ## Clarity and Expectations Around Jordan’s Time
 
 I am working on this full time, and will focus my time in three primary places: 
 
 1. External: Speaking / broadcasting / writing to inspire and identity other groups to connect to the system 
-2. Internal: Working with the core Lionsberg team on strategy and system architecture / integrity, without drifting too far South into operations / execution. 
+2. Internal: Working with the core LIØNSBERG team on strategy and system architecture / integrity, without drifting too far South into operations / execution. 
 3. Internal: Holding space for community, relationship, “being”, discernment, emergence… 
 
-I will occasionally continue to visit and speak to other groups, but will primarily focus on working with the leaders of the groups in relationship with Lionsberg, and doing whatever I can each week to improve Lionsberg as a servant and empowerer of All. 
+I will occasionally continue to visit and speak to other groups, but will primarily focus on working with the leaders of the groups in relationship with LIØNSBERG, and doing whatever I can each week to improve LIØNSBERG as a servant and empowerer of All. 
 
 Time is wasting, and I want to make sure that what I investing time and energy into actually has a chance to accomplish The Goal. 
 

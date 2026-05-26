@@ -2,7 +2,7 @@
 
 A Network of Commitments in a System is a logically ordered series of Commitments, or Actions, that when executed as a [[Process]] creates [[Throughput]] of [[The Goal]] of the [[System]]. 
 
-On the "Doing" side of the Lionsberg System, it is the fundamental backbone of [[Value]] creation and measurement. 
+On the "Doing" side of the LIØNSBERG System, it is the fundamental backbone of [[Value]] creation and measurement. 
 
 [[Conscious Agents]] use the [[Planning System]] to determine the [[Milestones]] that mark the [[Way]] towards the [[Goal]].
 

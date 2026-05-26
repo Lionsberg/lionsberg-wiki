@@ -105,4 +105,4 @@ The Sovereign does not need to read this Book to walk the Way. They walk it by w
 
 The End
 
-Onward to other [[Lionsberg Wiki Books]].
+Onward to other [[LIØNSBERG Wiki Books]].

@@ -49,7 +49,7 @@ If we are going to alter the trajectory of Society before it is too late to avoi
 
 If we are successful in doing that, the good news is that we will created the means for every individual on earth to have the opportunity to embark on a life long journey of learning and total human development. Not just for this generation, but for all generations to come. 
 
-## The Lionsberg | Meta Academy
+## The LIØNSBERG | Meta Academy
 We have helped fund the development of a technological platform, already tested in top US Universities, that is capable of providing any individual with an internet connection access to life long program of learning and human development. 
 
 While it is ultimately the right thing to do to develop curricula across all topics in each of the languages of the world so that every individual can access information in their own native language, in the short term to avert global catastrophe we can grant access to every being in the world the ability to participate in the decision making and governance of the world by giving them a single key that unlocks both the primary diplomatic language of the world, and a language into which the vast majority of the world's wisdom and knowledge has been translated: English. 
@@ -78,18 +78,18 @@ Among the many transformations that must occur in the way we help one another le
 
 This has been described by many as one of the most difficult technological challenges in learning, and this capability has been built into the platform. 
 
-## The Lionsberg | Meta Platform 
+## The LIØNSBERG | Meta Platform 
 The crucial breakthrough of the Platform however is not in education. While we expect it to entirely revolutionize education, that is not most exciting part. 
 
 The most exciting part of the Platform is the view of each individual not as a member of a single organization or named thing... but as a unique individual entering a Community purpose-built for life-long relationship with them, to help them develop into the fullness of their potential and flourish. 
 
 By viewing each individual as a unique and important being that we want to help, over the course of their lives, develop into the fullness of their potential across many different organizations, services, projects, and opportunities they will pursue, we have the potential to begin a life long partnership with each of the billions of people of earth. 
 
-### The Lionsberg Listening Engine 
+### The LIØNSBERG Listening Engine 
 As each subsequent person connects to the platform and global Community, we are designing powerful ways to begin listening deeply to the needs that they express as they encounter various challenges and obstacles on their Quest towards their potential. 
 
 ### Categorization, Ontologies, and Prioritization
-As the Lionsberg | Meta Platform connects to individuals with basic life-serving services and information, and listens, we are developing technology to classify, make sense of and present back out to the Community what we are hearing. 
+As the LIØNSBERG | Meta Platform connects to individuals with basic life-serving services and information, and listens, we are developing technology to classify, make sense of and present back out to the Community what we are hearing. 
 
 The Community can then use collective intelligence to "vote" / "discern" on the most pressing needs that require time, resources, and attention. 
 
@@ -130,7 +130,7 @@ As you can imagine, such a platform and program will become exceptionally valuab
 
 We spent several years advancing a next-generation [[Provisional Structure]] for stewarding the value this Program and Platform creates for the good of all generations of life. 
 
-Built for multi-generational stewardship and governance, the system is currently taking in and allocating resources through the Lionsberg United States 501(c)(3) public charity to ensure transparency and accountability. 
+Built for multi-generational stewardship and governance, the system is currently taking in and allocating resources through the LIØNSBERG United States 501(c)(3) public charity to ensure transparency and accountability. 
 
 Miraculously, this starting point has been created with _no private investors or government funds_, ensuring that the Community that emerges around it will be able to govern itself freely and pass the baton for generations to come. 
 
