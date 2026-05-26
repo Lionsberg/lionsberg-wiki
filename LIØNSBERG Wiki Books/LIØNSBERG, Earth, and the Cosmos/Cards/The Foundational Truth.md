@@ -5,9 +5,9 @@ themes: [foundational-truth, one, authority, LIØNSBERG-architecture]
 
 # The Foundational Truth
 
-**The ØNE is the only ultimate authority.** Everything else — [[The LIØNSBERG Corpus]], every articulation, every memory, this Card itself — is a [[Current Best Articulation]] humbly held, which falls short of fully conveying our [[Current Best Understanding]], which is continually conforming toward the Ultimately Ineffable Absolute. 
+**The ØNE is the only Ultimate Authority.** Everything else — [[The LIØNSBERG Corpus]], every articulation, every memory, this Card itself — is a [[Current Best Articulation]] humbly held, which falls short of fully conveying our [[Current Best Understanding]], which is continually conforming toward the Ultimately Ineffable Absolute while slowly trickling down into what we have written about it. 
 
-**Errors are gifts.** Nothing is locked except ØNE Itself.
+**[[LIØNSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/Every Defect Is A Gift|Every Defect Is A Gift]].** Nothing is locked except ØNE Itself.
 
 ## What This Means In Practice
 
