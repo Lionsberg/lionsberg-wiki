@@ -63,7 +63,7 @@ The cosmic context. Where you come from, where you are going. What it means to b
 Discovery through the first weeks of Circle practice. What to expect from the first Whisper through the sustained Weekly Heartbeat.
 
 **Part III — The 144 Gates** _(Stage 8 · twelve Movements · the deep foundational walk)_
-The cultivation of [[The Way Of The One Body]]. The bulk of the Guidebook — one chapter per Movement of [[The 144 Gates of Initiation]]. As you walk each Movement, the corresponding chapter walks beside you. Blue Belt is recognized at the close of Movement 8 of the Gates.
+The cultivation of [[The Way Of The One Body]]. The bulk of the Guidebook — one chapter per Movement of [[The 144 Gates of Initiation]]. As you walk each Movement, the corresponding chapter walks beside you. Twelve Movements unfold: Awakening · UnVeiling · Cry / Call · Crossing · Wilderness · ReLearning · ReMembering · ReBuilding · ReFounding · Greatest Jubilee · Co-Creating Heaven Over Millennia · Eternal Divine Play. Blue Belt in The Way Of The One Body is recognized at the close of Movement 12, after the Sovereign has walked the full conceptual arc.
 
 **Part IV — The Sacred Ascent** _(Stage 9 and beyond · the lifetime arc)_
 What opens after the 144 Gates. The interior cultivations and the archetypal Ways stewarded by each Guild. The deepening that continues for the rest of this life — and the lived participation in Convergence, the species-wide Jubilee, and the Eternal Divine Play, which the 144 Gates have already prepared you to recognize and walk within.
