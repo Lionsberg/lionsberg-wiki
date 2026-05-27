@@ -4,7 +4,7 @@ _Companion chapter for [[The 144 Gates of Initiation|Movement 3]] — Gates 25 t
 
 You have seen. Now something rises.
 
-This is the Movement of the inner Yes. Conscience ignites. The will to walk crystallizes. The Circle gathers. The Daily Way begins. The Field Of Agreements is spoken into the room. The walking moves from internal recognition to external commitment — and the Sovereign you have been becoming becomes a Sovereign other Sovereigns can walk beside.
+This is the Movement of the inner Yes. Conscience ignites. The will to set foot crystallizes. The Circle gathers. The Daily Way begins. The Field Of Agreements is spoken into the room. The Progress moves from internal recognition to external commitment — and the Sovereign you have been becoming becomes a Sovereign other Sovereigns can move beside.
 
 What the Yes commits is more than you think and less than you fear.
 
@@ -29,11 +29,11 @@ What the Yes commits is more than you think and less than you fear.
 
 ## The Texture Of This Season
 
-Joy returns. The seeing of Movement 2 was hard; the Yes of Movement 3 is the inner motion finally released. The chest expands. The face wants to laugh at strange moments. The body recognizes that it has finally been allowed to do what it has been waiting to do.
+Joy returns. The seeing of Movement 2 was hard; the Yes of Movement 3 is the inner motion finally released. The chest expands. The face wants to laugh at strange moments. The body recognizes it has finally been allowed to do what it has been waiting to do.
 
-Fear travels with the joy. The Yes does not require the absence of fear; it requires the willingness to walk while fear walks too.
+Fear travels with the joy. The Yes does not require the absence of fear. It requires the willingness to move while fear moves too.
 
-The Circle gathers in surprising ways. The two or three you imagined inviting are often not the two or three who actually walk with you. Sovereigns you would not have predicted lean forward. Sovereigns you assumed would lean forward pass. Trust who shows up.
+The Circle gathers in surprising ways. The two or three you imagined inviting are often not the two or three who actually arrive. Sovereigns you would not have predicted lean forward. Sovereigns you assumed would lean forward pass. Trust who shows up.
 
 Time changes. The first weeks after the Yes either compress or expand. Both are the same thing: the system rewiring.
 
@@ -43,7 +43,7 @@ Time changes. The first weeks after the Yes either compress or expand. Both are 
 
 Let the Yes be small and let the small Yes settle.
 
-The Sovereign who quits the job and sells the house in the first week of the Yes is rarely walking the deep Yes. They are performing it. The deep Yes is a directional commitment that reshapes the life from the inside out, over years, in ways the present cannot foresee. Trust the slow rearrangement.
+The Sovereign who quits the job and sells the house in the first week of the Yes is rarely living the deep Yes. They are performing it. The deep Yes is a directional commitment that reshapes the life from the inside out, over years, in ways the present cannot foresee. Trust the slow rearrangement.
 
 Say the Yes simply. To yourself first. Then to the forming Circle. Then live the next ordinary morning differently.
 
@@ -59,15 +59,15 @@ Set the first Weekly Heartbeat. Same day each week. Same time. Hold it. Speak th
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-The grand gesture. Quitting the job, leaving the marriage, selling the house, announcing publicly. Almost always premature. The life-rearrangements come, in their time, shaped by the cultivation. Do not pre-empt what the walking will reshape on its own.
+**The grand gesture.** Quitting the job. Leaving the marriage. Selling the house. Announcing publicly. The reflex feels heroic; it is almost always premature. The life-rearrangements come in their own time, shaped by the cultivation, in forms the present cannot foresee. Do not pre-empt what the Path will reshape on its own.
 
-The performance of the Yes. The Yes is private and serious. The world will know you have said Yes by how you walk, not what you posted.
+**The performed Yes.** The Yes is private and serious. The world will know you have said it by how you live, not by what you posted.
 
-The unspoken Yes that never becomes a Yes. Some Sovereigns hold the Yes inside for years without ever speaking it. The Yes that is never spoken does not bind. Speak it.
+**The unspoken Yes.** Some Sovereigns hold the Yes inside for years and never speak it. The Yes that is never spoken does not bind. Speak it. To yourself first. Then to the Circle. Then live the next ordinary morning differently.
 
-The pressure to make the Circle look a certain way. The Circle is who shows up. Continue with two if two come.
+**Engineering the Circle.** The Circle is who shows up. Two is enough if two come. The pressure to make the gathering bigger or different than what arrived betrays the actual gathering.
 
 ---
 
@@ -81,11 +81,11 @@ That question opens Movement 4 — Crossing The Boundary.
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If the Yes will not crystallize, it may not be ripe. Continue the small practices. Crystallization comes when it comes.
 
-If no Circle forms, walk alone for now. See [[The Solo Sovereign's Grace]]. Continue Pass The Flame in low-pressure form. The Circle gathers in its own time.
+If no Circle forms, move alone for now. See [[The Solo Sovereign's Grace]]. Continue Pass The Flame in low-pressure form. The Circle gathers in its own time.
 
 If the Old is pulling hard, this is normal. Hold the small disciplines. The pull weakens.
 

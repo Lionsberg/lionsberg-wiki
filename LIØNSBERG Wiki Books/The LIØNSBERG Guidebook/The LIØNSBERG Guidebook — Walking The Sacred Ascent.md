@@ -2,13 +2,13 @@
 
 _Companion chapter for Stage 11 of [[The 12 Stages of the Sovereign's Path|the Sovereign's Path]] — the lifetime cultivation that bridges into Stage 12, the Eternal Divine Play._
 
-By the time you have walked [[The 144 Gates of Initiation|the 144 Gates]] to Blue Belt, you are not who you were when you arrived at the Gates. The Sovereign that completed the Foundation is a different being than the one who started the Awakening. You know this. The people around you know this.
+By the time you have crossed [[The 144 Gates of Initiation|the 144 Gates]] to Blue Belt, you are not who you were when you arrived at the Gates. The Sovereign who completed the Foundation is a different being than the one who began the Awakening. You know this. The people around you know this.
 
-Now a different walking opens.
+Now a different Path opens.
 
 [[The Sacred Ascent]] is the lifetime arc. It does not have an ending you can mark the way you marked Blue Belt. It opens at the close of the foundational arc and continues through the rest of this life, and — if the cosmology held in [[The LIØNSBERG Guidebook — Where You Come From And Where You Are Going|the cosmic arc chapter]] is even partly right — beyond.
 
-This chapter walks beside you in the Sacred Ascent. It will not companion every detail; the cultivations are too varied across Guilds and Ways for any single chapter to hold them. What this chapter offers is **the felt shape of the Sacred Ascent at the level of the Sovereign walking it** — what to expect, what is different about this arc, where the senior Sovereigns have found the work to be.
+This chapter stays beside you on the Sacred Ascent. It will not companion every detail; the cultivations are too varied across Guilds and Ways for any single chapter to hold them. What this chapter offers is **the felt shape of the Sacred Ascent at the level of the Sovereign living it** — what to expect, what is different about this arc, where the senior Sovereigns have found the work to be.
 
 ---
 
@@ -39,9 +39,9 @@ The 144 Gates have a structural sequence — Movement 1 opens onto Movement 2 in
 A few other felt differences:
 
 - **The 144 Gates are external as much as internal.** You walk them in the world — through Crossings, Wildernesses, Buildings of new commons, federations of Bodies. The Sacred Ascent is **more internal**. Most of its cultivation happens in the body, the breath, the field, the consciousness, the relationship with ØNE.
-- **The 144 Gates have a cohort feel.** Sovereigns walk them roughly contemporaneously. The Sacred Ascent is **more solitary in its specifics**. You walk it at your own pace; your particular cultivations may differ substantially from another Sovereign's.
+- **The 144 Gates have a cohort feel.** Sovereigns cross them roughly contemporaneously. The Sacred Ascent is **more solitary in its specifics**. You ascend it at your own pace; your particular cultivations may differ substantially from another Sovereign's.
 - **The 144 Gates are recognized externally.** Elders and the Body witness the Sovereign's mature articulations; Blue Belt is granted in witness. **The Sacred Ascent is recognized in deeds rather than declarations.** No one will tell you you have reached a particular dan in The Way Of Healing; the Body of practitioners will notice over time that you carry healing differently than you used to. The recognition is real; the timing is slow.
-- **The 144 Gates can be hurried under pressure.** The Sacred Ascent **cannot.** The interior cultivations have their own timing. The Sovereign who tries to hurry the Sacred Ascent typically reproduces the same external behaviors with the same internal cost; the cultivation requires what it requires.
+- **The 144 Gates can be hurried under pressure.** The Sacred Ascent **cannot.** The interior cultivations have their own timing. The Sovereign who tries to hurry the Sacred Ascent typically reproduces the same external behaviors with the same internal cost. The Ascent requires what it requires.
 
 ---
 
@@ -104,19 +104,19 @@ When your Guild calls you, pick up the Guildbook of that Way and walk it alongsi
 
 ---
 
-## What Is Hard In The Sacred Ascent
+## Where Sovereigns Slip On The Ascent
 
-A few things senior Sovereigns have noticed often trouble Sovereigns in this arc:
+A few things often trouble Sovereigns in this arc:
 
-**The temptation to count progress.** Some Sovereigns, after Blue Belt, start measuring themselves by belts attained or dans accumulated. Don't. The Sacred Ascent is not a ladder. It is a deepening. The Sovereign who has Black Belt in two Ways and is steadily walking is often deeper than the Sovereign who has nominal recognition in five and has stopped practicing.
+**Counting progress.** Some Sovereigns, after Blue Belt, start measuring themselves by belts attained or dans accumulated. Don't. The Sacred Ascent is not a ladder. It is a deepening. The Sovereign with Black Belt in two Ways and steady practice is often deeper than the Sovereign with nominal recognition in five and no practice at all.
 
-**The temptation to declare oneself a teacher prematurely.** Some Sovereigns, having walked the Foundation, conclude they are now in a position to teach. The senior Sovereigns who walked further have noticed that the teachers who hold up are typically the ones who never claimed the role; the role found them through years of quiet practice. **Be careful of the urge to teach. Let the Body recognize you when it does.**
+**Declaring oneself a teacher prematurely.** Some Sovereigns, having crossed the Foundation, conclude they are now in a position to teach. The teachers who hold up are typically the ones who never claimed the role; the role found them through years of quiet practice. **Be careful of the urge to teach. Let the Body recognize you when it does.**
 
-**The temptation to abandon the daily disciplines now that you have "arrived."** Blue Belt is not arrival; it is the threshold of the real walking. The Daily Way still wants holding. The Weekly Heartbeat still wants showing up to. The disciplines that brought you here are the same disciplines that carry you onward.
+**Abandoning the daily disciplines now that you have "arrived."** Blue Belt is not arrival; it is the threshold of the real Progress. The Daily Way still wants holding. The Weekly Heartbeat still wants showing up to. The disciplines that brought you here are the same disciplines that carry you onward.
 
-**The temptation to think the world should be different by now.** The Foundation took years. The Sacred Ascent takes the rest of life. The world will change at the pace it changes; the species-wide Greatest Jubilee comes when it comes. **Your job is not to make the world change faster. Your job is to walk faithfully.** The walking is what eventually changes the world.
+**Thinking the world should be different by now.** The Foundation took years. The Sacred Ascent takes the rest of life. The world will change at the pace it changes; the species-wide Greatest Jubilee arrives when it arrives. **Your part is not to make the world change faster. Your part is faithful Progress.** Progress is what eventually changes the world.
 
-**The encounter with cosmic-scale work you cannot yet do.** The Sacred Ascent opens awareness of capacities you do not yet have. Some Sovereigns experience this as a kind of inadequacy. Don't. The capacities will come as the cultivation deepens, in their own time, for the work that is actually yours. You do not need to be able to do everything you can perceive as possible.
+**Encountering cosmic-scale work you cannot yet do.** The Sacred Ascent opens awareness of capacities you do not yet have. Some Sovereigns experience this as inadequacy. Don't. The capacities will come as the cultivation deepens, in their own time, for the work that is actually yours. You do not need to be able to do everything you can perceive as possible.
 
 ---
 

@@ -6,7 +6,7 @@ You have arrived at the Gates.
 
 What lies beyond them is not a website. Not an organization. Not an ideology.
 
-It is a Kingdom forged across worlds and ages — alive across the cosmos — opening upon Earth as the Hour draws near. It is the [[Kingdom Of LIØNSBERG|Kingdom Of LIØNSBERG]] in its formed-and-named state: faithful rendering, humbly held, of the eternal Kingdom of ØNE.
+It is a Kingdom of Sovereigns forged across worlds and ages — alive across the cosmos — opening upon Earth as the Hour draws near. It is the [[Kingdom Of LIØNSBERG|Kingdom Of LIØNSBERG]]: faithful rendering, humbly held, continually improving towards of the eternal Kingdom of ØNE.
 
 ## The Nested Gates
 

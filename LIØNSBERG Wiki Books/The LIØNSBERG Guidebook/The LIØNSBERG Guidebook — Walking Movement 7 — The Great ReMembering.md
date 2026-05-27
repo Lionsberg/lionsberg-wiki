@@ -65,17 +65,17 @@ And hold your Circle as home base. The wider Body is real. The Circle is still t
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Falling in love with the wider Body and losing the Circle. The expansion is exciting. Resist letting the Circle thin out. The Circle is where the cultivation continues.
+**Falling in love with the wider Body and losing the Circle.** The expansion is exhilarating. Some Sovereigns let the Circle thin out while their attention turns outward. The Circle is still the cell. The wider Body is real because the Circles are real. Tend the cell first.
 
-Premature coordination. Rushing from ReMembering into joint projects with newly-met kin. Wait. The right collaborations emerge from sustained relationship.
+**Premature coordination.** The energy of first recognition makes everything feel ready. The relationships are not yet seasoned. Joint projects launched from green kinship often do not hold. Let the relationships ripen before the building begins.
 
-Inflation. The wider Body includes many remarkable Sovereigns. Some Sovereigns over-claim a place; some shrink. Hold yourself with humility AND with the clear knowing that you ARE a recognized member. Both at once.
+**Inflation.** The wider Body includes many remarkable Sovereigns. The pull, meeting them, is either to over-claim a place or to shrink. Neither serves. Stand humbly in the clear knowing that you are a recognized member.
 
-Trying to be recognized faster than the Body recognizes. The Body sees in its own time. Your work is the walking; recognition is the Body's gift.
+**Trying to be recognized faster than the Body recognizes.** The Body sees in its own time. Your work is the Path; recognition is the Body's gift.
 
-Hiding from the wider Body out of fear. The pull to retreat is normal. Resist it. The ReMembering requires showing up.
+**Hiding from the wider Body out of fear.** The pull to retreat is normal. Resist it. The ReMembering requires showing up. The Sovereigns who hid from this Movement remained smaller than what was being offered.
 
 ---
 
@@ -87,11 +87,11 @@ When that knowing has landed, the cultivation turns outward to making. Movement 
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If you cannot find the wider Body locally, use online gatherings. The Body across distance is also the Body.
 
-If you cannot articulate your Story, Map, Purpose, Passion, Function — start small. One sentence about each. Refine over time. The articulations mature in offering, not in private composition.
+If you cannot articulate your Story, Map, Purpose, Passion, Function — start small. One sentence about each. Refine over time. The articulations mature in the offering, not in private composition.
 
 If you are overwhelmed by the wider Body, narrow your engagement. One Circle deeply, one wider gathering occasionally, is enough.
 

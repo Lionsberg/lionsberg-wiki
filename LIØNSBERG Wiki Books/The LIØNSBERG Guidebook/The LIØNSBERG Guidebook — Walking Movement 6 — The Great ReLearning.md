@@ -22,7 +22,7 @@ This Movement is quieter than what came before. It has the steady accumulating q
 68. **ReLearning Of Story** — meaning recovered
 69. **ReLearning Of Healing** — basic capacity to restore wholeness in self and others
 70. **ReLearning Of Leadership As Service** — authority through service, not domination
-71. **ReLearning Of Worship / Reverence** — orientation to the Sacred
+71. **ReLearning Of Reverence** — orientation to the Sacred
 72. **The ReLearning Held** — the Sovereign now lives differently because they know differently
 
 ---
@@ -35,7 +35,7 @@ Capacities you did not know you had lost begin to return. The body remembers how
 
 The Pattern Language stops being abstract. Patterns start naming things you actually encounter. A question arises; a Card is the right answer; the Card becomes part of how you think. Then another question, another Card. Over months, dozens of Patterns are working vocabulary.
 
-Patience returns. The Wilderness needed urgency. This Movement does not. You can let the ReLearning take time because the body knows that what is being learned will be needed for the rest of your walking.
+Patience returns. The Wilderness needed urgency. This Movement does not. You can let the ReLearning take time because the body knows what is being learned will be needed for the rest of your Path.
 
 Childhood skills reemerge. Sovereigns who were stripped of making, gardening, naming, listening, storytelling rediscover that those capacities were never killed — only suppressed. The Sovereign of three years old, in some sense, comes back.
 
@@ -59,15 +59,15 @@ Find teachers in the world. This is the Movement most Sovereigns find external t
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Consuming more material instead of integrating what you have. Resist the urge to read new Cards. Practice one for a season.
+**Consuming more instead of integrating what you have.** The hunger to keep reading is the residue of Old learning, where accumulation was the measure. Resist. Practice one Pattern for a season. The Card you used three times has done more for you than the ten you read once.
 
-Comparison with Sovereigns who relearn faster. The pace is sovereign. Your particular ReLearning is yours.
+**Comparison with faster Sovereigns.** Your particular ReLearning is yours. The body learns at the speed the body learns. The hands learn at the speed the hands learn. Watching another Sovereign's pace deforms your own.
 
-Relearning only at the level of mind. The body, the hands, the relationship with land — these are not optional. The Sovereign who learns from books without learning from the soil and the breath has not walked Movement 6.
+**Relearning only at the level of mind.** The body, the hands, the relationship with land are not optional. The Sovereign who learns from books without learning from the soil and the breath has not crossed Movement 6 — they have read about it.
 
-Treating Pattern Cards as doctrine. They are living grammar. Use them; refine them; do not worship them.
+**Treating the Cards as doctrine.** They are living grammar. Use them; refine them; do not worship them. The Pattern Card that becomes scripture has become a small Cave.
 
 ---
 
@@ -79,7 +79,7 @@ When the ReLearning has landed, the cultivation turns outward. You begin to reco
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If you are reading without practicing, stop reading and practice one thing.
 

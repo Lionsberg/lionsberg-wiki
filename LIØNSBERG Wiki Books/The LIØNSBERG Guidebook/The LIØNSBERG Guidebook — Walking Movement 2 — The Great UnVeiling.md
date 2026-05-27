@@ -4,9 +4,9 @@ _Companion chapter for [[The 144 Gates of Initiation|Movement 2]] — Gates 13 t
 
 The Awakening left you knowing something was wrong. Movement 2 is where you see what.
 
-The Caves come into focus as Caves. The architecture you were swimming in — the lies woven through Self, family, society, system, story, cosmos — becomes visible as architecture, not as reality. What was background becomes foreground. What was assumed becomes question.
+The Caves come into focus as Caves. The architecture you were swimming in — the lies woven through Self, family, society, system, story, cosmos — becomes visible as konstruct, not as reality. What was background becomes foreground. What was implicit becomes explicit. What was assumed becomes question.
 
-What you cannot see, you cannot leave. This Movement is the seeing.
+What you cannot see, you cannot consciously leave. This Movement is the seeing.
 
 ---
 
@@ -31,45 +31,43 @@ The seeing lands in waves rather than in numbered order. Trust the order it actu
 
 ## The Texture Of This Season
 
-Anger arrives. Hatred has not yet arrived; let it not. Anger at the scale of what was hidden is appropriate and it moves. Hatred would calcify it.
+Anger arrives. Hatred has not yet arrived; let it not. Anger at the scale of what was hidden is appropriate and it moves. Hatred would calcify it. Powerful Love dissolves it. 
 
-Grief arrives. Grief for the years walked inside the Caves believing they were the world. For the relationships shaped by lies on both sides. For what was taken before you knew anything was being taken. Let the grief move. It will.
+Grief arrives. Grief for the years chained inside the Caves believing they were the world. For the relationships shaped by unconscious lies on both sides. For what was taken before you knew anything was being taken. Let the grief move. It will.
 
-Disgust arrives. What was neutral before — the news, certain foods, certain entertainments, certain conversations — turns. The body has woken up to what the body always knew. Do not fight the body's refusal. It is information.
+Disgust arrives. What was neutral before — the news, certain foods, certain entertainments, certain conversations — turns. The body has woken up to what the body always knew. Do not fight the body's refusal. It is information. Vomit when you need to vomit. 
 
 Sleep changes. The seeing is metabolically expensive. Some weeks more, some less. Both pass.
 
-And underneath these — relief. The unease that had no name for years has a structure now. The Sovereign can finally say what was always sensed. That relief is real. Let it be felt.
+And underneath these — relief and release. The unease that had no name for years has a structure now. The Sovereign can finally say what was always sensed. That relief is real. Let it be felt.
+
+Soon we will be beyond this point. 
 
 ---
 
 ## The Discipline
 
-See without becoming the seeing.
+The practices that keep you steady are small. Dawn silence at [[Silence And Stillness As The Ground]] — even seven minutes. Eat. Sleep. Move the body. Walk outside. Stay with one or two trusted others. Express what you are feeling. Cry. Yell. Be angry. Let sacred rage flow. 
 
-The trap of this Movement is identity-inflation: _I am someone who sees the Caves._ You are not the seeing. You are the Sovereign doing the seeing. Hold the seeing in your hand; do not become it.
-
-The practices that keep you steady are small. Dawn silence at [[Silence And Stillness As The Ground]] — even five minutes. Eat. Sleep. Move the body. Walk outside. Stay with one or two trusted others.
-
-Time-bound the unveiling material. Some Sovereigns binge documentaries and exposés and emerge unable to feel anything. The Caves are not going anywhere. You have time.
+Time-bound the unveiling material. Some Sovereigns binge exposés and emerge unable to feel anything or orient themselves. The Caves are an endless trap of horrors. Don't let them hold your attention captive. 
 
 ---
 
 ## What To Reach For
 
-[[The Great UnVeiling]] for the canonical articulation. [[The 99 Theses]] and [[The 66 Most Protected and Distorted Narratives]] when you are ready for the deeper layers. [[Discernment]] for what holds the seeing. [[Shoshin]] for keeping the seeing fresh rather than ideological. [[Composure Under Threat]] in its first form — you are not yet under physical threat, but the seeing is threatening to the inherited frame.
+[[The Great UnVeiling]] for the deeper articulation. [[The 99 Theses]] and [[The 66 Most Protected and Distorted Narratives]] when you are ready for the next layers. [[Discernment]] for what holds the seeing. [[Shoshin]] for keeping the seeing fresh rather than fixed. [[Composure Under Threat]] in its first form — you may not yet be under threat, but the mere act seeing is threatening to the inherited frame.
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Trying to convince everyone. The UnVeiling is not transmitted by argument. The ready will see; the unready will resist; your insistence makes their resistance harder to soften later. Walk. Let your changed life be the only argument.
+**The reflex to convince everyone.** The UnVeiling does not transmit by argument. The ready will see; the unready will resist; your insistence hardens their resistance against later softening. Move. Let a life transformed with New purpose and passion be the silent argument.
 
-The rabbit-hole. Once the Caves are visible, every claim about hidden architecture starts to feel plausible. Some of those claims are themselves Caves-content designed to capture the awakening. Discernment is the cultivated capacity to tell which is which, and it takes time. Hold specifics lightly. Trust the shape more than the granular.
+**The rabbit-hole.** Once the Caves are visible, every claim about hidden architecture begins to feel plausible. Some of those claims are themselves Caves-content engineered to capture the awakening. Discernment is the cultivated capacity to tell which is which, and it takes time. Hold specifics lightly. Trust the general shape far more than the granular details.
 
-Performance of the seeing. Online declarations. Long threads. The mannerism of "look how far I see." The serious walking is private. The performance trivializes it.
+**The performance of the seeing.** Online declarations. Long threads. The mannerism of _look how far I see._ The serious work is private. The public performance trivializes it.
 
-Despair. The scale is overwhelming when fully seen. Despair converts seeing into paralysis. The way through is one small act of life-making, however modest. Plant something. Make something. Call someone who is also walking. Action does not require optimism. It requires only the next step.
+**Despair.** The scale, fully seen, can flatten. Despair converts seeing into paralysis. The way through is one small act of life-making, however modest. Plant something. Make something. Call someone else who is waking. Action does not require optimism. It requires only the next step.
 
 ---
 
@@ -83,11 +81,11 @@ That question opens Movement 3 — the Cry of the Heart and the Call to Exodus.
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If you have been drowning in unveiling material, set it down. The seeing integrates without more input.
 
-If you have been seeing alone, find one other Sovereign who is also seeing. The Movement is the most isolating; isolation worsens it.
+If you have been seeing alone, find one other Sovereign who is also seeing. This Movement is the most isolating; isolation worsens it.
 
 If the seeing has become identity, return to the small practices. The Sovereign is older than the seeing.
 

@@ -1,10 +1,10 @@
 # The LIØNSBERG Guidebook — The Daily Disciplines
 
-The Walk is long. The disciplines that hold it together are small.
+The Path is long. The disciplines that hold it together are small.
 
-This chapter names the daily and weekly practices that hold every Movement of the Walk together. Almost everything else in the Guidebook references back to these. They are not exotic. They are not heroic. They are the small repeating rhythms that, sustained over years, do what no single dramatic act can do.
+This chapter names the daily and weekly practices that hold every Movement of the Path together. Almost everything else in the Guidebook references back to these. They are not exotic. They are not heroic. They are the small repeating rhythms that, sustained over years, do what no single dramatic act can do.
 
-The early temptation is to skip them — to think the walking is about big things. The walking is about big things. The big things happen because of the small disciplines.
+The early temptation is to skip them — to think the Path is about big things. It is about big things. The big things happen because of the small disciplines.
 
 If you remember nothing else from this Guidebook, remember these.
 
@@ -59,9 +59,9 @@ You will be tempted to think it does not matter that you, specifically, hold daw
 
 ## OmniSpection
 
-A few times a year — typically at the seasonal turns — the Circle pauses for **[[OmniSpection]]**. A wider look. A 360-degree review of what has been walked, what has been built, what wants to refine, what wants to release.
+A few times a year — typically at the seasonal turns — the Circle pauses for **[[OmniSpection]]**. A wider look. A 360-degree review of what has been crossed, what has been built, what wants to refine, what wants to release.
 
-OmniSpection is the practice that keeps the Walk responsive rather than rigid. The Quests change as the Sovereigns and the world change. The Circle's agreements refine as the Circle matures. The contributions to the wider [[The LIØNSBERG Map]] surface as the Sovereigns see things others have not yet seen.
+OmniSpection is the practice that keeps the Path responsive rather than rigid. The Quests change as the Sovereigns and the world change. The Circle's agreements refine as the Circle matures. The contributions to the wider [[The LIØNSBERG Map]] surface as the Sovereigns see things others have not yet seen.
 
 OmniSpection is described in detail in the [[The LIØNSBERG Playbook|Playbook]]. The Guidebook references it here because the daily and weekly disciplines stay healthy when held within a longer seasonal rhythm.
 
@@ -119,7 +119,7 @@ Some things that have helped many Sovereigns:
 - **Forgive missed days.** The discipline is not perfection. The discipline is returning.
 - **Notice the cost of NOT doing them.** After a season or two of consistent practice, missing them becomes more uncomfortable than doing them. The body knows.
 
-The disciplines hold the walk. Eventually the walk holds the disciplines. The two become one rhythm.
+The disciplines hold the Path. Eventually the Path holds the disciplines. The two become one rhythm.
 
 ---
 

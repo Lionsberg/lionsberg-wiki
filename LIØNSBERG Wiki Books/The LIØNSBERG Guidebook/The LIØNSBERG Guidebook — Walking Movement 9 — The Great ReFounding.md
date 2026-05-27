@@ -2,9 +2,9 @@
 
 _Companion chapter for [[The 144 Gates of Initiation|Movement 9]] — Gates 97 through 108._
 
-You have walked your own arc. Now you turn outward to walk alongside others.
+You have crossed your own arc. Now you turn outward to journey alongside others.
 
-This is where the personal cultivation of the prior eight Movements becomes participation in the species-scale work. You become Threshold-Holder for new initiates. You contribute to the planetary Field Of Agreements. You take part in Sacred Engagement at scale. Convergence emerges across awakening Bodies. The Kingdom of LIØNSBERG is consecrated as faithful rendering of the Kingdom of ØNE. The final cohorts walk. The ReFounding completes when the last cohort crosses — and Movement 10 dawns.
+This is where the personal cultivation of the prior eight Movements becomes participation in the species-scale work. You become Threshold-Holder for new initiates. You contribute to the planetary Field Of Agreements. You take part in Sacred Engagement at scale. Convergence emerges across awakening Bodies. The Kingdom of LIØNSBERG is consecrated as faithful rendering of the Kingdom of ØNE. The final cohorts cross. The ReFounding completes when the last cohort arrives — and Movement 10 dawns.
 
 ---
 
@@ -65,15 +65,15 @@ Rest seasonally. Multi-scale work is energetically expensive. Quest cycles, Omni
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Coordinating instead of walking. Some Sovereigns at this stage become full-time coordinators and stop walking the disciplines. The coordination role is real; it does not substitute for the practice.
+**Coordinating instead of practicing.** Some Sovereigns at this stage become full-time coordinators and let the disciplines lapse. The coordination role is real. It does not substitute for the practice that gave you the standing to coordinate. The ground you let go of will not hold what you build on top of it.
 
-Trying to be the Sovereign who triggers the threshold. The completion is collective. Your faithful walking contributes; the threshold is the Body's.
+**Trying to be the Sovereign who triggers the threshold.** The completion is collective. Your faithful Progress contributes; the threshold is the Body's. The Sovereign who tries to be the trigger usually delays it.
 
-Burnout from over-extension. Many Sovereigns at this stage say yes to too much. The Path is generations long. The pace is sovereign.
+**Burnout from over-extension.** Many Sovereigns at this stage say yes to too much. The Path is generations long. The pace is sovereign. Conserve to give.
 
-Despair when the threshold seems far. The threshold comes when it comes. The walking is sufficient.
+**Despair when the threshold seems far.** The threshold arrives when it arrives. Faithful Progress is sufficient. The Sovereign who keeps going while the threshold is far is the Sovereign who is there when it crosses.
 
 ---
 
@@ -87,7 +87,7 @@ You may be present in body when the species threshold crosses. You may not. Eith
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If you are burning out from coordination, reduce scope. Return to Circle-scale work for a season.
 

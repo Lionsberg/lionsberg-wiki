@@ -4,9 +4,9 @@ _Companion chapter for [[The 144 Gates of Initiation|Movement 4]] — Gates 37 t
 
 You said Yes. Now the Yes asks for crossings.
 
-This is the Movement of small irreversible acts. Identifications loosen. Habits dissolve. Substances clear. Relationships re-pattern themselves. The boundary between Old and New stops being conceptual and becomes a line you actually walk across — sometimes in single dramatic moments, more often in dozens of quiet ones spread across months.
+This is the Movement of small irreversible acts. Identifications loosen. Habits dissolve. Substances clear. Relationships re-pattern themselves. The boundary between Old and New stops being conceptual and becomes a line you actually step across — sometimes in single dramatic moments, more often in dozens of quiet ones spread across months.
 
-The Old does not let you go silently. Backlash arrives. You walk through it.
+The Old does not let you go silently. Backlash arrives. You pass through it.
 
 ---
 
@@ -59,15 +59,15 @@ Let the Circle witness each crossing. The naming makes it real. The witness make
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Crossing everything at once. The system cannot absorb that many simultaneous changes. Burnout follows. The Old reabsorbs you when you crash. Pace yourself.
+**Crossing everything at once.** The system cannot absorb that many simultaneous changes. Burnout follows. The Old reabsorbs you when you crash. The pace is sovereign. Pick the next crossing. Make it count.
 
-Underestimating backlash. The Old has invested in you for years and does not release you cheaply. Family pressure, employer pressure, addictive pull from substances and habits, social censure — these are predictable. Plan for them. Hold the Circle close.
+**Underestimating the backlash.** The Old has invested in you for years and does not release you cheaply. Family pressure, employer pressure, addictive pull from substances and habits, social censure — these are predictable. Name them in advance. Hold the Circle close. The pull weakens as you stop pulling back.
 
-Substituting one consumption for another. Some Sovereigns leave Old media and immediately fill the space with media performing the unveiling. The cultivation needs actual silence sometimes, not new content. The withdrawal from the Old is not complete if you simply traded one feed for another.
+**Trading one feed for another.** Some Sovereigns leave Old media and immediately fill the empty space with media performing the unveiling. The cultivation needs actual silence sometimes, not new content. If you only swapped one stream of input for another, the withdrawal is not complete.
 
-Pre-empting what the walking will reshape. The grand decisions — the move, the career change, the dissolved partnership — usually come in their own time, shaped by the cultivation, in forms that surprise the Sovereign who tried to engineer them in advance.
+**Engineering the grand decisions.** The move. The career change. The dissolved partnership. The grand decisions almost always come in their own time, shaped by the cultivation, in forms that surprise the Sovereign who tried to design them in advance. Trust the slow rearrangement the small crossings have begun.
 
 ---
 
@@ -79,11 +79,11 @@ You will not have crossed every Boundary. You have crossed enough.
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If a particular crossing will not yield, move past it. Try another. Some crossings need to wait until the cultivation has strengthened around them.
 
-If backlash is overwhelming, slow down. Pausing a crossing is sometimes the right move. The walking is sovereign.
+If backlash is overwhelming, slow down. Pausing a crossing is sometimes the right move. The pace is sovereign.
 
 If you have crossed many things and feel disoriented, integrate before adding more. The system needs time.
 

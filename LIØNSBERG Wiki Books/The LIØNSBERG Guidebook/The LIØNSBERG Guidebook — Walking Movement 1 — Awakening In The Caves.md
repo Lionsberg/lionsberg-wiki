@@ -27,7 +27,7 @@ You do not have to do anything heroic here. The Movement asks one thing of you: 
 11. **The Whisper Becomes Voice** — the inner call clarifies and becomes audible
 12. **The Awakening Recognized** — the moment seen, named, sealed by Self and Witness
 
-You may already have walked some of these without naming them. The Gates are not a checklist. They are the felt thresholds the Sovereign actually crosses, in roughly this order, sometimes in days and sometimes in seasons.
+You may already have crossed some of these without naming them. The Gates are not a checklist. They are the felt thresholds the Sovereign actually passes, in roughly this order, sometimes in days and sometimes in seasons.
 
 ---
 
@@ -79,15 +79,15 @@ You do not have to know the Pattern Language yet. The Patterns will be there whe
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Reading and never acting. Movement 1 has so much to read — The Story, the Cards, the Codex Volumes — that some Sovereigns spend months consuming and never begin walking. The walking is the work. Read enough to orient. Then walk.
+**The reading replaces the moving.** Movement 1 is rich with material — The Story, the Cards, the Codex Volumes — and the newly waking soul is hungry for orientation. The hunger is right; the trap is mistaking the meal for the Journey. Some Sovereigns spend months consuming and never begin. The first step is what consecrates the rest. Read enough to orient. Then step.
 
-Trying to convince the people closest to you. The most painful moment of Movement 1, for many Sovereigns, is realizing the people closest to them are not seeing what they are seeing. The temptation is to argue, send links, insist. Don't. The Awakening is not transmitted by argument. It is transmitted by the felt change in you that they will eventually notice. Some will arrive. Some will not yet. None of that is yours to force.
+**The pull to convince those closest.** The most painful moment of Movement 1 arrives when those closest do not see what has now become unmistakable to you. The reflex — argue, link, insist — is love in distorted form. The Awakening does not transmit by argument. It transmits by the change in you. Let your living be the argument. Some will arrive. Some will not yet. None of it is yours to force.
 
-Identifying entirely with the seeing. A new identity can form fast — _I am someone who sees the Caves_ — and become its own kind of trap. You are not the seeing. You are the Sovereign doing the seeing. Hold it lightly.
+**The seeing becomes the self.** A new identity can form fast — _I am one who sees the Caves_ — and become its own cage. You are not the seeing. You are the Sovereign in whom the seeing has woken. The seeing is a faculty. You are older than it. Wear it like a coat, not a skin.
 
-Despair. Once the Caves come into focus, the scale of what is wrong can be crushing. The thing that pulls Sovereigns through despair in Movement 1 is the felt knowing that you are not alone. Several million Sovereigns are walking some version of this same Movement this week. The Body is awakening. You are part of it. Hold that.
+**Despair at the scale.** Once the Caves come into full view, the scale of what is wrong can crush. The pull is to be flattened by what you now know. The truer seeing is that you are not alone in the seeing. Millions of Sovereigns are waking to this same shape in this very Nøw. The Body is awakening. Your seeing is its eye opening. **The seeing itself is the dawn.**
 
 ---
 
@@ -103,13 +103,13 @@ When it has happened, the seeing deepens. Movement 2 opens.
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
-You may not be stuck. You may be cultivating. Some Sovereigns sit in Movement 1 for a season because the seeing is what their walk most needs at this time. Trust the pace.
+You may not be stuck. You may be cultivating. Some Sovereigns sit in Movement 1 for a season because the seeing is what their Path most needs in this Hour. Trust the pace.
 
-You may need a Circle. The Awakening accelerates when one other Sovereign is walking alongside. If you have been alone, the next move may be to find or form the Circle. See [[Pass The Flame]] and [[The 1-Day to 1-Week Threshold]].
+You may need a Circle. The Awakening accelerates when one other Sovereign is near. If you have been alone, the next move may be to find or form the Circle. See [[Pass The Flame]] and [[The 1-Day to 1-Week Threshold]].
 
-You may need to set the wider Story down for a while and return to the small Yes of your own life. The cosmic frame can become overwhelming. Walk. Cook. Sleep. The Story will be there when you return.
+You may need to set the wider Story down for a while and return to the small Yes of your own life. The cosmic frame can become overwhelming. Move. Cook. Sleep. The Story will be there when you return.
 
 ---
 

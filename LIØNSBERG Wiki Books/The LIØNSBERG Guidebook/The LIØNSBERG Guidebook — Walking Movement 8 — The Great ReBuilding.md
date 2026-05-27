@@ -15,7 +15,7 @@ The talking-about-it Movements are behind you. Now you build.
 85. **The Sovereign's Own Life Rebuilt** — in alignment with the remembered kin
 86. **The Circle's Life Rebuilt** — the Circle as living unit
 87. **The Twelve Pillars Encountered** — civilizational architecture met in lived form
-88. **The Twelve Elements Lived** — eight of Cooperation, four of Production at work
+88. **The Twelve Irreducible Elements Lived** — eight of Cooperation, four of Production at work
 89. **Quests Chosen And Walked** — real work in real domain
 90. **The New Commons Touched** — first participation in shared commons of the New
 91. **The New Economy Touched** — first experience of LUV / regenerative exchange
@@ -61,17 +61,17 @@ Celebrate the small wins. The bed planted. The decision made cleanly. The first 
 
 ---
 
-## Where The Walk Goes Wrong Here
+## Where Sovereigns Slip Here
 
-Premature scaling. Trying to build at Community or Bioregional scale before the Circle has built well at Circle scale. The Pattern is holofractal; learn it at the smaller scale first.
+**Premature scaling.** Trying to build at Community or Bioregional scale before the Circle has built well at Circle scale. The Pattern is holofractal; learn it at the smaller scale first. What you cannot build with three to thirteen, you cannot build with thirty.
 
-Building before remembering. Skipping Movement 7. The structures that result are brittle; they do not hold the relationships they require.
+**Building before remembering.** Skipping Movement 7. The structures that result are brittle. They do not hold the relationships they require. The ReBuilding rests on the ReMembering.
 
-Abandoning the practical for the visionary. The big vision is real. The small work is what makes it real. Do not let the cosmic frame eclipse the immediate Quest.
+**Abandoning the practical for the visionary.** The big vision is real. The small work is what makes it real. Do not let the cosmic frame eclipse the immediate Quest. The garden bed is the Heaven On Earth your Hour can actually touch.
 
-Over-committing. Many Sovereigns commit to more than they can deliver in their first Quests. The discipline is to commit less and deliver. Reliability builds the Body. Over-promising erodes it.
+**Over-committing.** Many Sovereigns commit to more than they can deliver in their first Quests. The discipline is to commit less and deliver. Reliability builds the Body. Over-promising erodes it.
 
-Comparing your ReBuilding to another Sovereign's. Every particular ReBuilding looks different. Your contribution is your contribution.
+**Comparing your ReBuilding to another Sovereign's.** Every particular ReBuilding looks different. Your contribution is your contribution. The Pattern needs every vantage; the comparison strips your vantage of its weight.
 
 ---
 
@@ -83,7 +83,7 @@ When the New is visible, the cultivation turns outward to species-scale particip
 
 ---
 
-## If The Walking Slows
+## If The Path Slows
 
 If you cannot start the first Quest, pick something small enough to complete in 90 days with the resources you actually have. Start there.
 
