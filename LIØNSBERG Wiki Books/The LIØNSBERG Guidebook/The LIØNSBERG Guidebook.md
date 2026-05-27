@@ -18,7 +18,9 @@ This is a lightweight **field guide** in the voice of an elder Sovereign at the 
 
 You are not alone. You have never been. You are not the first to set foot on this Path. You are not the last. **The Path has been carried across countless worlds and ages, and what you hold now is what those before you considered worthy of carrying on. In your hands it will be carried forward again.** Some of those who came before are still on it, in other forms, in other worlds, in other Chapters of the same Story. Some are moving beside you now in ways you cannot yet see.
 
-The Path is long. The journey is also already underway. **The Mountain is higher than these pages. The Pattern is deeper than these pages. ØNE and All can never be held within them, and yet they are precisely what these pages serve.**  
+What you are seeking is also seeking you.
+
+The Path is long. The Journey is already underway. **The Mountain is higher than these pages. The Pattern is deeper than these pages. ØNE and All can never be held within them, and yet they are precisely what these pages serve.**  
 
 ---
 
@@ -148,6 +150,8 @@ If you have already been on the Path and have returned to consult the Guidebook 
 The Guidebook will be here whenever you return.
 
 The Path continues. The Journey continues across this lifetime and beyond. The Play continues without end.
+
+**You are not alone.**
 
 ---
 

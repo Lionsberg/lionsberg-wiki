@@ -51,6 +51,8 @@ Many Sovereigns find the years after Blue Belt to be quieter than the years befo
 
 The Caves are recognized. The Wilderness has been crossed. The Body has been gathered. The first Pass The Flame has been completed. The Sovereign now stands as integrated member of the wider Body — and the daily reality of that is, surprisingly, often **less dramatic than expected.**
 
+The loudness was the trial. The quiet is the ascent.
+
 Some of what you may notice:
 
 - **A new patience.** The drama of the awakening is behind you. The work in front of you is slower, deeper, less visible. Many Sovereigns find this transition jarring at first. The system that produced adrenaline during the foundational walk does not produce the same adrenaline during the lifetime cultivation. **You are not stagnating. You are settling into a deeper rhythm.** Trust it.
@@ -131,8 +133,8 @@ A short list of what other Sovereigns have reported coming into in this arc:
 - The capacity to hold large containers without losing center
 - The capacity to channel Force, Healing, Wisdom, the Word, or Beauty in ways the cultivation has refined
 - Siddhic capacities, in their own time, when the cultivation has built the instrument that can carry them
-- Communion with senior Sovereigns from this and other lineages, including some who walked on other worlds
-- A felt knowing that what you are walking is part of a wider Body that has been walking it for longer than this world's recorded history
+- Communion with senior Sovereigns from this and other lineages, including some who lived on other worlds
+- A felt knowing that what you are doing is part of a wider Body that has been doing it for longer than this world's recorded history
 
 These are not goals to chase. They are fruits that ripen when the tree is tended. Tend the tree.
 

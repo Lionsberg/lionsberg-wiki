@@ -29,7 +29,7 @@ The Old does not let you go silently. Backlash arrives. You pass through it.
 
 ## The Texture Of This Season
 
-A lightness arrives as the Old falls away — even when specific changes feel hard, the cumulative effect is unburdening.
+A lightness arrives as the Old falls away — even when specific changes feel hard, the cumulative effect is unburdening. Like setting down stones you did not know you were carrying.
 
 Taste reorders. What attracted you in the Old begins to feel hollow. What seemed strange before begins to feel right. You will turn down invitations and feel guilt for half a day, and then notice you are not actually sorry.
 

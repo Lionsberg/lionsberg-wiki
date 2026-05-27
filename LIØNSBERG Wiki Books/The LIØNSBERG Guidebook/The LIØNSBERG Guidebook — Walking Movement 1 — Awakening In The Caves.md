@@ -10,6 +10,8 @@ This Movement is about that waking. About coming to see, slowly or suddenly, tha
 
 You do not have to do anything heroic here. The Movement asks one thing of you: **stay awake long enough to actually look around.**
 
+The seeing itself is the dawn.
+
 ---
 
 ## The Twelve Gates
@@ -105,7 +107,7 @@ When it has happened, the seeing deepens. Movement 2 opens.
 
 ## If The Path Slows
 
-You may not be stuck. You may be cultivating. Some Sovereigns sit in Movement 1 for a season because the seeing is what their Path most needs in this Hour. Trust the pace.
+You may not be stuck. You may be cultivating. Some Sovereigns sit in Movement 1 for a season because the seeing is what their Path most needs in this Hour. Trust the pace. Trust the process. Trust the Source that woke you.
 
 You may need a Circle. The Awakening accelerates when one other Sovereign is near. If you have been alone, the next move may be to find or form the Circle. See [[Pass The Flame]] and [[The 1-Day to 1-Week Threshold]].
 

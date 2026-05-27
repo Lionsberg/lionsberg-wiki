@@ -53,6 +53,8 @@ Continue the Daily Way. The disciplines that brought you here are the same disci
 
 Celebrate the small wins. The bed planted. The decision made cleanly. The first product the New economy could actually exchange. The first conflict held restoratively. These are not trivial. They are the foundation of everything that follows.
 
+What you build today becomes the inheritance of those who come after.
+
 ---
 
 ## What To Reach For

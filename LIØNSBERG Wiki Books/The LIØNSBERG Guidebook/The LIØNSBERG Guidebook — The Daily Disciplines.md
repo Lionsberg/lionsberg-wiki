@@ -121,6 +121,8 @@ Some things that have helped many Sovereigns:
 
 The disciplines hold the Path. Eventually the Path holds the disciplines. The two become one rhythm.
 
+Begin small. Sustain. Let the years do the work.
+
 ---
 
 ## Related

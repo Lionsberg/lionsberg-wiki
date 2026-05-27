@@ -43,11 +43,15 @@ The Old pulls. Hooks you did not see in Movement 4 surface here. Old comfort foo
 
 And underneath — grace. Surprising clarity at strange moments. Unexpected help. A felt sense of being accompanied by something older than the body. Many Sovereigns find their relationship with ØNE deepens substantially in this season — not in spite of the trials, but through them.
 
+What strips you in the Wilderness is what gives you the Sovereign you become.
+
 ---
 
 ## The Discipline
 
 Stay in the rhythm when the rhythm seems pointless.
+
+This is how every Sovereign before you crossed.
 
 The dawn silence does not feel like it is doing anything. Do it anyway. The Weekly Heartbeat has nothing dramatic to report. Show up anyway. The body wants to skip the walk, the meal, the sleep. Do them anyway.
 

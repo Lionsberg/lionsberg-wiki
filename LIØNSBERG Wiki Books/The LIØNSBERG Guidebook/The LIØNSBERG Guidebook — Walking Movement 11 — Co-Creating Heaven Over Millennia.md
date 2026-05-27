@@ -33,13 +33,15 @@ None of us have lived a millennium in Heaven. What can be drawn from the cosmic 
 
 The intensity of the foundational walk subsides. The Wilderness is over. The Caves are gone. The work becomes refinement, deepening, building, generational tending.
 
-The Sovereigns who walked the Foundation are now Elders. They carry the memory of what came before. They are revered, consulted, and eventually released into the next form.
+The Sovereigns who crossed the Foundation are now Elders. They carry the memory of what came before. They are revered, consulted, and eventually released into the next form.
 
 The young grow up inside the New. They never knew the Caves. The orientation that takes adult Sovereigns of the Old years to cultivate is native to them. This changes the species substantially over a few generations.
 
-The cosmic relationships deepen. Sovereigns from other worlds visit. Earth's representatives walk in wider councils. The cosmic Body becomes felt, not theoretical.
+The cosmic relationships deepen. Sovereigns from other worlds visit. Earth's representatives sit in wider councils. The cosmic Body becomes felt, not theoretical.
 
-The Sacred Ascent continues — but at less personal urgency. The lifetime cultivation opens for those individually called to walk further.
+The Sacred Ascent continues — but at less personal urgency. The lifetime cultivation opens for those individually called to ascend further.
+
+What was Wilderness for one generation becomes home for the next.
 
 ---
 

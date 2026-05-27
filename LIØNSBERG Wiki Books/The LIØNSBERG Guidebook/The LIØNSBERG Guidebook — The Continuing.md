@@ -45,6 +45,8 @@ What other Sovereigns have noticed about Pass The Flame:
 - **You will find yourself surprised by who is ready.** Some of the people you expected to receive it best will pass. Some you would not have predicted will lean forward immediately. Trust who shows up.
 - **Two or three is the right number to invite next.** Not one. Not ten. Two or three matches the Fibonacci rhythm by which the Body actually grows; it also keeps the offering personal rather than mass.
 
+The Flame passes Sovereign to Sovereign. It always has.
+
 If you are at this threshold and finding it hard, see [[The 1-Day to 1-Week Threshold]] and [[The Flame Bearer's Path]]. They name the particular fear of inviting and walk you through it.
 
 ---

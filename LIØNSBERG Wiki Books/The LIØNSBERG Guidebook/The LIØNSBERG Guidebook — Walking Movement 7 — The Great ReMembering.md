@@ -53,6 +53,8 @@ Show up where the Body is gathering. Not all of it. Some of it. The local Circle
 
 Articulate your Story, your Map, your Purpose, your Passion, your Function in mature form. Offer them to the Body. Let them be witnessed. Receive others' articulations the same way.
 
+The Body composes itself through testimony.
+
 Make your first substantive contribution to the Map — a Pattern Card, a refinement, a testimony, a piece of the Corpus in whatever form fits your particular gifts.
 
 And hold your Circle as home base. The wider Body is real. The Circle is still the cell.

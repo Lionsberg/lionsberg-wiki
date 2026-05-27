@@ -39,6 +39,8 @@ Patience returns. The Wilderness needed urgency. This Movement does not. You can
 
 Childhood skills reemerge. Sovereigns who were stripped of making, gardening, naming, listening, storytelling rediscover that those capacities were never killed — only suppressed. The Sovereign of three years old, in some sense, comes back.
 
+The body remembers what the mind forgot.
+
 ---
 
 ## The Discipline

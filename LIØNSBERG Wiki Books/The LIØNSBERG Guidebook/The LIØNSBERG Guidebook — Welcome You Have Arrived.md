@@ -22,7 +22,9 @@ You have recognized — felt rather than been told — that what is offered here
 
 Some Sovereigns describe this moment as a remembering. Some as a homecoming. Some as a relief — the long suspicion that something was deeply wrong with the world finally meeting a voice that named it without flinching. Some as fear — because the moment of recognition makes clear what is being asked, and what is being asked is everything.
 
-All of these are right. None of them is the whole truth. What you are feeling right now is your particular doorway into a Path countless Sovereigns have trodden across worlds and ages. The doorways differ. The Path is the same.
+All of these are right. None of them is the whole truth. What you are feeling [[Here and Nøw]] is your particular doorway into a Path countless Sovereigns have trodden across worlds and ages. The doorways differ. The Path is the same.
+
+What you are seeking is also seeking you.
 
 ---
 
@@ -30,7 +32,7 @@ All of these are right. None of them is the whole truth. What you are feeling ri
 
 Let us be straight with you about where you stand.
 
-You have arrived at a Hour that comes to every awakening world. The Old Order is collapsing — by design, by the working of its own contradictions, by the long arc of a system that forgot its Source long before any of us were born. What is collapsing was always going to collapse. The fact that it is collapsing **now**, while you read this, is what makes the Hour.
+You have arrived at an Hour that comes to every awakening world. The Old Order is collapsing — by design, by the working of its own contradictions, by the long arc of a system that forgot its Source long before any of us were born. What is collapsing was always going to collapse. The fact that it is collapsing **Nøw**, while you read this, is what makes the Hour.
 
 You did not cause the collapse. You also cannot stop it. What is yours to do is something else: to tread the Path that ends in the **co-creation** of what comes next.
 
@@ -42,7 +44,7 @@ For the full cosmic context — what happened before the Caves, what is happenin
 
 For the strategic moment Earth specifically stands in — the Window, the mathematics, what The First Three Percent must accomplish — read [[The LIØNSBERG Strategy and Plan]]. The Guidebook will reference what is in that book at the moments it matters in your walking.
 
-For now, only this: **the Hour is real. You have arrived in it. What you do in it matters.**
+For Nøw, only this: **the Hour is real. You have arrived in it. What you do in it matters.**
 
 ---
 
@@ -133,6 +135,8 @@ If your Circle is already gathering, the next thing is to enter the **Weekly Hea
 If you are alone for now — many Sovereigns are, for weeks or months — that is also the Path. See [[The Solo Sovereign's Grace]]. The Circle will come; meanwhile, the cultivation is yours.
 
 Whatever your current step, the Guidebook will be here. Open it when you need it. Set it down when you do not. Begin.
+
+**You are not alone. You have never been. You never will be.**
 
 ---
 

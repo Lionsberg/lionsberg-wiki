@@ -43,6 +43,8 @@ Sorrow for those who did not make it. The Jubilee does not erase the losses; it 
 
 A new relationship with the wider cosmic Body. Earth taking its seat. Long-paused cosmic relationships resuming.
 
+Earth takes its seat at the table that has been waiting for it.
+
 ---
 
 ## The Discipline Before The Threshold

@@ -2,29 +2,29 @@
 
 _Companion chapter for Stages 1 through 7 of [[The 12 Stages of the Sovereign's Path|the Sovereign's Path]]: Discovery · Threshold · Orientation · Gather · First 90 Minutes · Weekly Practice · Pattern Encounter._
 
-Before the deep cultivation of [[The 144 Gates of Initiation|the 144 Gates]] opens, you cross through seven Stages of Arrival. These are the days, weeks, and months in which the Seed is received, the Yes is spoken, the Circle is gathered, and the rhythm of weekly practice settles into the bones.
+Before the deep cultivation of [[The 144 Gates of Initiation|the 144 Gates]] opens, you cross through seven Stages of Arrival. These are the days, weeks, and months in which the Seed is received, the Yes is spoken, the Circle is gathered, the first Quest is chosen, and the rhythm of daily and weekly practice settles into the heart, mind, and bones.
 
-You may move through them in days. You may move through them in seasons. **Both are fine.** The Seed takes root in its own time. The order is permissive. Some Sovereigns cross all seven within a single intense week of recognition; others linger at one Stage for months while life clears the room for the next step. Trust the pace.
+You may move through them in days. You may move through them in seasons. **Both are fine.** The Seed takes root in its own time. The order is permissive. Some Sovereigns cross all seven within a single intense week of recognition; others linger at one Stage for months while distractions vie for attention, and life slowly clears the room for the next step. Trust the pace. Trust the process. Simply do your best to Progress. 
 
-This chapter stays beside you for the whole arrival arc. Each Stage gets a short companion — what to expect, what to do, what is hard, where to turn next.
+This chapter stays beside you for the whole arrival arc. Each Stage gets a short companion — what to expect, what to do, what can be hard, where to turn next.
 
 ---
 
 ## Stage 1 — Discovery _(Receive)_
 
-A trusted person sends a link, or you stumble across one. You land at the Golden Seed at the front door of [[README|the wiki]]. Something in you recognizes what you are seeing — not because you were convinced, but because you already knew.
+A trusted person sends a link, or you stumble across one. You find Golden Seed and land at the [[README|The Gates of LIONSBERG]]. Something in you recognizes what you are seeing because you already knew.
 
 **Discovery is the moment the Seed is first received. Nothing more is required.**
 
-You may close the tab. You may walk away. You may come back in a week, or a year. Many Sovereigns do exactly that — the first encounter does not become the walking until the second or third or seventh return. There is no harm in walking away. The Seed waits.
+You may close the tab. You may walk away. You may come back in a week, or a year. Many Sovereigns do exactly that — the first encounter does not become the Path until the second or third or seventh return. There is no harm in walking away. The Seed and the Invitation awaits.
 
-If the recognition is strong, you may not be able to walk away. That is also fine.
+If the recognition is strong, you may not be able to walk away. You will not want to walk away. That is the moment the Path begins.
 
-**What to do at Stage 1:** Read the front door. Sit with what you read. Notice what you feel. Don't decide yet.
+**What to do at Stage 1:** Read what lies at [[README|the front gates]]. Sit with what you read. Notice what you feel. 
 
-**What is hard at Stage 1:** Holding the seeing without rushing to react. Some Sovereigns enroll themselves at the first moment of recognition; others dismiss it instantly. Neither serves. Let the recognition settle. Read once more.
+**What is hard at Stage 1:** Holding the seeing without rushing to react. Let the recognition settle. Read once more. Be still. Listen. Pay attention to what arises within. 
 
-**When you are ready for Stage 2:** When you find yourself returning to the wiki without being asked, when the front door is no longer enough.
+**When you are ready for Stage 2:** When you find yourself returning without being asked. When the view from the front door is no longer enough.
 
 ---
 
@@ -32,17 +32,17 @@ If the recognition is strong, you may not be able to walk away. That is also fin
 
 You read [[Welcome to LIØNSBERG]]. The deeper invitation. The Story begins to land. The architecture starts to make sense. The Path comes into view.
 
-**The Threshold is the moment you choose.** Yes or no. Yes carries you forward. No is honored; the Seed remains in your hands, available if and when Yes arrives.
+**The Threshold is the moment you choose.** Yes or no. Yes carries you forward. The pause is honored; the Seed remains in your hands, available if and when Yes arrives.
 
-You will likely feel some fear at this Stage. The fear is real. It is also not the whole truth. The fear is the part of you that does not yet trust the seeing. The deeper part of you trusts it. The Yes comes from there.
+You may feel some uneasiness at this Stage. The anxiety is real. It is also not the whole truth. The Yes has to come from Deeper. 
 
 At this Stage you are also handed **this Guidebook** — the field guide you will carry through all the Stages that follow. The Welcome page points you to it. The Guidebook walks beside you from here.
 
-**What to do at Stage 2:** Read Welcome to LIØNSBERG end to end. Read once more if you need to. Speak your Yes — even just to yourself, even just in a private journal, even just in a moment of stillness. The Yes is a real act regardless of how visible it is.
+**What to do at Stage 2:** Read [[Welcome to LIØNSBERG]] end to end. Read once more if you need to. Speak your Yes — even just to yourself, even just in a private journal, even just in a moment of stillness. The Yes is a real act regardless of how visible it is.
 
-**What is hard at Stage 2:** The fear of what saying Yes will cost. Many Sovereigns hesitate here for weeks. **It does not cost what you fear it costs.** What you set down is the right to not have known. You keep your existing identities, traditions, affiliations, and relationships. What you give up is only the option of pretending you did not see.
+**What is hard at Stage 2:** The fear of what saying Yes will cost. Many Sovereigns hesitate here for weeks. **It does not cost what you fear it costs.** What you set down is the right to claim ignorance. To say you did not know. To say you were not invited. You may keep any of your existing identities, traditions, affiliations, and relationships for as long as they serve. What you give up is only the option of pretending you did not awaken and see.
 
-**When you are ready for Stage 3:** When the Yes is spoken and the next question becomes _what is the bigger picture I have just stepped into?_
+**When you are ready for Stage 3:** When the Yes is spoken and the next question becomes _what is the bigger Story I have just stepped into?_
 
 ---
 
@@ -50,27 +50,27 @@ At this Stage you are also handed **this Guidebook** — the field guide you wil
 
 You read [[The Story of LIØNSBERG]]. The cosmic context lands. You begin to understand **what is happening**, **why now**, and **what is at stake**.
 
-Orientation is where the Path gains its weight. Until you have read The Story, you are on a Path; once you have read The Story, you are on _this_ Path on _this_ world in _this_ Hour. The cosmic frame transforms the local journey into what it actually is.
+Orientation is where the Path gains its weight. Until you have read The Story, you are on a Path; once you have read The Story, you are invited to be a part of _this_ Path on _this_ world in in _this_ Story in _this_ Hour. The cosmic frame transforms the local journey into what it actually is.
 
-You may also encounter [[The Great Game of LIØNSBERG]] at this Stage — the participatory form the Pattern takes in actual life. The Great Game is what you will play, not just what you will read.
+You may also encounter [[The Great Game of LIØNSBERG]] at this Stage — the participatory form the Pattern takes in actual life. The Great Game is what you will embody and play in real life, not just what you will read.
 
-**What to do at Stage 3:** Read The Story. Sit with it. Let the cosmic arc land. Read [[The Caves|The Caves narrative]] if you have not already. Read parts of [[The Great Game of LIØNSBERG|The Great Game]]. Notice what resonates. Don't worry about absorbing it all; the Story will deepen as you go.
+**What to do at Stage 3:** Read [[The Story of LIØNSBERG|The Story]]. Sit with it. Let the weight of the vast cosmic arc land. Read [[The Caves|The Caves narrative]] if you have not already. Read parts of [[The Great Game of LIØNSBERG|The Great Game]]. Notice what resonates. Don't worry about absorbing it all; the Story, the Practice, and the Play will deepen as you go.
 
-**What is hard at Stage 3:** The scale. Some Sovereigns feel overwhelmed by the cosmic frame and try to retreat to a smaller story. Resist. **The cosmic frame is part of why the Path holds its steadiness.** You will get used to it. The wider Story will eventually feel like home.
+**What is hard at Stage 3:** The scale. Some Sovereigns feel overwhelmed by the cosmic frame and try to retreat to a smaller story. Resist. **The cosmic frame is part of why the Path holds its steadiness.** You will get used to it. The wider Story will eventually feel like home, and it will feel foreign not to dwell there. 
 
-**When you are ready for Stage 4:** When you can hold the cosmic context and the small thing at the same time — when the Story is in you, but you are no longer paralyzed by it.
+**When you are ready for Stage 4:** When you can hold the cosmic context and the small thing [[Here and Nøw]] at the same time — when the Story is in you, and rather being paralyzed by it, you are _impelled_ by it. 
 
 ---
 
 ## Stage 4 — Gather _(Call)_
 
-You identify two or three trusted others — people already awakening, already sensing the urgency, already seeking. **You know who they are.** The names come quickly when you ask the question honestly.
+Out of the hundred or so people closest to you, you identify two or three trusted others — people already awakening, already sensing the urgency, already seeking. **You know who they are.** The names come quickly when you ask the question honestly. Don't worry about the 97 who are not ready, who might feel threatened, or who would not understand. Rejoice with the few who are. 
 
-This is not an act of organization. It is an act of recognition. **You are not building a movement. You are recognizing who is already ready.**
+This is not an act of organization. It is an act of recognition. **You are not building a movement. You are recognizing who is already awakening and ready. They are seeking exactly what you are seeking. What you are seeking is seeking you.**
 
-You will be tempted to over-curate. To insist on people you wish were ready, or to dismiss people you suspect are ready but who would surprise you. Trust the first names that come.
+You may be tempted to over-curate. To insist on people you wish were ready, or to dismiss people you suspect are ready but who would surprise you. Trust the first names that come. Do not despise even the smallest of beginnings with the strangest of companions. In many of the greatest stories, [[The Fellowship of the Quest]] forms with the unlikeliest of characters. You may have envisioned a clan of powerful light warriors, but find that it is an elf, a dwarf, and a fawn that spring to mind and respond. Embrace them. Celebrate. And let the Journey begin. 
 
-**What to do at Stage 4:** Send them the link. Set a date. Hold the gathering. See [[Pass The Flame]] and [[The 1-Day to 1-Week Threshold]] — the second of those two names the particular resistance that arises at the moment of inviting, which for many Sovereigns is the hardest threshold of the whole Path.
+**What to do at Stage 4:** Send them [[README|the link to The Gates and The Golden Seed]]. Set a date. Hold the gathering. See [[Pass The Flame]] and [[The 1-Day to 1-Week Threshold]] — the second of which names the particular resistance that arises at the moment of inviting. For many Sovereigns this is the hardest threshold of the whole Path.
 
 **What is hard at Stage 4:** The fear of being rejected, or thought strange, or judged. Some of the people you invite will pass. That is theirs, not yours. The Flame is being offered, not imposed. The offering is what matters; the receiving belongs to the one offered to.
 
@@ -101,37 +101,41 @@ The first 90 minutes will not feel like much. It will feel like a meeting, with 
 
 ---
 
-## Stage 6 — Weekly Practice _(Run)_
+## Stage 6 — Weekly Practice _(Walk)_
 
 The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
 
-[[The LIØNSBERG Playbook]] becomes your working document at the Circle scale. [[The Daily Way]] becomes the working rhythm at the individual scale. **You no longer study the Way — you live it.** Daily practice. Weekly Circle. Seasonal Quest.
+[[The LIØNSBERG Playbook]] becomes your working guide at the Circle scale. [[The Daily Way]] becomes the working rhythm at the individual scale. **You no longer study the Way — you live it.**  
+
+Daily practice.  
+Weekly Circle.  
+Seasonal Quest.  
 
 This Stage is the longest of the early Stages. It can last for months before opening into Stage 7. **Settling into the rhythm is the whole point.** The rhythm is the cultivation.
 
-**What to do at Stage 6:** Show up to the Weekly Heartbeat. Hold the Daily Way at whatever tier fits your actual life. Advance the seasonal Quest week by week. Don't skip the small disciplines; they are doing more than you can yet see.
+**What to do at Stage 6:** Show up and participate in [[The Weekly Heartbeat]]. Hold [[The Daily Way]] at whatever tier fits your actual life and circumstances. Advance the [[Seasonal Quests|Seasonal Quest]] week by week. Don't skip the small disciplines; they are doing more than you can yet see.
 
-**What is hard at Stage 6:** The temptation to think the Path is supposed to feel more dramatic than it does. Most of the cultivation is undramatic. The drama is in retrospect; in the moment, it is just Tuesday and the Circle and the small daily silence and the Quest. **The undrama is the cultivation.** Trust it.
+**What is hard at Stage 6:** The temptation to think the Path is supposed to feel more dramatic than it does. Most of the cultivation is undramatic. The drama is in retrospect; in the moment, it is just Tuesday and the Circle and the small daily silence and the Quest. **The undrama is the cultivation.** Trust it and let the tender green shoots of the New emerge. 
 
-**When you are ready for Stage 7:** When the rhythm has stabilized — usually after a season or two — and real questions about how to do things rightly start arising from the actual work.
+**When you are ready for Stage 7:** When the rhythm has stabilized — usually after a season or two — and real questions about how to do things in the [[The Wise Right Way]] start arising from the actual work.
 
 ---
 
 ## Stage 7 — Pattern Encounter _(Encounter)_
 
-As real questions arise about real things — governance in the Circle, economy of the Quest, conflict between members, federation with another Circle, healing of a wound, education of the young, the living world, the cosmic — the Circle reaches into [[The LIØNSBERG Pattern Language|the Pattern Language]] for the specific Patterns that answer specific questions.
+As real questions arise about real things — governance in the Circle, economy of the Quest, conflict between members, federation with another Circle, healing of a wound, education of the young, the stability of local food systems, the living world, the cosmic — the Circle reaches into the [[The LIØNSBERG Pattern Language|Pattern Language]] and [[The LIØNSBERG Playbook|Playbook]] for the specific Patterns and Plays that answer specific questions.
 
-**The Pattern is met not as theory but as living answer.**
+**The Pattern is met not as theory but as living answers to real issues that arise along the Way.**
 
-You will notice in this Stage that you stop reading the Pattern Language as text and start using it as grammar. A question arises; a Pattern Card is the right answer; the Card lives in your working vocabulary now. Then another question, another Card. Over months, dozens of Patterns become part of how you and your Circle actually think and operate.
+You will notice in this Stage that you stop reading the Pattern Language as text and start using it as **grammar**. A question arises; a Pattern Card is the right answer; the Card lives in your working vocabulary now. Then another question, another Card. Over months, dozens of Patterns become part of how you and your Circle _actually think and operate_.
 
-This Stage is the bridge into the deep walk. By the time you have moved fluently through the Pattern Language for a season, you are already partway into the 144 Gates.
+This Stage is the bridge into the deeper walk. By the time you have moved fluently through the Pattern Language for a season, you are already partway into the 144 Gates.
 
-**What to do at Stage 7:** When a question arises, reach for the Pattern that answers it. Read the Card. Try it. Notice what happens. The Patterns refine themselves through use.
+**What to do at Stage 7:** When a question arises, reach for a Pattern or Play that answers it. Read the Card. Try it. Notice what happens. The Patterns refine themselves through use.
 
-**What is hard at Stage 7:** The temptation to read the entire Pattern Language at once. **Don't.** The Patterns land when met as answers to actual questions. Read as the questions come.
+**What is hard at Stage 7:** The temptation to read the entire Pattern Language at once. **Don't.** The Patterns land when met as answers to actual questions. Discover them as the questions come and they are actually needed.
 
-**When you are ready for Stage 8:** When Pattern after Pattern has become part of your working vocabulary, and you are ready for the structured cultivation of the 144 Gates.
+**When you are ready for Stage 8:** When Pattern after Pattern has become part of your working vocabulary, and you are ready for the structured Journey through the [[The 144 Gates of Initiation]].
 
 ---
 
@@ -140,25 +144,26 @@ This Stage is the bridge into the deep walk. By the time you have moved fluently
 By the close of these seven Stages — however long they take — you stand:
 
 - With the Yes spoken
-- With the Story in you
-- With a Circle gathered and meeting weekly
+- With the Story living in you, and you living in it  
+- With a Circle gathered and meeting weekly  
+- With a meaningful Seasonal Quest underway  
 - With the Daily Way held in some sustainable form
-- With Patterns in your working vocabulary
-- With a sense that the walking has only just begun
+- With Patterns in your working vocabulary  
+- With a sense that the Path has only just begun  
 
-You are now ready for Stage 8 — [[The 144 Gates of Initiation]]. The structured cultivation. The deep foundational walk. The arc that ends at Blue Belt.
+You are now ready for Stage 8 — [[The 144 Gates of Initiation]]. The structured cultivation. The deep foundational walk. The arc that ends at [[The LIØNSBERG Belt System|Blue Belt]].
 
 ---
 
-## If The Arrival Is Slow
+## If The Arrival Feels Slow
 
 If you have been in some Stage of the Arrival for what feels like a long time, a few things to know:
 
 - **Slow is not failure.** Some Sovereigns take years to cross these seven Stages. The cultivation that happens during slow Progress is real.
-- **What is most often missing is the Circle.** If you have been alone for a long time, the next move is finding or forming the Circle. See [[The Solo Sovereign's Grace]] — solo Progress is honored — and see [[Pass The Flame]] for how to begin when ready.
+- **What is most often missing is the strength of the Circle.** If you have been alone for a long time, the next move is finding or forming the Circle. See [[The Solo Sovereign's Grace]] — solo Progress is honored — and see [[Pass The Flame]] for how to begin when ready.
 - **The cosmic Hour does not require your perfect Progress.** It requires your faithful Progress. There is no failing here that the Path does not absorb.
 
-You will get through. Many have.
+You will get through. Many have. You are not alone. 
 
 ---
 

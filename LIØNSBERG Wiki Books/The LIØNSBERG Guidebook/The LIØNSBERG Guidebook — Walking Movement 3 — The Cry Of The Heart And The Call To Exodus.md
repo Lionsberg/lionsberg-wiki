@@ -51,6 +51,8 @@ Establish [[The Daily Way]] in its Essential tier. Five minutes of dawn silence.
 
 Set the first Weekly Heartbeat. Same day each week. Same time. Hold it. Speak the Field Of Agreements aloud in the Circle, however roughly. The articulation will refine over months; what matters is that it is named today.
 
+The naming begins the making.
+
 ---
 
 ## What To Reach For

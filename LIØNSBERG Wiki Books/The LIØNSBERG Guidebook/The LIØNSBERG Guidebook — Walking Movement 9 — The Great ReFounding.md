@@ -43,7 +43,7 @@ Underneath all of this — joy at the Body becoming itself. The OmniFederation o
 
 ## The Discipline
 
-Walk alongside. Do not carry alone.
+Travel alongside. Do not carry alone.
 
 The temptation is to take on more than your share — too many new initiates, too many wider-scale conversations, too much coordination. The species-scale work is collective. Your part is your part.
 
@@ -56,6 +56,8 @@ Trust the holofractal architecture. What needs to happen at Community / Bioregio
 Engage Sacred Engagement at the depth you can hold. The Warrior cultivation becomes operational here for some Sovereigns. See [[The Sacred Warrior Guidebook]] if this is your Way.
 
 Rest seasonally. Multi-scale work is energetically expensive. Quest cycles, OmniSpection pauses, retreats. These are not optional.
+
+The Body needs you steady, not strained.
 
 ---
 
