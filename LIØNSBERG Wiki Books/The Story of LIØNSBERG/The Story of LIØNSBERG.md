@@ -4,36 +4,39 @@
 
 You have opened the Book.
 
-What is held between these pages is the cosmic Story — told as faithfully as one rendering can — of where we have been, where we are, and where all things are moving. It is the same Story walked by countless beings and worlds before. It is the Story you are walking now.
+What is held between these pages is the cosmic Story — told as faithfully as one rendering can — of where we have been, where we are, and the universal progression of All things towards The Goal. It is the same Story walked by countless beings and worlds before. It is the Story you are walking now.
 
-The Story plays at every scale. The Cosmic Chapter. Earth's Chapter. Your Bioregion's. Your Community's. Your own. Each Chapter is the same Story breathed at different breath. When you walk far enough, your own life becomes one of its Chapters.
+The Story plays at every scale. The Cosmic Chapter. Earth's Chapter. Your Bioregion's. Your Community's. Your own. The Chapter of each of of the trillions of human and non-human cells that compose your body. Each Chapter is the same Story breathed at different breath. When you walk far enough, your own life becomes one of its Chapters.
 
-This Book holds The Story at three depths. Enter at the depth that calls you.
+This Book holds The Story at five depths. Enter at the depth that calls you.
 
 ---
 
-## The Three Rings
+## The Five Rings
 
-**The Seed — ØNE syllable.** The unsaid word at the centre. The Story compressed to a single resonance.
+**The Seed — ØNE syllable.** The unsaid word at the centre. The universal Story compressed to a single Spirit, Source, and Fundamental Tone.
 
-**One Thousand Words.** The compressed transmission. The Seed unfolded once. Enough to be passed from hand to hand, read in a breath, carried in a moment.
+**One Thousand Words.** The compressed transmission. The Seed unfolded the first few times into the tender green shoot of something ancient, eternal, and New. Just enough to be passed from hand to hand, read in a few breaths, carried in a few moments.
 
-**Ten Thousand Words.** The cosmic arc opened. The Story breathed at full reach. The shape of where we have been and where we are going, the Window and the Hour, the Way that opens.
+**Ten Thousand Words.** The cosmic arc opened. The Story breathed at fuller reach. The shape of where we have been and where we are going, the Window and the Hour, the Way that opens Nøw. 
 
-**One Hundred Thousand Words.** The full breath, Chapter by Chapter. The Story told in its breadth — the cosmic origin, the archetypal arc walked by many worlds, Earth's Chapter as one rendering of that arc, the embodied Heaven that opens for those who walk the Way through.
+**One Hundred Thousand Words.** The deeper breath and word, spoken Chapter by Chapter. The Story told in its universal breadth — the cosmic origin, the archetypal arc walked by many worlds, Earth's Chapter as one rendering of that arc, the embodied Heaven that opens for those who walk the Way through.
 
-Beyond these rings, The Story keeps growing. Every Sovereign who walks weaves another Chapter. The Story is never finished. The closer you walk, the more you become its author.
+**The Sacred Codex and Living Library.** tktk
+
+Beyond these rings, The Story keeps growing. Every being walking through every world is weaving another living Chapter. The Story is never finished. The closer you get to its Source, the more you become its author.
 
 ---
 
 ## Entry
 
-_Retelling in current consciousness is underway. See [[The Story of LIØNSBERG Retold Project]] for the working surface._
-
-- [[The Story of LIØNSBERG — The Seed]] _(coming)_
-- [[The Story of LIØNSBERG — One Thousand Words]] _(coming)_
+- [[The Story of LIØNSBERG — The Seed]] — _the unsaid word at the centre_
+- [[The Story of LIØNSBERG — One Thousand Words]] — _the compressed transmission, hand to hand_
 - [[The Story of LIØNSBERG — Ten Thousand Words]] _(coming)_
 - [[The Story of LIØNSBERG — The Full Breath]] _(coming · One Hundred Thousand Words, Chapter by Chapter)_
+- [[The LIØNSBERG Sacred Codex]] — _the wider Codex and Living Library_
+
+_The retelling continues. See [[The Story of LIØNSBERG Retold Project]] for the working surface._
 
 ---
 
