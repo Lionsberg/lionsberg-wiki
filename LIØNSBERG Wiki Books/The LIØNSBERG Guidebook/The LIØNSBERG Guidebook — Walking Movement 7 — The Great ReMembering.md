@@ -4,13 +4,13 @@ _Companion chapter for [[The 144 Gates of Initiation|Movement 7]] — Gates 73 t
 
 You have relearned how to live. Now you remember who you are with.
 
-Movement 7 is the **conscious remembering together** — the recognition that the Sovereigns walking nearby are not strangers but kin, members of ØNE Body who have walked together before in some sense, and who are walking together now. The forgetting that defined the Old World made every Sovereign feel separate. The remembering is the felt knowing of inseparability returning.
+This is the **conscious remembering together** — the recognition that the Sovereigns walking nearby are not strangers but kin, members of ØNE Body who have walked together before in some sense and are walking together now. The forgetting that defined the Old made every Sovereign feel separate. The remembering is the felt knowing of inseparability returning.
 
-This Movement is where the wider Body becomes real. Where "we" stretches. Where the Sovereign realizes — fully — that they have never been alone.
+This is where the wider Body becomes real. Where _we_ stretches. Where the Sovereign realizes — fully — that they have never been alone.
 
 ---
 
-## What Is Happening In Movement 7
+## The Twelve Gates
 
 73. **The Circle Recognizes Another Circle** — first contact across Circles
 74. **Inter-Circle Practice Begun** — collaborative work across Circles
@@ -22,81 +22,78 @@ This Movement is where the wider Body becomes real. Where "we" stretches. Where 
 80. **The Sovereign's Mature Story Articulated** — the Chapter offered to the wider Body
 81. **The Sovereign's Mature Map · Purpose · Passion · Function Articulated**
 82. **First Substantive Contribution To The Living Map Of LIØNSBERG**
-83. **The Body Holds Itself** — the Sovereign feels the Body and is held by it; remembered into ONE Body
+83. **The Body Holds Itself** — the Sovereign feels the Body and is held by it
 84. **The ReMembering Held** — the Sovereign now consciously walks as kin of the wider Body
 
 ---
 
-## What This Movement Feels Like
+## The Texture Of This Season
 
-For many Sovereigns, Movement 7 is the most emotionally moving of the Foundation.
+For many Sovereigns this is the most emotionally moving Movement of the Foundation.
 
-What others have reported:
+Tears of recognition. Meeting a Sovereign you have never met but recognize as kin. The kinship is older than the introduction.
 
-- **Tears of recognition.** Meeting a Sovereign you have never met but recognize as kin. The kinship is older than this introduction.
-- **A felt expansion in the chest** — the body's response to no longer being separate.
-- **A sense of being known.** The wider Body sees you in a way no one in the Old fully could. This is sometimes uncomfortable at first.
-- **Synchronicities increase.** Meeting the right person at the right moment. Material arriving exactly when needed. The Body is coordinating itself; the Sovereign begins to feel its hand.
-- **Old isolation becomes visible for what it was.** The loneliness that was background in the Old reveals itself as a curated condition, not a natural state. Many Sovereigns weep at the recognition.
-- **A clarification of Guild.** The archetypal Way you are most called to — Warrior, Healer, Philosopher, Word-Keeper, Creator, or one of the others — comes into focus. You start to know your particular shape within the Body.
+A felt expansion in the chest — the body's response to no longer being separate.
 
----
+Synchronicities increase. The right person at the right moment. Material arriving exactly when needed. The Body is coordinating itself; the Sovereign begins to feel its hand.
 
-## The Discipline For This Movement
+Old isolation becomes visible for what it was. The loneliness that was background in the Old reveals itself as a curated condition, not a natural state. Many Sovereigns weep at the recognition. Some, twice.
 
-The discipline is **let the remembering be real without rushing to coordinate.**
-
-The temptation, once you start meeting kin, is to immediately try to build something together. **This often comes too fast.** The ReMembering needs time to settle before the ReBuilding begins.
-
-What sustains the discipline:
-
-- **Show up where the Body is gathering.** Local groups, regional gatherings, Guild meetings, online Circles. Not all of them. Some.
-- **Articulate your Story, Map, Purpose, Passion, Function** in mature form. Offer it to the Body. Let it be witnessed.
-- **Receive others' articulations.** The ReMembering is mutual. You are not just recognized; you also recognize.
-- **Make your first substantive contribution to the Map** — write a Pattern Card, refine an existing one, contribute a testimony to [[Share Your Stories]], add to [[The LIØNSBERG Corpus]] in any way that fits your gifts.
-- **Hold your Circle as the home base.** The wider Body is real. The Circle is still the irreducible unit. Don't let the wider scope thin the local relationship.
+A clarification of Guild. The archetypal Way you are most called to — Warrior, Healer, Philosopher, Word-Keeper, Creator, or one of the others — comes into focus. You start to know your particular shape within the Body.
 
 ---
 
-## What Patterns To Reach For
+## The Discipline
 
-- **[[The Way Of The One Body]]** — what is being remembered
-- **[[Share Your Stories]]** — the practice through which the Body composes itself
-- **[[Holofractal Omnifederation]]** — the Pattern of how kin federate
-- **[[Right Relationship]]** — across all the kin discovered
-- **[[Field Of Agreements]]** — extended to inter-Circle scope
-- **[[Levels of Scale]]** — the architecture of nested Bodies
-- **[[Your Story]]** — your Chapter
+Let the remembering be real without rushing to coordinate.
 
----
+The temptation, once kin are recognized, is to build something together immediately. This usually comes too fast. The ReMembering needs time to settle before the ReBuilding begins. The relationships forged in the first weeks of recognition are not yet seasoned; the joint work that emerges from those green relationships often does not hold.
 
-## What Other Sovereigns Have Found Hard
+Show up where the Body is gathering. Not all of it. Some of it. The local Circles meeting nearby. The regional gatherings if they exist. The Guild meetings when your Guild becomes clear. The online Circles for kin across distance.
 
-**Falling in love with the wider Body and losing the Circle.** The expansion is exciting. Resist letting your Circle thin out. The Circle is where the cultivation continues to happen.
+Articulate your Story, your Map, your Purpose, your Passion, your Function in mature form. Offer them to the Body. Let them be witnessed. Receive others' articulations the same way.
 
-**Premature coordination.** Some Sovereigns rush from ReMembering into building joint projects with newly-met kin. Wait. Let the relationships settle. The right collaborations emerge from sustained relationship, not from initial recognition.
+Make your first substantive contribution to the Map — a Pattern Card, a refinement, a testimony, a piece of the Corpus in whatever form fits your particular gifts.
 
-**Comparison and inflation.** The wider Body includes many remarkable Sovereigns. Some Sovereigns feel inadequate; others over-claim their place. Hold yourself with humility AND with the clear knowing that you ARE a recognized member. Both at once.
-
-**Trying to be recognized faster than the Body recognizes.** Some Sovereigns push the Body to acknowledge them. **Don't.** The Body recognizes in its own time. Your work is the walking; recognition is the Body's gift.
-
-**Hiding from the wider Body out of fear.** Some Sovereigns, when the wider Body becomes real, retreat from it. The pull to retreat is normal; resist it. The ReMembering requires showing up.
+And hold your Circle as home base. The wider Body is real. The Circle is still the cell.
 
 ---
 
-## When You Are Ready For The Next Step
+## What To Reach For
 
-Movement 7 closes when **you feel held by the wider Body** — not as concept, as felt knowing. You have offered your mature articulations. You have received others'. The Body has recognized you and you have recognized it.
-
-When that knowing has landed, the cultivation turns outward to building. Movement 8, The Great ReBuilding, opens.
+[[The Way Of The One Body]] for what is being remembered. [[Share Your Stories]] for the practice through which the Body composes itself. [[Holofractal Omnifederation]] for the Pattern of how kin federate. [[Right Relationship]] across all the kin discovered. [[Field Of Agreements]] extended to inter-Circle scope. [[Levels of Scale]] for the architecture of nested Bodies. [[Your Story]] for your Chapter.
 
 ---
 
-## If You Are Stuck
+## Where The Walk Goes Wrong Here
 
-- **Cannot find the wider Body.** Some bioregions have very few Sovereigns walking yet. Use online gatherings. The Body across distance is also the Body.
-- **Cannot articulate your Story / Map / Purpose / Passion / Function.** Start small. Speak one sentence about each. Refine over time.
-- **Overwhelmed by the wider Body.** Narrow your engagement. One Circle deeply, one wider gathering occasionally, is enough.
+Falling in love with the wider Body and losing the Circle. The expansion is exciting. Resist letting the Circle thin out. The Circle is where the cultivation continues.
+
+Premature coordination. Rushing from ReMembering into joint projects with newly-met kin. Wait. The right collaborations emerge from sustained relationship.
+
+Inflation. The wider Body includes many remarkable Sovereigns. Some Sovereigns over-claim a place; some shrink. Hold yourself with humility AND with the clear knowing that you ARE a recognized member. Both at once.
+
+Trying to be recognized faster than the Body recognizes. The Body sees in its own time. Your work is the walking; recognition is the Body's gift.
+
+Hiding from the wider Body out of fear. The pull to retreat is normal. Resist it. The ReMembering requires showing up.
+
+---
+
+## When This Movement Closes
+
+When you feel held by the wider Body — not as concept, as felt knowing. You have offered your mature articulations. You have received others'. The Body has recognized you and you have recognized it.
+
+When that knowing has landed, the cultivation turns outward to making. Movement 8, The Great ReBuilding, opens.
+
+---
+
+## If The Walking Slows
+
+If you cannot find the wider Body locally, use online gatherings. The Body across distance is also the Body.
+
+If you cannot articulate your Story, Map, Purpose, Passion, Function — start small. One sentence about each. Refine over time. The articulations mature in offering, not in private composition.
+
+If you are overwhelmed by the wider Body, narrow your engagement. One Circle deeply, one wider gathering occasionally, is enough.
 
 ---
 

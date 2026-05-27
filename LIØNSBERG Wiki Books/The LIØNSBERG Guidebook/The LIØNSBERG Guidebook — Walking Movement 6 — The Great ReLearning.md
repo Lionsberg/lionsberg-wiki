@@ -2,15 +2,15 @@
 
 _Companion chapter for [[The 144 Gates of Initiation|Movement 6]] — Gates 61 through 72._
 
-The Wilderness has reformed you. Now you are ready to learn.
+The Wilderness reformed you. Now you can be taught.
 
-Movement 6 is the substantive recovery of wisdom — Patterns received as living grammar, the Daily Way at depth, the relearning of body, emotion, relationship, earth, craft, story, healing, leadership, and reverence. The lost arts that the Old World stripped from the Sovereign are gathered back.
+This is the recovery of wisdom the Old World stripped — Patterns as living grammar; the Daily Way at depth; the relearning of body, emotion, relationship, earth, craft, story, healing, leadership, reverence. What was once you, lost, returns. What was never you, but always available to a Sovereign of any age, becomes available now that the seeing and the trials have prepared the ground.
 
-This is one of the quieter Movements. It does not have the drama of UnVeiling or the difficulty of Wilderness. It has the steady, deep, accumulating quality of actual learning.
+This Movement is quieter than what came before. It has the steady accumulating quality of actual learning.
 
 ---
 
-## What Is Happening In Movement 6
+## The Twelve Gates
 
 61. **The Pattern Language Encountered** — living grammar received
 62. **The Daily Way At Depth** — Silence And Stillness As The Ground rooted
@@ -27,71 +27,65 @@ This is one of the quieter Movements. It does not have the drama of UnVeiling or
 
 ---
 
-## What This Movement Feels Like
+## The Texture Of This Season
 
-For Sovereigns who walked Movement 5 well, Movement 6 often feels like coming home to a kitchen after a long journey. There is something to do. The tools are at hand. The cultivation is satisfying.
+A rebuilt appetite for learning — but a different kind than the Old World's accumulation of information. This is learning that lands in the body, in the relationships, in the way the day unfolds.
 
-What others have reported:
+Capacities you did not know you had lost begin to return. The body remembers how to eat well. The hands remember craft. The voice remembers how to speak to a child or a forest. Many Sovereigns weep at the recovery.
 
-- **A rebuilt appetite for learning** — but a different kind than the Old World's accumulation of information. This is learning that lands in the body, the relationships, the way the day unfolds.
-- **A felt restoration of capacities you didn't know you'd lost.** The body remembers how to eat well. The hands remember craft. The voice remembers how to speak to a child or a forest. Some Sovereigns describe weeping at the recovery.
-- **A new relationship with the Pattern Language.** What was abstract becomes operational. Patterns start naming things you actually encounter.
-- **A new patience.** The ReLearning takes time. Most Sovereigns find this welcome after the Wilderness's urgency.
-- **The reemergence of skills the Sovereign had as a child** — making, gardening, naming, listening, storytelling. The childhood was cut off by the Old; the Movement reopens it.
+The Pattern Language stops being abstract. Patterns start naming things you actually encounter. A question arises; a Card is the right answer; the Card becomes part of how you think. Then another question, another Card. Over months, dozens of Patterns are working vocabulary.
 
----
+Patience returns. The Wilderness needed urgency. This Movement does not. You can let the ReLearning take time because the body knows that what is being learned will be needed for the rest of your walking.
 
-## The Discipline For This Movement
-
-The discipline is **learn by doing in your actual life.**
-
-The temptation is to consume more material. The work is to integrate. What you learn in Movement 6 lands by being practiced, not by being read.
-
-What sustains the discipline:
-
-- **Pick one ReLearning at a time.** Don't try to relearn body, emotion, earth, craft, healing, and leadership simultaneously. Choose where the cultivation wants to deepen first.
-- **Practice in the small.** A daily breath practice. One small garden. One handcraft. One emotion met directly. The ReLearning lives in the small.
-- **Let the Pattern Language be a tool.** When a question arises in your walking, reach for the Pattern Card that answers it. Read it. Try it. Notice what happens.
-- **Find teachers in the world.** Movement 6 is the Movement most Sovereigns find concrete external teachers helpful — gardeners, martial artists, healers, craftspeople, elders. Trust the ones who walk what they teach.
+Childhood skills reemerge. Sovereigns who were stripped of making, gardening, naming, listening, storytelling rediscover that those capacities were never killed — only suppressed. The Sovereign of three years old, in some sense, comes back.
 
 ---
 
-## What Patterns To Reach For
+## The Discipline
 
-- **[[The LIØNSBERG Pattern Language]]** — the grammar
-- **[[The Daily Way]] · [[The Weekly Heartbeat]] · [[OmniSpection]]** — the cultivation rhythms
-- **[[Eating]] · [[Sleeping]] · [[Walking]] · [[Moving]] · [[The Sovereign's Body]]** — body wisdom
-- **[[Mastery Of Emotions]]** — emotional wisdom
-- **[[Right Relationship]]** — across all kin
-- **[[Shoshin]]** — beginner's mind, essential for receiving the ReLearning
+Learn by doing in your actual life.
 
----
+The temptation is to consume more material. The work is to integrate. What is read but not practiced does not land. What is practiced even once — a breath held a different way, a meal cooked from scratch, a difficult emotion met directly, a Pattern Card actually tried in a real situation — lands deeper than ten Cards skimmed.
 
-## What Other Sovereigns Have Found Hard
+Pick one ReLearning at a time. Body first, usually. Then emotion. Then earth. Then craft. Sequentially. The whole-being relearning takes a season for each domain. Trust the pace.
 
-**Consuming more material instead of integrating what you have.** Resist the urge to keep reading new Pattern Cards. Practice one for a season. Let it land.
-
-**Comparison with Sovereigns who seem to relearn faster.** The pace is sovereign. Your particular ReLearning will be yours. Trust the unfolding.
-
-**Underestimating how much body / earth / craft work matters.** The Sovereign who relearns only at the level of mind without restoring the body, the hands, the relationship with land, does not walk Movement 6. The cultivation is whole-being or it isn't really Movement 6.
-
-**Treating Pattern Cards as doctrine.** They are living grammar — refinable, contextual, sovereign-applied. Use them, don't worship them. [[General Pattern, Specific Application]] is the discipline that holds this.
+Find teachers in the world. This is the Movement most Sovereigns find external teachers helpful — gardeners, martial artists, healers, craftspeople, elders. Trust the ones who walk what they teach. Distrust the ones who only sell what they teach.
 
 ---
 
-## When You Are Ready For The Next Step
+## What To Reach For
 
-Movement 6 closes when **the ReLearning is held in your actual life** — not as concepts, but as embodied capacities. The body knows how to eat. The hands know how to make. The relationships know how to be in right relationship. The Pattern Language is in your working vocabulary.
-
-When the ReLearning has landed, the Sovereign is ready to begin recognizing the wider Body as kin — Movement 7, The Great ReMembering.
+[[The LIØNSBERG Pattern Language]] for the grammar. [[The Daily Way]] · [[The Weekly Heartbeat]] · [[OmniSpection]] for the rhythms. [[Eating]] · [[Sleeping]] · [[Walking]] · [[Moving]] · [[The Sovereign's Body]] for body wisdom. [[Mastery Of Emotions]] for the emotional vocabulary. [[Right Relationship]] across all kin. [[Shoshin]] for beginner's mind. [[General Pattern, Specific Application]] for using Patterns without making them doctrine.
 
 ---
 
-## If You Are Stuck
+## Where The Walk Goes Wrong Here
 
-- **Reading without practicing.** Stop reading. Practice one thing.
-- **Trying to relearn everything at once.** Narrow down. Body first. Then emotion. Then earth. Sequentially.
-- **No teachers visible.** Look harder. The teachers of Movement 6 are often quiet, local, unbranded. They exist where you live.
+Consuming more material instead of integrating what you have. Resist the urge to read new Cards. Practice one for a season.
+
+Comparison with Sovereigns who relearn faster. The pace is sovereign. Your particular ReLearning is yours.
+
+Relearning only at the level of mind. The body, the hands, the relationship with land — these are not optional. The Sovereign who learns from books without learning from the soil and the breath has not walked Movement 6.
+
+Treating Pattern Cards as doctrine. They are living grammar. Use them; refine them; do not worship them.
+
+---
+
+## When This Movement Closes
+
+When the ReLearning is held in your actual life, not as concepts but as embodied capacities. The body knows how to eat. The hands know how to make. The relationships know how to be in right relationship. Patterns are in your working vocabulary.
+
+When the ReLearning has landed, the cultivation turns outward. You begin to recognize the wider Body as kin. Movement 7 opens.
+
+---
+
+## If The Walking Slows
+
+If you are reading without practicing, stop reading and practice one thing.
+
+If you are trying to relearn everything at once, narrow. Body first. Then emotion. Then earth. One domain at a time.
+
+If no teachers seem visible, look harder. The teachers of this Movement are usually quiet, local, unbranded. They exist where you actually live.
 
 ---
 
