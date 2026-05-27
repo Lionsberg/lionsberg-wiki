@@ -32,8 +32,8 @@ Beyond these rings, The Story keeps growing. Every being walking through every w
 
 - [[The Story of LIØNSBERG — The Seed]] — _the unsaid word at the centre_
 - [[The Story of LIØNSBERG — One Thousand Words]] — _the compressed transmission, hand to hand, moment to moment_
-- [[The Story of LIØNSBERG — Ten Thousand Words]] _(coming)_
-- [[The Story of LIØNSBERG — The Full Breath]] _(coming · One Hundred Thousand Words, Chapter by Chapter)_
+- [[The Story of LIØNSBERG — Ten Thousand Words]] _(coming · the cosmic arc opened at full reach, one sustained read)_
+- [[The Story of LIØNSBERG — The Full Breath]] — _the One Hundred Thousand Words, Chapter by Chapter — its own Book; drafting begun_
 - [[The LIØNSBERG Sacred Codex]] — _the wider Codex and Living Library_
 
 _The retelling continues. See [[The Story of LIØNSBERG Retold Project]] for the working surface._
