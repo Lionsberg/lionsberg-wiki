@@ -37,7 +37,7 @@ The first stirring of Truth. The whisper meets the Sovereign where they are. Rec
 The Old World / Paradigm / Patterns / Perspectives are unveiled. The architecture of [[Kontrolle]] seen — within and without. The lies named. The Inversions recognized. The Sovereign begins to discern Reality from what they were told is Real.
 
 **Movement 3 — The Cry Of The Heart And The Call To Exodus** _(Gates 25–36)_
-Conscience ignites. The Yes that aligns countless others is consciously spoken. The will to depart from the Old crystallizes. The Sovereign chooses, the Circle is gathered, the Daily Way begins, the Field Of Agreements is established.
+Conscience ignites. The Decision that aligns countless others is consciously made. The will to depart from the Old crystallizes. The Sovereign chooses, the Circle is gathered, the Daily Way begins, the Field Of Agreements is established.
 
 **Movement 4 — Crossing The Boundary** _(Gates 37–48)_
 The first departure from the Old. Sovereignty reclaimed. Consent withdrawn. Identity, property, relationships re-arranged. The threshold crossed inwardly and outwardly. The Pillar Of Fire — cultivated discernment — leads.
@@ -83,7 +83,7 @@ _First full naming in current consciousness. Each Gate is one threshold the Sove
 7. **The Caves Seen In Their Forms** — recognizing kontrolle in one's own life, society, planet, cosmos
 8. **The First Sovereign Encountered** — meeting another awakening Sovereign; no longer alone
 9. **The Threshold At Awareness** — standing aware at the inner door
-10. **The Yes That Aligns Countless Others** — the conscious choice to walk
+10. **The Decision That Aligns Countless Others** — the conscious choice to walk
 11. **The Whisper Becomes Voice** — the inner call clarifies and becomes audible
 12. **The Awakening Recognized** — the moment seen, named, sealed by Self and Witness
 

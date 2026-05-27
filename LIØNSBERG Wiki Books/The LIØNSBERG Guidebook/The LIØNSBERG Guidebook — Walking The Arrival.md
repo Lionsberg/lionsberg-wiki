@@ -2,7 +2,7 @@
 
 _Companion chapter for Stages 1 through 7 of [[The 12 Stages of the Sovereign's Path|the Sovereign's Path]]: Discovery · Threshold · Orientation · Gather · First 90 Minutes · Weekly Practice · Pattern Encounter._
 
-Before the deep cultivation of [[The 144 Gates of Initiation|the 144 Gates]] opens, you cross through seven Stages of Arrival. These are the days, weeks, and months in which the Seed is received, the Yes is spoken, the Circle is gathered, the first Quest is chosen, and the rhythm of daily and weekly practice settles into the heart, mind, and bones.
+Before the deep cultivation of [[The 144 Gates of Initiation|the 144 Gates]] opens, you cross through seven Stages of Arrival. These are the days, weeks, and months in which the Seed is received, the Decision is made, the Circle is gathered, the first Quest is chosen, and the rhythm of daily and weekly practice settles into the heart, mind, and bones.
 
 You may move through them in days. You may move through them in seasons. **Both are fine.** The Seed takes root in its own time. The order is permissive. Some Sovereigns cross all seven within a single intense week of recognition; others linger at one Stage for months while distractions vie for attention, and life slowly clears the room for the next step. Trust the pace. Trust the process. Simply do your best to Progress. 
 
@@ -34,15 +34,15 @@ You read [[Welcome to LIØNSBERG]]. The deeper invitation. The Story begins to l
 
 **The Threshold is the moment you choose.** Yes or no. Yes carries you forward. The pause is honored; the Seed remains in your hands, available if and when Yes arrives.
 
-You may feel some uneasiness at this Stage. The anxiety is real. It is also not the whole truth. The Yes has to come from Deeper. 
+You may feel some uneasiness at this Stage. The anxiety is real. It is also not the whole truth. The Decision has to come from Deeper. 
 
 At this Stage you are also handed **this Guidebook** — the field guide you will carry through all the Stages that follow. The Welcome page points you to it. The Guidebook walks beside you from here.
 
-**What to do at Stage 2:** Read [[Welcome to LIØNSBERG]] end to end. Read once more if you need to. Speak your Yes — even just to yourself, even just in a private journal, even just in a moment of stillness. The Yes is a real act regardless of how visible it is.
+**What to do at Stage 2:** Read [[Welcome to LIØNSBERG]] end to end. Read once more if you need to. Make your Decision — even just to yourself, even just in a private journal, even just in a moment of stillness. The Decision is a real act regardless of how visible it is.
 
-**What is hard at Stage 2:** The fear of what saying Yes will cost. Many Sovereigns hesitate here for weeks. **It does not cost what you fear it costs.** What you set down is the right to claim ignorance. To say you did not know. To say you were not invited. You may keep any of your existing identities, traditions, affiliations, and relationships for as long as they serve. What you give up is only the option of pretending you did not awaken and see.
+**What is hard at Stage 2:** The fear of what making the Decision will cost. Many Sovereigns hesitate here for weeks. **It does not cost what you fear it costs.** What you set down is the right to claim ignorance. To say you did not know. To say you were not invited. You may keep any of your existing identities, traditions, affiliations, and relationships for as long as they serve. What you give up is only the option of pretending you did not awaken and see.
 
-**When you are ready for Stage 3:** When the Yes is spoken and the next question becomes _what is the bigger Story I have just stepped into?_
+**When you are ready for Stage 3:** When the Decision is made and the next question becomes _what is the bigger Story I have just stepped into?_
 
 ---
 
@@ -143,7 +143,7 @@ This Stage is the bridge into the deeper walk. By the time you have moved fluent
 
 By the close of these seven Stages — however long they take — you stand:
 
-- With the Yes spoken
+- With the Decision made
 - With the Story living in you, and you living in it  
 - With a Circle gathered and meeting weekly  
 - With a meaningful Seasonal Quest underway  

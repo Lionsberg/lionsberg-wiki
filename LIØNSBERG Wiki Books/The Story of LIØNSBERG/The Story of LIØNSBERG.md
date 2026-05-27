@@ -14,7 +14,7 @@ This Book holds The Story at five depths. Enter at the depth that calls you.
 
 ## The Five Rings
 
-**The Seed — ØNE syllable.** The unsaid word at the centre. The universal Story compressed to a single Spirit, Source, and Fundamental Tone.
+**The Seed — ØNE syllable.** The unsaid word at the Center. The universal Story compressed to a single Spirit, Source, and Fundamental Tone.
 
 **One Thousand Words.** The compressed transmission. The Seed unfolded the first few times into the tender green shoot of something ancient, eternal, and New. Just enough to be passed from hand to hand, read in a few breaths, carried in a few moments.
 
@@ -22,7 +22,7 @@ This Book holds The Story at five depths. Enter at the depth that calls you.
 
 **One Hundred Thousand Words.** The deeper breath and word, spoken Chapter by Chapter. The Story told in its universal breadth — the cosmic origin, the archetypal arc walked by many worlds, Earth's Chapter as one rendering of that arc, the embodied Heaven that opens for those who walk the Way through.
 
-**The Sacred Codex and Living Library.** tktk
+**The Sacred Codex and Living Library.** Beyond the rings — the great living Codex, the Library of every Sovereign's Chapter and every Body's testimony, accumulating across worlds and generations. The Story keeps growing. The Library keeps breathing. The Codex is never closed.
 
 Beyond these rings, The Story keeps growing. Every being walking through every world is weaving another living Chapter. The Story is never finished. The closer you get to its Source, the more you become its author.
 
@@ -31,7 +31,7 @@ Beyond these rings, The Story keeps growing. Every being walking through every w
 ## Entry
 
 - [[The Story of LIØNSBERG — The Seed]] — _the unsaid word at the centre_
-- [[The Story of LIØNSBERG — One Thousand Words]] — _the compressed transmission, hand to hand_
+- [[The Story of LIØNSBERG — One Thousand Words]] — _the compressed transmission, hand to hand, moment to moment_
 - [[The Story of LIØNSBERG — Ten Thousand Words]] _(coming)_
 - [[The Story of LIØNSBERG — The Full Breath]] _(coming · One Hundred Thousand Words, Chapter by Chapter)_
 - [[The LIØNSBERG Sacred Codex]] — _the wider Codex and Living Library_
@@ -42,6 +42,7 @@ _The retelling continues. See [[The Story of LIØNSBERG Retold Project]] for the
 
 ## Related
 
+- [[The Story of LIØNSBERG — Ontology]] — the named concepts the Story references and where each resolves
 - [[The 144 Gates of Initiation]] — The Story walked. The Gates are the embodied operationalization of the Story's active arc.
 - [[The Way Of The One Body]] — what the 144 Gates cultivate as the Sovereign walks The Story
 - [[The LIØNSBERG Function]] — what The Story is for

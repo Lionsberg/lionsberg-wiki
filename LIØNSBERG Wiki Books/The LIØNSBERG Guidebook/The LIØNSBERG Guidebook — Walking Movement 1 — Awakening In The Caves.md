@@ -25,7 +25,7 @@ The seeing itself is the dawn.
 7. **The Caves Seen In Their Forms** — recognizing kontrolle in one's own life, society, planet, cosmos
 8. **The First Sovereign Encountered** — meeting another awakening Sovereign; not alone
 9. **The Threshold At Awareness** — standing aware at the inner door
-10. **The Yes That Aligns Countless Others** — the conscious choice to walk
+10. **The Decision That Aligns Countless Others** — the conscious choice to walk
 11. **The Whisper Becomes Voice** — the inner call clarifies and becomes audible
 12. **The Awakening Recognized** — the moment seen, named, sealed by Self and Witness
 

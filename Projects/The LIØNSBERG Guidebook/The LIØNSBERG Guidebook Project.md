@@ -31,7 +31,7 @@ The Guidebook is the wise elder at the fire WITH the seeker — walking beside, 
 
 ## The Listener
 
-The **initiate who has just entered the Gates of LIØNSBERG** — the awakening Sovereign who has crossed the threshold from receiving the Seed (The Story) to walking the Way (The Gates). They have said Yes. They have begun. They are about to be handed the field guide for the rest of the walk.
+The **initiate who has just entered the Gates of LIØNSBERG** — the awakening Sovereign who has crossed the threshold from receiving the Seed (The Story) to walking the Way (The Gates). They have made the Decision. They have begun. They are about to be handed the field guide for the rest of the walk.
 
 All other readers (Sovereigns further along, Sovereigns from other Guilds, those preparing to receive their own Guidebook) read it through that one.
 

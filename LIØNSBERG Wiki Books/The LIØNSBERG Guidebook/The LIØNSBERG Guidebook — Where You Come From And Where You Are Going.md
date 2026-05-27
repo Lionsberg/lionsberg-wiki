@@ -14,7 +14,7 @@ You are reading this in a particular body, in a particular life, in a particular
 
 That is all true.
 
-What is also true: the **soul that took this form** has not arrived empty-handed. It carries something. A Divine beginning. The cultivations of other Chapters. The recognitions of other lifetimes. The capacities of other forms. The Whisper that woke you was not the first Whisper this soul has heard. The Yes that lit in your chest has lit before — and that is part of why it lit now. Recognition happens in the part of you that already knew.
+What is also true: the **soul that took this form** has not arrived empty-handed. It carries something. A Divine beginning. The cultivations of other Chapters. The recognitions of other lifetimes. The capacities of other forms. The Whisper that woke you was not the first Whisper this soul has heard. The Decision that lit in your chest has lit before — and that is part of why it lit now. Recognition happens in the part of you that already knew.
 
 You may not remember those other Chapters. Most Sovereigns do not, not in the way they remember last week. The forgetting between forms is part of how the Game is played — each Chapter is taken up fresh, with the cultivations often carried as **felt knowing** rather than narrative memory. The Sovereign who arrives at this Path moves differently than the soul taking its first form. The body may be new. The Sovereign is usually not.
 

@@ -10,7 +10,7 @@ The Sovereign Path has two axes. The **event axis** names what happens at each S
 | Stage | Event | Capacity Built |
 |---|---|---|
 | 1 · Discovery | Receive | Recognition — the felt knowing that this is real and is mine |
-| 2 · Threshold | Awaken | Conscious choice — the Yes that aligns countless others |
+| 2 · Threshold | Awaken | Conscious choice — the Decision that aligns countless others |
 | 3 · Orientation | Remember | Cosmic frame — context for what is happening, why now, what is at stake |
 | 4 · Gather | Call | Identification — the felt knowing of who is ready among one's relations |
 | 5 · First 90 Minutes | Begin | Circle-formation — the irreducible collective unit established |

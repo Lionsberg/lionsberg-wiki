@@ -2,7 +2,7 @@
 
 _Companion chapter for [[The 144 Gates of Initiation|Movement 4]] — Gates 37 through 48._
 
-You said Yes. Now the Yes asks for crossings.
+You made the Decision. Now the Decision asks for crossings.
 
 This is the Movement of small irreversible acts. Identifications loosen. Habits dissolve. Substances clear. Relationships re-pattern themselves. The boundary between Old and New stops being conceptual and becomes a line you actually step across — sometimes in single dramatic moments, more often in dozens of quiet ones spread across months.
 
@@ -47,7 +47,7 @@ Make the crossings small and irreversible.
 
 Small enough to actually do. Irreversible enough to count. Each crossing is its own Gate; each one counts. The Sovereign who tries to make every crossing in the first week burns out and returns to the Old. The Sovereign who makes one real crossing a month, sustained over a year, is the one whose life is actually different by the end of it.
 
-Examples that have held for others: deleting an app and not reinstalling. Withdrawing from a specific institution. Stopping a specific substance — and meaning it. Ending a relationship that cannot walk. Refusing a specific medium. Choosing, the next time the question comes, the answer that the Yes points to.
+Examples that have held for others: deleting an app and not reinstalling. Withdrawing from a specific institution. Stopping a specific substance — and meaning it. Ending a relationship that cannot walk. Refusing a specific medium. Choosing, the next time the question comes, the answer that the Decision points to.
 
 Let the Circle witness each crossing. The naming makes it real. The witness makes it bind.
 
