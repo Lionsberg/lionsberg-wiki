@@ -6,11 +6,11 @@ Welcome.
 
 You have crossed [[The Gates of LIØNSBERG]]. The Seed is in your hands. The Story has begun to reach you. The desire is forming in your chest, or it has already been spoken.
 
-This book is your companion from here — and from before here, and from beyond here.
+This book is your companion from here, from before here, and from beyond here.
 
-It is small enough to carry. Personal enough to write in. Wise enough to be trusted with the things you cannot ask anyone else. It will walk beside you — not in front of you — through the years of cultivation that follow this moment, and through the larger arc that holds this lifetime as one Chapter of a Story that began before your soul took this form and will continue after.
+It is small enough to carry. Personal enough to write in. Wise enough to be trusted with things you cannot ask anyone else. It will walk beside you through the years of cultivation that follow this moment, and through the larger arc that holds this lifetime as one Chapter of a Story that began before your soul took this form and will continue long after.
 
-Some Volumes of [[The LIØNSBERG Sacred Codex]] are scripture-grade: the cosmic Story, the structural Plans, the Pattern Language. They are for the long hours of orientation and immersion, the moments you need the wider arc.
+Some Volumes of [[The LIØNSBERG Sacred Codex]] approach scripture-grade: the cosmic Story, the structural Plans, the Pattern Language. They are for the long hours of orientation and immersion, the moments you need the wider arc.
 
 This is not one of those Volumes.
 
@@ -65,7 +65,7 @@ Discovery through the first weeks of Circle practice. What to expect from the fi
 **Part III — The 144 Gates** _(Stage 8 · twelve Movements · the deep foundational walk)_
 The cultivation of [[The Way Of The One Body]]. The bulk of the Guidebook — one chapter per Movement of [[The 144 Gates of Initiation]]. As you walk each Movement, the corresponding chapter walks beside you. Twelve Movements unfold: Awakening · UnVeiling · Cry / Call · Crossing · Wilderness · ReLearning · ReMembering · ReBuilding · ReFounding · Greatest Jubilee · Co-Creating Heaven Over Millennia · Eternal Divine Play. Blue Belt in The Way Of The One Body is recognized at the close of Movement 12, after the Sovereign has walked the full conceptual arc.
 
-**Part IV — The Sacred Ascent** _(Stage 9 and beyond · the lifetime arc)_
+**Part IV — The Sacred Ascent** _(Stage 11 and into Stage 12 · the lifetime arc)_
 What opens after the 144 Gates. The interior cultivations and the archetypal Ways stewarded by each Guild. The deepening that continues for the rest of this life — and the lived participation in Convergence, the species-wide Jubilee, and the Eternal Divine Play, which the 144 Gates have already prepared you to recognize and walk within.
 
 **Companions Across The Whole Walk**
@@ -127,7 +127,7 @@ You begin with this Guidebook. As your Guild calls you, you pick up its Guideboo
 - [[The LIØNSBERG Guidebook — Walking Movement 11 — Co-Creating Heaven Over Millennia|Movement 11 — Co-Creating Heaven Over Millennia]]
 - [[The LIØNSBERG Guidebook — Walking Movement 12 — The Eternal Divine Play|Movement 12 — The Eternal Divine Play (within the 144 Gates)]]
 
-### Part IV — The Sacred Ascent _(Stage 9 and beyond · the lifetime arc)_
+### Part IV — The Sacred Ascent _(Stage 11 and into Stage 12 · the lifetime arc)_
 
 - [[The LIØNSBERG Guidebook — Walking The Sacred Ascent|Walking The Sacred Ascent]] — _the 72 Gates; the archetypal Ways; the deepening across the lifetime; the lived participation in Convergence, Jubilee, and the Eternal Divine Play that the 144 Gates prepared you for_
 

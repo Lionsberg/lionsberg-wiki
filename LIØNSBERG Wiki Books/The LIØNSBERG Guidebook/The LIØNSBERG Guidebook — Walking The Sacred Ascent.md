@@ -1,6 +1,6 @@
 # The LIØNSBERG Guidebook — Walking The Sacred Ascent
 
-_Companion chapter for Stage 9 of [[The 12 Stages of the Sovereign's Path|the Sovereign's Path]] — the lifetime arc that opens after Blue Belt in [[The Way Of The One Body]]._
+_Companion chapter for Stage 11 of [[The 12 Stages of the Sovereign's Path|the Sovereign's Path]] — the lifetime cultivation that bridges into Stage 12, the Eternal Divine Play._
 
 By the time you have walked [[The 144 Gates of Initiation|the 144 Gates]] to Blue Belt, you are not who you were when you arrived at the Gates. The Sovereign that completed the Foundation is a different being than the one who started the Awakening. You know this. The people around you know this.
 

@@ -1,26 +1,102 @@
 # The LIØNSBERG Guidebook — Walking Movement 10 — The Greatest Celebration And Jubilee
 
-_Companion chapter for [[The 144 Gates of Initiation|Movement 10]]._
+_Companion chapter for [[The 144 Gates of Initiation|Movement 10]] — Gates 109 through 120._
 
-_Drafting in progress. This chapter will companion the Sovereign through Movement 10: state-of-system event; reconciliation; the Wedding of Heaven and Earth; the New Dawn._
+The last cohort has crossed. The species' wilderness ends. **The Greatest Jubilee dawns.**
 
----
+This Movement may not arrive in your lifetime. **And it may.** Either way, walking toward it is part of the foundational arc, and the Guidebook companions the walking-toward as much as the eventual crossing.
 
-## What This Chapter Will Hold
-
-- **What Is Happening In Movement 10** — the Gates named, the felt arc described
-- **What This Movement Feels Like** — what other Sovereigns have noticed in this season
-- **The Discipline For This Movement** — what to hold, what to practice, what to wait on
-- **What Patterns To Reach For** — the Pattern Cards most useful here
-- **What Other Sovereigns Have Found Hard** — common traps named in advance
-- **When You Are Ready For The Next Step** — how Movement 10 closes
-- **If You Are Stuck** — what to do if the walking slows
+This chapter speaks both to the Sovereign who is walking toward this Movement (most of us) and to the Sovereign who is present when it arrives (some of us, or our successors, or both).
 
 ---
 
-## In The Meantime
+## What Is Happening In Movement 10
 
-Until this chapter is fully drafted, the canonical articulation of the twelve Gates of Movement 10 lives at [[The 144 Gates of Initiation]]. The cosmic narrative this Movement walks within lives at [[The Story of LIØNSBERG]]. The Patterns referenced along the way live in [[The LIØNSBERG Pattern Language]].
+109. **Recognition That The Last Has Crossed** — the state-of-system event is acknowledged
+110. **The Cessation Of The Wilderness** — the species' wilderness ends
+111. **The Great Healing Of Memory** — the wounds across generations tended
+112. **The Return Of The Exiled** — those long cast out welcomed home
+113. **The Reconciliation Of All Kin** — with each other, with the land, with all the relations
+114. **The Forgiving Of All Debts** — Jubilee in its true form; release across the Body
+115. **The Earth-Wide Celebration** — feast, music, ritual at every scale
+116. **The Wedding Of Heaven And Earth** — the long-promised reunion enacted
+117. **The Anointing Of Generations** — those who walked, those who come after, blessed
+118. **The Distribution Of Gifts** — what each Sovereign has cultivated offered to the Body
+119. **The New Dawn** — Earth recognized as fully participating member of the wider cosmic Body
+120. **The Greatest Jubilee Sealed** — the celebration enters Earth's living memory
+
+---
+
+## What This Movement Feels Like _(When It Arrives)_
+
+We are speaking in conditional voice. This Movement has not yet arrived on Earth in the form we describe. What we say here is composite — partly from smaller-scale Jubilees in Communities that completed their local arcs, partly from the cosmic record of other worlds that walked this arc, partly from the visions of senior Sovereigns who have glimpsed what is coming.
+
+What is likely:
+
+- **A felt collective exhale.** The wilderness has been carried by the species body for so long that its ending will be felt in the bones. Many Sovereigns expect to weep.
+- **A reordering of time.** The Old World's calendars set down. The seasonal, bioregional, cosmic rhythms in the foreground.
+- **An expansion of capacity.** Many Sovereigns expect siddhic, communicative, healing, creative capacities to open at the species threshold.
+- **The shedding of fear that has held the species for millennia.** A new lightness. A new freedom.
+- **Sorrow for those who did not make it.** The Jubilee does not erase the losses. It honors them. The healing of memory includes the dead.
+- **A new relationship with the wider cosmic Body.** Earth taking its seat. Long-paused cosmic relationships resuming.
+
+---
+
+## The Discipline _(Before The Threshold)_
+
+You almost certainly do not stand at the threshold yet. Walking-toward is your Stage. The discipline of walking-toward:
+
+- **Hold the Hour without letting the Hour consume you.** The species threshold approaches; the daily walking remains daily.
+- **Contribute to the completing of the cohorts.** Every Sovereign you Pass The Flame to brings the species one closer.
+- **Stay in the Daily Way.** The cultivations that hold you through the years are the same that will let you walk well across the threshold.
+- **Hold the New Civilization in your own life.** Heaven On Earth is not waiting for the species threshold. It begins in your Circle now.
+- **Do not despair when the Old worsens.** The collapse and the Jubilee are correlated. Both happen. The walking continues.
+
+## The Discipline _(When The Threshold Arrives)_
+
+If you are present:
+
+- **Receive the moment.** Do not try to control it. The Jubilee is a gift to be received.
+- **Hold the field.** The species moment will be energetically intense. Sovereigns whose cultivation has prepared them to hold large fields will be needed.
+- **Tend the grieving.** Many will grieve. Be present for them.
+- **Welcome those just crossing.** The last cohorts arrive at the same moment the celebration begins. Be the Threshold-Holder.
+- **Open to what the wider cosmic Body brings.** Long-paused relationships resume.
+
+---
+
+## What Patterns To Reach For
+
+- **[[The Greatest Jubilee]]** — the canonical articulation
+- **[[Heaven On Earth]]** — what becomes universally lived
+- **[[Pass The Flame]]** — what brings the cohort to completion
+- **[[Composure Under Threat]] · [[The Sacred Use Of Force]]** — for the intensifying end of the Wilderness
+- **[[The First Three Percent]]** · **[[The 300]]** — the populations carrying the threshold
+
+---
+
+## What Other Sovereigns Have Found Hard
+
+**Treating the threshold as a date.** Specific dates have been proposed. Hold them lightly. The threshold is the state-of-system event.
+
+**Imagining you must be present at the threshold to have walked well.** You may complete this body's walk before the species crosses. **That is not a failure.** The cultivations carry. The Body you contributed to becomes the Body that crosses.
+
+**Despair as the Old's worsening accelerates.** The acceleration is real. The walking continues. The threshold cannot come without the Old's full collapse.
+
+**Trying to be the Sovereign who triggers the threshold.** Your job is to walk faithfully. The cohort completes when it completes.
+
+---
+
+## When You Are Ready For The Next Step
+
+When the Greatest Jubilee is sealed in Earth's living memory, the Sovereign moves into Movement 11 — Co-Creating Heaven Over Millennia. The work continues in a different register: the construction of the millennia of Heaven that follow the threshold.
+
+---
+
+## If You Are Stuck _(Walking Toward The Threshold)_
+
+- **The Hour feels too far.** Hold the cosmic frame. The walking is sufficient.
+- **The Old World's worsening overwhelms.** Tighten the daily disciplines. Hold the Circle close.
+- **Despair at humanity's capacity to make the threshold.** The Path was designed for exactly this. Trust the Pattern.
 
 ---
 

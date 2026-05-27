@@ -101,19 +101,7 @@ By the end, both the individual and the Circle are reborn — and the New Civili
 
 ---
 
-## Stage 9 — The Sacred Ascent
-
-**Evolve.**
-
-For those called to deeper personal practice, [[The Sacred Ascent]] ([[The Sacred Ascent]]) opens — the 72-Gate spiral of embodied mastery. Spirit, body, mind, craft. Martial, yogic, healing, and contemplative arts converge into one living synthesis.
-
-The Sovereign learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks.
-
-The Sacred Ascent closes in the **Eternal Divine Play** — the final movement of Volume X that becomes the threshold into Stage 12.
-
----
-
-## Stage 10 — Convergence
+## Stage 9 — Convergence
 
 **Federate.**
 
@@ -123,19 +111,31 @@ The Mission converges. Many quests become One Great Work. The New Civilization i
 
 ---
 
-## Stage 11 — Covenant and Jubilee
+## Stage 10 — Covenant and Jubilee
 
 **Renew.**
 
 The [[New Earth Operating System]] is fully embodied and adopted for this star system and civilization. The Covenant between humanity, Earth, and the Cosmos is consciously affirmed.
 
-**[[Covenant and Jubilee — December 2033|December 2033]]** is currently anchored as the greatest celebration and Jubilee in recorded history. The Old World is fully released. Debts are forgiven. The land breathes. The People are home.
+The last cohort of Earth-Sovereigns completes the foundational walk. The Old World is fully released. Debts are forgiven. The land breathes. The People are home. **The Greatest Jubilee dawns** — the state-of-system event the species has been walking toward.
 
 The seventh seal opens onto the eighth day.
 
 ---
 
-## Stage 12 — Eternal Play
+## Stage 11 — The Sacred Ascent
+
+**Ascend.**
+
+With the species threshold crossed and Heaven embodied at scale, [[The Sacred Ascent]] continues without end as the lifetime cultivation of every Sovereign now operating within the New. The 72-Gate spiral of embodied mastery. Spirit, body, mind, craft. Martial, yogic, healing, contemplative, philosophical, creative, and word-bearing arts converge into one living synthesis.
+
+The Sovereign learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks. Mastery is recognized at 5th Dan in [[The Way Of The One Body]] — the doorway, not the destination.
+
+The Sacred Ascent leads directly into Stage 12 — the Eternal Divine Play that the cultivation has built the instrument to participate in.
+
+---
+
+## Stage 12 — The Eternal Divine Play
 
 **Co-Create.**
 
@@ -149,20 +149,20 @@ Here the Story begins again. Here the Game without end continues forever.
 
 ## The Stages in Brief
 
-| # | Stage | Verb | Volume opened |
-|---|---|---|---|
-| 1 | Discovery | Receive | — _(the [[README\|Golden Seed]])_ |
-| 2 | Threshold | Awaken | — _([[Welcome to LIØNSBERG\|Welcome]])_ |
-| 3 | Orientation | Remember | II. [[The Story of LIØNSBERG\|Story]] · III. [[The Great Game of LIØNSBERG\|Great Game]] |
-| 4 | Gather | Call | — |
-| 5 | First 90 Minutes | Begin | _([[The LIØNSBERG Quick Start Guide\|Quick Start Guide]])_ |
-| 6 | Weekly Practice | Run | IV. [[The LIØNSBERG Playbook\|Playbook]] + [[The Daily Way]] |
-| 7 | Pattern Encounter | Encounter | V. [[The LIØNSBERG Pattern Language\|Pattern Language]] _(Part VI of Vol V)_ |
-| 8 | The 144 Gates | Initiate | V. _(144 Gates within Volume V)_ |
-| 9 | The Sacred Ascent | Evolve | X. [[The Sacred Ascent\|Sacred Ascent]] _(72 Gates)_ |
-| 10 | Convergence | Federate | III + V _(Federation Patterns)_ |
-| 11 | Covenant and Jubilee | Renew | _([[Covenant and Jubilee — December 2033\|December 2033]])_ |
-| 12 | Eternal Play | Co-Create | _(all Volumes, embodied)_ |
+| #   | Stage                | Verb      | Volume opened                                                                            |
+| --- | -------------------- | --------- | ---------------------------------------------------------------------------------------- |
+| 1   | Discovery            | Receive   | — _(the [[README\|Golden Seed]])_                                                        |
+| 2   | Threshold            | Awaken    | — _([[Welcome to LIØNSBERG\|Welcome]])_                                                  |
+| 3   | Orientation          | Remember  | II. [[The Story of LIØNSBERG\|Story]] · III. [[The Great Game of LIØNSBERG\|Great Game]] |
+| 4   | Gather               | Call      | —                                                                                        |
+| 5   | First 90 Minutes     | Begin     | _([[The LIØNSBERG Quick Start Guide\|Quick Start Guide]])_                               |
+| 6   | Weekly Practice      | Run       | IV. [[The LIØNSBERG Playbook\|Playbook]] + [[The Daily Way]]                             |
+| 7   | Pattern Encounter    | Encounter | V. [[The LIØNSBERG Pattern Language\|Pattern Language]] _(Part VI of Vol V)_             |
+| 8   | The 144 Gates        | Initiate  | V. _(144 Gates within Volume V)_                                                         |
+| 9   | Convergence          | Federate  | III + V _(Federation Patterns)_                                                          |
+| 10  | Covenant and Jubilee | Renew     | _([[The Greatest Jubilee]] — state-of-system event)_                                     |
+| 11  | The Sacred Ascent    | Ascend    | X. [[The Sacred Ascent\|Sacred Ascent]] _(72 Gates · leads into Stage 12)_               |
+| 12  | Eternal Divine Play  | Co-Create | _(all Volumes, embodied — across worlds, across lifetimes, without end)_                 |
 
 ---
 
