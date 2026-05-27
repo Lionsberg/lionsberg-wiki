@@ -26,7 +26,7 @@ Until this chapter is fully drafted, the canonical articulation of the twelve Ga
 
 ## Next
 
-→ [[The LIØNSBERG Guidebook — Walking Movement 7 — The Great ReBuilding|Walking Movement 7 — The Great ReBuilding]]
+→ [[The LIØNSBERG Guidebook — Walking Movement 7 — The Great ReMembering|Walking Movement 7 — The Great ReMembering|Walking Movement 7 — The Great ReMembering|Walking Movement 7 — The Great ReMembering]]
 
 Or return to:
 

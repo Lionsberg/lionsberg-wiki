@@ -1,4 +1,4 @@
-# The LIØNSBERG Guidebook — A Word For The Walker
+# The LIØNSBERG Guidebook — A Word For The Divine Pilgrim
 
 _The closing chapter. The elder's blessing._
 

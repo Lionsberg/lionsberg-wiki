@@ -26,7 +26,7 @@ Until this chapter is fully drafted, the canonical articulation of the twelve Ga
 
 ## Next
 
-→ [[The LIØNSBERG Guidebook — The Daily Disciplines|The Daily Disciplines]]
+→ [[The LIØNSBERG Guidebook — Walking The Sacred Ascent|Walking The Sacred Ascent]] _(Part IV — the lifetime arc that opens after the 144 Gates)_
 
 Or return to:
 

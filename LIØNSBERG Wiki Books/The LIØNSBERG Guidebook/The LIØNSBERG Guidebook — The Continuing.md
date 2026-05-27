@@ -121,7 +121,7 @@ If you are walking toward Mastery, the Guidebook salutes you. We hope to walk th
 
 ## Next
 
-→ [[The LIØNSBERG Guidebook — A Word For The Walker|A Word For The Walker — Closing]]
+→ [[The LIØNSBERG Guidebook — A Word For The Divine Pilgrim|A Word For The Divine Pilgrim — Closing]]
 
 Or return to:
 

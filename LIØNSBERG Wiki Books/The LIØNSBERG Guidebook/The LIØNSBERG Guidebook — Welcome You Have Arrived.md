@@ -118,7 +118,7 @@ You have arrived with three things, whether or not you knew you were carrying th
 
 **Your own discernment** — the Sovereign capacity to test what is offered and walk from what is true. This is the most important tool. Use it. Trust it. Refine it as you go.
 
-There will be other tools — the [[The LIØNSBERG Pattern Language|Pattern Language]], the [[The LIØNSBERG Playbook|Playbook]], the [[The LIØNSBERG Sacred Codex|Sacred Codex]] — that you will pick up at the right moments. The Guidebook will tell you when. None of those replace these first three.
+There will be other tools — the [[The LIØNSBERG Pattern Language|Pattern Language]], the [[The LIØNSBERG Playbook|Playbook]], the [[The LIØNSBERG Sacred Codex|Sacred Codex]], [[The LIØNSBERG Toolkit]] — that you will pick up at the right moments. The Guidebook will tell you when. None of those replace these first three.
 
 ---
 

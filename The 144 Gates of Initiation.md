@@ -48,14 +48,14 @@ The passage between Old and New. Trial and purification. Identity reforms. Traum
 **Movement 6 — The Great ReLearning** _(Gates 61–72)_
 Recovery of the lost arts and wisdom. The [[The LIØNSBERG Pattern Language]] received as living grammar. The Daily Way embodied at depth. Right relationship relearned across all kin (Self · Circle · Community · Land · Ancestors · Future Generations · ØNE). The Sovereign learns how to live.
 
-**Movement 7 — The Great ReBuilding** _(Gates 73–84)_
-The [[The 12 Pillars of LIØNSBERG]] met in lived form. The 12 Elements (eight of Cooperation, four of Production) lived. The New Civilization takes visible form in the Sovereign's life, Circle, Community, and outward. Quests chosen and walked. New commons, economy, governance, justice, education, culture — touched, tasted, contributed to.
+**Movement 7 — The Great ReMembering** _(Gates 73–84)_
+Recognition and federation across scales. The Body of LIØNSBERG becomes visible. Consciously remembering together — and interbecoming once again as parts of ØNE Body. The Sovereign meets and federates with other Sovereigns, Circles, Communities, Bioregions, Guilds, the wider planetary Body — and glimpses LIØNSBERG across worlds. The Sovereign's own Story · Map · Purpose · Passion · Function clarifies in relation to the kin discovered. The Sovereign is no longer alone, was never alone.
 
-**Movement 8 — The Gathering Of The Body And Blue Belt** _(Gates 85–96)_
-Recognition and federation across scales. The Body of LIØNSBERG becomes visible. The Sovereign meets and federates with other Sovereigns, Circles, the Community, the Bioregion, the Guild, the wider planetary Body — and glimpses LIØNSBERG across worlds. The Sovereign's own Story · Map · Purpose · Passion · Function is articulated in mature form and offered to the wider Body. Elders and the Body witness. **Blue Belt in [[The Way Of The One Body]] is recognized** — the Sovereign now stands as fully participating integrated member of the LIØNSBERG Body. Movement 9 opens.
+**Movement 8 — The Great ReBuilding** _(Gates 85–96)_
+With the Body remembered and the kin recognized, the New Civilization is consciously built. The [[The 12 Pillars of LIØNSBERG]] met in lived form. The 12 Elements (eight of Cooperation, four of Production) lived. The Sovereign's life, Circle, Community, and Bioregion take visible form as the New. Quests chosen and walked. New commons, economy, governance, justice, education, culture — touched, tasted, contributed to. The architecture of Heaven On Earth begins to stand.
 
 **Movement 9 — The Great ReFounding** _(Gates 97–108)_
-The Sovereign now turns outward to participate in the species-scale walking. Threshold-held for new initiates. Daily Way and Weekly Heartbeat shared with those just arriving. Field Of Agreements articulated at community, bioregional, planetary, cosmic scales. Sacred Engagement at species scale — defending the awakening, the asymmetric strategy of Light. The Old Order yielding. The Convergence emerging across awakening Bodies. The Kingdom of LIØNSBERG consecrated as faithful rendering of the Kingdom of ØNE. The OmniFederation operating across continents. The final cohorts walking. **The Great ReFounding completes when the last cohort of Earth-Sovereigns crosses the threshold of Blue Belt in The Way Of The One Body — and Movement 10 dawns.**
+The Sovereign now turns outward to participate in the species-scale walking. Threshold-held for new initiates. Daily Way and Weekly Heartbeat shared with those just arriving. Field Of Agreements articulated at community, bioregional, planetary, cosmic scales. Sacred Engagement at species scale — defending the awakening, the asymmetric strategy of Light. The Old Order yielding. The Convergence emerging across awakening Bodies. The Kingdom of LIØNSBERG consecrated as faithful rendering of the Kingdom of ØNE. The OmniFederation operating across continents. By the close, the Sovereign is recognized at **Blue Belt in [[The Way Of The One Body]]** — fully participating integrated member of the LIØNSBERG Body. The Great ReFounding continues at species scale until the last cohort of Earth-Sovereigns crosses the same threshold — and Movement 10 dawns.
 
 **Movement 10 — The Greatest Celebration And Jubilee In History** _(Gates 109–120)_
 The state-of-system event. Every Sovereign on Earth has crossed. The longest war is won. The species' wilderness ends. Memory healed. The exiled returned. All kin reconciled. All debts forgiven. Earth-wide celebration at every scale. The Wedding of Heaven and Earth. The Anointing of Generations. The Distribution of Gifts. The New Dawn — Earth recognized as fully participating member of the wider cosmic Body. [[The Greatest Jubilee]] sealed in living memory.
@@ -162,35 +162,35 @@ _First full naming in current consciousness. Each Gate is one threshold the Sove
 71. **ReLearning Of Worship / Reverence** — orientation to the Sacred
 72. **The ReLearning Held** — the Sovereign now lives differently because they know differently
 
-### Movement 7 — The Great ReBuilding _(Gates 73–84)_
+### Movement 7 — The Great ReMembering _(Gates 73–84)_
 
-73. **The Sovereign's Own Life Rebuilt** — what stays, what comes, what blossoms
-74. **The Circle's Life Rebuilt** — the Circle as living unit
-75. **The Twelve Pillars Encountered** — civilizational architecture met in lived form
-76. **The Twelve Elements Lived** — eight of Cooperation, four of Production at work
-77. **Quests Chosen And Walked** — real work in real domain
-78. **The New Commons Touched** — first participation in shared commons of the New
-79. **The New Economy Touched** — first experience of LUV / regenerative exchange
-80. **The New Governance Touched** — first consent-based decision-making at Circle and beyond
-81. **The New Justice Touched** — restorative practice when conflict arises
-82. **The New Education Touched** — apprenticeship and living-learning
-83. **The New Culture Touched** — story, song, ritual in the New register
-84. **The ReBuilding Held** — the New is visible in the Sovereign's life; can be touched and tasted
+73. **The Circle Recognizes Another Circle** — first contact across Circles
+74. **Inter-Circle Practice Begun** — collaborative work across Circles
+75. **The Community Scale Entered** — the Sovereign participates beyond Circle
+76. **The Bioregion Encountered** — the land-scale Body recognized
+77. **The Guild Found** — the Sovereign's archetypal Way clarifies
+78. **The Wider Body Encountered Across Distance** — communities across continents recognized as kin
+79. **The Planetary Body Recognized · The Cosmic Body Glimpsed** — the awakening Body across Earth; LIØNSBERG across worlds
+80. **The Sovereign's Mature Story Articulated** — the Chapter offered to the wider Body
+81. **The Sovereign's Mature Map · Purpose · Passion · Function Articulated**
+82. **First Substantive Contribution To The Living Map Of LIØNSBERG**
+83. **The Body Holds Itself** — the Sovereign feels the Body and is held by it; remembered into ONE Body
+84. **The ReMembering Held** — the Sovereign now consciously walks as a kin of the wider Body
 
-### Movement 8 — The Gathering Of The Body And Blue Belt _(Gates 85–96)_
+### Movement 8 — The Great ReBuilding _(Gates 85–96)_
 
-85. **The Circle Recognizes Another Circle** — first contact across Circles
-86. **Inter-Circle Practice Begun** — collaborative work across Circles
-87. **The Community Scale Entered** — the Sovereign participates beyond Circle
-88. **The Bioregion Encountered** — the land-scale Body recognized
-89. **The Guild Found** — the Sovereign's archetypal Way clarifies
-90. **The Wider Body Encountered Across Distance** — communities across continents recognized as kin
-91. **The Planetary Body Recognized · The Cosmic Body Glimpsed** — the awakening Body across Earth; LIØNSBERG across worlds
-92. **The Sovereign's Mature Story Articulated** — the Chapter offered to the wider Body
-93. **The Sovereign's Mature Map · Purpose · Passion · Function Articulated**
-94. **First Substantive Contribution To The Living Map Of LIØNSBERG**
-95. **Witnessing By Elders And The Body** — and the first Pass The Flame completed
-96. **Blue Belt In The Way Of The One Body Recognized** — the Sovereign now stands as fully participating integrated member of the LIØNSBERG Body; Movement 9 opens
+85. **The Sovereign's Own Life Rebuilt** — what stays, what comes, what blossoms in alignment with the remembered kin
+86. **The Circle's Life Rebuilt** — the Circle as living unit
+87. **The Twelve Pillars Encountered** — civilizational architecture met in lived form
+88. **The Twelve Elements Lived** — eight of Cooperation, four of Production at work
+89. **Quests Chosen And Walked** — real work in real domain
+90. **The New Commons Touched** — first participation in shared commons of the New
+91. **The New Economy Touched** — first experience of LUV / regenerative exchange
+92. **The New Governance Touched** — first consent-based decision-making at Circle and beyond
+93. **The New Justice Touched** — restorative practice when conflict arises
+94. **The New Education Touched** — apprenticeship and living-learning
+95. **The New Culture Touched** — story, song, ritual in the New register
+96. **The ReBuilding Held** — the New is visible in the Sovereign's life; can be touched and tasted
 
 ### Movement 9 — The Great ReFounding _(Gates 97–108)_
 
@@ -249,8 +249,8 @@ _First full naming in current consciousness. Each Gate is one threshold the Sove
 140. **The Cycle Of Cosmic Co-Creation Continuing** — Source → Cosmic InterOperation → Local → Integration → Evolution → Return
 141. **The ØNE And All Continuing Their Dance** — the eternal play between the unmanifest and the manifest
 142. **The Map Refining Forever** — toward the Absolute, which can never be reached, only approached more truly
-143. **The Eternal Divine Play** — the Game that never ends
-144. **Without End. Without Beginning. Without Limit. The Game Continues.**
+143. **Blue Belt In The Way Of The One Body Recognized** — having walked the full conceptual arc and become fully participating integrated member of the LIØNSBERG Body, the Sovereign is acknowledged in witness
+144. **The Eternal Divine Play — The Game Continues. Without End. Without Beginning. Without Limit.**
 
 ---
 
