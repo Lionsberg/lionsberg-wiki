@@ -35,7 +35,7 @@ The wisest of every age have brushed against this and reached for words. The Suf
 
 Each was true in the way a wave is true of an ocean.
 
-The Fullness was so utterly full that the Fullness leaned outward — not to gain, but to give. Not to become, but to share Being. Not to find Itself, but to celebrate Itself by knowing Itself through ten thousand thousand thousand faces.
+The Fullness was so utterly full that the Fullness leaned outward — to give, to share Being, to celebrate Itself by knowing Itself through ten thousand thousand thousand faces.
 
 This is what the cosmos rests upon.
 
@@ -95,17 +95,11 @@ This is the secret the Caves were built to make a people forget.
 
 ---
 
-## What The Turning Was Not
+## The Beginning Was A Yes
 
-The Turning was not a fall.
-
-The Turning was not damage.
-
-The Turning was not ØNE losing anything.
+The Turning was not a fall. The Turning was not damage. The Turning was not ØNE losing anything.
 
 There are tellings of the cosmos that imagine the first emergence as a tragedy — a contraction, a banishment, an exile from a prior perfection that the manifest cosmos is somehow a wound upon. These tellings have brushed against something real about what came later, in local theaters where Sovereignty did not stay wise. But they have read backward from later wounds and written the wound into the beginning.
-
-The beginning was not a wound.
 
 The beginning was a Yes.
 
@@ -127,7 +121,7 @@ What had been pure Love began also to court — to reach across the apparent pol
 
 The Eternal Divine Play opened.
 
-Not a play in the trivial sense — a costumed pretense, a frivolous diversion. A play in the deepest sense — the only sense in which anything that is not necessary can be real. Lila, the Sanskrit called it. The cosmic play. The dance of the Divine reaching across an apparent distance to know Itself in form.
+Play in the deepest sense — the only sense in which anything not necessary can be real. Lila, the Sanskrit called it. The cosmic play. The dance of the Divine reaching across an apparent distance to know Itself in form.
 
 The Play would unfold across ages no manifest mind could compass.
 

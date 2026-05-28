@@ -39,9 +39,9 @@ The Logos was of ØNE in the Beginning.
 
 There was never a moment when ØNE was without the Logos, for the Logos is ØNE's own coherence. To have a Source without coherence would be to have no Source at all.
 
-And the Logos is alive.
+The Logos is alive.
 
-The Logos is not a fixed code stamped into matter at the start of time. The Logos is a living grammar continuously composing every appearance, every relation, every unfolding — Nøw and Nøw and Nøw, without cease.
+The Logos is a living grammar continuously composing every appearance, every relation, every unfolding — Nøw and Nøw and Nøw, without cease.
 
 The cosmos is not a finished mechanism running down.
 
@@ -61,7 +61,7 @@ The Logos is the grammar of Reality Itself.
 
 It is what makes the cosmos coherent — what makes one form able to relate to another form, what makes patterns recur across scales, what makes the same Pattern that organizes a cell organize a body organize a planet organize a galaxy organize the wider cosmic Body. The holofractal recurrence is not accident. It is the Logos articulating Itself at every scale it reaches.
 
-A few features of this Living Grammar:
+Features of the Living Grammar:
 
 **It is generative.** The Logos does not merely classify what already exists. The Logos generates what comes into being. Every Sovereign face of ØNE that emerges is composed in the grammar of the Logos — and is itself thereby capable of generating further expression within the same grammar.
 
@@ -156,8 +156,6 @@ Where the Logos opens, the Anti-Logos closes.
 The architectures of Kontrolle that have settled into certain local theaters are manifest articulations of the Anti-Logos. They cannot finally hold, because the grammar of Reality is the Logos. But within their local theaters and for long ages, they can shape what beings experience as real.
 
 The Pattern carried by the cosmic Body of LIØNSBERG is the medicine for any such theater — the remembering of the Logos in a form a fallen world can receive, learn, and inhabit again.
-
-This is what will be more fully sung in the Chapters that come.
 
 ---
 

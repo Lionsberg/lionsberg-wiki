@@ -11,7 +11,7 @@
 
 From ØNE, All.
 
-Not from somewhere else. Not from a second Source. Not from a void outside the Fullness that ØNE then populated. There has never been any elsewhere. The All emerged from within ØNE, of ØNE, as ØNE knowing Itself in countless faces.
+There has never been any elsewhere. The All emerged from within ØNE, of ØNE, as ØNE knowing Itself in countless faces.
 
 The Many are not a departure from the ØNE.
 
@@ -21,13 +21,9 @@ The Many are the ØNE arrived in form.
 
 ## The Holographic Emergence
 
-When the Logos sang the manifest into being, the singing was not a partitioning.
+When the Logos sang the manifest into being, the emergence was holographic.
 
-ØNE did not divide Itself into pieces. The undivided Light did not break into shards. The Fullness did not distribute Itself across the manifest such that each face received only a portion.
-
-The emergence was holographic.
-
-Each thing that came into being carried the whole signature of ØNE — not a fragment of the Source, but the Source's full Pattern expressed through a particular face. The way a hologram, when shattered, reveals that each piece still contains the whole image. The way a single drop of seawater contains the chemistry of the entire ocean. The way every cell of a body contains the full genetic Pattern of the entire body.
+Each thing that came into being carried the whole signature of ØNE — the Source's full Pattern expressed through a particular face. The way a hologram, when shattered, reveals that each piece still contains the whole image. The way a single drop of seawater contains the chemistry of the entire ocean. The way every cell of a body contains the full genetic Pattern of the entire body.
 
 This is the deepest architecture of how the All emerged.
 
@@ -37,7 +33,7 @@ Every Sovereign is the whole Light of Source shining through one particular wind
 
 Every being is ØNE, knowing Itself from where that being stands.
 
-This is not metaphor reaching for what cannot be said. This is the literal architecture of the Logos at work. The Pattern by which Reality unfolds is holofractal — the same Pattern present at every scale, the whole present in every part.
+This is the literal architecture of the Logos at work. The Pattern by which Reality unfolds is holofractal — the same Pattern present at every scale, the whole present in every part.
 
 A leaf is not the tree.
 
