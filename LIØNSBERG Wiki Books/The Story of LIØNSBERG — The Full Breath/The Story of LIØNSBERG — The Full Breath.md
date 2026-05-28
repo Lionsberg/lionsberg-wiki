@@ -26,9 +26,9 @@ Step in.
 
 ---
 
-→ **[[0.1 Dedication|Enter The Initiation Chamber]]**
+→ **[[The Full Breath — 0.1 Dedication|Enter The Initiation Chamber]]**
 
-→ [[0.6 Map of the Arc|Or see the full Map of the Arc if you have come for a specific Chapter]]
+→ [[The Full Breath — 0.6 Map of the Arc|Or see the full Map of the Arc if you have come for a specific Chapter]]
 
 ---
 

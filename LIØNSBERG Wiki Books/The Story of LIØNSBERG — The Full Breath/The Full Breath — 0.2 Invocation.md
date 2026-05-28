@@ -39,7 +39,7 @@ Welcome home.
 
 ---
 
-→ [[0.3 Foreword|Forward to the Foreword]]
+→ [[The Full Breath — 0.3 Foreword|Forward to the Foreword]]
 
 Or return to:
 

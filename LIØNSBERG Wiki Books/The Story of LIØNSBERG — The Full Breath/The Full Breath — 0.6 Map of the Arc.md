@@ -115,7 +115,7 @@ The return begins. From your particular Chapter, you open back to the wider Body
 
 ---
 
-→ [[0.1 Dedication|Your Journey into The Story begins... in the Initiation Chamber]]
+→ [[The Full Breath — 0.1 Dedication|Your Journey into The Story begins... in the Initiation Chamber]]
 
 Or return to:
 

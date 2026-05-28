@@ -142,7 +142,7 @@ Welcome to the Story.
 
 ---
 
-→ [[Chapter 2 — The First Turning]]
+→ [[The Full Breath — Chapter 2 — The First Turning|Chapter 2 — The First Turning]]
 
 Or return to:
 
