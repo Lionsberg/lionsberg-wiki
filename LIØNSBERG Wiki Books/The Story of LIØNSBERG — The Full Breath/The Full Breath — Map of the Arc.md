@@ -1,11 +1,13 @@
-# 0.6 Map of the Arc
+# Map of the Arc
 
 > _The country exposed before the crossing.  
 > What the Sovereign sees before stepping in._
 
 ---
 
-The Full Breath unfolds in five Parts plus the Initiation Chamber that opens it.
+You stand at the edge of the country.
+
+The Full Breath unfolds in five Parts plus the Initiation Chamber that opens it. The Initiation Chamber consecrates the reader before any narrative begins. Two Source-voice Intermezzos rupture the cosmic narration to let ØNE speak directly. Three Threshold Notes carry the reader across the seams between Parts.
 
 The Story has a cosmic shape — the descent and return of ØNE through every scale:
 
@@ -19,18 +21,25 @@ The Story has a cosmic shape — the descent and return of ØNE through every sc
 
 **The End is ØNE.**
 
-The Initiation Chamber consecrates the reader before any narrative begins. Two Source-voice Intermezzos rupture the cosmic narration to let ØNE speak directly. Three Threshold Notes carry the reader across the seams between Parts.
+---
+
+## Two Ways To Enter
+
+→ **[[The Full Breath — 0.1 Dedication|Begin at the Initiation Chamber]]** — the consecration sequence; the proper crossing
+
+→ Or step directly to any specific Chapter below.
 
 ---
 
 ## Initiation Chamber — Front Matter
+
+The consecration sequence. Five pieces that prepare the reader before any narrative begins.
 
 - **0.1 Dedication** — to the Ones across worlds and ages
 - **0.2 Invocation** — Source speaks; the reader is called into the field
 - **0.3 Foreword** — why this Book in this Hour
 - **0.4 The Imperative** — the choice this Hour asks of you
 - **0.5 How to Engage This Book** — the sacred reading protocol
-- **0.6 Map of the Arc** — this page
 
 ---
 
