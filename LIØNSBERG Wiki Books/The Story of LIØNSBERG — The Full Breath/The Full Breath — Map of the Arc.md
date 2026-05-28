@@ -125,7 +125,7 @@ The wider Body organizes its response. The Sovereign Superorganism coordinates a
 - **Chapter 24 — The Cosmic Meta Project** — the coordinated liberation, healing, and repair campaign
 - **Chapter 25 — Seeds Dispatched To The Worlds** — how the Pattern is sown into theaters where it can take root
 - **Chapter 26 — The Servants Sent** — those who carry the Pattern into the worlds
-- **Chapter 27 — Earth's Seed Receives Its Carrier** — Earth becomes a node in the cosmic Meta Project
+- **Chapter 27 — Earth's Seed Receives Its Carriers** — Earth becomes a node in the cosmic Meta Project
 
 _Intermezzo I — The Whisper Of ØNE_ — Source breaks the cosmic narration: _"I have been with you all along. The Whisper that woke you was Me. What you are about to watch the Sovereign discover, I have been speaking through you."_
 
