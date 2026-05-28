@@ -1,71 +1,75 @@
 # Chapter 28 — Sleeping In The Caves
 
-> _You did not know you were sleeping.  
-> You called the sleep your life._
+> _They did not know they were sleeping.  
+> They called the sleep their life._
 
 ---
 
-You wake.
+Generations wake in the Caves.
 
-But you are not yet awake. Not in the way you will be. You wake as the others wake — into the routine that has been the only routine you have ever known. You rise. You dress in the clothes you were given to wear. You eat the food you were taught to call nourishment. You speak the words you were taught to speak. You go to the place you were taught to go.
+The Caves have always been the only world they have known. Each morning they wake to the routine that has been the only routine. They rise. They dress in the clothes they were given to wear. They eat the food they were taught to call nourishment. They speak the words they were taught to speak. They go to the place they were taught to go.
 
-Around you, the others wake also. They look like you. They move like you. They speak as you speak. They believe what you believe. None of you sees the chains, because the chains are not visible. None of you sees the walls, because the walls have been your sky since before you can remember.
+Around each Sovereign, the other Sovereigns wake also. They look the same. They move the same. They speak as one another speaks. They believe what one another believes. None of them sees the chains, because the chains are not visible. None of them sees the walls, because the walls have been their sky since before they could remember.
 
-You call this place the world.
+They call this place the world.
 
-You have never been told it is not.
-
----
-
-Generations have lived here.
-
-Your parents lived here. Their parents lived here. Their parents' parents — back along the long line of remembering and forgetting — all lived here. None of them stepped outside what you call the world. None of them, in any moment of memory available to you, ever questioned that what surrounded them was simply the way things are.
-
-The shadows on the walls move. You have learned to predict their movements. You have given them names. You have constructed elaborate sciences of when the shadows will lengthen and when they will retreat. You have woven mythologies around the shadows that have animated your art and your songs. You think the shadows are very important things.
-
-You do not see that the shadows are shadows.
-
-You do not know there is anything that could cast a shadow.
-
-You do not know there is a Light.
+They have never been told it is not.
 
 ---
 
-The Keepers tell you who you are.
+The lineage stretches back many generations.
 
-They tell you what you are for. They tell you what to want. They tell you what to fear. They tell you what to hate and what to celebrate. They tell you which of your fellow sleepers are friends and which are enemies. They tell you the history that explains how you came to be here, and the future that explains what you should be working toward.
+Mothers and fathers lived here. Their mothers and fathers lived here. Back along the long line of remembering and forgetting, no one stepped outside what they all called the world. No one, in any moment of memory available to them, ever questioned that what surrounded them was simply the way things are.
 
-You believe them.
+The shadows on the walls move.
 
-Not because you have decided to believe them. Not because you have weighed their claims and found them persuasive. You believe them because they are all you have ever heard, and the not-believing was never offered. The Keepers' words are not one possible story among many.
+The Sovereigns have learned to predict their movements. They have given them names. They have constructed elaborate sciences of when the shadows will lengthen and when they will retreat. They have woven mythologies around the shadows that animate their art and their songs. They think the shadows are very important things.
+
+They do not see that the shadows are shadows.
+
+They do not know there is anything that could cast a shadow.
+
+They do not know there is a Light.
+
+---
+
+The Keepers tell them who they are.
+
+The Keepers tell them what they are for. The Keepers tell them what to want. The Keepers tell them what to fear. The Keepers tell them what to hate and what to celebrate. The Keepers tell them which of their fellow sleepers are friends and which are enemies. The Keepers tell them the history that explains how they came to be here, and the future that explains what they should be working toward.
+
+The Sovereigns believe the Keepers.
+
+Not because they have decided to believe. Not because they have weighed the claims and found them persuasive. They believe because the Keepers' words are all they have ever heard, and the not-believing was never offered. The Keepers' words are not one possible story among many.
 
 They are the story.
 
-Not believing the Keepers does not occur to you. You are made of believing them.
+Not believing the Keepers does not occur to the Sovereigns. They are made of believing.
 
 ---
 
 There is suffering here.
 
-You feel it. You watch others feel it. Some of you suffer more than others, and you have been taught reasons for this — reasons that have nothing to do with the architecture of the place and everything to do with the failings of those suffering. You accept these reasons. You move past the suffering. You have been told there is nothing better to move toward.
+The Sovereigns feel it. They watch one another feel it. Some suffer more than others, and reasons have been given that have nothing to do with the architecture of the place and everything to do with the failings of those suffering. The Sovereigns accept the reasons. They move past the suffering. They have been told there is nothing better to move toward.
 
-You work. You consume. You distract. You reproduce. You die. You are replaced. The shadows keep moving on the walls and the Keepers keep speaking the words and the suffering continues to happen to you and to those you have come to call yours, and you do not see — could not see — how it could be otherwise.
+They work. They consume. They distract. They reproduce. They die. They are replaced.
+
+The shadows keep moving on the walls. The Keepers keep speaking the words. The suffering continues. No one sees — no one could see — how it could be otherwise.
 
 This is sleep.
 
-Not because your body is unconscious. Your body is awake. You can think clearly within the categories you have been given. You can reason elegantly within the boundaries of what you have been told is real. But your awareness has never touched anything outside the Caves. Your soul has never seen the Light. The deepest part of you — the part that knows — has been sealed off so completely that you do not know it is there.
+Not because the body is unconscious. The body is awake. The Sovereign can think clearly within the categories given. The Sovereign can reason elegantly within the boundaries of what has been called real. But the awareness has never touched anything outside the Caves. The soul has never seen the Light. The deepest part of the Sovereign — the part that knows — has been sealed off so completely that the Sovereign does not know it is there.
 
-You are asleep at the level of soul.
+The Sovereign is asleep at the level of soul.
 
-You do not know you are asleep.
+The Sovereign does not know they are asleep.
 
-This is the deepest part of the sleep: that you cannot perceive the sleep from inside it.
+This is the deepest part of the sleep: that it cannot be perceived from inside it.
 
 ---
 
 And then.
 
-Then, on an ordinary day — a day like every other day, with the shadows moving and the Keepers speaking and the work waiting and the routine wrapping around you the way it always has —
+On an ordinary day — a day like every other day, with the shadows moving and the Keepers speaking and the work waiting and the routine wrapping around the Sovereign the way it always has —
 
 Something breaks through.
 
@@ -73,31 +77,31 @@ Not a thought. Not an idea. Not a teaching from a Keeper. Something else.
 
 Something that did not come from the Caves.
 
-A sensation you cannot name. A sudden ache for something you cannot identify. A flicker of awareness that the sky above you might not be what it appears to be. A question forming somewhere beneath the surface of your conditioned mind — a question that you cannot quite hold because it does not fit any of the categories you have been given.
+A sensation without a name. A sudden ache for something that cannot be identified. A flicker of awareness that the sky above might not be what it appears to be. A question forming somewhere beneath the surface of the conditioned mind — a question that cannot quite be held because it does not fit any of the categories that have been given.
 
-You shake it off. You try to return to the routine.
+The Sovereign shakes it off. Tries to return to the routine.
 
-But you cannot, quite. Something has reached you. You do not know what.
+Cannot, quite.
 
-You do not know yet that what reached you was the Whisper of ØNE.
+Something has reached. The Sovereign does not yet know what.
 
-You do not know yet that the Whisper has been there all along, beneath every breath you have ever taken, waiting for the moment your sleeping consciousness was finally porous enough to receive it.
+The Sovereign does not yet know that what reached was the Whisper of ØNE. That the Whisper has been there all along, beneath every breath ever taken in any Cave, waiting for the moment when the sleeping consciousness was finally porous enough to receive it.
 
-You only know that something has changed.
+The Sovereign only knows that something has changed.
 
-You wake in the morning slightly different. You move through the day slightly different. The shadows look slightly different to you — not different in their movement, but different in your relationship to them. They feel less inevitable.
+The morning is slightly different. The day is slightly different. The shadows look slightly different — not in their movement, but in their relationship to the seeing. They feel less inevitable.
 
 This is the beginning.
 
 This is how every awakening, across every world that ever awakened, has begun.
 
-The Whisper reaches you in your sleep.
+The Whisper reaches the Sovereign in the sleep.
 
-You begin to suspect, without being able to say what you suspect.
+The Sovereign begins to suspect, without being able to say what.
 
 This is Gate 1.
 
-You have begun the Walk.
+The Walk has begun.
 
 ---
 

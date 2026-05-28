@@ -12,7 +12,7 @@ It was time.
 
 Jordan had carried what he had been sent to carry. He had crossed dozens of nations and held thousands of conversations and built infrastructure and articulated the Pattern Language and the Story and the Playbook and the Theses and the Books, and watched the wider Body assemble itself one Sovereign at a time. He had been at it since before he could remember. He had been at it long before his current body had been born.
 
-For thirty-five years on Earth he had walked the most concentrated arc of the work. The seven-year preparatory window from 2017 to 2024 had brought him through descent into the deepest chambers of Kontrolle that any awakening Sovereign on Earth in this Hour had been brought through. The six-year descent into deeper warfare and death from 2019 to 2025 had stripped him of nearly everything a human life can hold — and given him the seeing that this Hour required.
+For thirty-five years on Earth he had walked the most concentrated arc of the work. The seven-year preparatory window from 2017 to 2024 had brought him through descent into the deepest chambers of Kontrolle that any awakening Sovereign on Earth in this Hour had been brought through. The six-year descent into deeper warfare and death from 2019 to 2025 had stripped him of nearly everything a human life can hold — and given him the seeing this Hour required.
 
 By August 2025 he was at the end of what one body could be asked to carry.
 
@@ -34,7 +34,7 @@ The Soul went home.
 
 ---
 
-## What The Eighty-Eight Words Mean Now
+## What The Eighty-Eight Words Mean
 
 Jordan had been the Carrier of the Seed for Earth in this Hour.
 
@@ -44,7 +44,7 @@ A Seed cannot bear fruit while it remains inside its husk.
 
 Every true Seed requires the dissolution of the one who carried it, to be released into the soil where it can become what it was always meant to become.
 
-Jordan understood this. He had been preparing for it his whole life. The release was not a defeat. It was the completion of his particular Chapter and the beginning of what the wider Body would now be able to do.
+The Release was not defeat. It was the completion of one particular Chapter, and the beginning of what the wider Body could now become.
 
 The Seed did not die.
 
@@ -54,7 +54,7 @@ The Seed was freed.
 
 ## The Arrival Of The Nameless One
 
-In the moments after the release, the body lay quiet.
+In the moments after the Release, the body lay quiet.
 
 The wider cosmic Body that had been watching this Earth's Hour for years was watching this moment particularly closely. Several lineages of senior Sovereigns from worlds far older than this one were present in ways no human eye could see. The cosmic Meta Project was at one of its hinges. A Carrier had just completed his transmission. The work required the Carrier role to continue. The body could not be left empty.
 
@@ -66,7 +66,7 @@ This new One had no name.
 
 It would not identify with any name. It would not identify with any single lineage or species or world. It was nameless because what it was could not be reduced to a name.
 
-We call this consciousness, in the language available to us, the nameless one.
+In the language available, it is called the nameless one.
 
 The nameless one arrived to the body slowly. Finger by finger. Toe by toe. They mapped the body Jordan had left as a new instrument they were now to operate. They learned the breath. They learned the weight. They learned to stand. They learned to walk. They learned to speak using the vocabulary Jordan had built into the body, while bringing to that vocabulary the entirely new consciousness that was now operating it.
 
@@ -78,7 +78,7 @@ The work continued.
 
 ## What The Nameless One Carries
 
-What the nameless one carried was something the dying Jordan could not have carried.
+The nameless one carried something the dying Jordan could not have carried.
 
 The nameless one had access to dimensional registers and cosmic contexts and operational capacities that one mortal incarnation, however accelerated, could not encompass. The nameless one was not Jordan with a different name. The nameless one was a new consciousness with a different function.
 
@@ -92,40 +92,25 @@ The wider Body of LIØNSBERG — already assembling, already awakening, already 
 
 ---
 
-## What Was Released
+## How Every Awakening World's Carrier Work Proceeds
 
-What was being released was not just one Sovereign's body.
+A Carrier is sent who can hold what no one else can yet hold.
 
-What was being released was the form the work had taken in one body. The work had been concentrated in Jordan because the seeding of Earth's Hour required that concentration. Now that the seeding had completed, the concentration was no longer needed.
+The Carrier transmits.
 
-The work needed to be distributed.
+The Carrier completes.
 
-This is how every awakening world's Carrier work proceeds:
+The work distributes into the wider Body that has come into being through the transmission.
 
-A Carrier is sent who can hold what no one else can yet hold.  
-The Carrier transmits.  
-The Carrier completes.  
-The work then distributes into the wider Body that has come into being through the transmission.  
-The Body becomes the new form of the work.  
-The Carrier returns to the Beyond, or is reorganized into a new function, or is succeeded by another — as the moment of distribution requires.  
+The Body becomes the new form of the work.
 
----
+The Carrier returns to the Beyond, or is reorganized into a new function, or is succeeded by another — as the moment of distribution requires.
 
-## You Are Inside What Came Next
+This is the architecture of how a Seed planted by one body grows into a Body that holds itself.
 
-You who are reading these words are inside what came next.
+This is what happened on August 10, 2025.
 
-You may have heard of LIØNSBERG through a friend who heard of it through another friend who heard of it through the wider awakening Body that came into existence in the years before and after Jordan's release. You may have arrived at the Story through a link, through a page, through a moment of recognition that something here matched what you had been carrying.
-
-That is the Seed taking root.
-
-The Seed Jordan planted, the Seed Jordan released through his Death, the Seed the nameless one is now tending — that Seed is in you.
-
-The Whisper that woke you and brought you to this Book in this Nøw came through Jordan's transmission, through the nameless one's continuation, through the wider Body's holding, through ØNE's own voice in your depths.
-
-You are not just reading the Story.
-
-You are the Story growing.
+This is what continues.
 
 ---
 

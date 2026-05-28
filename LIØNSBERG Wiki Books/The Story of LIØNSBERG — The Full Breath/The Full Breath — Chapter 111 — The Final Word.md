@@ -1,85 +1,81 @@
 # Chapter 111 — The Final Word
 
-> _The Story does not end.  
-> Only the Book closes.  
-> The Story continues — in you,  
-> in those you Pass The Flame to,  
-> in every world that is awakening,  
-> in every Sovereign who has not yet heard the Whisper._
+> _The Book closes here.  
+> The Story does not.  
+> The Story has never been finished.  
+> The Story is the eternal unfolding of ØNE and All,  
+> in cosmic theaters and local lives,  
+> across forms and worlds and Ages._
 
 ---
 
-We have come to the end of what this Book can say.
+The Whisper is the same Whisper.
 
-What follows is your walking. What follows is the writing of your Chapter. What follows is the Body in motion and the Hour crossing and the Greatest Jubilee, in its own time, by its own arithmetic, through the faithfulness of every Sovereign who took the Whisper seriously.
+Across every Movement that comes — and there are Movements yet unimagined — the Whisper that woke each Sovereign in the Caves is the same Whisper that calls now. The Source has not changed. The voice has not changed. What changes is the capacity to receive what has been speaking all along.
 
-Before the Book closes, three things.
+When the Sovereign is lost, the Whisper remains.
 
----
+When the work feels too large, the Whisper remains.
 
-## Remember The Whisper
+When the Caves seem to be returning to claim what they cannot claim, the Whisper remains.
 
-Through every Movement that comes — and there will be Movements you have not yet imagined — the Whisper that woke you is the same Whisper. The Source has not changed. The voice has not changed. What changes is your capacity to receive what has been speaking all along.
-
-Whenever you are lost, return to the Whisper.
-
-Whenever the work feels too large, return to the Whisper.
-
-Whenever the Caves seem to be returning to claim you, return to the Whisper.
-
-ØNE has not abandoned you. ØNE could not. ØNE is what you are made of.
+ØNE has not abandoned. ØNE could not. ØNE is what every Sovereign is made of.
 
 ---
 
-## Hold The Body
+The Body holds itself.
 
-You are not alone in this work. You have never been. Your Circle is real. Your Community is real. The wider Body of LIØNSBERG, assembling across the planet and the wider cosmos, is real. Every Sovereign who walked before you is real. Every Sovereign who will walk after you is real.
+No Sovereign walks alone. No Sovereign has ever walked alone. The Circle is real. The Community is real. The wider Body of LIØNSBERG, assembling across the cosmos, is real. Every Sovereign who walked before is real. Every Sovereign who will walk after is real.
 
-The Body holds itself. You participate in that holding. You are held by it.
+The Body holds itself.
 
-When the work is hard, lean into the Body.
+The Sovereign participates in that holding.
 
-When the work is glorious, lean into the Body.
+The Sovereign is held by it.
 
-The Body is the form your participation takes.
+When the work is hard, the Body holds.
+
+When the work is glorious, the Body holds.
+
+The Body is the form sovereign participation takes when sovereign participation has become wise.
 
 ---
 
-## Pass The Flame
+The Flame is asked.
 
-What you have received in this Book is not yours to keep.
+What was received is not the Sovereign's to keep. What was received is asked to be passed forward — to those each Sovereign already knows are ready, in the simple act of offering.
 
-What you have received is asked of you to pass forward — to those you know are ready, in the simple act of offering, without grasping, without forcing, without making the offering depend on the receiving.
+The Flame has been passed across worlds and Ages.
 
-The Flame has been passed to you across worlds and ages. The Flame is in your hands. Two or three among your relations are ready. You know who they are.
+The Flame is in the Sovereign's hands.
 
-Make the offering.
+Two or three among each Sovereign's relations are ready.
 
-Live such that those who watch you live find themselves wanting what they see in you.
+The Sovereign knows who they are.
 
-Be the silent argument.
+The offering is made.
 
-Be the next Whisper.
+The life is lived such that those who watch the life find themselves wanting what they see.
+
+The silent argument is the silent argument.
+
+The next Whisper is the next Whisper.
 
 ---
 
 The Story is not finished.
 
-The Story has never been finished.
+The Story is the eternal unfolding of ØNE and All — in cosmic theaters and local lives, across forms and worlds and Ages. This Book is one rendering. Others exist. Others will come. The Story is alive and grows with every Sovereign who walks.
 
-The Story is the eternal unfolding of ØNE and All, in cosmic theaters and local lives, across forms and worlds and Ages. This Book is one rendering of that Story. Other renderings exist. Other renderings will come. The Story is alive and grows with every Sovereign who walks.
+Each Sovereign walks.
 
-You are now one of the Sovereigns who walks.
+Each particular Chapter is the next thing the Story writes itself through.
 
-Your particular Chapter is the next thing the Story writes itself through.
+Write with the fierce love of one who knows the writing matters.
 
-Write it.
+Write with the patience of one who knows the Chapter is long.
 
-Write it with love.
-
-Write it with fidelity.
-
-Write it knowing that ØNE is the True Author, and you are the form ØNE has taken in order to write what could not be written any other way.
+Write with the humility of one who knows ØNE is the True Author writing through the form ØNE has taken to write what could not be written any other way.
 
 ---
 
@@ -88,13 +84,11 @@ Write it knowing that ØNE is the True Author, and you are the form ØNE has tak
 Before the beginning, ØNE.  
 After the ending, ØNE.  
 At the centre of every Story, ØNE.  
-At the centre of you Nøw, ØNE.  
+At the centre of every Sovereign Nøw, ØNE.  
 
-Welcome to the Story.
-
-Welcome to the Body.
-
-Welcome home.
+Welcome to the Story.  
+Welcome to the Body.  
+Welcome home.  
 
 ---
 
