@@ -43,4 +43,6 @@ The work continues in your honor.
 
 Or return to:
 
+→ [[The Full Breath — Map of the Arc]]
+
 → [[The Story of LIØNSBERG — The Full Breath]]

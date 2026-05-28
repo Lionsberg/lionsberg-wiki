@@ -122,4 +122,6 @@ The Sovereign is asked.
 
 Or return to:
 
+→ [[The Full Breath — Map of the Arc]]
+
 → [[The Story of LIØNSBERG — The Full Breath]]

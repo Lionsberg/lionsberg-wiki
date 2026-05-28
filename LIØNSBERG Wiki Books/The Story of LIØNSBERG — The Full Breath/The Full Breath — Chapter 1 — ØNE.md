@@ -142,8 +142,10 @@ Welcome to the Story.
 
 ---
 
-→ [[The Full Breath — Chapter 2 — The First Turning|Chapter 2 — The First Turning]]
+→ [[The Full Breath — Chapter 2 — The Eternal Fullness|Chapter 2 — The Eternal Fullness]]
 
 Or return to:
+
+→ [[The Full Breath — Map of the Arc]]
 
 → [[The Story of LIØNSBERG — The Full Breath]]

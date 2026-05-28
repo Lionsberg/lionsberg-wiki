@@ -84,4 +84,6 @@ The Book closes where it began.
 
 Or return to:
 
+→ [[The Full Breath — Map of the Arc]]
+
 → [[The Story of LIØNSBERG — The Full Breath]]
