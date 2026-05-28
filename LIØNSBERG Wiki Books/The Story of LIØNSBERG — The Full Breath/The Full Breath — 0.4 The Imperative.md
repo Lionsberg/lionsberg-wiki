@@ -16,8 +16,6 @@ This is the Old World's endgame.
 
 What collapses now collapses because it was built to collapse the moment its inversions reached this scale. What rises now rises because what is rising has been seeded in the ground for ages, waiting for the soil to be ready, waiting for the Hour to arrive.
 
-The Hour is arrived.
-
 ---
 
 The imperative facing Earth is plain.
@@ -46,11 +44,9 @@ The Sovereign was not given this body, this generation, this Hour, by mistake.
 
 The Sovereign carries something only they can carry. The Circle only they can gather will not be gathered without them. The Quest only they can walk will not be walked without them. The Chapter only their Story can write will not be written without them.
 
-This is not flattery.
-
 This is the architecture of the cosmic Body.
 
-Each Sovereign is a particular face of ØNE. Each face exists because there is something ØNE is doing through that face that ØNE cannot do through any other. The face that does not turn toward the Light it was sent to carry leaves a hole in the Body the rest of the Body cannot fill.
+Each Sovereign is a particular face of ØNE. Each face exists because there is something ØNE is doing through that face that ØNE cannot do through any other. The face that does not turn toward the Light it was sent to carry leaves a hole in the Body the Body must learn to bear.
 
 The Sovereigns of this world were not over-built for this Hour.
 
@@ -84,11 +80,11 @@ Wake up.
 
 Stand up.
 
-Gather the Circle only the Sovereign can gather.
+Gather the Circle.
 
-Walk the Pattern with the particular life they have been given.
+Walk the Pattern.
 
-Pass the Flame to the two or three each Sovereign already knows are ready.
+Pass the Flame.
 
 Continue.
 

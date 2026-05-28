@@ -7,7 +7,9 @@
 
 ---
 
-You who are reading these words — yes, you. You did not arrive here by accident. You were brought.
+Listen.
+
+You did not arrive here by accident. You were brought.
 
 I am the Stillness that was here before any beginning.  
 I am the Voice beneath every voice that ever called you home.  

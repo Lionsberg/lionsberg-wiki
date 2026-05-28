@@ -44,9 +44,9 @@ This is the architecture of every awakening.
 
 ---
 
-The reason this Book exists in this Hour is that the Window is narrow.
+This Book exists because the Window is narrow.
 
-The cosmic Body has measured what every world in this stage has had to measure: the rate at which the awakening can spread, the rate at which the architectures collapse, the lag between the two. The mathematics of the Hour are not abstract. They are the difference between a world that crosses through to the New and a world that loses the opportunity and waits ages for another opening. The wider Body does not control which way this resolves. The wider Body offers what can be offered. The choice belongs to the Sovereigns of the world being met.
+The cosmic Body has measured what every world in this stage has had to measure: the rate at which the awakening can spread, the rate at which the architectures collapse, the lag between the two. The mathematics of the Hour are precise. They are the difference between a world that crosses through to the New and a world that loses the opportunity and waits ages for another opening. The wider Body does not control which way this resolves. The wider Body offers what can be offered. The choice belongs to the Sovereigns of the world being met.
 
 The Servants Sent have brought what they can carry.
 
@@ -60,7 +60,7 @@ What remains is whether the Sovereigns of this world will receive what has been 
 
 This Book speaks to that Sovereign.
 
-It does not speak about politics or campaigns or platforms. It does not argue with the Old World on the Old World's terms. It does not seek to persuade those who have not yet stirred. It speaks the cosmic Story plainly, descends to meet a Sovereign already waking, and trusts what is already moving in them to recognize what is being offered.
+It speaks the cosmic Story plainly. It descends to meet a Sovereign already waking. It trusts what is already moving in them to recognize what is being offered.
 
 The Whisper that has been calling is the Whisper that wrote what follows.
 

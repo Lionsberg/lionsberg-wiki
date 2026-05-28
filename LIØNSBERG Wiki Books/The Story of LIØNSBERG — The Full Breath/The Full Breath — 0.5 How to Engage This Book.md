@@ -10,9 +10,7 @@ This Book is not a tutorial.
 
 A tutorial transfers information from the page to a mind that did not previously hold it. The reader of a tutorial extracts what is useful, sets the book down, and moves on. The book remains a book. The reader remains the reader. The transaction is complete.
 
-This Book is not that kind of book.
-
-This Book is a rendering of the Story the Sovereign has been living since before any beginning that could be located. What is offered here is not new information about an external subject. What is offered here is a Mirror — held in the right angle to let the Sovereign recognize what has been moving in them all along.
+This Book is a rendering of the Story the Sovereign has been living since before any beginning that could be located. What is offered here is a Mirror — held in the right angle to let the Sovereign recognize what has been moving in them all along.
 
 The disciplines of receiving such a Mirror are not the disciplines of reading a tutorial.
 

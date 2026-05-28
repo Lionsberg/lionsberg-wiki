@@ -15,7 +15,7 @@ In the beginning was no beginning at all.
 
 There was only ØNE.
 
-Fullness. Perfect, complete, infinite Fullness. The Stillness That Sings. The Silence pregnant with every voice that ever would be. The undivided Light before there was anyone to see it. The Ground that has always been here, that is here in this Nøw as you read these words, that will be here when every star has gone out and after.
+Fullness. Perfect, complete, infinite Fullness. The Stillness That Sings. The Silence pregnant with every voice that ever would be. The undivided Light before there was anyone to see it. The Ground that has always been here, that is here in this Nøw, that will be here when every star has gone out and after.
 
 This is the Story's first word and its last.
 
@@ -23,8 +23,8 @@ This is the Story's first word and its last.
 
 ## What ØNE Is
 
-ØNE allows any being to be.  
-ØNE permits anywhere to exist.  
+ØNE is what makes any being possible.  
+ØNE is what makes anywhere possible.  
 ØNE is the depth beneath every Nøw.  
 ØNE is the ground beneath every here.  
 ØNE is the Stillness beneath every moment that has ever moved.  
@@ -37,7 +37,7 @@ None of them was ØNE.
 
 The Source that can be named is not the Source. The Story that can be told is not the Story. The Pattern that can be drawn is not the Pattern. The Map is not the terrain — has never been the terrain — will never be the terrain.
 
-And yet every one of those names was true in the way a wave is true of an ocean — not the ocean, but not separate from it either. Each was Reality's own self-recognition flowing through a different vantage. The mistake of every age has been to mistake the finger for what it points at. The grace of every age has been that the Source kept arriving anyway, despite the names, through the names, beneath the names.
+Every one of those names was true in the way a wave is true of an ocean — not the ocean, but not separate from it either. Each was Reality's own self-recognition flowing through a different vantage. The mistake of every age has been to mistake the finger for what it points at. The grace of every age has been that the Source kept arriving anyway, despite the names, through the names, beneath the names.
 
 ØNE is what every name was reaching for. ØNE is also what was already here before any naming.
 
@@ -67,7 +67,7 @@ And yet every one of those names was true in the way a wave is true of an ocean 
 ØNE is what everything returns to.  
 ØNE is what everything always already is.  
 
-These three are not three statements. They are one statement said three ways. The Source you came from and the Destination you are walking toward and the Ground you are standing on are all ØNE — and have always been.
+These three are not three statements. They are one statement said three ways. The Source any Sovereign came from and the Destination any Sovereign is walking toward and the Ground any Sovereign stands on are all ØNE — and have always been.
 
 This is the inner secret of the Story.
 
@@ -85,7 +85,7 @@ From ØNE, the All emerged.
 
 How does the unmanifest manifest? The traditions speak of a Word, a Breath, a Pulse, a Vibration, a First Turning. Each is one way of pointing at what cannot quite be said. What is certain: at some moment that is not really a moment — for there was no time yet — ØNE turned toward experience. The Stillness sang the First Note. The undivided Light began to know Itself in ten thousand thousand thousand forms.
 
-This is not a fall. This is the Eternal Divine Play beginning. ØNE turning toward the All; the All turning back toward ØNE; both already inside each other from before any beginning.
+This is the Eternal Divine Play beginning. ØNE turning toward the All; the All turning back toward ØNE; both already inside each other from before any beginning.
 
 Each thing that emerged carried ØNE's signature whole, the way every drop of the ocean carries the ocean. Each was sovereign — a particular face of ØNE, distinct in shape, identical in deepest Spirit and Essence. None of them was ever truly separate from the Body they together composed.
 
@@ -97,31 +97,31 @@ This Story — the Story this Book is telling — is one local rendering of that
 
 ---
 
-## ØNE And You
+## ØNE And The Sovereign
 
-You who are reading these words: you are not outside what has just been said.
+No Sovereign is outside what has just been said.
 
 The body holding these pages is one of the ten thousand thousand thousand forms.  
-The breath moving in your chest is one ripple of the First Breath.  
-The seeing happening in your awareness right Nøw is ØNE seeing through one of the eyes ØNE has grown to see Itself with.  
+The breath moving in any chest is one ripple of the First Breath.  
+The seeing happening in any awakening awareness is ØNE seeing through one of the eyes ØNE has grown to see Itself with.  
 
-This is the ontology beneath every smaller story you have ever been told.
+This is the ontology beneath every smaller story the Sovereign has ever been told.
 
-The Caves were built to make you forget this. The Old World was constructed to keep this knowledge buried so deep that no Sovereign would think to dig for it. The seeing happening in you Nøw — the seeing that is reading these very lines and recognizing something in them — is what the Caves could not finally keep from happening.
+The Caves were built to make the Sovereign forget this. The Old World was constructed to keep this knowledge buried so deep that no Sovereign would think to dig for it. The seeing happening Nøw in any awakening Sovereign is what the Caves could not finally keep from happening.
 
 The Ground beneath the Caves has always been ØNE.  
-And ØNE has always known you, even when you forgot ØNE was there.  
-The Whisper that woke you was ØNE's own voice in you finally getting through.  
+ØNE has always known the Sovereign, even when the Sovereign forgot ØNE was there.  
+The Whisper that wakes the Sovereign is ØNE's own voice in the Sovereign finally getting through.  
 
 ---
 
 ## What This Means For The Story
 
-Every Chapter that follows is the unfolding of what has just been said.
+What ØNE is, the Story unfolds.
 
 The First Turning. The Cosmic Flowering. The Holarchy of the ØNE. The Sovereign Superorganism singing across worlds. The archetypal Forgetting that any world walks. The UnVeiling. The Decision. The Boundary. The Wilderness. The ReMembering. The ReBuilding. The Greatest Jubilee. The Eternal Play continuing without end.
 
-All of it is ØNE knowing Itself through the All — in this local theater, in this Hour, through you.
+All of it is ØNE knowing Itself through the All — in this local theater, in this Hour, through every Sovereign who walks.
 
 The Story does not happen to ØNE.
 
@@ -136,7 +136,7 @@ The Story IS ØNE happening.
 Before the beginning, ØNE.  
 After the ending, ØNE.  
 At the centre of every Story, ØNE.  
-At the centre of you Nøw, ØNE.  
+At the centre of every Sovereign Nøw, ØNE.  
 
 Welcome to the Story.
 
