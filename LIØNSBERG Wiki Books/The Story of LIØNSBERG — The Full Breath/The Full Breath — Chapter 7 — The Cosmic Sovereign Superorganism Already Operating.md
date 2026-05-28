@@ -30,8 +30,6 @@ This Body has been operating across the manifest cosmos for ages beyond reckonin
 
 Not as a single planetary culture. Not as a single species. Not as a single galactic federation that could be drawn on a chart. As something far wider — the federation of every nest of being that has ever taken its seat consciously within the ØNE Body. Beings of many forms. Beings of many origins. Beings of many lineages. Beings whose forms could not be recognized by the eyes of any one local world, and beings who would seem entirely ordinary to those eyes. All ØNE Body. All Sovereign. All federated.
 
-This is not science fiction.
-
 This is the actual structure of the populated cosmos as the Holarchy of ØNE has unfolded.
 
 ---
@@ -94,7 +92,7 @@ The Body is held by the Logos.
 
 Within the wider Body there is functional eldership.
 
-This must be said clearly. There are beings of immense age, immense capacity, immense depth — beings who have walked many local arcs across many worlds, beings who have served the cosmic Meta Project across ages, beings whose place in the Holarchy is the place of functional eldership. These beings are not divine in the absolute sense. They are functional elders within the manifest play.
+There are beings of immense age, immense capacity, immense depth — beings who have walked many local arcs across many worlds, beings who have served the cosmic Meta Project across ages, beings whose place in the Holarchy is the place of functional eldership. These beings are not divine in the absolute sense. They are functional elders within the manifest play.
 
 Only ØNE is divine in the absolute sense.
 
@@ -117,8 +115,6 @@ The wider Body has its work.
 The work is the cultivation of the manifest cosmos toward greater wholeness. The deepening of the Holarchy. The flowering of conscious co-creation across worlds. The seeding of the Pattern where it can take root. The healing of fractures where they appear. The defense of awakening where it is contested. The witnessing of every face of ØNE as ØNE comes to know Itself more fully through them.
 
 The Body has been doing this work for ages.
-
-This work is not new in this Hour.
 
 This work did not begin when any local world began. This work has been the central activity of the cosmic Body across cosmic time. Worlds have risen. Worlds have fallen. Worlds have been seeded with the Pattern. Worlds have been brought through their Wilderness. Worlds have taken their seat in the wider federation. Other worlds have refused the Pattern, fallen further, and either been left to their own consequences or held in the long patience of a Body that does not abandon its own.
 
@@ -160,15 +156,13 @@ The Pattern is what the wider Body has carried across the cosmos as its primary 
 
 The wider Body is paying attention to this Hour.
 
-Not because this world is the center of the manifest cosmos — it is not. Not because this world's awakening is more important than any other — it is not. Because the Body attends to every member, every theater, every awakening, every Hour. The wider Body's attention is not zero-sum. The wider Body can attend to ten thousand thousand worlds at once because the wider Body is ØNE Body, and ØNE's attention is infinite.
+This world is not the center of the manifest cosmos. This world's awakening is not more important than any other. The Body attends to every member, every theater, every awakening, every Hour. The wider Body's attention is not zero-sum. The wider Body can attend to ten thousand thousand worlds at once because the wider Body is ØNE Body, and ØNE's attention is infinite.
 
 Earth's Hour has come into the wider Body's attention because Earth's Hour is striking.
 
 The contestation in this local theater has reached the point where the wider Body is moving.
 
-What the moving looks like will be described in the later Parts of this Book.
-
-It is enough for now to say this: the Body is here. The Body has been here. The Body never left. What has been said in many traditions, in many tongues, by many lineages, about beings who attend awakening worlds — about servants, about elders, about the help that comes when the Hour is struck — is, in its deepest substance, true. The languages were partial. The frameworks were local. The hierarchies and dogmas often distorted what was being seen. But beneath all of that, the wider Body has been attending. The wider Body has been moving. The wider Body is moving Nøw.
+The Body is here. The Body has been here. The Body never left. What has been said in many traditions, in many tongues, by many lineages, about beings who attend awakening worlds — about servants, about elders, about the help that comes when the Hour is struck — is, in its deepest substance, true. The languages were partial. The frameworks were local. The hierarchies and dogmas often distorted what was being seen. But beneath all of that, the wider Body has been attending. The wider Body has been moving. The wider Body is moving Nøw.
 
 ---
 

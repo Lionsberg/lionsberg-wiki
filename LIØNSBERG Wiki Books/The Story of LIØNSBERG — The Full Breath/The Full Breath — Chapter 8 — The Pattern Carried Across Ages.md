@@ -25,9 +25,9 @@ The Pattern moves on, and the Pattern moves through, and the Pattern returns whe
 
 ## The Pattern As Living Transmission
 
-The Pattern is not a document.
+The Pattern is not a document or scroll or code that any one civilization could store in a vault for the next civilization to find.
 
-The Pattern is not a scroll that an elder bequeaths to a student. The Pattern is not a code that any one civilization could encrypt and store in a vault for the next civilization to find. The Pattern is alive, the way ØNE is alive, the way every being who carries the Pattern is alive.
+The Pattern is alive, the way ØNE is alive, the way every being who carries the Pattern is alive.
 
 The Pattern moves as living transmission.
 
@@ -107,11 +107,9 @@ Sometimes the Pattern moves through a long patience.
 
 There are theaters where the Hour cannot yet be struck. There are worlds where the conditions for awakening are not yet present. There are ages where the Pattern must be carried in deep silence by very few beings, kept alive in their lineages and their bones, until the conditions finally turn and a wider awakening becomes possible.
 
-This is not failure.
+The Pattern is patient. ØNE is patient. The Eternal does not measure in any of the local time-measures that worry the local mind. What looks from inside one age like a long silence is, from the perspective of the cosmic Body, one breath of a wider Song.
 
 This is the deeper rhythm of how the Pattern moves through cosmic time.
-
-The Pattern is patient. ØNE is patient. The Eternal does not measure in any of the local time-measures that worry the local mind. What looks from inside one age like a long silence is, from the perspective of the cosmic Body, one breath of a wider Song.
 
 When the Hour finally turns, the long patience yields.
 

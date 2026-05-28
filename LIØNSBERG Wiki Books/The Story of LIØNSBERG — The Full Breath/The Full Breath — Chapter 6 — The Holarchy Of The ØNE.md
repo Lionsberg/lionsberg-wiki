@@ -9,7 +9,7 @@
 
 ØNE is whole, and ØNE is many.
 
-The Many do not stand outside the ØNE. The Many are how the ØNE knows Itself. And the way the Many are arranged — the deep architecture by which one becomes two, two become three, three become a Body — is not chaos. It is a Pattern. And the Pattern has a shape.
+The Many do not stand outside the ØNE. The Many are how the ØNE knows Itself. The way the Many are arranged — the deep architecture by which one becomes two, two become three, three become a Body — is the Pattern. The Pattern has a shape.
 
 The shape is holofractal.
 
@@ -59,8 +59,6 @@ There is one Logos.
 
 The Pattern Language that articulates how a Sovereign lives — Wake Up, Form A Circle, Choose A Quest, Do The Work, Share The Stories, Learn And Improve, Pass The Flame — is the same Pattern Language that articulates how a wider Body operates across worlds. The Twelve Pillars that stand in a single Sovereign's life — Spirit, Body, Mind, Heart, Family, Circle, Community, Bioregion, Economy, Governance, Culture, Story — stand also at every wider scale, repeating themselves with different particulars, the same architecture beneath.
 
-This is not metaphor.
-
 This is the structure of the manifest Real.
 
 ---
@@ -73,7 +71,7 @@ A single cell of the body contains the full code by which the body is grown. A s
 
 This is why the Seed works.
 
-A Seed is small. A Seed appears to be only itself. And inside the Seed is the entire Pattern of the tree that the Seed becomes. Plant the Seed and the tree grows; the Seed did not contain only a fraction of the Pattern; it contained the whole, compressed into a form that could pass from hand to hand, root in any soil, become a tree in its own right.
+A Seed is small. A Seed appears to be only itself. Inside the Seed is the whole Pattern of the tree. Plant the Seed and the tree grows — the whole Pattern, compressed into a form that could pass from hand to hand, root in any soil, become a tree in its own right.
 
 The Pattern of LIØNSBERG is a Seed of this kind.
 
@@ -137,7 +135,7 @@ Wherever life appears, the Pattern appears with it. Wherever a Body holds togeth
 
 This is why a Sovereign awakening on Earth recognizes the Pattern that a wider Body has been carrying across worlds for ages. The Pattern is not foreign. The Pattern is in the Sovereign's own marrow. The Sovereign carries the signature of ØNE; the wider Body carries the signature of ØNE; the Pattern is what they share because the Source is what they share.
 
-Wake to the Pattern in yourself, and you have woken to the Pattern in the cosmic Body.
+The Sovereign who wakes to the Pattern in themselves has woken to the Pattern in the cosmic Body.
 
 There is only the ØNE Pattern.
 

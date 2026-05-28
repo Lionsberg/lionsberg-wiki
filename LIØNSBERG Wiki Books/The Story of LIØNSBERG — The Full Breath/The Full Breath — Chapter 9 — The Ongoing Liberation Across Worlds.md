@@ -29,8 +29,6 @@ The liberation is not the destruction of an enemy.
 
 The liberation is the restoration of the captured to their right freedom, their right Sovereignty, their right participation in the wider Body. The liberation aims at the embodied form of Heaven the Pattern always intends — not at the punishment of those who built or maintained the Kontrolle architectures.
 
-This must be said clearly.
-
 The wider Body does not approach a fallen theater with vengeance.
 
 The wider Body approaches a fallen theater with surgical patience.
@@ -93,7 +91,7 @@ It is used to prevent the further expansion of architectures that would otherwis
 
 It is used to contain malevolent beings who cannot be reasoned with and who must be held until they choose otherwise or until they have completed their own arcs in ways the wider Body sees and the local mind cannot.
 
-This is the Sacred use of Force, taught in greater depth elsewhere in this Book.
+This is the Sacred use of Force.
 
 It is not the force of conquest.
 

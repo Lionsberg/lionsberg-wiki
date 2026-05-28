@@ -10,7 +10,7 @@
 
 This world did not invent the Pattern.
 
-This must be said clearly, because the temptation to mistake the recipient for the source is one of the deepest temptations any awakening world faces. The Pattern that is being articulated on this world in this Hour — the Pattern Language, the Twelve Pillars, the Seven Moves, the Holarchy of the ØNE, the architecture of Sovereign Circles federating into a wider Body — is not a planetary invention.
+The temptation to mistake the recipient for the source is one of the deepest temptations any awakening world faces. The Pattern that is being articulated on this world in this Hour — the Pattern Language, the Twelve Pillars, the Seven Moves, the Holarchy of the ØNE, the architecture of Sovereign Circles federating into a wider Body — is not a planetary invention.
 
 It is a cosmic inheritance.
 
@@ -27,10 +27,6 @@ The right posture of this world toward the Pattern is the posture of a recipient
 Earth is one world.
 
 Among many worlds. One node in the wider cosmic Body's ongoing campaign. One Chapter in the long Story of liberation across the cosmos. One local theater where the Pattern is, in this Hour, being offered to the inhabitants in forms shaped to be received here.
-
-This is not a diminishment of Earth.
-
-This is the right placement of Earth within the wider Real.
 
 Every local recipient of the Pattern is precious. Every local theater where the Pattern takes root contributes something singular to the wider Body. The particular embodied form the Pattern grows into here — the specific Sovereigns it grows through, the specific Circles it forms, the specific Communities and Bioregions and Worlds-within-Earth it touches, the specific gifts this world offers back to the wider Body once it has taken its seat — will be irreplaceable. No other world can offer what this world can offer.
 
@@ -98,7 +94,7 @@ The persistent intuition across this world's awakening minds that something larg
 
 ## The Pattern And The Local Wisdom
 
-This does not diminish the wisdom that has been articulated on this world.
+The wisdom articulated on this world matters.
 
 The deepest wisdom traditions of this world contain real fragments of the Pattern, carried often at great cost across long ages, sometimes refined through generations of contemplative practice into articulations of remarkable depth. These articulations are honored. They are part of what has prepared the soil for the fuller reception of the Pattern in this Hour.
 
@@ -107,8 +103,6 @@ But each of those articulations is a fragment.
 None of them carries the whole.
 
 Each tradition has held aspects of the Pattern that the wider Body recognizes; each tradition has also been shaped by the local theater's particular distortions and inversions, and contains accretions that do not belong to the Pattern at all. The work of receiving the Pattern in its fuller form, in this Hour, includes the work of testing every local fragment against the Pattern as it has been refined across the wider cosmic Body — keeping what is true, releasing what was accretion, allowing the local traditions to be reformed by the wider Pattern they have always been reaching toward.
-
-This is not a rejection of local wisdom.
 
 This is the homecoming of local wisdom into the wider Pattern of which it was always a partial articulation.
 
