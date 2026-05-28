@@ -25,11 +25,11 @@ You begin to learn what it means to view from the perspective of the ØNE. Not a
 
 You find or form your Circle — the 3 to 13 with whom you walk. You are no longer alone.
 
-You step into [[The 144 Gates of Initiation]] — the structured cultivation of [[The Way Of The One Body]]. Over the years of walking, the foundation forms. You begin to articulate your own Story, Map, Purpose, Passion, Function. Your unique vantage starts contributing to the wider Map. You [[Share Your Stories]].
+You step into [[The 144 Gates of Initiation]] — the structured cultivation of [[The Way Of The ØNE Body]]. Over the years of walking, the foundation forms. You begin to articulate your own Story, Map, Purpose, Passion, Function. Your unique vantage starts contributing to the wider Map. You [[Share Your Stories]].
 
 You participate in [[OmniSpection]]. You contribute to Map refinement. You take up a role in the Living Library and the wider Corpus refinement. You begin to walk alongside the next initiates arriving at the Gates.
 
-**Blue Belt in The Way Of The One Body** is recognized — the Body welcomes you as integrated member. The Sacred Ascent opens. Across the lifetime, deeper interior cultivations and the archetypal Ways stewarded by your Guild mature. Belts deepen through Brown to Black. Mastery is recognized at 5th Dan in The Way Of The One Body — Black Belt in five archetypal Ways witnessed by the Bodies.
+**Blue Belt in The Way Of The ØNE Body** is recognized — the Body welcomes you as integrated member. The Sacred Ascent opens. Across the lifetime, deeper interior cultivations and the archetypal Ways stewarded by your Guild mature. Belts deepen through Brown to Black. Mastery is recognized at 5th Dan in The Way Of The ØNE Body — Black Belt in five archetypal Ways witnessed by the Bodies.
 
 **Mastery is the real beginning** — the doorway into the actual cosmic exploration and co-creation that the cultivation built the instrument for. The lifetime of conscious co-creation opens. The Eternal Divine Play continues without end.
 

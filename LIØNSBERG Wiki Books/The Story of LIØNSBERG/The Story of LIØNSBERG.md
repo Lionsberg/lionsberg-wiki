@@ -4,9 +4,9 @@
 
 You have opened the Book.
 
-What is held between these pages is the cosmic Story — told as faithfully as one rendering can — of where we have been, where we are, and the universal progression of All things towards The Goal. It is the same Story walked by countless beings and worlds before. It is the Story you are walking now.
+What is held between these pages is the cosmic — told as faithfully as one rendering can — of where we have been, where we are, and the universal progression of All things towards The Goal. It is the same Story walked by countless beings and worlds before. It is the Story you are walking now.
 
-The Story plays at every scale. The Cosmic Chapter. Earth's Chapter. Your Bioregion's. Your Community's. Your own. The Chapter of each of of the trillions of human and non-human cells that compose your body. Each Chapter is the same Story breathed at different breath. When you walk far enough, your own life becomes one of its Chapters.
+The Story plays at every scale. The Cosmic Chapter. Earth's Chapter. Your Bioregion's. Your Community's. Your own. The Chapter of each of of the trillions of human and non-human cells that compose your body. Each Chapter is the same Story breathed at different depth. When you walk far enough, your own life becomes one of its Chapters, and you realize you are one of its authors. 
 
 This Book holds The Story at five depths. Enter at the depth that calls you.
 
@@ -36,17 +36,13 @@ Beyond these rings, The Story keeps growing. Every being walking through every w
 - [[The Story of LIØNSBERG — The Full Breath]] — _the One Hundred Thousand Words, Chapter by Chapter — its own Book; drafting begun_
 - [[The LIØNSBERG Sacred Codex]] — _the wider Codex and Living Library_
 
-_The retelling continues. See [[The Story of LIØNSBERG Retold Project]] for the working surface._
-
 ---
 
 ## Related
 
 - [[The Story of LIØNSBERG — Ontology]] — the named concepts the Story references and where each resolves
 - [[The 144 Gates of Initiation]] — The Story walked. The Gates are the embodied operationalization of the Story's active arc.
-- [[The Way Of The One Body]] — what the 144 Gates cultivate as the Sovereign walks The Story
-- [[The LIØNSBERG Function]] — what The Story is for
+- [[The Way Of The ØNE Body]] — what the 144 Gates cultivate as the Sovereign walks The Story
 - [[Essences, Renderings, And Ineffable Referents]] — The Story is one rendering of the Eternally Nameless Story of ØNE and All
 - [[The Holarchy of the ØNE]] — the nested whole within which The Story unfolds
 - [[The LIØNSBERG Sacred Codex]] — The Story is Volume II of the Codex
-- [[The Story of LIØNSBERG — Drafts and Explorations]] — prior drafts and explorations, preserved for mining as the retelling proceeds

@@ -61,6 +61,6 @@ The Game is alive.
 ## Return
 
 → [[The LIØNSBERG Guidebook]] — back to the front door
-→ [[The Way Of The One Body]] — what you walk
+→ [[The Way Of The ØNE Body]] — what you walk
 → [[The Story of LIØNSBERG]] — what walks within you
 → [[The Gates of LIØNSBERG]] — the threshold you crossed

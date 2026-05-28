@@ -1,6 +1,6 @@
 # Mastery
 
-_The doorway into the actual cosmic exploration the cultivation built the instrument for. Recognized at 5th Dan in [[The Way Of The One Body]] — Black Belt across five archetypal Ways. Mastery is the real beginning._
+_The doorway into the actual cosmic exploration the cultivation built the instrument for. Recognized at 5th Dan in [[The Way Of The ØNE Body]] — Black Belt across five archetypal Ways. Mastery is the real beginning._
 
 ---
 
@@ -14,11 +14,11 @@ Mastery is the threshold at which the instrument is recognized as ready. What co
 
 ## What Mastery Recognizes
 
-Mastery in LIØNSBERG is recognized at **5th Dan in [[The Way Of The One Body]]** — Black Belt across five of the archetypal Ways stewarded by each Guild: [[The Way Of Sacred Force]] · [[The Way Of Healing]] · [[The Way Of Philosophy]] · [[The Way Of The Word]] · [[The Way Of Creativity]] · and the others as the full architecture unfolds.
+Mastery in LIØNSBERG is recognized at **5th Dan in [[The Way Of The ØNE Body]]** — Black Belt across five of the archetypal Ways stewarded by each Guild: [[The Way Of Sacred Force]] · [[The Way Of Healing]] · [[The Way Of Philosophy]] · [[The Way Of The Word]] · [[The Way Of Creativity]] · and the others as the full architecture unfolds.
 
 The recognition is granted by the Bodies of practitioners across the Guilds. Mastery is not declared by the Sovereign. It is witnessed.
 
-A 5th Dan in any one of the Ways is itself a Master of that Way. 5th Dan across five Ways is what is named Mastery of The Way Of The One Body.
+A 5th Dan in any one of the Ways is itself a Master of that Way. 5th Dan across five Ways is what is named Mastery of The Way Of The ØNE Body.
 
 ---
 
@@ -54,7 +54,7 @@ The Master IS the field guide for those still on the foundational arc. The Guide
 
 - [[The Sacred Ascent]] — the lifetime cultivation that opens onto Mastery
 - [[The LIØNSBERG Belt System]] — the architecture of recognition through the dans
-- [[The Way Of The One Body]] — the universal Path
+- [[The Way Of The ØNE Body]] — the universal Path
 - [[The Five-Fold Pattern of Mastery]] — the archetypal-fivefold articulation
 - [[The Eternal Divine Play]] — what Mastery opens onto
 - [[The Cosmic Sovereign Superorganism Already Operating]] — what Masters help operate

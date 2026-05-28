@@ -53,7 +53,7 @@ _The named concepts The Story references — the working vocabulary of the cosmi
 | **Earth's Hour** | [[The Hour]] |
 | **The Window** | [[We Are In The Window]] |
 | **The Old Paradigm** | [[Old World]] |
-| **The New Paradigm** | [[Heaven Here and Nøw]] · [[The Way Of The One Body]] · [[The Pattern Is The Way]] |
+| **The New Paradigm** | [[Heaven Here and Nøw]] · [[The Way Of The ØNE Body]] · [[The Pattern Is The Way]] |
 | **The Ground** | _what the Old forgot; ØNE as the unmoving floor_ |
 | **The Collapse** | _the dismantling of the Old by its own contradictions_ |
 
@@ -66,10 +66,10 @@ _The named concepts The Story references — the working vocabulary of the cosmi
 | **The First Three Percent** | [[The First Three Percent]] |
 | **The 300** | [[The 300]] |
 | **The Fibonacci Spread** | [[The First Three Percent and Fibonacci Spread]] |
-| **The Body** | [[ØNE Body]] · [[The Way Of The One Body]] |
+| **The Body** | [[ØNE Body]] · [[The Way Of The ØNE Body]] |
 | **The Planetary Grid** | _the empowered local leaders federating across Earth_ |
-| **The Way** | [[The Way Of The One Body]] |
-| **The Path** | [[The Way Of The One Body]] · [[The 144 Gates of Initiation]] |
+| **The Way** | [[The Way Of The ØNE Body]] |
+| **The Path** | [[The Way Of The ØNE Body]] · [[The 144 Gates of Initiation]] |
 
 ---
 

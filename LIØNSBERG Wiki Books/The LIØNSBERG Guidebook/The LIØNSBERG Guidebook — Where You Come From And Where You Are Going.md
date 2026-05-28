@@ -58,9 +58,9 @@ The honest answer, in the language of this Guidebook: you are moving toward **co
 
 In the context of LIØNSBERG, some structural milestones along the way:
 
-- **Blue Belt in [[The Way Of The One Body]]** — recognition by the Body that you stand as a fully participating integrated member. This is the threshold the [[The 144 Gates of Initiation|144 Gates]] cultivate. Years of Progress, for most Sovereigns.
+- **Blue Belt in [[The Way Of The ØNE Body]]** — recognition by the Body that you stand as a fully participating integrated member. This is the threshold the [[The 144 Gates of Initiation|144 Gates]] cultivate. Years of Progress, for most Sovereigns.
 - **Continued cultivation through [[The Sacred Ascent]]** — the journey of Blue, Brown, Black, and the many dans of Black. The lifetime arc. The archetypal Ways stewarded by your Guilds.
-- **Mastery — 5th Dan in The Way Of The One Body** — Black Belt across five archetypal Ways. Recognized by the Bodies. **Mastery is the real beginning** — the doorway into the actual cosmic exploration the cultivation built the instrument for.
+- **Mastery — 5th Dan in The Way Of The ØNE Body** — Black Belt across five archetypal Ways. Recognized by the Bodies. **Mastery is the real beginning** — the doorway into the actual cosmic exploration the cultivation built the instrument for.
 - **Continued participation in the Eternal Divine Play** — the Game that continues without end. The Progress that continues across forms. The Sovereign as conscious instrument of the Divine in cosmic operation. This is what continues after this body completes its particular Chapter.
 
 Very few will cross all of these in one lifetime. Some Sovereigns reach Mastery in this body. Most do not. **Whether you do or not is not the measure.** The measure is faithful Progress — that you cultivated honestly, that you held the line between Old and New through the part of the Path you were given.

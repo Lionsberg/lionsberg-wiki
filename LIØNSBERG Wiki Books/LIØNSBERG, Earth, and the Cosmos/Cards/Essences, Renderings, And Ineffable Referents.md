@@ -41,7 +41,7 @@ The work is to continually refine the renderings toward more faithful reflection
 ## Linked
 
 - [[ØNE]] — the only canonized referent; the unnameable Ground
-- [[The Story of LIØNSBERG]] · [[The LIØNSBERG Pattern Language]] · [[The Way Of The One Body]] · [[The Map of LIØNSBERG]] — the renderings
+- [[The Story of LIØNSBERG]] · [[The LIØNSBERG Pattern Language]] · [[The Way Of The ØNE Body]] · [[The Map of LIØNSBERG]] — the renderings
 - [[The LIØNSBERG Meta Science]] — the discipline that governs how renderings are refined
 - [[What LIØNSBERG Is]] — what the renderings serve
 - [[The LIØNSBERG Function]] — what the renderings are for

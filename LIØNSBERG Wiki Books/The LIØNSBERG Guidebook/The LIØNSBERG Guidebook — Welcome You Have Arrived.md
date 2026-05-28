@@ -76,7 +76,7 @@ The Path will shape you. You do not need to be shaped first to step onto it.
 
 You are moving toward [[Heaven On Earth]] — not as a metaphor, not as some future state imagined by someone else, but as the actual lived embodiment of what becomes possible when sovereign beings consciously co-create together in alignment with the Source.
 
-You are moving toward **Blue Belt in [[The Way Of The One Body]]** — the recognition that you stand as a fully participating, integrated member of the wider Body. This is the threshold the [[The 144 Gates of Initiation|144 Gates]] cultivate.
+You are moving toward **Blue Belt in [[The Way Of The ØNE Body]]** — the recognition that you stand as a fully participating, integrated member of the wider Body. This is the threshold the [[The 144 Gates of Initiation|144 Gates]] cultivate.
 
 You are moving toward the moment your particular Chapter joins the wider Story being woven — when your unique vantage starts contributing to the Map no one else can illuminate the way you can.
 

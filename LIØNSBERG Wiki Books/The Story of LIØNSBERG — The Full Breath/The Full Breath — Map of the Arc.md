@@ -50,7 +50,7 @@ The Story upstream of any walker. ØNE before any beginning. The Many emerging i
 - **Chapter 1 — ØNE** — the unmoving Ground; the Stillness That Sings
 - **Chapter 2 — The First Turning** — ØNE turning toward experience; apparent polarity
 - **Chapter 3 — The Cosmic Flowering** — the All emerging; the Logos as Pattern
-- **Chapter 4 — The Holarchy of the ØNE** — the holofractal Body at every scale
+- **Chapter 4 — The Holarchy of the ØNE** — the holofractal Body of ØNE at every scale
 - **Chapter 5 — The Sovereign Superorganism Already Singing** — the wider Body operating across worlds; the Pattern received here, not invented here
 
 _Threshold Note I — The Edge Of The Local_

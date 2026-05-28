@@ -5,7 +5,7 @@ themes: [jubilee, state-of-system, LIØNSBERG-architecture]
 
 # The Greatest Jubilee
 
-The greatest celebration and Jubilee in history is **not a fixed date.** It is the state-of-system event that dawns when **the last cohort of Earth-Sovereigns completes [[The 144 Gates of Initiation]] and stands at Blue Belt in [[The Way Of The One Body]]** — when no one is still asleep in the Caves, and every Sovereign on Earth is participating consciously and competently in the co-creation of Heaven Here and Nøw.
+The greatest celebration and Jubilee in history is **not a fixed date.** It is the state-of-system event that dawns when **the last cohort of Earth-Sovereigns completes [[The 144 Gates of Initiation]] and stands at Blue Belt in [[The Way Of The ØNE Body]]** — when no one is still asleep in the Caves, and every Sovereign on Earth is participating consciously and competently in the co-creation of Heaven Here and Nøw.
 
 ## Movement 10 Of The 144 Gates
 
@@ -23,7 +23,7 @@ When recognition that the last has crossed is acknowledged, the species' wildern
 
 - [[The 144 Gates of Initiation]] — Movement 10 sits within this arc
 - [[The Great ReFounding]] — Movement 9, whose completion triggers the Jubilee
-- [[The Way Of The One Body]] — Blue Belt in which is the threshold every Sovereign crosses
+- [[The Way Of The ØNE Body]] — Blue Belt in which is the threshold every Sovereign crosses
 - [[The Sovereign Path]] — Stage 11 holds the Jubilee moment
 - [[The LIØNSBERG Function]] — what the Jubilee marks the fulfillment of for Earth
 - [[Capacity Development Architecture]] — the arc that culminates here

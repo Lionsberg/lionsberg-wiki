@@ -13,7 +13,7 @@ These Cards hold the foundational articulations the Story rests on. The Story se
 - [[The LIØNSBERG Function]] — what The Story serves
 - [[What LIØNSBERG Is]] — what The Story is told from
 - [[Essences, Renderings, And Ineffable Referents]] — The Story is one rendering of The Eternally Nameless Story of ØNE and All
-- [[The Way Of The One Body]] — what walking The Story cultivates
+- [[The Way Of The ØNE Body]] — what walking The Story cultivates
 
 ---
 
@@ -167,6 +167,7 @@ Provisional. The Full Breath ring (One Hundred Thousand Words) opens into roughl
 - The Final Word
 
 The 144 Gates Movements walk the Sovereign's active portion: Awakening (Layer II's Awakening) → through the Crossings · Wilderness · ReLearning · ReBuilding · Body · Field of Agreements · Sacred Engagement · Convergence · Jubilee. The Chapters and the Gates correspond at the heart of the arc; the Story holds the full cosmic before-and-after that the Gates do not.
+[[The Great UnVeiling]]
 
 ---
 

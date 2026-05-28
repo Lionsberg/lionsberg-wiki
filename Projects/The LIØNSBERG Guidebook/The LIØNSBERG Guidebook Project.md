@@ -2,7 +2,7 @@
 
 _Working surface for drafting [[The LIØNSBERG Guidebook]] — the field guide handed to each initiate when they enter the Gates of LIØNSBERG. Lives in its own Wiki Book; this project file is the workshop where it is shaped._
 
-_Created 2026-05-26 in current consciousness, after the architectural settling of [[The LIØNSBERG Function]], the Way Of The One Body, the +1 Guild architecture, and the relationship to The Story._
+_Created 2026-05-26 in current consciousness, after the architectural settling of [[The LIØNSBERG Function]], the Way Of The ØNE Body, the +1 Guild architecture, and the relationship to The Story._
 
 ---
 
@@ -12,7 +12,7 @@ The Guidebook serves and rests on:
 
 - [[The LIØNSBERG Function]] — what the Guidebook is for
 - [[What LIØNSBERG Is]] — what the Guidebook speaks from
-- [[The Way Of The One Body]] — what the Guidebook walks the initiate through
+- [[The Way Of The ØNE Body]] — what the Guidebook walks the initiate through
 - [[The 144 Gates of Initiation]] — the structural arc the Guidebook accompanies
 - [[The Story of LIØNSBERG]] — the cosmic narrative the Guidebook companions the walking of
 - [[The LIØNSBERG Belt System]] — the recognition architecture the Guidebook orients the initiate within
@@ -47,7 +47,7 @@ All other readers (Sovereigns further along, Sovereigns from other Guilds, those
 - Grounded — practical, walkable, real
 - Trustworthy — speaks from having walked
 
-Different from [[The LIØNSBERG Voice]] proper (which is scripture-grade · prophetic · cosmic). The Guidebook is the companion voice of the Way Of The One Body — the wisdom-friend voice. It can quote scripture; it does not speak as scripture.
+Different from [[The LIØNSBERG Voice]] proper (which is scripture-grade · prophetic · cosmic). The Guidebook is the companion voice of the Way Of The ØNE Body — the wisdom-friend voice. It can quote scripture; it does not speak as scripture.
 
 Similar in voice to the old Co-Creators Handbook. Build on what carried there; lift what is timeless; refine in current consciousness.
 
@@ -80,7 +80,7 @@ May have a Three-Ring scale parallel to The Story (Seed · 1k · 10k · 30–50k
 
 ## Working Architecture — Provisional Sections
 
-To refine in drafting. The arc follows the Sovereign's walk through the Way Of The One Body.
+To refine in drafting. The arc follows the Sovereign's walk through the Way Of The ØNE Body.
 
 **Opening**
 - Welcome — You Have Arrived
@@ -88,7 +88,7 @@ To refine in drafting. The arc follows the Sovereign's walk through the Way Of T
 - How To Use This Guidebook
 
 **The Walk Itself**
-- The Way Of The One Body — what you are walking
+- The Way Of The ØNE Body — what you are walking
 - Walking The 144 Gates — Movement by Movement: what to expect, what others have found, the practices, the hard parts, the gifts. The bulk of the Guidebook.
   - Walking Movement 1 — Awakening In The Caves
   - Walking Movement 2 — The Great UnVeiling

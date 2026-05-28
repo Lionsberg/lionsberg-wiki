@@ -26,7 +26,7 @@ It does not begin with a strategy.
 
 If the Spirit is right, the Pattern will emerge. If the Spirit is absent, no Pattern can save us.
 
-Every successful movement in history was animated by this Spirit — whether they called it God, the Great Spirit, the Dharma, the Tao, the Source, or simply Love. The name varies. The Spirit is the same.
+Every True movement in history was animated by this Spirit — whether they called it God, the Great Spirit, the Tao, the Source, or simply Love. The name varies. The Spirit is the same, flowing from ØNE Source of All.
 
 Every failed movement was a movement where the Spirit was displaced — by ego, by ideology, by power, by fear — and the structures, no matter how well-designed, could not compensate for its absence.
 
@@ -34,13 +34,17 @@ ___
 
 ## In LIØNSBERG
 
-The Central Animating Spirit is the unnamed center of everything — [[ØNE]].
+The Central Animating Spirit is the eternally ineffable center of everything — radiating from the [[ØNE]].
 
 Not owned by any religion. Not captured by any ideology. Not contained by any name.
 
-Known by every name. Present in every tradition. Discoverable by every sincere seeker.
+Known by many names. Present in every True tradition. Discoverable both within and without by every sincere seeker.
 
-From this [[ØNE]], the [[Twelve Irreducible Elements]] emanate. To this ØNE, all things return. In this ØNE, all things cohere.
+From this [[ØNE]], ØNE Spirit and ØNE Body emanate. the [[Twelve Irreducible Elements]] help the body function in harmony and coherence with the implicit [[Logos]]. 
+
+From this ØNE, All things emerge.  
+To this ØNE, All things return.  
+In this ØNE, all things cohere.  
 
 ___
 

@@ -58,7 +58,7 @@ The Body of awakening Sovereigns is assembling itself across the planet in this 
 
 Like always, there is an archetypal cohort that is awakening first.
 
-[[The First Three Percent]] globally. [[The 300]] in every community of ten thousand. The first few out of the hundred people you know best. They recognize the wrongness. They feel the call. They are refusing the Old. They are stepping toward [[The Way Of The One Body|the Way]] that opens. 
+[[The First Three Percent]] globally. [[The 300]] in every community of ten thousand. The first few out of the hundred people you know best. They recognize the wrongness. They feel the call. They are refusing the Old. They are stepping toward [[The Way Of The ØNE Body|the Way]] that opens. 
 
 If you are reading this, you are very likely one of them.
 

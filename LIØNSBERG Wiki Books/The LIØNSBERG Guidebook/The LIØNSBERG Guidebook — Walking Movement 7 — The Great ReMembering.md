@@ -63,7 +63,7 @@ And hold your Circle as home base. The wider Body is real. The Circle is still t
 
 ## What To Reach For
 
-[[The Way Of The One Body]] for what is being remembered. [[Share Your Stories]] for the practice through which the Body composes itself. [[Holofractal Omnifederation]] for the Pattern of how kin federate. [[Right Relationship]] across all the kin discovered. [[Field Of Agreements]] extended to inter-Circle scope. [[Levels of Scale]] for the architecture of nested Bodies. [[Your Story]] for your Chapter.
+[[The Way Of The ØNE Body]] for what is being remembered. [[Share Your Stories]] for the practice through which the Body composes itself. [[Holofractal Omnifederation]] for the Pattern of how kin federate. [[Right Relationship]] across all the kin discovered. [[Field Of Agreements]] extended to inter-Circle scope. [[Levels of Scale]] for the architecture of nested Bodies. [[Your Story]] for your Chapter.
 
 ---
 

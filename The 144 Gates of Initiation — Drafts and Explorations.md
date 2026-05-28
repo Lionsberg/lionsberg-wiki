@@ -6,7 +6,7 @@ _Archive of prior drafts and explorations of the 144 Gates. Preserved for mining
 
 ## Prior Draft (Preserved 2026-05-26)
 
-_The following is the substantive content that lived at `The 144 Gates of Initiation.md` at root prior to the restructuring in current consciousness. Preserved here verbatim for reference. The new structure (one journey across all scales, cultivation of [[The Way Of The One Body]]) lives at [[The 144 Gates of Initiation]]._
+_The following is the substantive content that lived at `The 144 Gates of Initiation.md` at root prior to the restructuring in current consciousness. Preserved here verbatim for reference. The new structure (one journey across all scales, cultivation of [[The Way Of The ØNE Body]]) lives at [[The 144 Gates of Initiation]]._
 
 # **🕊️** **The 144 Gates of Initiation**
 _The Great ReFounding Journey — The Way Out of Bondage and Into the New Civilization_  

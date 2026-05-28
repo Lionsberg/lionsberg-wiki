@@ -26,7 +26,7 @@ The seven-belt progression is the LIØNSBERG sequence. Each names a stage of emb
 - **Yellow** — the seed has sprouted. First awakening of the cultivation. The Sovereign is now actually practicing, not just considering.
 - **Orange** — early growth. Foundational practices established and sustained over seasons.
 - **Green** — emerging competence. The practice bears fruit visible to the Body.
-- **Blue** — integrated embodiment. The practice has become the Sovereign's way of being in this Way. _(In The Way Of The One Body specifically: fully participating member of the Body across all scales.)_
+- **Blue** — integrated embodiment. The practice has become the Sovereign's way of being in this Way. _(In The Way Of The ØNE Body specifically: fully participating member of the Body across all scales.)_
 - **Brown** — deep refinement. The cultivation hones toward mastery. The Sovereign begins to be a resource to others in this Way.
 - **Black** — the recognition that the Sovereign has cultivated the basic capacity to actually begin the real work. The doorway, not the destination.
 
@@ -47,23 +47,23 @@ LIØNSBERG holds two kinds of Guild belt systems:
 - The **Maker / Artist Guild** stewards belts in [[The Way Of Creativity]]
 - _(and similarly each archetypal Guild for its domain — the full set awaits naming)_
 
-**The Way Of The One Body — stewarded by the +1 Guild — is the universal Path.** It is what every part of the Body must progressively master in order for the Body to function as one. The +1 Guild does not name its own specialization; it holds the integration of all the others.
+**The Way Of The ØNE Body — stewarded by [[The Ø Guild]] — is the universal Path.** It is what every part of the Body must progressively master in order for the Body to function as one. The Ø Guild — the +1 above the archetypal Guilds — does not name its own specialization; it holds the integration of all the others.
 
 ---
 
-## The Universal Progression — Belts In The Way Of The One Body
+## The Universal Progression — Belts In The Way Of The ØNE Body
 
-The [[144 Gates of Initiation]] are the cultivation of [[The Way Of The One Body]]. By walking the 144 Gates, the Sovereign comes to hold the entire LIØNSBERG System across all scales, participate as integrated member across all scales, and earn:
+The [[144 Gates of Initiation]] are the cultivation of [[The Way Of The ØNE Body]]. By walking the 144 Gates, the Sovereign comes to hold the entire LIØNSBERG System across all scales, participate as integrated member across all scales, and earn:
 
-**Blue Belt in The Way Of The One Body** — the Body recognizes this Sovereign as a fully participating integrated member.
+**Blue Belt in The Way Of The ØNE Body** — the Body recognizes this Sovereign as a fully participating integrated member.
 
-Every Sovereign earns Blue Belt in The Way Of The One Body before or alongside Guild-specific specialization belts. It is the universal foundation. Beyond Blue, the Sovereign continues to deepen across the lifetime — Brown, Black, and the dans of Black described below.
+Every Sovereign earns Blue Belt in The Way Of The ØNE Body before or alongside Guild-specific specialization belts. It is the universal foundation. Beyond Blue, the Sovereign continues to deepen across the lifetime — Brown, Black, and the dans of Black described below.
 
 ---
 
-## The Stripes — Dans On Black Belt In The Way Of The One Body
+## The Stripes — Dans On Black Belt In The Way Of The ØNE Body
 
-Black Belt in The Way Of The One Body carries **stripes (dans)** that mark each Guild Black Belt attained:
+Black Belt in The Way Of The ØNE Body carries **stripes (dans)** that mark each Guild Black Belt attained:
 
 - **1st Dan** — Black Belt held in 1 archetypal Way
 - **2nd Dan** — Black Belt held in 2 Ways
@@ -71,7 +71,7 @@ Black Belt in The Way Of The One Body carries **stripes (dans)** that mark each 
 - **4th Dan** — Black Belt held in 4 Ways
 - **5th Dan — Mastery** — Black Belt held in 5 archetypal Ways
 
-The Sovereign at 5th Dan has been witnessed across at least five Guild-disciplines at full embodiment AND is held at 5th Dan in The Way Of The One Body by the +1 Guild.
+The Sovereign at 5th Dan has been witnessed across at least five Guild-disciplines at full embodiment AND is held at 5th Dan in The Way Of The ØNE Body by [[The Ø Guild]].
 
 In most martial and traditional systems, 5th Dan marks very high mastery. The scaling holds. Mastery is multi-domain by design — no Master is recognized in only one Way. The integration is what makes the Master.
 
@@ -81,9 +81,9 @@ Higher dans (6th, 7th, and beyond) emerge as Sovereigns are witnessed cultivatin
 
 ## Cross-Guild Divergence — Honored, Not Flattened
 
-A Sovereign may hold Brown Belt in The Way Of Healing, Green Belt in The Way Of The Word, Yellow Belt in The Way Of Creativity — and Blue Belt in The Way Of The One Body that holds them all. Belt levels diverge across Guilds for any given Sovereign. That divergence is honored. The Sovereign's overall cultivation is the integration across all the Ways they hold, not a single number.
+A Sovereign may hold Brown Belt in The Way Of Healing, Green Belt in The Way Of The Word, Yellow Belt in The Way Of Creativity — and Blue Belt in The Way Of The ØNE Body that holds them all. Belt levels diverge across Guilds for any given Sovereign. That divergence is honored. The Sovereign's overall cultivation is the integration across all the Ways they hold, not a single number.
 
-The +1 Guild reads not just the Sovereign's Guild belts but how the Sovereign holds the whole Body across all the scales they operate in. The Way Of The One Body integrates what the archetypal Ways diversify.
+[[The Ø Guild]] reads not just the Sovereign's Guild belts but how the Sovereign holds the whole Body across all the scales they operate in. The Way Of The ØNE Body integrates what the archetypal Ways diversify.
 
 ---
 
@@ -113,8 +113,9 @@ The belt names a stage. The cultivation continues.
 
 ## Related
 
-- [[The Way Of The One Body]] — the universal +1 Path that the +1 Guild stewards
-- [[The 144 Gates of Initiation]] — the cultivation of The Way Of The One Body through Blue Belt
+- [[The Way Of The ØNE Body]] — the universal Path that [[The Ø Guild]] (the +1 above the archetypal Guilds) stewards
+- [[The Ø Guild]] — the meta-Guild of integration; coextensive with the LIØNSBERG Body's integrating function
+- [[The 144 Gates of Initiation]] — the cultivation of The Way Of The ØNE Body through Blue Belt
 - [[The Sacred Ascent]] — the lifetime arc through Brown, Black, and the dans of Mastery
 - [[The LIØNSBERG Pattern Language]] — the Patterns invoked within belt cultivation
 - [[The 12 Pillars of LIØNSBERG]] — the civilizational architecture within which the archetypal Guilds operate

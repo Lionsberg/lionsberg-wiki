@@ -107,9 +107,9 @@ Reading the corpus content on the Sovereign Path and the 12 Stages through curre
 
 Lives at [[The LIØNSBERG Belt System]].
 
-## The Way Of The One Body — Linked
+## The Way Of The ØNE Body — Linked
 
-Lives at [[The Way Of The One Body]].
+Lives at [[The Way Of The ØNE Body]].
 
 ## The Greatest Jubilee — Linked
 

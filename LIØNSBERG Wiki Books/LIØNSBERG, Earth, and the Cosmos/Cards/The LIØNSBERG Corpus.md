@@ -15,7 +15,7 @@ The Corpus holds:
 
 - [[The Story of LIØNSBERG]] — the cosmic narrative
 - [[The LIØNSBERG Pattern Language]] — the grammar of co-creation
-- [[The Way Of The One Body]] and the archetypal Ways — the paths walked
+- [[The Way Of The ØNE Body]] and the archetypal Ways — the paths walked
 - [[The LIØNSBERG Sacred Codex]] — the twelve Volumes of structured articulation
 - [[The LIØNSBERG Map]] — the current best intersubjective Map of Reality
 - [[The LIØNSBERG Lexicon]] — the working vocabulary

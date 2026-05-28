@@ -180,7 +180,7 @@ You carry it from here. Open it when the moment calls. Set it down when it does 
 
 When your Guild later calls you, you pick up its Guildbook alongside this one. [[The Sacred Warrior Guidebook]] for the Way of Sacred Force; the Healer's, the Philosopher's, the Word-Keeper's, the Creator's Guidebooks as those Ways are written — each non-redundant with this one, each adding what is specific to its archetypal Way.
 
-This Guidebook stays the universal companion for [[The Way Of The One Body]] regardless. The Path you walk together with every other Sovereign is the Path it accompanies.
+This Guidebook stays the universal companion for [[The Way Of The ØNE Body]] regardless. The Path you walk together with every other Sovereign is the Path it accompanies.
 
 ---
 

@@ -11,11 +11,11 @@ The journey from initiate to conscious-and-competent co-creator unfolds across n
 
 ### Years 0–3 — The Great Refounding _(White → Blue Belt)_
 
-The [[The 144 Gates of Initiation]] cultivate [[The Way Of The One Body]]. Twelve Movements of twelve Gates each — non-linear thresholds of transformation. The initiate moves from first encounter (Threshold) through orientation, Circle-formation, weekly practice, Pattern encounter, and Gate-by-Gate cultivation.
+The [[The 144 Gates of Initiation]] cultivate [[The Way Of The ØNE Body]]. Twelve Movements of twelve Gates each — non-linear thresholds of transformation. The initiate moves from first encounter (Threshold) through orientation, Circle-formation, weekly practice, Pattern encounter, and Gate-by-Gate cultivation.
 
 What is built: orientation to the ØNE · the Daily Way · Circle practice · the Field of Agreements · the LIØNSBERG vocabulary · emotional fluency · basic energetic and embodiment work · Sovereign sufficiency · capacity to articulate one's own Story, Purpose, Plan, Map, Function · participation in OmniSpection across scales · rhythms and rituals.
 
-By the close: **Blue Belt in The Way Of The One Body** — the recognition that the Sovereign is a fully participating integrated member of the Body. This corresponds to the empirically-grounded [[The 3 Year ReFounding Cycle]].
+By the close: **Blue Belt in The Way Of The ØNE Body** — the recognition that the Sovereign is a fully participating integrated member of the Body. This corresponds to the empirically-grounded [[The 3 Year ReFounding Cycle]].
 
 ### Years 3–7/10 — The Sacred Ascent Toward Black Belt And Beyond
 
@@ -23,7 +23,7 @@ The deepening into mastery across the cultivated domains. [[The Sacred Ascent]] 
 
 What is built: deeper interior cultivations · the archetypal Ways the Sovereign is called to · the contribution to the growing intersubjective Map · multi-domain integration across Body · Breath · Mind · Spirit · Heart · Voice · Hands · Relating · Scale · Cosmic.
 
-**Earning Black Belt is the real beginning** — the path to mastery builds the basic ability to actually begin more consciously and competently exploring the universe and its inner and outer potentialities. Mastery is recognized at 5th Dan in The Way Of The One Body — see [[The LIØNSBERG Belt System]].
+**Earning Black Belt is the real beginning** — the path to mastery builds the basic ability to actually begin more consciously and competently exploring the universe and its inner and outer potentialities. Mastery is recognized at 5th Dan in The Way Of The ØNE Body — see [[The LIØNSBERG Belt System]].
 
 ### Black Belt And Beyond — Lifetime Of Conscious Co-Creation
 
@@ -34,7 +34,7 @@ What unfolds: contributing one's unique vantage to the growing shared Map · hol
 ## Linked
 
 - [[The 144 Gates of Initiation]] — the foundational arc
-- [[The Way Of The One Body]] — the universal Path the foundation cultivates
+- [[The Way Of The ØNE Body]] — the universal Path the foundation cultivates
 - [[The Sacred Ascent]] — the deepening arc
 - [[The LIØNSBERG Belt System]] — the recognition architecture
 - [[The Sovereign Path]] — the wider 12 Stages of which these arcs are the developmental substance

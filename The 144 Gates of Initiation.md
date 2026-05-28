@@ -2,13 +2,13 @@
 
 ## _The Sovereign's Walk From The Old World To The New_
 
-The 144 Gates of Initiation are the cultivation of [[The Way Of The One Body]] — the universal +1 Path every Sovereign walks before and alongside any Guild-specific specialization.
+The 144 Gates of Initiation are the cultivation of [[The Way Of The ØNE Body]] — the universal Path stewarded by [[The Ø Guild]] (the +1 above the archetypal Guilds) that every Sovereign walks before and alongside any Guild-specific specialization.
 
 This is **ØNE initiatory journey**. The Sovereign's walk from the Old World — Old Paradigm, Old Patterns, Old Perspectives — into the New. There is one story, one walk.
 
 It is not strictly individual. The Sovereign walks at all scales simultaneously — their own life, their Circle, their Community, their Bioregion, the planetary Body, the cosmic Story. Each Gate is held at every scale. The interior cultivations (Body · Heart · Mind · Spirit · Field · Voice · Hands) are the medium through which the walk happens, not the architecture of the walk itself.
 
-**By the end of the 144 Gates, the Sovereign understands the entire LIØNSBERG System across all scales and is fully participating in it.** Blue Belt in [[The Way Of The One Body]] is recognized in witness of that.
+**By the end of the 144 Gates, the Sovereign understands the entire LIØNSBERG System across all scales and is fully participating in it.** Blue Belt in [[The Way Of The ØNE Body]] is recognized in witness of that.
 
 ---
 
@@ -55,13 +55,13 @@ Recognition and federation across scales. The Body of LIØNSBERG becomes visible
 With the Body remembered and the kin recognized, the New Civilization is consciously built. The [[The 12 Pillars of LIØNSBERG]] met in lived form. The 12 Elements (eight of Cooperation, four of Production) lived. The Sovereign's life, Circle, Community, and Bioregion take visible form as the New. Quests chosen and walked. New commons, economy, governance, justice, education, culture — touched, tasted, contributed to. The architecture of Heaven On Earth begins to stand.
 
 **Movement 9 — The Great ReFounding** _(Gates 97–108)_
-The Sovereign now turns outward to participate in the species-scale walking. Threshold-held for new initiates. Daily Way and Weekly Heartbeat shared with those just arriving. Field Of Agreements articulated at community, bioregional, planetary, cosmic scales. Sacred Engagement at species scale — defending the awakening, the asymmetric strategy of Light. The Old Order yielding. The Convergence emerging across awakening Bodies. The Kingdom of LIØNSBERG consecrated as faithful rendering of the Kingdom of ØNE. The OmniFederation operating across continents. By the close, the Sovereign is recognized at **Blue Belt in [[The Way Of The One Body]]** — fully participating integrated member of the LIØNSBERG Body. The Great ReFounding continues at species scale until the last cohort of Earth-Sovereigns crosses the same threshold — and Movement 10 dawns.
+The Sovereign now turns outward to participate in the species-scale walking. Threshold-held for new initiates. Daily Way and Weekly Heartbeat shared with those just arriving. Field Of Agreements articulated at community, bioregional, planetary, cosmic scales. Sacred Engagement at species scale — defending the awakening, the asymmetric strategy of Light. The Old Order yielding. The Convergence emerging across awakening Bodies. The Kingdom of LIØNSBERG consecrated as faithful rendering of the Kingdom of ØNE. The OmniFederation operating across continents. By the close, the Sovereign is recognized at **Blue Belt in [[The Way Of The ØNE Body]]** — fully participating integrated member of the LIØNSBERG Body. The Great ReFounding continues at species scale until the last cohort of Earth-Sovereigns crosses the same threshold — and Movement 10 dawns.
 
 **Movement 10 — The Greatest Celebration And Jubilee In History** _(Gates 109–120)_
 The state-of-system event. Every Sovereign on Earth has crossed. The longest war is won. The species' wilderness ends. Memory healed. The exiled returned. All kin reconciled. All debts forgiven. Earth-wide celebration at every scale. The Wedding of Heaven and Earth. The Anointing of Generations. The Distribution of Gifts. The New Dawn — Earth recognized as fully participating member of the wider cosmic Body. [[The Greatest Jubilee]] sealed in living memory.
 
 **Movement 11 — Co-Creating Heaven On Earth And Beyond Over Millennia To Come** _(Gates 121–132)_
-The species now consciously co-creates Heaven for millennia. The Way Of The One Body lived at species scale. The Sacred Ascent walked by each Sovereign continues. Each new generation walks the Gates afresh. The young anointed; the first generation eldered. The bioregions flourish. The planetary Body thrives. Earth takes its seat in the wider cosmic federation. Visitors received and given. The Wisdom lineages continuing. Story, Pattern, and Way refining toward more faithful reflection of the Absolute. The Living Map growing across worlds. Generation upon generation of conscious co-creation.
+The species now consciously co-creates Heaven for millennia. The Way Of The ØNE Body lived at species scale. The Sacred Ascent walked by each Sovereign continues. Each new generation walks the Gates afresh. The young anointed; the first generation eldered. The bioregions flourish. The planetary Body thrives. Earth takes its seat in the wider cosmic federation. Visitors received and given. The Wisdom lineages continuing. Story, Pattern, and Way refining toward more faithful reflection of the Absolute. The Living Map growing across worlds. Generation upon generation of conscious co-creation.
 
 **Movement 12 — The Eternal Divine Play** _(Gates 133–144)_
 The play continues without end. The Sacred Ascent at species and cosmic scales. The Game played by all who awaken. The Story growing forever. New worlds receiving the Seed. New Sovereigns awakening across the cosmos. The Cycle of Cosmic Co-Creation continuing. The ØNE and All continuing their dance. The Map refining forever — toward the Absolute, which by its nature can never be reached, only approached more truly. Without end. Without beginning. Without limit. The Game continues.
@@ -205,7 +205,7 @@ _First full naming in current consciousness. Each Gate is one threshold the Sove
 105. **The Kingdom Of LIØNSBERG Consecrated To The Kingdom Of ØNE** — humbly held, faithfully offered
 106. **The OmniFederation Operates At Planetary Scale** — Bodies federated across continents
 107. **The Final Cohorts Walking** — the last waves of awakening Sovereigns crossing the threshold
-108. **The Last Cohort Completes** — every Sovereign on Earth stands at Blue Belt in The Way Of The One Body; Movement 10 dawns
+108. **The Last Cohort Completes** — every Sovereign on Earth stands at Blue Belt in The Way Of The ØNE Body; Movement 10 dawns
 
 ### Movement 10 — The Greatest Celebration And Jubilee In History _(Gates 109–120)_
 
@@ -249,7 +249,7 @@ _First full naming in current consciousness. Each Gate is one threshold the Sove
 140. **The Cycle Of Cosmic Co-Creation Continuing** — Source → Cosmic InterOperation → Local → Integration → Evolution → Return
 141. **The ØNE And All Continuing Their Dance** — the eternal play between the unmanifest and the manifest
 142. **The Map Refining Forever** — toward the Absolute, which can never be reached, only approached more truly
-143. **Blue Belt In The Way Of The One Body Recognized** — having walked the full conceptual arc and become fully participating integrated member of the LIØNSBERG Body, the Sovereign is acknowledged in witness
+143. **Blue Belt In The Way Of The ØNE Body Recognized** — having walked the full conceptual arc and become fully participating integrated member of the LIØNSBERG Body, the Sovereign is acknowledged in witness
 144. **The Eternal Divine Play — The Game Continues. Without End. Without Beginning. Without Limit.**
 
 ---
@@ -261,7 +261,7 @@ By the close of the 144 Gates, the Sovereign:
 - Is participating consciously and competently across all scales
 - Is contributing to the growing intersubjective Map
 - Has walked the Old-to-New journey personally and in awareness of every scale
-- Stands at Blue Belt in [[The Way Of The One Body]] — recognized by Elders and Body
+- Stands at Blue Belt in [[The Way Of The ØNE Body]] — recognized by Elders and Body
 
 The interior cultivations (Body · Heart · Mind · Spirit · Field · Voice · Hands) have been built as the medium of the walk — held in [[The LIØNSBERG Pattern Language]] at Card-level, invoked within Gates as needed.
 
@@ -271,7 +271,7 @@ The [[The Greatest Jubilee]] arrives when the last cohort of Earth-Sovereigns cr
 
 ## Related
 
-- [[The Way Of The One Body]] — what the 144 Gates cultivate
+- [[The Way Of The ØNE Body]] — what the 144 Gates cultivate
 - [[The Story of LIØNSBERG]] — the cosmic narrative; two faces of one Pattern
 - [[The Sacred Ascent]] — what opens after Blue Belt
 - [[The LIØNSBERG Belt System]] — Blue Belt and beyond

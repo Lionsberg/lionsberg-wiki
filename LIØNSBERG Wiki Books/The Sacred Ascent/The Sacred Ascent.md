@@ -2,7 +2,7 @@
 
 ## _All Things Helping All Things Rise_
 
-The Sacred Ascent is the eternal upward spiral that opens after a Sovereign earns Blue Belt in [[The Way Of The One Body]]. It continues without end.
+The Sacred Ascent is the eternal upward spiral that opens after a Sovereign earns Blue Belt in [[The Way Of The ØNE Body]]. It continues without end.
 
 The [[144 Gates of Initiation]] carry the Sovereign from the Old World to the New, teaching them to hold the entire LIØNSBERG System across all scales and participate as integrated member of the Body. That is the universal foundation. Every Sovereign earns it.
 
@@ -24,7 +24,7 @@ The Sacred Ascent unfolds across **nine Movements, eight Gates each — seventy-
 
 **One Integration** — Divine Cosmic Embodiment. All the Ways braided into one fluent instrument operating across all scales.
 
-The Sovereign does not walk all Ways equally. Each Sovereign cultivates the Ways they are called to. Mastery is recognized at Black Belt in five archetypal Ways — **five stripes (5th Dan) on Black Belt in The Way Of The One Body.**
+The Sovereign does not walk all Ways equally. Each Sovereign cultivates the Ways they are called to. Mastery is recognized at Black Belt in five archetypal Ways — **five stripes (5th Dan) on Black Belt in The Way Of The ØNE Body.**
 
 ---
 
@@ -61,13 +61,13 @@ The cultivated communion with the Creative Source and the bringing-forth of what
 ### Integration
 
 **Movement 9 — Divine Cosmic Embodiment**
-All the Ways braided into one fluent instrument. Operating across scales — Circle to Cosmos — without strain. Siddhic capacities ripe. The cosmic vantage held — viewing from as close to the perspective of ØNE as one embodied Sovereign can hold. Mastery recognized — 5th Dan in The Way Of The One Body. The Sovereign becomes Threshold-Holder for the next initiates. The Sovereign as conscious instrument of the Divine in cosmic operation. The work continues without end.
+All the Ways braided into one fluent instrument. Operating across scales — Circle to Cosmos — without strain. Siddhic capacities ripe. The cosmic vantage held — viewing from as close to the perspective of ØNE as one embodied Sovereign can hold. Mastery recognized — 5th Dan in The Way Of The ØNE Body. The Sovereign becomes Threshold-Holder for the next initiates. The Sovereign as conscious instrument of the Divine in cosmic operation. The work continues without end.
 
 ---
 
 ## Belts And The Recognition Of Mastery
 
-Each Guild stewards its own complete belt system for its archetypal Way. The Way Of The One Body — stewarded by the +1 Guild — awards stripes (dans) on Black Belt for each Guild Black Belt attained. **5th Dan in The Way Of The One Body = Mastery** = Black Belt held in 5 archetypal Ways, witnessed by the Bodies.
+Each Guild stewards its own complete belt system for its archetypal Way. The Way Of The ØNE Body — stewarded by [[The Ø Guild]] — awards stripes (dans) on Black Belt for each Guild Black Belt attained. **5th Dan in The Way Of The ØNE Body = Mastery** = Black Belt held in 5 archetypal Ways, witnessed by the Bodies.
 
 See [[The LIØNSBERG Belt System]] for the architecture of belts, recognition mechanics, and dan progression.
 
@@ -179,7 +179,7 @@ _Current best articulation of the specific thresholds within each Movement. Prov
 66. Operating Across All Scales — Circle to Cosmos held simultaneously without strain
 67. Siddhic Capacities Ripe — cultivation flowering into the abilities
 68. The Cosmic Vantage Held — viewing from as close to the perspective of ØNE as one embodied Sovereign can hold
-69. Mastery Recognized — 5th Dan in The Way Of The One Body; Black Belts in five archetypal Ways witnessed by the Bodies
+69. Mastery Recognized — 5th Dan in The Way Of The ØNE Body; Black Belts in five archetypal Ways witnessed by the Bodies
 70. The Master As Threshold-Holder — the one through whom the next initiates pass
 71. The Sovereign As Conscious Instrument Of The Divine In Cosmic Operation
 72. The Continuing Work — Mastery as doorway into the actual cosmic exploration. Without end.
@@ -188,8 +188,8 @@ _Current best articulation of the specific thresholds within each Movement. Prov
 
 ## Related
 
-- [[The Way Of The One Body]] — the universal +1 Path; foundation upon which the Sacred Ascent rises
-- [[The 144 Gates of Initiation]] — the cultivation of The Way Of The One Body; Blue Belt foundation
+- [[The Way Of The ØNE Body]] — the universal +1 Path; foundation upon which the Sacred Ascent rises
+- [[The 144 Gates of Initiation]] — the cultivation of The Way Of The ØNE Body; Blue Belt foundation
 - [[The Sovereign Path]] — the wider arc; the Sacred Ascent is Stage 9
 - [[The LIØNSBERG Pattern Language]] — the Patterns invoked within Sacred Ascent cultivation
 - [[The LIØNSBERG Sacred Codex]] — the Sacred Ascent as Volume X

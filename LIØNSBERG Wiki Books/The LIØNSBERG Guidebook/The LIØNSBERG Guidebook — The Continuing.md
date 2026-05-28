@@ -2,7 +2,7 @@
 
 _Sacred Ascent · Pass The Flame · For The Long Road · The Guild Guidebooks That Follow_
 
-There is a moment in the Progress — sometimes years in, sometimes sooner — when the foundational arc of [[The 144 Gates of Initiation]] is recognized as complete in you. Blue Belt in [[The Way Of The One Body]] is witnessed. You stand as a fully participating integrated member of the wider Body.
+There is a moment in the Progress — sometimes years in, sometimes sooner — when the foundational arc of [[The 144 Gates of Initiation]] is recognized as complete in you. Blue Belt in [[The Way Of The ØNE Body]] is witnessed. You stand as a fully participating integrated member of the wider Body.
 
 And then a new thing opens.
 
@@ -22,7 +22,7 @@ Three things to know about the Sacred Ascent:
 
 **It has both interior and Guild-specific dimensions.** The Sacred Ascent's 72 Gates are organized as three interior cultivations every Sovereign walks (The Deepening Ground, The Development of Spirit and Consciousness, The Embodied Instrument) plus five archetypal Ways the Sovereign cultivates through their chosen Guilds (Sacred Force · Healing · Philosophy · the Word · Creativity), plus one integration (Divine Cosmic Embodiment).
 
-**The companion shifts.** This Guidebook companions The Way Of The One Body. When you enter the Sacred Ascent, the Guild Guidebooks of the Ways you are called to walk alongside this Guidebook. You do not set this Guidebook down; you add to it.
+**The companion shifts.** This Guidebook companions The Way Of The ØNE Body. When you enter the Sacred Ascent, the Guild Guidebooks of the Ways you are called to walk alongside this Guidebook. You do not set this Guidebook down; you add to it.
 
 For the full architecture of the Sacred Ascent, see [[The Sacred Ascent]].
 
@@ -99,7 +99,7 @@ This Guidebook stays the universal companion regardless. The Guild Guidebooks ad
 
 Eventually — for those who go that far — the foundational arc closes and the longer one opens.
 
-Mastery is recognized at 5th Dan in The Way Of The One Body — Black Belt across five archetypal Guild-Ways. Witnessed by the Bodies. The threshold marks not arrival but **the real beginning** — the doorway into the actual cosmic exploration that the cultivation built the instrument for.
+Mastery is recognized at 5th Dan in The Way Of The ØNE Body — Black Belt across five archetypal Guild-Ways. Witnessed by the Bodies. The threshold marks not arrival but **the real beginning** — the doorway into the actual cosmic exploration that the cultivation built the instrument for.
 
 Beyond Mastery: [[The Eternal Divine Play]]. The Game that does not end. The Story that keeps growing. New worlds receiving the Seed. The ØNE and All continuing their dance.
 

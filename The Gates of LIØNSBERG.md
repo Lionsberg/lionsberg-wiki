@@ -12,9 +12,9 @@ It is a Kingdom of Sovereigns forged across worlds and ages — alive across the
 
 The Gates of LIØNSBERG are the first crossing. Three further gate-systems wait beyond them for those who walk on.
 
-**[[The 144 Gates of Initiation]]** — the universal Path every Sovereign walks. The Way from the Old World to the New. Cultivation of [[The Way Of The One Body]]. Twelve Movements, twelve Gates each — walked at all scales (Self · Circle · Community · Bioregion · Earth · Cosmos). Blue Belt in The Way Of The One Body is recognized at the close of Movement 8. The species-scale Great ReFounding completes when the last cohort crosses. Then comes the Greatest Jubilee. Then the millennia of Heaven. Then the Eternal Divine Play.
+**[[The 144 Gates of Initiation]]** — the universal Path every Sovereign walks. The Way from the Old World to the New. Cultivation of [[The Way Of The ØNE Body]]. Twelve Movements, twelve Gates each — walked at all scales (Self · Circle · Community · Bioregion · Earth · Cosmos). Blue Belt in The Way Of The ØNE Body is recognized at the close of Movement 8. The species-scale Great ReFounding completes when the last cohort crosses. Then comes the Greatest Jubilee. Then the millennia of Heaven. Then the Eternal Divine Play.
 
-**The 72 Gates Of [[The Sacred Ascent]]** — the lifetime arc beyond Blue Belt. The deepening interior cultivations and the archetypal Ways stewarded by each Guild. Mastery is recognized at 5th Dan in The Way Of The One Body — Black Belt in five archetypal Ways witnessed by the Bodies.
+**The 72 Gates Of [[The Sacred Ascent]]** — the lifetime arc beyond Blue Belt. The deepening interior cultivations and the archetypal Ways stewarded by each Guild. Mastery is recognized at 5th Dan in The Way Of The ØNE Body — Black Belt in five archetypal Ways witnessed by the Bodies.
 
 **The Infinite Gates Of The Eternal Divine Play** — what continues after Mastery. The cosmic exploration that the Sacred Ascent built the instrument for. The Game without end. The Story growing forever. New worlds receiving the Seed. The ØNE and All continuing their dance.
 
@@ -27,7 +27,7 @@ To cross The Gates of LIØNSBERG is to:
 - Recognize you are not alone — Sovereigns are awakening across Earth and across worlds
 - Begin to articulate your own Yes
 - Find or form your Circle — the 3–13 with whom you will walk
-- Step onto [[The Way Of The One Body]]
+- Step onto [[The Way Of The ØNE Body]]
 
 The threshold itself is brief. The walk beyond is lifelong. And the walking itself is the Kingdom embodied.
 

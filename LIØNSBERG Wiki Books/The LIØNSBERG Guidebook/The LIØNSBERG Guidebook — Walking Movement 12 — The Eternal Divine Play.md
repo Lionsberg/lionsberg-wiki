@@ -4,7 +4,7 @@ _Companion chapter for [[The 144 Gates of Initiation|Movement 12]] — Gates 133
 
 We arrive at the cosmic close of the foundational arc.
 
-This is the Movement of recognition that the Path you have walked is one Chapter of an Eternal Game that does not end. The Game continues across worlds, across millennia, across lifetimes. The Sovereign who has walked the previous eleven Movements crosses into this awareness — and at the close of this Movement, Blue Belt in [[The Way Of The One Body]] is recognized.
+This is the Movement of recognition that the Path you have walked is one Chapter of an Eternal Game that does not end. The Game continues across worlds, across millennia, across lifetimes. The Sovereign who has walked the previous eleven Movements crosses into this awareness — and at the close of this Movement, Blue Belt in [[The Way Of The ØNE Body]] is recognized.
 
 The Sovereign now stands as fully participating integrated member of the ØNE LIØNSBERG Body, having walked the full conceptual arc through cosmic continuation. The Sacred Ascent of a lifetime now opens. The walking never ends.
 
@@ -22,7 +22,7 @@ The Sovereign now stands as fully participating integrated member of the ØNE LI
 140. **The Cycle Of Cosmic Co-Creation Continuing** — Source → InterOperation → Local → Integration → Evolution → Return
 141. **The ØNE And All Continuing Their Dance** — the eternal play between unmanifest and manifest
 142. **The Map Refining Forever** — toward the Absolute, which can never be reached, only approached more truly
-143. **Blue Belt In The Way Of The One Body Recognized** — the Sovereign stands as fully participating integrated member of the LIØNSBERG Body
+143. **Blue Belt In The Way Of The ØNE Body Recognized** — the Sovereign stands as fully participating integrated member of the LIØNSBERG Body
 144. **The Eternal Divine Play — The Game Continues. Without End. Without Beginning. Without Limit.**
 
 ---
@@ -63,7 +63,7 @@ Stay in service of ØNE and All. This is the orientation that holds across All f
 
 ## What To Reach For
 
-[[The Eternal Divine Play]] for the next articulation. [[The LIØNSBERG Cycle of Cosmic Co-Creation]] for the cycle the Play runs through across realms and worlds. [[The Cosmic Sovereign Superorganism Already Operating]] for the wider Body. [[The Holarchy of the ØNE]] for the nested architecture. [[ØNE]] — the only canonized referent. [[The Way Of The One Body]] for what Blue Belt at the close of this Movement recognizes you within.
+[[The Eternal Divine Play]] for the next articulation. [[The LIØNSBERG Cycle of Cosmic Co-Creation]] for the cycle the Play runs through across realms and worlds. [[The Cosmic Sovereign Superorganism Already Operating]] for the wider Body. [[The Holarchy of the ØNE]] for the nested architecture. [[ØNE]] — the only canonized referent. [[The Way Of The ØNE Body]] for what Blue Belt at the close of this Movement recognizes you within.
 
 ---
 
@@ -83,7 +83,7 @@ Stay in service of ØNE and All. This is the orientation that holds across All f
 
 The foundational arc with it.
 
-Blue Belt in The Way Of The One Body is recognized. You stand as fully participating integrated member of the LIØNSBERG Body.
+Blue Belt in The Way Of The ØNE Body is recognized. You stand as fully participating integrated member of the LIØNSBERG Body.
 
 The next chapter that walks beside you is [[The LIØNSBERG Guidebook — Walking The Sacred Ascent|Walking The Sacred Ascent]] — the lifetime arc that bridges into the Eternal Divine Play in lived participation.
 

@@ -26,7 +26,7 @@ The Path is long. The Journey is already underway. **The Mountain is higher than
 
 ## What This Guidebook Is
 
-The Guidebook is **the universal field-guide companion** for any Sovereign on [[The Way Of The One Body]] — the +1 Path that every member of the Body learns regardless of which archetypal Guilds call them.
+The Guidebook is **the universal field-guide companion** for any Sovereign on [[The Way Of The ØNE Body]] — the +1 Path that every member of the Body learns regardless of which archetypal Guilds call them.
 
 It companions [[The 12 Stages of the Sovereign's Path|the full twelve Stages]] of [[The LIØNSBERG Experience|the Sovereign's Experience]] — from **Discovery** through **Threshold** and the early gathering, through the deep cultivation of **the 144 Gates**, through **the Sacred Ascent** of a lifetime, through **Convergence** of the wider Body, through **Covenant and Jubilee**, and into **the Eternal Divine Play** that continues across worlds and ages without end. The Path does not end at any of these markers. The Guidebook stays beside you the whole arc.
 
@@ -65,7 +65,7 @@ The cosmic context. Where you come from, where you are going. What it means to s
 Discovery through the first weeks of Circle practice. What to expect from the first Breath of something New coming alive, through the sustained Weekly Heartbeat of its ongoing existence.
 
 **Part III — The 144 Gates** _(Stage 8 · twelve Movements · the deep foundational Path)_
-The cultivation of [[The Way Of The One Body]]. The bulk of the Guidebook — one chapter per Movement of [[The 144 Gates of Initiation]]. As you cross each Movement, the corresponding chapter stays beside you. Twelve Movements unfold: Awakening · UnVeiling · Cry / Call · Crossing · Wilderness · ReLearning · ReMembering · ReBuilding · ReFounding · Jubilee · Co-Creating Heaven Over Millennia · Eternal Divine Play. Blue Belt in The Way is recognized at the close of Movement 12, when the Sovereign stands ready to embody the full experiential arc.
+The cultivation of [[The Way Of The ØNE Body]]. The bulk of the Guidebook — one chapter per Movement of [[The 144 Gates of Initiation]]. As you cross each Movement, the corresponding chapter stays beside you. Twelve Movements unfold: Awakening · UnVeiling · Cry / Call · Crossing · Wilderness · ReLearning · ReMembering · ReBuilding · ReFounding · Jubilee · Co-Creating Heaven Over Millennia · Eternal Divine Play. Blue Belt in The Way is recognized at the close of Movement 12, when the Sovereign stands ready to embody the full experiential arc.
 
 **Part IV — The Sacred Ascent** _(Stage 11 and into Stage 12 · the lifetime arc)_
 What opens after the 144 Gates. The interior cultivations and the archetypal Ways stewarded by each Guild. The deepening that continues over lifetimes — and the lived participation in Convergence, the species-wide Jubilee, and the Eternal Divine Play that the 144 Gates have already prepared you to recognize and ascend through.
@@ -87,7 +87,7 @@ What you do with this offering is yours. The journeying of each One of the Ones 
 
 The Guidebook fits within a wider architecture of companions:
 
-- **This Guidebook** — the universal field guide for [[The Way Of The One Body]]. Every Sovereign carries this one through The Wilderness.
+- **This Guidebook** — the universal field guide for [[The Way Of The ØNE Body]]. Every Sovereign carries this one through The Wilderness.
 - **The Guild Guidebooks** — each archetypal Guild stewards its own non-redundant Guidebook for its specific Way  
   - [[The Sacred Warrior Guidebook]] 
   - And the others as the full Guild architecture comes into being through [[The First Three Percent]]  
@@ -157,7 +157,7 @@ The Path continues. The Journey continues across this lifetime and beyond. The P
 
 ## Related
 
-- [[The Way Of The One Body]] — what this Guidebook companions
+- [[The Way Of The ØNE Body]] — what this Guidebook companions
 - [[The LIØNSBERG Experience]] — the 12-Stage Sovereign's Path the Guidebook walks beside
 - [[The 12 Stages of the Sovereign's Path]] — the archetypal arc
 - [[The 144 Gates of Initiation]] — the foundational walk at the heart of the Path

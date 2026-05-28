@@ -20,7 +20,7 @@ The Function is cosmic-grade by design. The 144 Gates, The Story, The Pattern La
 
 - [[The Story of LIØNSBERG]] — the narrative carrying the Function
 - [[The 144 Gates of Initiation]] — the embodied walking of the Function
-- [[The Way Of The One Body]] — the universal Path the Function cultivates
+- [[The Way Of The ØNE Body]] — the universal Path the Function cultivates
 - [[The LIØNSBERG Pattern Language]] — the grammar through which the Function operates
 - [[What LIØNSBERG Is]] — the wider articulation within which the Function sits
 - [[Essences, Renderings, And Ineffable Referents]] — how this articulation relates to the ineffable

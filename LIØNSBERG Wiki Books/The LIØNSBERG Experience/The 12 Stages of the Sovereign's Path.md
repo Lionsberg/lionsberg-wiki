@@ -129,7 +129,7 @@ The seventh seal opens onto the eighth day.
 
 With the species threshold crossed and Heaven embodied at scale, [[The Sacred Ascent]] continues without end as the lifetime cultivation of every Sovereign now operating within the New. The 72-Gate spiral of embodied mastery. Spirit, body, mind, craft. Martial, yogic, healing, contemplative, philosophical, creative, and word-bearing arts converge into one living synthesis.
 
-The Sovereign learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks. Mastery is recognized at 5th Dan in [[The Way Of The One Body]] — the doorway, not the destination.
+The Sovereign learns to move as an instrument of [[ØNE]] — to wield energy, thought, and will in harmony with Creation. This is the Path of the Masters. [[The Daily Way|The Daily Way's Mastery tier]] is its foothills; the Sacred Ascent is its high peaks. Mastery is recognized at 5th Dan in [[The Way Of The ØNE Body]] — the doorway, not the destination.
 
 The Sacred Ascent leads directly into Stage 12 — the Eternal Divine Play that the cultivation has built the instrument to participate in.
 

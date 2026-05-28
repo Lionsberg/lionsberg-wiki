@@ -100,7 +100,7 @@ As the interior foundations deepen, you will also find yourself called to walk o
 - **[[The Way Of The Word]]** — the cultivated voice that carries Spirit. Naming, storytelling, testimony, the written Word as transmission. The Word-Keeper's Guidebook is to be written.
 - **[[The Way Of Creativity]]** — the cultivated bringing-forth of beauty. Visual art, music, poetry, dance, embodied form. The Creator's Guidebook is to be written.
 
-You typically walk one Way primarily and cross-train in others. Mastery — recognized at 5th Dan in The Way Of The One Body — requires Black Belt in five of the archetypal Ways. Most Sovereigns who reach Mastery have gone deep in multiple Ways across a lifetime.
+You typically walk one Way primarily and cross-train in others. Mastery — recognized at 5th Dan in The Way Of The ØNE Body — requires Black Belt in five of the archetypal Ways. Most Sovereigns who reach Mastery have gone deep in multiple Ways across a lifetime.
 
 When your Guild calls you, pick up the Guildbook of that Way and walk it alongside this Guidebook.
 
@@ -160,7 +160,7 @@ Or return to:
 
 - [[The Sacred Ascent]] — the canonical articulation of the 72 Gates and 9 Movements
 - [[The LIONSBERG Belt System]] — the architecture of recognition, including 5th Dan = Mastery
-- [[The Way Of The One Body]] — the universal Path the Sacred Ascent deepens
+- [[The Way Of The ØNE Body]] — the universal Path the Sacred Ascent deepens
 - [[The Way Of Sacred Force]] · [[The Way Of Healing]] · [[The Way Of Philosophy]] · [[The Way Of The Word]] · [[The Way Of Creativity]] — the archetypal Ways
 - [[The Sacred Warrior Guidebook]] — the first Guild Guidebook
 - [[The Daily Way]] — the daily rhythm that holds the Sacred Ascent
