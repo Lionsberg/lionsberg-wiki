@@ -127,8 +127,6 @@ Once formed, the architecture had to hold.
 
 This is the work that fell to the Keepers, in their various offices and forms. The architecture did not maintain itself. It required functionaries — beings whose vocation, generation after generation, was to keep the walls where the walls were. To repair them when they cracked. To extend them when they could be extended. To respond to threat with a particular set of tools that had been refined across the long ages of the capture.
 
-The next chapter tells of these.
-
 For now, the architecture stands. The people inside it call it home. The Sky is the ceiling. The Source is hidden. The Light still pours, though most of those it pours through cannot recognize it as Light.
 
 A Cave has formed around a people.
