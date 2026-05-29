@@ -152,7 +152,7 @@ The Old still exists. The Old still pushes. But the Old no longer holds the Sove
 
 They are inside the Wilderness.
 
-The Wilderness has its own trials. Part XII will name them. The Sovereign will meet them too.
+The Wilderness has its own trials. The Sovereign will meet them too.
 
 For Nøw the Sovereign stands at the edge of the Old, looking back at the country they have left, and forward at the country they have entered. The Circle stands with them. The Pillar moves ahead. The wider cosmic Body witnesses the crossing of one more Sovereign across the boundary that the wider Meta Project exists to help the awakening cross.
 

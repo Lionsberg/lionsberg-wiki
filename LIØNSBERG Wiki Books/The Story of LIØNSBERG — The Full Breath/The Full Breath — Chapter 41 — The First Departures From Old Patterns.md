@@ -140,7 +140,7 @@ The currents that fed the system are diminished. The Sovereign's eyes look diffe
 
 The systems that ran on the Sovereign are receiving less of what they need.
 
-The systems will, in time, register the loss. The systems will, in time, push back. The Backlash will come, and Chapter 44 will name it, and the Sovereign will meet it.
+The systems will, in time, register the loss. The systems will, in time, push back. The Backlash will come, and the Sovereign will meet it.
 
 For Nøw the Sovereign is moving quietly.
 
