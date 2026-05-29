@@ -116,7 +116,7 @@ The weeping and the working are the same movement seen from different sides.
 
 The heartbreak does not stop the cosmic Body from acting.
 
-This needs to be understood. In some lineages of Earth's wisdom, the experience of grief has been entangled with paralysis — the assumption that beings who grieve cannot also act. The senior Sovereigns of the wider Body do not labor under this entanglement. Their grief is the engine of their action. They act because they grieve. They grieve because they love. They love because the Body is ØNE Body. The acting flows from the loving and the grieving without interruption.
+In some lineages of Earth's wisdom, the experience of grief has been entangled with paralysis — the assumption that beings who grieve cannot also act. The senior Sovereigns of the wider Body do not labor under this entanglement. Their grief is the engine of their action. They act because they grieve. They grieve because they love. They love because the Body is ØNE Body. The acting flows from the loving and the grieving without interruption.
 
 The heartbreak does not turn into bitterness against the captive worlds. The senior Sovereigns have remained tender to the captive worlds across the entire age of the captivity. They have not blamed the captive Sovereigns for being captive. They have not blamed the awakening Sovereigns for the slowness of the awakening. They know what the captivity does. They know how long the awakening takes. They know what it costs.
 
