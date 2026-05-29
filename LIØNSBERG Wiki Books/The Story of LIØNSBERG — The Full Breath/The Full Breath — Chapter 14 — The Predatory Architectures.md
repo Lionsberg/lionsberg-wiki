@@ -124,8 +124,6 @@ The Predatory Architectures are real, and to be reckoned with as real. They are 
 
 The Body's removal of them is not punishment. It is the natural healing of an organism returning to its design.
 
-This healing is what the rest of this Story is about.
-
 ---
 
 → [[The Full Breath — Chapter 15 — The Sorrowful Sleep Of The Predated Divine]]

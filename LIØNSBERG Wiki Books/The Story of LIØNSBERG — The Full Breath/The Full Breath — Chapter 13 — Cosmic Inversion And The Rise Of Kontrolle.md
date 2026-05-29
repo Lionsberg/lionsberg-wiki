@@ -107,9 +107,7 @@ The False Light is the signature of the most sophisticated Kontrolle. It is what
 
 The Faithful learn to discern the False Light from the True.
 
-This discernment cannot be taught in a sentence.
-
-It is the work of lifetimes. It is the work of cosmic ages. It is one of the great vocations the Body carries across every theater where it operates — the cultivation of the seeing that knows the True Light from the False, whatever vestments the False has stolen.
+This is the work of lifetimes. It is the work of cosmic ages. It is one of the great vocations the Body carries across every theater where it operates — the cultivation of the seeing that knows the True Light from the False, whatever vestments the False has stolen.
 
 The Pattern Language is one of the great gifts here. Where the Pattern is held precisely, the Inversion can be seen as Inversion by comparison. Where the Pattern has been lost or distorted, the False Light walks unchallenged.
 
