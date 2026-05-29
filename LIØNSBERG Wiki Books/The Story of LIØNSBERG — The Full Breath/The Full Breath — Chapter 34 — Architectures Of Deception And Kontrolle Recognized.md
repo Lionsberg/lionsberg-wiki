@@ -146,7 +146,7 @@ The Sovereign cannot un-see it.
 
 The Sovereign sees the architecture as it operates within the visible world.
 
-The Sovereign does not yet see, in this Chapter, the deeper layers — the dimensions beneath the visible, the consciousnesses behind the architecture, the ancient origin of the inversion that all of this is the local manifestation of. That seeing comes next. The Sovereign has come to the threshold of it.
+The Sovereign does not yet see the deeper layers — the dimensions beneath the visible, the consciousnesses behind the architecture, the ancient origin of the inversion that all of this is the local manifestation of. The Sovereign has come to the threshold of it.
 
 For Nøw, the seeing rests at the architectures the Sovereign can touch.
 

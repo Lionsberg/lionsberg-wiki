@@ -118,7 +118,7 @@ What was done at the level of the self was done at the level of the family was d
 
 The pattern is holofractal. The lie operates at every scale at once.
 
-The Sovereign does not yet see, in this Chapter, the cosmic root of the pattern. The cosmic root will come later, and the Sovereign will feel the same recognition deepen another order. For Nøw, the seeing stops at the architectures of the world the Sovereign can touch.
+The Sovereign does not yet see the cosmic root of the pattern. For Nøw, the seeing stops at the architectures of the world the Sovereign can touch.
 
 But the foundation has been broken.
 

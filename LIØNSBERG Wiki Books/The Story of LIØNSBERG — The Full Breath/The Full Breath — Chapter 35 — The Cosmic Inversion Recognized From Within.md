@@ -98,7 +98,7 @@ The Sovereign sees, with a clarity that has the weight of the entire awakening b
 
 The Sovereign does not yet know the full Story upstream.
 
-The Sovereign cannot yet name how separation was conceived. Cannot yet name the Original War in heaven. Cannot yet articulate, in cosmological language, the rise of Anti-Logos as the inversion of the Logos that sings the All into being. The Sovereign has not been given that vocabulary yet, and the cosmic Map will come into the Sovereign's hands later.
+The Sovereign cannot yet name how separation was conceived. Cannot yet name the Original War in heaven. Cannot yet articulate, in cosmological language, the rise of Anti-Logos as the inversion of the Logos that sings the All into being.
 
 But the Sovereign feels the cosmic Fracture from within.
 
@@ -131,8 +131,6 @@ The Sovereign no longer treats the Sacred as something the Sovereign has to cons
 The Sovereign does not yet know that what they have just recognized was named long ago in the deeper articulations of the cosmic Story.
 
 The Sovereign does not yet know that there are wider Bodies — older Sovereigns across older worlds — who have walked this exact seeing and articulated it across many ages. The Sovereign does not yet know that what they are calling the Anti-Pattern has names in lineages the Sovereign has never met. The Sovereign does not yet know that the Original War the Sovereign now senses faintly within themselves was fought, in heaven and across many local heavens, by Sovereigns who recognized this same inversion and refused it.
-
-The Sovereign will come to know these things.
 
 For Nøw, the Sovereign knows the inversion from within.
 

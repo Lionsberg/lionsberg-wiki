@@ -155,13 +155,13 @@ The Sovereign is not yet free.
 
 The Sovereign is not yet gathered with others into a Circle that can hold the seeing across time.
 
-The Sovereign has not yet made the Decision in its full form — the Decision that will be the next Movement's work. The Sovereign has not yet crossed the boundary outwardly. The Sovereign still lives, for Nøw, inside the architectures the Sovereign has named.
+The Sovereign has not yet made the Decision in its full form. The Sovereign has not yet crossed the boundary outwardly. The Sovereign still lives, for Nøw, inside the architectures the Sovereign has named.
 
 But the seeing has matured into a faculty.
 
 The faculty cannot be taken back.
 
-The architecture's hold on the Sovereign's perception is broken. What remains for the architecture to use is the Sovereign's habits, the Sovereign's dependencies, the Sovereign's fears, the Sovereign's relationships — and the architecture will use all of them. The work of the next Movements is to meet that use, refuse it, and begin to walk out.
+The architecture's hold on the Sovereign's perception is broken. What remains for the architecture to use is the Sovereign's habits, the Sovereign's dependencies, the Sovereign's fears, the Sovereign's relationships — and the architecture will use all of them. The work ahead is to meet that use, refuse it, and begin to walk out.
 
 The Sovereign's heart, having seen all of this, will not allow the Sovereign to remain unchanged.
 
