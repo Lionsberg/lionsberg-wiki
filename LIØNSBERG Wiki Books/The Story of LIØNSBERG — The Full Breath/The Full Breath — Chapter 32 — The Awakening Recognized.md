@@ -153,8 +153,6 @@ The Sovereign is, however, the only being who can walk this exact Chapter in thi
 
 The walking begins now in earnest.
 
-The next Movement waits.
-
 ---
 
 → [[The Full Breath — Chapter 33 — The Lies Within Self, Family, Society]]
