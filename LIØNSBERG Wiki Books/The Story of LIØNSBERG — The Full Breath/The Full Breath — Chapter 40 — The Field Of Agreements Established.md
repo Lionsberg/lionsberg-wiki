@@ -150,8 +150,6 @@ They breathe.
 
 _So — what is our Daily Way?_
 
-The next Movement waits.
-
 The first Departures are near.
 
 The boundary stands ahead.

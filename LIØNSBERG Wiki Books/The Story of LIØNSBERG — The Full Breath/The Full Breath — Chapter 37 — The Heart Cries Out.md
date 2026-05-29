@@ -128,8 +128,6 @@ The Decision follows.
 
 The Sovereign, in the depth of the crying, is held.
 
-This must be said.
-
 There is a temptation to mistake the cry for collapse. The architectures of the Caves, when they sense an awakening Sovereign breaking open, prefer that the Sovereign read their own grief as breakdown — as a sign of weakness, of mental disorder, of insufficient adjustment to "reality." The architectures want the Sovereign to medicate the grief, to distract from the rage, to numb the love, to return to manageable functioning.
 
 The Sovereign feels this pressure.
