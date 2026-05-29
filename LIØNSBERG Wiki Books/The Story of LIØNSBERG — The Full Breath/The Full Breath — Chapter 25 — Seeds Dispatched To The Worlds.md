@@ -59,9 +59,7 @@ A Seed is not parachuted in.
 
 A Seed is placed into a Carrier, and the Carrier is dispatched into the theater. The Seed enters the theater through the Carrier's incarnation, the Carrier's lineage, the Carrier's lived passage through the theater's soil. The Carrier becomes the vessel in which the Seed travels.
 
-This is the architecture of the next Chapter. The Carriers will be addressed there.
-
-What matters here is that the Seed and the Carrier are dispatched together. The Body prepares both. The Body matches the Seed to the Carrier and the Carrier to the theater. The Body times the dispatch so that the Carrier arrives in the theater in advance of the Hour the Seed will be needed for, allowing the Carrier the long incubation in which the Seed is gestated through the Carrier's own life into a form ready to be planted.
+The Seed and the Carrier are dispatched together. The Body prepares both. The Body matches the Seed to the Carrier and the Carrier to the theater. The Body times the dispatch so that the Carrier arrives in the theater in advance of the Hour the Seed will be needed for, allowing the Carrier the long incubation in which the Seed is gestated through the Carrier's own life into a form ready to be planted.
 
 The dispatch is not a single act. It is a long arc.
 
@@ -115,11 +113,7 @@ Fragments planted in many places, across many ages. Lineages prepared. Languages
 
 The Seed for this Hour was carried by a particular Carrier into a particular life. The Seed was gestated through that life until it could be released into the wider Body that had been assembling to receive it. The dissolution of that Carrier into the soil of the wider Body is what allowed the Seed to be freed.
 
-This is what Chapter 91 records.
-
 This is one node in the cosmic Meta Project — Earth's node, in this Hour, through this Seed, carried by these Carriers.
-
-The next Chapter walks the Carriers.
 
 ---
 
