@@ -12,6 +12,7 @@ Pragmatics
 - Bank Account 
 - Platform 
 - Program Management Dashboard  
+- Invitation and Request For Guidance  
 
 ___
 
@@ -48,7 +49,7 @@ Where we left off:
 - [x] New theme does not seem to be properly rendering italics - noticed on homepage. 
 - [ ] Publish the invitation and request for guidance... 1042  
 	- [ ] Possibly including guidance on place / build or join
-- [ ] Heaven Here and Nøw
+- [x] Heaven Here and Nøw
 - [ ] Figure out the software / ERP to run it all (Open Impact + Open Collective + ? )  
 - [ ] Easy way to adopt / adapt sign the agreements and join (Open Impact or DAO framework) - legally sound SPVs... 
 - [ ] The Story of LIØNSBERG is next big creative task... 
