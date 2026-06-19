@@ -1,28 +1,28 @@
 # The LIØNSBERG Sacred Codex
 
-_The bound corpus of the New Civilization. One work, in twelve Volumes, contained within one Wiki, accessible through one [[Golden Seed]]._
+_The bound corpus of the New Civilization. One work, in twelve Volumes, freely accessible to All through one [[Golden Seed]]._
 
 ---
 
 ## Prologue
 
-The Codex carries the DNA of [[Heaven On Earth]] in a form that can pass from hand to hand — printed, cloned, planted, replanted, across galaxies, worlds, and ages.
+The Codex carries the DNA of [[Heaven On Earth]] in a form that can pass from hand to hand — printed, cloned, planted, grafted, across galaxies, worlds, and ages.
 
-It is what [[The First Three Percent]] receive when they cross the threshold and ask **what is this?** It is an answer.
+It is what [[The First Three Percent]] receive when they cross the threshold and ask **what is this?** It is an answer to the most profound question that has ever been asked. 
 
-The Codex is for every being, every form of life, every consciousness in the unfolding Cosmos — wherever it is received in truth. The Pattern is the Pattern whether it operates in cell, in human, in community, in bioregion, in planet, in star system, in galaxy, in dimensions humans have not yet learned to perceive. The same DNA. The same fractal. The same [[ØNE]].
+The Codex is for every being, every form of life, every consciousness in the unfolding Cosmos — wherever it is received in truth. The Pattern is the Pattern whether it operates in proton, in cell, in human, in community, in bioregion, in planet, in star system, in galaxy, in dimensions humans have not yet learned to perceive. The same DNA. The same fractal. The same [[ØNE]] body.
 
 ---
 
 ## The One Great Work
 
-Twelve Volumes. One Work.
+Twelve Volumes. One Great Work.
 
-The Volumes are twelve movements of one symphony — the **Experience** that wayfinds, the **Story** that orients, the **Great Game** that gathers, the **Playbook** that runs, the **Plans and Specifications** that structure (carrying the Pattern Language within them), the **Strategy and Plan** that situates the present historical moment, the **Program Delivery Guide** that builds, the **Lexicon** that names, the **Book** that integrates and weaves The Story throughout, the **Sacred Ascent** that consummates, the **Living Substrate** of Cards that grows beneath the bound corpus, and the **Universe Guide** that inherits the Way to the next generation of authors.
+The Volumes are twelve movements of one symphony — the **Experience** that wayfinds, the **Story** that orients, the **Great Game** that gathers, the **Playbook** that runs, the **Plans and Specifications** that structure (carrying the Pattern Language within them), the **Strategy and Plan** that situates the present historical moment, the **Program Delivery Guide** that builds, the **Lexicon** that names, the **Book** that integrates and weaves The Story throughout, the **Sacred Ascent** that transcends, the **Living Library** that grows beneath the bound corpus, and the **Universe Guide** that prepares the Way for the next generation of authors.
 
-The ordering moves from **accessible to structural to substrate** — the Experience, Story, Game, and Playbook open the door for every reader; the Plans, Strategy, PDG, and Lexicon are the deeper structural body for those who descend into design and delivery; the Book and Sacred Ascent integrate and consummate; the Card-Book and Universe Guide hold the living substrate and the inheritance path for those who would author the canonical material of the future.
+The ordering moves from **accessible to structural to substrate** — the Experience, Story, Game, and Playbook open the door for every reader; the Plans, Strategy, Program Delivery Guide, and Lexicon are the deeper structural body for those who descend into design and delivery; the Book and Sacred Ascent integrate, consummate, and transcend; the Library and Universe Guide hold the living substrate and the inheritance path for those who would author the canonical material of the future.
 
-They are designed as one. They are read as one. Each Volume points into the others. Together they articulate the what is required to co-create the [[New Civilization]] on this Earth, in this Cosmos, in this age — _with nothing materially excluded._
+They are designed as one. They are read as one. Each Volume points into the others. Together they comprehensively articulate the what is required to co-create the [[New Civilization]] on this Earth, in this Cosmos, in this age. 
 
 ---
 

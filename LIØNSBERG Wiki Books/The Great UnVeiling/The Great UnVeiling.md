@@ -30,7 +30,7 @@ _A Divine Symphony of Awakening, Revelation, ReMembrance, and Sacred ReUnion_
 
 ---
 
-## **GATE I — THE GREAT REGENESIS**
+## **MOVEMENT I — THE GREAT REGENESIS**
 
 _The Eternal Unity and Original Design_
 
@@ -44,7 +44,7 @@ _The Eternal Unity and Original Design_
 
 ### *[[Gate II Threshold Note - The Edge of the Abyss]]*
 
-## **GATE II — THE GREAT DESCENT**
+## **MOVEMENT II — THE GREAT DESCENT**
 
 _Fracturing into Separation, Illusion, and Kontrolle_
 ### [[Chapter 5 — The Shattering of the Precious Whole]]  
@@ -58,7 +58,7 @@ _Fracturing into Separation, Illusion, and Kontrolle_
 
 ### *[[Gate III Threshold Note — The First Glimmer of a New Dawn]]*
 
-## **GATE III — THE GREAT AWAKENING**
+## **MOVEMENT III — THE GREAT AWAKENING**
 
 _The Soul’s Awakening and Return to the Light_
 
@@ -72,7 +72,7 @@ _The Soul’s Awakening and Return to the Light_
 
 ### [[Gate IV Threshold Note — The Veil Begins to Tear]] 
 
-## **GATE IV — THE GREAT DISCLOSURE**
+## **MOVEMENT IV — THE GREAT DISCLOSURE**
 
 _Tearing the Veil and Exposing the Greatest Fraud, Deception, and Existential Threat in History_  
 
@@ -149,7 +149,7 @@ The Story of LIØNSBERG now begins.
 
 👉 **Continue to: [[The Story of LIØNSBERG]]**
 
-# Unfinished Notes and Chapters
+## Unfinished Notes and Chapters
 
 ### Chapter 17 — The Greatest Fraud in History
 
@@ -252,7 +252,7 @@ _A Direct, Compassionate Transmission from Source_
 - Infuses deep compassion, empathy, hope, and unconditional love into the reader’s heart, preparing them emotionally for action.
     
 
-## **GATE V — THE GREAT RESTORYING**
+## **MOVEMENT V — THE GREAT RESTORYING**
 
 _ReWeaving the True Universal Narrative_
 
@@ -451,7 +451,7 @@ _ReWeaving the True Universal Narrative_
 - _Let there be Light. And the Light was the Word. And the Word was the Way. And the Way was Love. And the ØNE was Love._
     
 
-## **GATE VI: RECLAIMING THE INNER KINGDOM**
+## **MOVEMENT VI: RECLAIMING THE INNER KINGDOM**
 
 _Restoring Our Sacred Sovereignty and Self-Mastery_
 
@@ -500,7 +500,7 @@ _Restoring Our Sacred Sovereignty and Self-Mastery_
 
 
 
-## **GATE VII: THE EMBODIMENT OF THE LIFE DIVINE**
+## **MOVEMENT VII: THE EMBODIMENT OF THE LIFE DIVINE**
 
 _Manifesting the Divine with Every Heartbeat and Breath_
 
@@ -586,7 +586,7 @@ _A Direct, Powerful Transmission from Source_
 - Infuses deep will, intention, purpose, and power into the reader’s heart, preparing them for action.
     
 
-## **GATE VIII — THE EXODUS AND SACRED MARCH**
+## **MOVEMENT VIII — THE EXODUS AND SACRED MARCH**
 
 _The Exodus, the Ascent, and the Path to Heaven on Earth_
 
@@ -638,7 +638,7 @@ _The Exodus, the Ascent, and the Path to Heaven on Earth_
 ### Chapter 48: No One Involuntarily Left Behind 
 
 
-## **GATE IX: THE SACRED BATTLE**
+## **MOVEMENT IX: THE SACRED BATTLE**
 
 _The Final Test of Sovereignty, Courage, and Love_
 
@@ -705,7 +705,7 @@ _The Final Test of Sovereignty, Courage, and Love_
 
 
 
-## **GATE X: ENTERING THE PROMISED LAND**
+## **MOVEMENT X: ENTERING THE PROMISED LAND**
 
 _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 
@@ -764,7 +764,7 @@ _Becoming Who We Must Be to Enter In and Manifest the True Kingdom_
 
 
 ## _Intermezzo IV: The Wisdom of the ONE_
-## **GATE XI: CO-CREATING THE NEW WORLD**
+## **MOVEMENT XI: CO-CREATING THE NEW WORLD**
 
 *The Pragmatic Implementation of Heaven on Earth*
 
@@ -889,7 +889,7 @@ Aligning individual and collective life with the rhythms of Nature, Creation, an
 _The Source, Center, and Unifying Presence of All Pillars and All Life_  
 The Pillars orbit and reflect the Infinite Center from which all Truth, Beauty, and Goodness flow. Without the ØNE, no Pillar stands. With the ØNE, all Pillars are made Whole.
 
-## **GATE XII — THE ETERNAL DIVINE PLAY**
+## **MOVEMENT XII — THE ETERNAL DIVINE PLAY**
 
 _How The Great Game Unfolds Across Realms, Dimensions, and Worlds_
 
@@ -928,7 +928,7 @@ _How The Great Game Unfolds Across Realms, Dimensions, and Worlds_
 - Remembering that there is no Ultimate Authority but ØNE
 
 
-## **GATE XII+1 — THE GREATEST CELEBRATION AND JUBILEE IN HISTORY**
+## **MOVEMENT XII+1 — THE GREATEST CELEBRATION AND JUBILEE IN HISTORY**
 _Debts are Forgiven, Freedoms Restored, and Our Collective Inheritance Reclaimed_
 ### Chapter 81. The Pathway Forward and Milestones that Mark the Way 
 
