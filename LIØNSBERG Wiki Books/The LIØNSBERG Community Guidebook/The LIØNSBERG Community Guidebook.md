@@ -4,15 +4,20 @@
 
 ---
 
-Humanity now faces a meta crisis unlike any in the last 10,000 years. Future generations will look back and ask: 
+Humanity now stands at the crossroads of history. A moment in time that will shape life on Earth for millennia to come.
+
+Future generations will look back and ask:
 
 > _When the crucial moment was upon you, what did you do?_
 
-At this crossroads of history, **LIØNSBERG** rises as a highly improbable answer to that seemingly impossible question — a Way for any local community to forge a free, self-governing local body, and to join with every other in co-creating Heaven On Earth, _one local community at a time._  
+**LIØNSBERG** stands at this juncture, lovingly and freely offering a Way towards the best possible future for All. 
 
-It all begins with forming a **steering committee**, establishing a **legal body** with agency, engaging **the first three percent** of the local population, and undertaking transformative **quests** that make your community and world a better place. The pattern is simple. The important thing is to begin. 
+This guide is intended to help humanity confront and overcome the meta crisis, and co-create Heaven On Earth. _One local community at a time._
 
-> **And you do not begin from scratch, or alone.** The LIØNSBERG System — offered as a free gift to All — reflects lifetimes of work and value already woven. So from the very first day, **every member of every local community holds a stake and a voice in LIØNSBERG as a whole.** No community building in isolation could assemble such a starting point for itself in the time required. That is both the gift and the invitation.
+It all begins with you and a few others you know and trust forming a local **steering committee**, establishing a **legal body** with agency, engaging **the first three percent** of the local population, and undertaking transformative **quests** that make your community and world a better place. The pattern is simple. The important thing is to begin. 
+
+> **And you do not begin from scratch, or alone.** The LIØNSBERG System — offered as a free gift to All — reflects lifetimes of work and value already woven. So from the very first day, **every member of every local community is invited to take up a dynamic stake and voice in LIØNSBERG as a whole.** None of us building in isolation could assemble such a starting point in the time required. That is both the free gift and the invitation to All. 
+
 
 ---
 
