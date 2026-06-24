@@ -9,5 +9,9 @@
 .obsidian/*
 !.obsidian/README.md
 
-# Massive Wiki Builder
-.massivewikibuilder/output/*
+# MarkPub build output
+output/
+.markpub/output/
+
+# Node (lunr index builder)
+node_modules/

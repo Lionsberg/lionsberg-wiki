@@ -1,8 +1,8 @@
 [build]
   ignore = "/bin/false"
-  base = ".massivewikibuilder/massivewikibuilder"
+  base = ".markpub"
   publish = "../output"
-  command = "./mwb.py -c ../mwb.yaml -w ../.. -o ../output -t ../this-wiki-themes/andante --lunr --commits"
+  command = "markpub build -i .. -o ../output --templates ./this-website-themes/andante --lunr --commits"
 
 [build.environment]
-  PYTHON_VERSION = "3.8"
+  PYTHON_VERSION = "3.11"
