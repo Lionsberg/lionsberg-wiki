@@ -12,16 +12,16 @@ Hold this before anything else: **the Way is not taught. It is lived into.** It 
 
 This is why we call it a Game. A Game is learned by playing it. So the heart of onboarding is not a curriculum to complete but an invitation to begin: *here is a Circle, here is real work that matters, here are a few who will play beside you — start today.* No permission is required. No certification gates the door. Understanding arrives as a consequence of who you become while playing, not before.
 
-The Steering Committee's task in this step is therefore not to *instruct* the 300, but to **set up the conditions in which they can learn through embodied action** — to give each new person a Circle, a Quest, and a guide, and then to protect the rhythm and culture that lets transformation happen.
+The Steering Committee's task in this step is therefore not to *instruct* the 300, but to **set up the conditions in which they can learn through embodied action** — to give each new person a **Circle**, a **Quest**, and a **guide**, and then to protect the rhythm and culture that lets transformation happen.
 
 ## The Few Rules of Play
 
 A newcomer does not need to master the whole Pattern on day one. They need a handful of things that let them begin safely and well.
 
 - **The Three Supreme Agreements.** The whole moral compass folds into three: **Love ØNE. Love One Another. Love All.** Simple enough for a child; deep enough to organize a civilization. When a decision is genuinely hard, return here.
-- **The Circle is the unit.** Nobody plays alone. Each person belongs to a Circle of 3–13 (best at 4–7) — a complete, self-governing body with its own [[Field of Agreements]] and its own work. The surest way to fail is to try to cross the wilderness in isolation.
-- **The Quest is the work.** A Circle without a Quest is a conversation. A Circle with a Quest is a force. Every Circle chooses its own — a tangible act of goodwill it can complete this season.
-- **Decisions move by the Rule of Three.** To start something, make a proposal and gain the consent of two others. You do not need permission from above; you need a few who will move with you. (The fuller method is the [[Consent Governance One-Pager]].)
+- **The Circle is the unit.** Nobody plays alone. Each person belongs to a Circle of 3–13 (best at 4–7) — a complete, self-governing body with its own [[Field of Agreements]] and its own work. The surest way to fail is to try to cross the wilderness in isolation. As circles for structure, remember to [[Federate Everything]]. 
+- **The Quest is the work.** A Circle without a Quest is a conversation. A Circle with a Quest is a force. Every Circle chooses its own — a tangible act of goodwill it can complete this season. Quests stack up and align across Circles to the goals of the Community Company as a whole. 
+- **Decisions move by the Rule of Three.** To start something, make a proposal and gain the consent of two others. You do not need permission from above; you need a few who are willing to form a Circle and move with you. (The fuller method is the [[Consent Governance One-Pager]].)
 - **Sovereignty cuts both ways.** There is only ØNE ultimate authority; no one is above or below you. There are no bosses and no safety net. If something is missing or broken and your hands are willing, it is yours to create or mend.
 
 ## Onboarding a New Player
@@ -45,12 +45,9 @@ The Game runs on a living rhythm — daily, weekly, seasonally. Adopt it as-is a
 
 ## The Three-Year Arc
 
-No one is rushed, and there is no graduation ceremony. Formation is the natural arc of a human being transformed in community, and it tends to unfold over about three years:
+Formation is the natural arc of a human being transformed in community. Often, it takes about three years before individuals truly feel a true deep sense of belonging, empowerment, contribution, and sovereignty in a new environment. 
 
-- **Year One — Orientation and Belonging.** Find your Circle, learn the rhythms, complete first Quests, discover where you fit. The world inside you begins to reorganize around the new Pattern.
-- **Year Two — Deepening and Contribution.** Enthusiasm matures into steady commitment. You take on more, your gifts become visible, and you begin mentoring those who arrive after you. The Pattern is no longer something you practice — it is something you *are.*
-- **Year Three — Sovereignty and Replication.** Self-governing and self-sustaining, you begin forming new Circles and leading Quests of your own — which carries you naturally into **[[Step 5 — Engaging the Community and Passing the Flame]]**.
-
+The development arc carries each individual and circle naturally into **[[Step 5 — Engaging the Community and Passing the Flame]]** at their own pace. 
 
 ## What Success Looks Like
 
@@ -80,12 +77,6 @@ When your people are playing — deciding, building, mending, inviting — witho
 - **[[Issues & Tensions]]** — surface every friction, then solve it together
 - **[[Our Core Ways]]** — write the vital few processes; followed by all, improved forever
 - **[[The Rhythm of Gatherings]]** — the meeting pulse that holds it all, daily to yearly
-
-## Going Deeper
-
-- [[The LIØNSBERG Experience]] — the living onboarding journey
-- [[LIØNSBERG Orientation and Training System]] — the curriculum to adopt and localize
-- [[Pass The Flame]] — how transmission actually works
 
 ---
 

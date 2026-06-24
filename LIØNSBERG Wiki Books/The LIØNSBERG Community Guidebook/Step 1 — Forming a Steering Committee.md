@@ -8,15 +8,15 @@
 
 ## Why a Steering Committee First
 
-A community of 10,000 cannot found anything. Ten thousand people are a population, not a body. *Someone* has to begin — to hold the space, ask the right questions, and carry the work until the wider community becomes self-governing.
+A community of 10,000 cannot found anything. Ten thousand people are a population, not a body. *Someone* has to begin — to hold the space, ask the right questions, and carry the work and the flame until the wider community becomes self-governing.
 
-That someone cannot be a single person. Nor can it be a hundred people. Every great movement begins with a committed first few, who coalesce a strong working circle. Usually four to seven people. 
+That someone cannot be a single person. Nor can it be a hundred people. Every great movement begins with a committed first few, who coalesce a strong working circle. Usually four to seven people is optimal. 
 
-The **Steering Committee** is the founding Circle of your Community Company. It exists to do one thing: **bring the Community Company into being and then hand authority to it.** It is scaffolding, not the building. The day the wider community body can govern itself, the Steering Committee's founding mandate is complete — its members remain, but their *temporary founding authority* dissolves back into the body. This should be named out loud from the first meeting; a founding body that forgets it is temporary becomes the ossified centralized node the Pattern exists to prevent.
+The **Steering Committee** is the founding Circle of your Community Company. It exists to do one thing: **bring the Community Company into being and then hand authority to it.** It is scaffolding, not the building. The day the wider community body can govern itself, the Steering Committee's founding mandate is complete — its members remain in the company, but their *temporary founding authority* dissolves back into the body. This should be named out loud from the first meeting; a founding body that forgets it is temporary becomes the ossified centralized node the Pattern exists to prevent.
 
 ## Who Belongs in the Founding Circle
 
-As a rule of thumb, healthy founding circles are usually **4 to 7 committed people** who are **trustworthy, present, and willing to do the unglamorous founding work before surrendering authority.**  
+As a rule of thumb, healthy founding circles are usually **4 to 7 committed people** who are **trustworthy, present, and willing to do the unglamorous founding work before surrendering authority.**  I
 
 Some of the archetypical roles that often emerge include: 
 
@@ -38,8 +38,8 @@ Be explicit, in writing, from day one. The Steering Committee has authority to:
 
 - convene meetings and invite people;
 - draft (not ratify) the Community Company's Driver, Field of Agreements, and Charter;
-- hold early shared resources in trust, transparently;
-- speak *for the founding effort* — not *for the community*, which has not yet consented.  
+- hold early shared resources in trust, transparently and accountably;
+- speak *for the founding effort* — not *for the community*, which has not yet consented or expressed its shared voice.  
 
 Every founding decision is provisional until the wider body ratifies it in Steps 3–6.
 
@@ -84,11 +84,11 @@ You have completed Step 1 when you can point to:
 
 If you have accomplished these six, you are becoming a body. The Community Company has begun.
 
-> **A caution.** Most founding efforts fail not for lack of vision but for lack of *sustained effort.* The single highest-leverage act in this entire guidebook is showing up every week at the time and place you set. 
+> **A caution.** Most founding efforts fail not for lack of vision but for lack of *sustained effort.* The single highest-leverage act in this entire guidebook is showing up every week together at the time and place you set. 
 
 ## A Founding Rhythm — Provisional Now, Ratified After a Year
 
-Do not try to write a perfect, permanent constitution in your first season. You cannot, and the attempt will paralyze you. Instead, follow the rhythm that wise foundings have always followed: **adopt your Charter *provisionally* now, live under it for a full year — four seasons — and *ratify* it only after you have felt where it holds and where it chafes.** Anchor the moments to the turning of the year if it helps: a soft launch, a first gathering to adopt the provisional Charter, a year of living and deliberation, and a second gathering to ratify what a year has taught you. A constitution earned through a year of practice is worth more than a flawless one written in a weekend.
+Do not try to write a perfect, permanent constitution in your first season. You cannot, and the attempt will paralyze you. Instead, follow the rhythm that wise foundings have always followed: **adopt your Charter *provisionally* now, live under it for a full year — four seasons — and *ratify* it only after you have felt where it holds and where it chafes.** Anchor the moments to the turning of the year if it helps: a soft launch, a first gathering to adopt the provisional Charter, a year of living and deliberation, and a second gathering to ratify what a year has taught you. A constitution earned through a year of practice is worth more than a flawless one written in a weekend. Everything is built to evolve, improve, and transform over time. 
 
 ---
 

@@ -8,11 +8,11 @@ Humanity now faces a meta crisis unlike any in the last 10,000 years. Future gen
 
 > _When the crucial moment was upon you, what did you do?_
 
-At this crossroads of history, **LIØNSBERG** rises as a highly improbable answer to that seemingly impossible question — a Way for any local community to forge a free, self-governing local body, and to join with every other in co-creating Heaven On Earth, _one community at a time._  
+At this crossroads of history, **LIØNSBERG** rises as a highly improbable answer to that seemingly impossible question — a Way for any local community to forge a free, self-governing local body, and to join with every other in co-creating Heaven On Earth, _one local community at a time._  
 
-It all begins with forming a **steering committee**, establishing a **legal body**, engaging **the first three percent** of the local population, and undertaking transformative **quests** that make your community and world a better place. 
+It all begins with forming a **steering committee**, establishing a **legal body** with agency, engaging **the first three percent** of the local population, and undertaking transformative **quests** that make your community and world a better place. The pattern is simple. The important thing is to begin. 
 
-> **And you do not begin from scratch, or alone.** The LIØNSBERG System — offered as a free gift to All — reflects lifetimes of work and tens of millions of dollars of value already filled. So from the very first day, **every member of every local community holds a stake and a voice in LIØNSBERG as a whole.** No community building in isolation could ever assemble such a starting point for itself in the time required. That is both the gift and the invitation.
+> **And you do not begin from scratch, or alone.** The LIØNSBERG System — offered as a free gift to All — reflects lifetimes of work and value already woven. So from the very first day, **every member of every local community holds a stake and a voice in LIØNSBERG as a whole.** No community building in isolation could assemble such a starting point for itself in the time required. That is both the gift and the invitation.
 
 ---
 
@@ -45,10 +45,6 @@ Each step hands you a tool you can open and begin working with today. The full s
 - **Governing & Sharing:** [[Consent Governance One-Pager]] · [[Seats at the Table]] · [[Where Value Flows]]
 
 *Plus the canon's own instruments — the [[Template For Field of Agreements]], [[Template For Agreement Between Groups]], and more — gathered in the [[The Community Company Toolkit|full Toolkit]].*
-
-## How This Book Relates to the Rest of the Canon
-
-This guidebook is an **entry portal**: simple, prescriptive, local, *do-this-next.* It leads into [[The LIØNSBERG Sacred Codex]].  
 
 ---
 

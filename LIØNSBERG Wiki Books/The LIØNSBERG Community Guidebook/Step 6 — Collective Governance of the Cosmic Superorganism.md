@@ -1,8 +1,8 @@
 # Step 6 — Collective Governance of the Cosmic Superorganism
 
-*Ten thousand warring Companies would destroy the planet. Ten thousand collaborating Companies co-create Heaven On Earth.*
+*Ten thousand competing Companies would destroy the planet. Ten thousand collaborating Companies co-create Heaven On Earth.*
 
-> **The work of this step:** weave your sovereign Company together with all the others into one living body — without any of them losing their sovereignty or identity — and join the **circulation of shared solutions** through which every community learns from every other. This is where Unity stops being an ideal and becomes an architecture.
+> **The work of this step:** weave your sovereign Company together with all the others into **one living body** — without any of them losing their sovereignty or identity — and join the **circulation of shared solutions** through which every community learns from every other. This is where Unity stops being an ideal and becomes an architecture.
 
 ---
 
@@ -26,7 +26,7 @@ This single sentence is the constitution of the whole superorganism. Five princi
 
 In practice this means:
 
-- **One member, one voice — at every scale.** This is the *omni* in omnifederation.
+- **One member, one dynamic voice — at every scale.** This is the *omni* in omnifederation.
 - **Coordinators serve and rotate; they do not rule.** Those who hold federated roles are stewards on loan from their communities, returning to them.
 - **Higher levels handle only what genuinely must be shared** — and nothing more. Subsidiarity: every decision is made at the lowest level capable of making it well.
 - **Federate at arm's length.** As Mondragon proved, a strong federation gives real help — shared services, finance, knowledge — while *guaranteeing nothing,* so that no single Company is essential to the whole and none can drag the others down when it struggles. Solidarity without dependency.
@@ -69,7 +69,6 @@ This is the end of the Path and the beginning of the Whole. The work from here i
 - [[Total Nested Hierarchy of Sovereignties]] — the five principles in full
 - [[Sovereignty At Every Scale]] — how the membrane protects each domain
 - [[Voluntary Tithing]] — the economics of inward flow
-- [[Citizen Led Governance]] — the deep pattern library behind this step
 
 ---
 

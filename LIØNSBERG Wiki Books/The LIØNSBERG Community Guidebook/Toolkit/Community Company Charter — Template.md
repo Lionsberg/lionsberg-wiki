@@ -49,7 +49,7 @@
 - **How does someone leave, or get asked to leave?** ‹Exit must always be free. Removal must be rare, named, and fair.›
 - **Tiers of belonging, if any:** ‹e.g. friend / member / steward / elder — optional›
 - **Seats at the table:** ‹Beyond human members, name who holds the seats for **Living Systems** (the land/watershed/non-human kin) and **Future Generations**, and how this Company relates to **the Whole**. See [[Seats at the Table]].›
-- **Stake and voice in the Whole:** ‹Affirm that each member, from the day they join, holds a voice in this Company and a stake and voice in LIØNSBERG as a whole — free to enter, free to leave, contributions never clawed back.›
+- **Stake and voice in the Whole:** ‹Affirm that each member, from the day they join, holds a voice in this Company and a stake and voice in LIØNSBERG as a whole — free to enter, free to leave.›
 
 ## 5. Governance — *how we decide together*
 
@@ -74,8 +74,8 @@
 > Pick up only as much structure as your work requires. See **[[Step 2 — Establishing Legal Agency and Personhood]]** and the Tiers in [[Properly Structure Your Circles]].
 
 - **Current tier:** ‹Tier 0 (no formal structure) … Tier 5 (federated stewardship)›
-- **Legal entity, if any:** ‹none yet / association / fiscal sponsorship / LLC / 501(c)(3) / cooperative …›
-- **Relationship to LIØNSBERG shared infrastructure:** ‹none yet / fiscally sponsored / SPV stewarded by Holdings / federated by agreement — see [[Corporate Structure]]›
+- **Legal entity, if any:** ‹none yet / voluntary association / fiscal sponsorship / LLC / non-profit / ecclesiastical association / cooperative …›
+- **Relationship to LIØNSBERG shared infrastructure:** ‹none yet / fiscally sponsored / federated by agreement — see [[Corporate Structure]]›
 - **Review trigger:** ‹what event will make us revisit our legal form — e.g. "when we first need to hold more than $X" or "when we sign our first lease"›
 - **Asset Lock / Purpose Lock:** ‹State it plainly: no member, founder, or funder may extract more than the return of what they put in plus honest compensation for honest work; this Company cannot be bought, sold, or cashed out; on dissolution its assets pass only to a body that shares this Driver. Capital is capped and subordinate — see [[Where Value Flows]].›
 
