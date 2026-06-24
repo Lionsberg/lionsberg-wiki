@@ -1,20 +1,12 @@
 This site is a [[Work In Progress]]
 
 # Begin Here
+[[README|The Golden Seed]]  
 [[Welcome to LIØNSBERG]]  
 [[The LIØNSBERG Quick Start Guide]]  
-[[The LIØNSBERG Experience]]  
-
-# The Sacred Codex
-[[The LIØNSBERG Sacred Codex]]  
-
-# The Living Library
-[[The LIØNSBERG Living Library]]  
 
 # The Wider Wiki
 [[LIØNSBERG Wiki Books]]  
-[[Above The Chaos]]  
-[[Something Powerful, New, and Good]]  
 
 # Help
 [[Help! I Am Lost]]  
