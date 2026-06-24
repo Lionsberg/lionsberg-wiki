@@ -433,12 +433,13 @@ body.no-scroll { overflow: hidden; }
   .prose h1:first-child { font-size: 3.25rem; }
 }
 
-/* Section anchor links — appear on hover */
+/* Section anchor links — appear on hover.
+   NOTE: only target the generated .header-anchor element. Do NOT match
+   `hN > a:first-child` — MarkPub renders a wiki-link that leads a heading
+   (e.g. `### Volume I — [[The Experience]]`) as the heading's first <a>,
+   and that selector wrongly hid it (opacity:0, visible only on hover). */
 .prose h2, .prose h3, .prose h4 { position: relative; }
-.prose .header-anchor,
-.prose h2 > a:first-child,
-.prose h3 > a:first-child,
-.prose h4 > a:first-child {
+.prose .header-anchor {
   opacity: 0;
   transition: opacity var(--dur) var(--ease);
 }
