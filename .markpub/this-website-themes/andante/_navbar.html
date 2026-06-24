@@ -8,14 +8,12 @@
   </button>
   <a class="nav__brand" href="/">{{wiki_title}}</a>
   <div class="nav__actions">
-    {% if lunr_index_sitepath != '' %}
     <a class="nav__action" href="/search.html" aria-label="Search">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
         <circle cx="11" cy="11" r="7"/>
         <line x1="21" y1="21" x2="16.65" y2="16.65"/>
       </svg>
     </a>
-    {% endif %}
     <a class="nav__action-text" href="/all-pages.html">All pages</a>
   </div>
 </nav>

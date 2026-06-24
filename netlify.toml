@@ -1,8 +1,11 @@
+# NOTE: lionsberg.wiki is hosted on Cloudflare Pages (migrated off Netlify 2026-06-24).
+# This file documents the build recipe; the authoritative settings live in the
+# Cloudflare Pages dashboard (Root dir .markpub, output dir "output", PYTHON_VERSION 3.11).
 [build]
   ignore = "/bin/false"
   base = ".markpub"
-  publish = "../output"
-  command = "markpub build -i .. -o ../output --templates ./this-website-themes/andante --lunr --commits"
+  publish = "output"
+  command = "markpub build -i .. -o output --templates ./this-website-themes/andante --commits && npx pagefind --site output"
 
 [build.environment]
   PYTHON_VERSION = "3.11"
