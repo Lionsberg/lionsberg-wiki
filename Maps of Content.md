@@ -2,5 +2,5 @@
 
 [[J's Map of Content]]  
 [[A Poetic Map of Content]]  
-[[Maps of the Network of Goodwill]]  
+[[The LIØNSBERG Map of Maps]]  
 [[Team Jump Page]]  

@@ -6,7 +6,7 @@ status: current-best-understanding
 tags: [map, network, goodwill, ecosystem, allies]
 ---
 
-# Maps of the Network of Goodwill
+# The LIØNSBERG Map of Maps
 
 _A map of maps. Across the Earth, many hands are already drawing the [[Citizens of Goodwill|Citizens of Goodwill]] — charting who is awake, who is weaving, who is tending life in their place. None of these maps is the territory, and none is the whole. This page gathers the living maps themselves, so We can see the [[5.6. Case Study 6 - A Network of Goodwill|Network of Goodwill]] already emerging — and find our kin within it. Held lightly as current best understanding._
 

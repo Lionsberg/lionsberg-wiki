@@ -38,7 +38,7 @@ If you need a Tool or a Solution to a problem or challenge you are facing please
 - [[Transforming Conflict]]    
 - [[Template For Pattern Language (Detailed)]] 
 - [[Tool For Aiming]]  
-- [[Maps of the Network of Goodwill]]  
+- [[The LIØNSBERG Map of Maps]]  
 - [[Organizations The LIØNSBERG Way]]  
 - [[Project Delivery Guide]]  
 - [[Your Story]] 
