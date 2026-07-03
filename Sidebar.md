@@ -8,6 +8,10 @@ This site is a [[Work In Progress]]
 # The Wider Wiki
 [[LIØNSBERG Wiki Books]]  
 
+# Navigate
+[All Pages](/all-pages.html)  
+[Recent Changes](/recent-pages.html)  
+
 # Help
 [[Help! I Am Lost]]  
 
