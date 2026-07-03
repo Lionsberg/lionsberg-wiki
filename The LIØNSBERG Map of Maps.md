@@ -29,6 +29,7 @@ _A map of maps. Across the Earth, many hands are already drawing the [[Citizens 
 ## Maps of the mappers — the weaving infrastructure
 
 - **Map Weavers** — *Vincent Arena's map of the map-makers, spanning many platforms at once.* → [catalist.network](https://catalist.network) · [kumu.io/vincentarena/map-weavers](https://kumu.io/vincentarena/map-weavers)
+- **Catalist** — *Vincent Arena's global directory of the people and projects weaving the movement, by place and connection.* → [global.catalist.network](https://global.catalist.network/global/people)
 - **Murmurations** — *a shared, decentralized directory protocol — one profile, visible on many maps.* → [murmurations.network](https://murmurations.network)
 - **Transiscope** — *the French solidarity-economy map, aggregating many directories into one.* → [transiscope](https://assemblee-virtuelle.github.io/transiscope-en/)
 - **Ecosystem of Collective Sensemaking** — *Tom Atlee's map of the sensemaking and wise-democracy field.* (via [[Open Global Mind]])
