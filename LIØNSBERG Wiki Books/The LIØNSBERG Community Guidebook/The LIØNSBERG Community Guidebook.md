@@ -51,6 +51,8 @@ Each step hands you a tool you can open and begin working with today. The full s
 
 *Plus the canon's own instruments — the [[Template For Field of Agreements]], [[Template For Agreement Between Groups]], and more — gathered in the [[The Community Company Toolkit|full Toolkit]].*
 
+**Beyond this book:** the wider [[The LIØNSBERG Toolkit|LIØNSBERG System Toolkit]] holds the full armory of the Way — and [[The LIØNSBERG Map of Maps]] charts the living Network of Goodwill your Community Company is joining, so you never build alone.
+
 ---
 
 Forward to **[[Prolegomenon]]**
