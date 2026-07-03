@@ -18,6 +18,7 @@ _A map of maps. Across the Earth, many hands are already drawing the [[Citizens 
 - **The Liminal Web** — *Joe Lightfoot's map of the sensemakers, meta-theorists, and systems-poets working the threshold.* → [joelightfoot.org · The Liminal Web](https://www.joelightfoot.org/post/the-liminal-web-mapping-an-emergent-subculture-of-sensemakers-meta-theorists-systems-poets)
 - **Meta-Crisis Maps & Syntheses** — *a gathering of maps that chart the whole predicament and its responders.* → [metacrisis.org](https://metacrisis.org)
 - **The Memetic Tribes of the Meta-Crisis** — *a visual map of the tribes contending for the future.* → [youtube.com/watch?v=vxHwkb35MkQ](https://www.youtube.com/watch?v=vxHwkb35MkQ)
+- **Breakthrough** — *George Orbelian's decade-long curation of the heroes and solutions for the Goal — 116,000 words and hundreds of links, woven into the LIØNSBERG System.* → [[Above The Chaos, Breakthrough With George Orbelian]]
 
 ## Maps of the regenerative movement
 
