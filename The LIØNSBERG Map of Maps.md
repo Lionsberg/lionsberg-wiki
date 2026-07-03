@@ -32,6 +32,7 @@ _A map of maps. Across the Earth, many hands are already drawing the [[Citizens 
 - **Murmurations** — *a shared, decentralized directory protocol — one profile, visible on many maps.* → [murmurations.network](https://murmurations.network)
 - **Transiscope** — *the French solidarity-economy map, aggregating many directories into one.* → [transiscope](https://assemblee-virtuelle.github.io/transiscope-en/)
 - **Ecosystem of Collective Sensemaking** — *Tom Atlee's map of the sensemaking and wise-democracy field.* (via [[Open Global Mind]])
+- **Jerry's Brain** — *Jerry Michalski's twenty-five-year living thought-map — a million ideas and links, curated by hand.* → [jerrysbrain.com](https://www.jerrysbrain.com)
 
 ---
 
