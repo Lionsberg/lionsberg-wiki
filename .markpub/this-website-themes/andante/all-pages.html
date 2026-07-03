@@ -3,17 +3,31 @@
     {% include '_navbar.html' %}
     {% include '_drawer.html' %}
     <main class="main">
-      <div class="index">
+      <div class="index index--wide">
         <h1>All pages</h1>
         <input class="index__filter" type="search" placeholder="Filter…" data-index-filter aria-label="Filter pages">
-        <ul class="index__list" data-index-list>
-          {% for page in pages %}
-          <li class="index__row" data-index-row data-search-text="{{page.title|lower}} {{page.author|lower}}">
-            <a href="{{ page.path }}">{{page.title}}</a>
-            <span class="index__meta">{{page.date}}</span>
-          </li>
-          {%- endfor -%}
-        </ul>
+        <div class="index__tablewrap">
+          <table class="index__table" data-index-list data-sortable-table>
+            <thead>
+              <tr>
+                <th data-col="page" scope="col">Page</th>
+                <th data-col="change" scope="col">Change</th>
+                <th data-col="by" scope="col">By</th>
+                <th data-col="date" scope="col" aria-sort="descending">Date</th>
+              </tr>
+            </thead>
+            <tbody>
+              {% for page in pages|sort(attribute='date',reverse=True) %}
+              <tr data-index-row data-search-text="{{page.title|lower}} {{page.author|lower}}">
+                <td><a href="{{ page.path }}">{{page.title}}</a></td>
+                <td class="index__change">{{page.change}}</td>
+                <td class="index__by">{{page.author}}</td>
+                <td class="index__date">{{page.date}}</td>
+              </tr>
+              {%- endfor -%}
+            </tbody>
+          </table>
+        </div>
       </div>
     </main>
     {% include '_footer.html' %}

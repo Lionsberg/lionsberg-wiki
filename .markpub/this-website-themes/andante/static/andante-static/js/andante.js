@@ -262,6 +262,52 @@
     });
   }
 
+  // ---------- Sortable table (all-pages) ----------
+
+  function initSortableTable() {
+    var tables = document.querySelectorAll('[data-sortable-table]');
+    tables.forEach(function (table) {
+      var headers = table.querySelectorAll('thead th');
+      headers.forEach(function (th, idx) {
+        if (th.hasAttribute('data-nosort')) return;
+        th.tabIndex = 0;
+        th.setAttribute('role', 'button');
+        function run() { sortTable(table, th, idx); }
+        th.addEventListener('click', run);
+        th.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); run(); }
+        });
+      });
+    });
+  }
+
+  function cellText(row, idx) {
+    var c = row.children[idx];
+    return c ? (c.textContent || '').trim() : '';
+  }
+
+  function sortTable(table, th, idx) {
+    var body = table.tBodies[0];
+    if (!body) return;
+    var rows = Array.prototype.slice.call(body.querySelectorAll('tr'));
+    var dir = th.getAttribute('aria-sort') === 'ascending' ? 'descending' : 'ascending';
+    var siblings = th.parentNode.querySelectorAll('th');
+    siblings.forEach(function (o) { o.removeAttribute('aria-sort'); });
+    th.setAttribute('aria-sort', dir);
+    var mult = dir === 'ascending' ? 1 : -1;
+    var numRe = /^[\s+\-]?[0-9.,]+$/;
+    rows.sort(function (a, b) {
+      var va = cellText(a, idx), vb = cellText(b, idx);
+      if (numRe.test(va) && numRe.test(vb)) {
+        var na = parseFloat(va.replace(/,/g, '')), nb = parseFloat(vb.replace(/,/g, ''));
+        if (!isNaN(na) && !isNaN(nb)) return (na - nb) * mult;
+      }
+      // Fixed-width dates (YYYY-MM-DD, HH:MM) and text both sort correctly here.
+      return va.localeCompare(vb, undefined, { numeric: true, sensitivity: 'base' }) * mult;
+    });
+    rows.forEach(function (r) { body.appendChild(r); });
+  }
+
   // ---------- Boot ----------
 
   if (document.readyState === 'loading') {
@@ -274,5 +320,6 @@
     initHeadingAnchors();
     initHoverPreviews();
     initIndexFilter();
+    initSortableTable();
   }
 })();
