@@ -11,6 +11,16 @@
     <meta name="color-scheme" content="light dark">
     <meta name="generator" content="MarkPub · andante theme">
     <title>{{ page_title }}</title>
+    <link rel="icon" type="image/svg+xml" href="/andante-static/favicon.svg">
+    {# --- Social link previews (Open Graph + Twitter Card). Per-page title auto-fills; --- #}
+    {# --- add a `description:` frontmatter line to any page to override the default. --- #}
+    <meta property="og:site_name" content="{{ wiki_title }}">
+    <meta property="og:title" content="{{ page_title if page_title else wiki_title }}">
+    <meta property="og:description" content="{{ page.description if page and page.description else 'The LIØNSBERG Wiki — a Way toward Heaven on Earth, for All.' }}">
+    <meta property="og:type" content="website">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page_title if page_title else wiki_title }}">
+    <meta name="twitter:description" content="{{ page.description if page and page.description else 'The LIØNSBERG Wiki — a Way toward Heaven on Earth, for All.' }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400;1,8..60,600&display=swap">

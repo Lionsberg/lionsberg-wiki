@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="LIØNSBERG">
+  <rect width="32" height="32" rx="7" fill="#0f1b2d"/>
+  <g fill="none" stroke="#d4af37" stroke-width="2.4">
+    <circle cx="16" cy="16" r="8"/>
+    <line x1="9.5" y1="22.5" x2="22.5" y2="9.5"/>
+  </g>
+</svg>
