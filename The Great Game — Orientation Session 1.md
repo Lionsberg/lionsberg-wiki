@@ -30,6 +30,7 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 
 **Tools for the Journey**  · _5 min_
 
+- LIØNSBERG Wiki (Danger! Work in Progress)
 - Quick Start Guide
 - Communication Platform
     - Circles: Signal, Discord, or your choice
@@ -42,8 +43,7 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 
 ---
 
-## What's Next
-  · _5 min_
+## What's Next · _5 min_
 
 **The 90-Day Commitment**
 
