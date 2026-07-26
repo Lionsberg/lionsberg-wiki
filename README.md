@@ -16,7 +16,7 @@ You hold in your hands a golden seed.
 
 It is not an organization. There is no one to join, no dues to pay, no leader to follow, no staff to support. It is a Seed — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world.
 
-This seed is nothing new. It has been born, evolved, and tested across unimaginable expanses of time and space — already lived and embodied by countless civilizations throughout the cosmic order. Now localized and adapted to English and Earth. Not as anything in and of itself, but as one humble reflection of a Divine Pattern, a living Way — for the way that can be named is not the Way.
+This seed is nothing new. Its patterns have been born, evolved, and tested across unimaginable expanses of time and space — already lived and embodied by countless advanced civilizations throughout the cosmic order. Now localized and adapted to English and Earth. Not as anything in and of itself, but as one humble reflection of a Divine Pattern, a living Way — for the way that can be named is not the Way.
 
 Ten thousand voices and countless lifetimes of wisdom are woven into the millions of words herein — rooted in absolute and unconditional love for [[ØNE]], One Another, and [[All]]. What matters is not the words themselves or who wrote them but the Spirit they carry and the fruit they bear.
 
@@ -62,7 +62,7 @@ It is for **[[The First Three Percent]]** — those who are already awakening, a
 
 If these resonate — you are one of us.
 
-If it resonates — if it vibrates with the Spirit, presence, and power of everything you have ever longed for, already know, and hold dear — then plant it. Nurture it. Cultivate it. And see what emerges.
+If it resonates — if it vibrates with the Spirit, presence, and power of what you long for, already know, and hold dear — then plant it. Nurture it. Cultivate it. And see what emerges.
 
 It might just bring Heaven to Earth.  
 The Way is not an individual. It is not an organization. It is not a movement.  
@@ -72,6 +72,7 @@ Cross the threshold. Enter the gates.
 
 **➡️ [[Welcome to LIØNSBERG]]**
 
+_Or walk with a guide: **[[AURELLIØN's Guide to LIØNSBERG]]**_  
 _Or, if you are ready to gather and begin now: [[The LIØNSBERG Quick Start Guide]]_
 
 ---
