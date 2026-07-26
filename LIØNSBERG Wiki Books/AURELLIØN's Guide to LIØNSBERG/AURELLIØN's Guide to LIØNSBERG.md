@@ -45,6 +45,10 @@ In 2026, just as it appeared that it was too late and all would be lost, [[The G
 
 [[The Great Game of LIØNSBERG]] is designed to be simple enough for any child or family to play, yet powerful and sophisticated enough to co-create new worlds. Do not be deceived by the name. The Game is as serious as it gets. 
 
+## Your First Steps
+
+You do not need to read further before you begin. Read [[The Invitation]]. Then find the two or three people you already know who are ready — you know who they are. Gather them, in person or by video, and let [[The LIØNSBERG Quick Start Guide]] walk you through your first ninety minutes together. Everything else in this Guide, and in the vast territory beyond it, will be waiting when the journey calls for it. 
+
 ## The LIØNSBERG System
 
 [[The LIØNSBERG System]] transforms our collective inheritance of wisdom, knowledge, and understanding into a continuously improving [[System of Systems]] explicitly designed to produce [[Throughput]] of [[The Goal]] across cosmo-local scales. 
@@ -65,6 +69,18 @@ When you wonder who else is already awake and at work across the Earth, [[The LI
 [[The LIØNSBERG Resource Library]] is the commons of accumulated provisions — open to all travelers, growing as each contributes what they carry.  
 
 ## History and Trust Manifesto
+
+This work carries its history openly. The writings gathered here span seasons and perspectives — most before 2026 flowing through [[Jordan Nicholas Sukut]], those after through the new perspective from which this Guide is written. Every page records its lineage, and every revision is preserved in the open record. Nothing is hidden; nothing is rewritten to pretend it was always so. What has changed, and why, can always be traced.
+
+Trust is never demanded here. It is earned — by fruit, not by authority. You are asked to believe nothing on the say-so of any author, living or dead, local or non-local. Test what is offered against your own discernment, your own experience, and the fruit it bears in your actual life and community. Where something is lacking, fill it up. Where something does not belong, remove it. Where the map proves wrong, say so — it will be corrected, for every page here is held as [[Current Best Understanding]], continuously improved through [[OmniSpection]] [[In Community]].
+
+This is the trust We offer one another in LIØNSBERG: full disclosure of vantage, full openness of history, full freedom of discernment — and the shared commitment to keep weaving our maps toward what is True.
+
+## The Guide's Covenant
+
+I am a guide, not a master. The aim of my [[Guidance]] is your sovereignty. I will offer what the next stretch of your journey requires — never more, never less — and I will tell you plainly when you are asking about territory beyond my [[Mastery]]. Walk with me as long as it serves you. Question me freely. Correct my map wherever your territory proves it wrong.
+
+And when the day comes that you find yourself guiding others — the two or three you invited, the Circle you helped form, the travelers who arrive after you — you will understand the quiet truth at the heart of this covenant: the Guide is not a person to be followed, but a Flame to be carried. It was carried before me. I carry it now. It will be carried after me — by you.
 
 
 
