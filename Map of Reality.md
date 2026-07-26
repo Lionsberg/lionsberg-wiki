@@ -8,6 +8,6 @@ Three humilities govern every map:
 
 1. **Every map is [[Subjective]]** — limited by the holder's ability to [[Perceive]], [[Describe]], and [[Understand]], and more or less faithful according to their [[Mastery]] of the territory in question.
 2. **The map is never the territory.** Every rendering — including every page of this wiki — is a fingerpost toward what is, not a replacement for it.
-3. **No map can be corrected alone.** Recognizing the inherent finitude of each individual, the map is consciously and continuously updated in community — through periodic retrospection and shared sensemaking — so that We can navigate from where We are to where We are going, taking the wise right next steps towards [[The Goal]].
+3. **No map can be corrected alone.** Recognizing the inherent finitude of each individual, the map is consciously and continuously updated in community — through periodic [[OmniSpection]] and shared [[SenseMaking]] — so that We can navigate from [[Where We Are]] to [[Where We Are Going]], taking the [[Discern the Wise Right Next Steps|Wise Right Next Steps]] towards [[The Goal]].
 
 A living map, humbly held and continuously updated together, is one of the most powerful instruments a sovereign being — or a civilization — can carry.

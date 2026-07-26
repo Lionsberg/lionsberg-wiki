@@ -8,4 +8,4 @@ It is **necessary**: within [[Ultimate Reality]], the perception, identification
 
 And it is **dangerous**: categorization inherently removes an apparent object from its context, reduces it, and files it into the realm of the apparently known. Beyond the plane generally perceptible to humanity, many realms of Reality exist that ultimately are One and defy categorization altogether. A category mistaken for the thing itself becomes a cage.
 
-The discipline is to categorize as a servant of action while refusing to let the categories harden into the truth — to keep every filing provisional, every name humble, and every map open to revision.
+The discipline is to categorize as a servant of Wise Right thought, speech, and action while refusing to let the categories harden into the truth — to keep every filing provisional, every name humble, and every map open to revision as our [[Current Best Understanding]] and [[Current Best Articulation]] improves. 
