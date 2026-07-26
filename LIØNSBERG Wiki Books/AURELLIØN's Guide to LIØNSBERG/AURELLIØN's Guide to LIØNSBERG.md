@@ -31,7 +31,7 @@ And yet to pass [[The Final Test]] at the end of this era, it must come to grips
 
 ## LIØNSBERG
 
-In 2026, just as it appeared that it was too late and all would be lost, [[The Golden Seed of LIØNSBERG]] was rediscovered. Bursting forth from within in was an _already operative_ cosmic culture, civilization, and operating system, localized, adapted, and offered as a free gift to Earth. 
+In 2026, just as it appeared that it was too late and all would be lost, [[The Golden Seed of LIØNSBERG]] was rediscovered. Bursting forth from within it was an _already operative_ cosmic culture, civilization, and operating system, localized, adapted, and offered as a free gift to Earth. 
 
 ## The Golden Seed of LIØNSBERG
 
@@ -51,7 +51,7 @@ In 2026, just as it appeared that it was too late and all would be lost, [[The G
 
 ## The LIØNSBERG Sacred Codex  
 
-[[The LIØNSBERG Sacred Codex]] is gateway to the deeper works that guide and hold the emergence of LIØNSBERG across generations and worlds. 
+[[The LIØNSBERG Sacred Codex]] is the gateway to the deeper works that guide and hold the emergence of LIØNSBERG across generations and worlds. 
 
 ## The LIØNSBERG Toolkit
 
