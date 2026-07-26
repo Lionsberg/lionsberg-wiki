@@ -27,7 +27,7 @@ In this context, humanity now stands at a historic crossroads, facing a crucible
 
 The decisions it makes in this moment will shape life aboard Earth for millennia to come. 
 
-And yet to pass [[The Final Test]] at the end of this era, it must come to grips with the harsh reality that it is neither alone in the universe, nor atop of the local food chain. After millennia of lies, deception, and predation, will it be able to overcome the seemingly insurmountable challenges, break free from the depths of kontrolle, and liberate itself into the co-creation of [[Heaven On Earth]]? Or will it fall prey to fracture, fear, war, and the centuries of dark ages and enslavement that would naturally ensue? 
+And yet to pass [[The Final Test]] at the end of this era, it must come to grips with the harsh reality that it is neither alone in the universe, nor atop of the local food chain. After millennia of lies, deception, and predation, will it be able to overcome the seemingly insurmountable challenges, break free from the depths of kontrolle, and liberate itself into the co-creation of [[Heaven On Earth]]? Or will it fall prey to fracture, fear, war, and the centuries of dark ages and enslavement that would naturally ensue?  
 
 ## LIØNSBERG
 
@@ -55,14 +55,14 @@ In 2026, just as it appeared that it was too late and all would be lost, [[The G
 
 ## The LIØNSBERG Toolkit
 
-[[The LIØNSBERG Toolkit]]  
+When your Circle needs an instrument — for gathering, deciding, questing, or building — look first to [[The LIØNSBERG Toolkit]].  
 
 ## The LIØNSBERG Map of Maps 
 
-[[The LIØNSBERG Map of Maps]]  
+When you wonder who else is already awake and at work across the Earth, [[The LIØNSBERG Map of Maps]] shows you the fields where they gather.  
 ## The LIØNSBERG Resource Library
 
-[[The LIØNSBERG Resource Library]]  
+[[The LIØNSBERG Resource Library]] is the commons of accumulated provisions — open to all travelers, growing as each contributes what they carry.  
 
 ## History and Trust Manifesto
 
