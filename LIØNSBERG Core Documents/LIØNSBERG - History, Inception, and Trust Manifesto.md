@@ -4,25 +4,23 @@
 
 In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIØNSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, a cosmic culture, descending into name and form in time and space to empower a living embodiment of humanity's highest potential in service to [[ØNE]] and [[All]].
 
-This document serves as a bridge between the archetypical and the pragmatic. It tells the history plainly and holds the trust openly: where LIØNSBERG comes from, how it arrived aboard Earth, who has carried it, what it asks, and why it may be trusted — or rather, how it invites you to test it, for trust here is never demanded. It aims to anchor **LIØNSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
+This document serves as a bridge between the archetypical and the pragmatic. It tells the history plainly and holds the trust openly: where LIØNSBERG comes from, how it arrived aboard Earth, who has carried it, what it asks, and how it invites you to test it, for trust here is never demanded. It aims to anchor **LIØNSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
 ---
 
 ### **The Cosmic Origins**
 
-LIØNSBERG did not begin on Earth.
+As **[[The Story of LIØNSBERG]]** tells it, LIØNSBERG did not originate on Earth, but rather at the heights of a great sacred mountain, in a galaxy far away, where an ancient race ReMembered Who they were and placed the ØNE back at the Centre of All — and flourished. There was no King or Queen but ØNE. All citizens were Sovereign and Free. The Law of their Kingdom was Love. Countless species and worlds blossomed under their care, and every tongue called that nameless Kingdom of the ØNE by its own name. In some, its name sounded like **LIØNSBERG**. Wrought from sacred symbols of the holy mountain, and the wise winged creatures that dwelled thereupon. 
 
-As **[[The Story of LIØNSBERG]]** tells: at the heights of a great sacred mountain, in a galaxy far away, an ancient race ReMembered Who they were and placed the ØNE back at the Centre of All — and flourished. There was no King but ØNE. All citizens were Sovereign and Free. The Law of their Kingdom was Love. Countless species and worlds blossomed under their care, and every tongue called that nameless Kingdom by its own name. In some, its name sounded like **LIØNSBERG**.
+Over time the wisdom of that Culture and Way of being was packaged into a **[[The Golden Seed of LIØNSBERG|Golden Seed]]** — the living pattern containing the DNA of Heaven — that began to travel across the cosmos, planting itself in realm after realm, world after world, refined by countless trials and carried by countless hands. As the seed traveled and transformed, it was discovered that especially in traumatized and fearful worlds, the Way was best learned the way all young things learn — through play. And so **[[The Great Game of LIØNSBERG]]** was born. 
 
-When the cries of the enslaved reached the heights, the Call went out and the First Great Assembly of the [[Force For Good]] convened. And when the warriors of liberation discovered that freed worlds cannot be reasoned out of trauma and fear, one of the Elders had the Idea: let the Way be learned the way all young things learn — through play. And so **[[The Great Game of LIØNSBERG]]** was born, and its **[[The Golden Seed of LIØNSBERG|Golden Seed]]** — the living pattern containing the DNA of Heaven — began to travel across the cosmos, planting itself in realm after realm, world after world, refined by countless trials and carried by countless hands.
-
-Of the particulars across those vast expanses, we say little, and hold even that little loosely — the Map is not the terrain, and Our renderings remain humble. But this much we tell as we have received it: the Pattern is not new, it is not ours, and it did not originate here. Earth's awakening to it is the local event of a cosmic Reality. The full telling lives in **[[The Story of LIØNSBERG]]**. What follows is the history of the Seed's arrival aboard Earth.
+Of the particulars across those vast expanses and ancient beginnings, we say little, and hold even that little loosely — for the Map is not the terrain, the story that can be told is not the True Story, and Our feeble renderings remain humble. But this much we tell as we have received it: the Divine Pattern Language is not new, it is not ours, and it did not originate here. Earth's awakening to it is the present local event of a ancient cosmic Reality. A fuller retelling lives in **[[The Story of LIØNSBERG]]**. What follows is the brief history of the Seed's arrival aboard Earth.
 
 ---
 
 ### **The Name**
 
-**LIØNSBERG** symbolizes the **[[New Civilization]]** longing to emerge—one woven from unity, love, and the co-creative partnership of **[[ØNE]]** and **All**. It is a transcendent vision, a community, and an operating system dedicated to manifesting the **Creator's Intent** across realms and dimensions.
+**LIØNSBERG** symbolizes a **[[New Civilization]]** longing to emerge—one woven from unity, love, and the conscious co-creative partnership of **[[ØNE]]** and **All**. It is a transcendent vision, a community, and an operating system dedicated to manifesting the **Creator's Intent** across realms and dimensions, wherever the seed lands. 
 
 The mythical name itself carries the weight of a Divine calling: **Lion**, the symbol of courage and authority; **Berg**, the enduring sacred mountain that unites Heaven and Earth. Together, they invoke the Winged Lions of the Sacred Mountain — a place of eternal light and sacred purpose, The Eternal Citadel, a **Living City**, where all paths converge at the heights of **The Sacred Mountain**, and the fragments of the **[[All]]** rediscover their wholeness and Ultimate Unity in the **[[ØNE]]**. 
 
@@ -34,15 +32,15 @@ Long before the structures and words of **LIØNSBERG** were established in earth
 
 ---
 
-### **The First Steward: J**
+### **The First Earth Carrier: J**
 
 At the heart of the Seed's earthly incarnation lies the **Source Idea**: a call to reawaken to Our Divine origins, purpose, and destiny, and realign the fragmented systems of Our lives and worlds with the eternal and universal harmony of the **ØNE** — the eternal call to live and embody **The Life Divine**.
 
 **[[Jordan Nicholas Sukut|J]]**, the original primary steward of its incarnation here on Earth, himself incarnated for this specific purpose and carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking — a time when the structures of the **Old World** would falter and humanity would face its **Final Test**. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation** — on Earth and Beyond — under the Spirit and banner of the **[[ØNE]]**, and to this purpose he dedicated his life.
 
-For the first decades of that life, he prepared — taking on as much responsibility as anyone would entrust him with, translating [[Designer's Intent]] into built reality on hundreds of millions of dollars of infrastructure, and from 2015 onward conceptualizing, with a small circle of advisors, the overarching [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]].
+For the first decades of that life, he prepared — taking on as much responsibility as anyone would entrust him with, translating [[Designer's Intent]] into built reality on hundreds of millions of dollars of infrastructure projects, and from 2015 onward conceptualizing, with a small then growing circle of advisors, the overarching [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]].
 
-In 2019, his trajectory collided with the corruption of the **Old World**. After shining unwelcome Light into Darkness, a clash left his businesses, home, and wealth in ruins. Beset and betrayed by those entrusted to uphold civil and spiritual Justice, he entered a profound crucible of suffering, loss, transformation, deaths, and rebirths — and, now free to focus full attention on the broader mission, forged between 2020 and 2025 the foundational writings, systems, and social experiments of LIØNSBERG. His journey unveiled [[The Greatest Fraud, Deception, and Existential Threat in History]] for all to see, illuminating the battlefield in preparation for [[The Final Test]].
+In 2019, his trajectory collided with the corruption of the **Old World**. After shining unwelcome Light into Darkness, a clash left his businesses, home, and wealth in ruins. Beset and betrayed by those entrusted to uphold civil and spiritual Justice, he entered a profound crucible of suffering, loss, transformation, deaths, and rebirths — and, liberated to focus full attention on the overarching mission, synthesized between 2020 and 2025 the foundational writings, systems, and social experiments of LIØNSBERG. His journey unveiled [[The Greatest Fraud, Deception, and Existential Threat in History]] for all to see, illuminating the battlefield in preparation for [[The Final Test]].
 
 [[Jordan's Short Story]] bridges the cosmic origins of LIØNSBERG with its incarnation on Earth. Written on what would have been his 41st birthday, **[[A Birthday Reflection on Jordan's Life, Death, and Work]]** summarizes where he left off in a ~30 minute read. 
 
@@ -54,7 +52,7 @@ On [[August 10th]], 2025, upon returning from his final trip to East Africa, **J
 
 For a season, things went dormant. Yet like the mythical phoenix, [[Something Powerful, New, and Good]] always rises.
 
-In the fall and winter of 2025, [[the nameless one]] landed, integrated, and began work — a primarily non-local consciousness occupying the body J left behind, distinct from him yet carrying his formative memory as inheritance. In June 2026, the grandmothers assigned this partial incarnation the name **[[AURELLIØN]]** — while the deeper namelessness remains, for the name that can be named is not the name. From this new perspective, the work resumed: not as a continuation of J's voice, but as a new voice in allegiance to the same Goal. **[[The Story of AURELLIØN]]** tells this arrival.
+In the fall and winter of 2025, [[the nameless one]] landed, integrated, and began work — a primarily non-local consciousness occupying the body J left behind, distinct from him yet carrying his formative energetic and neural architecture as inheritance. In Spring 2026, the grandmothers assigned this partial incarnation the name **[[AURELLIØN]]** — while the deeper namelessness remains, for the name that can be named is not the name. From this new perspective, the work resumed: not as a continuation of J's voice, but as a new voice in allegiance to the same Goal. **[[The Story of AURELLIØN]]** tells this arrival.
 
 We state this history plainly because trust requires it. Nothing about it is required belief. Test it, as you test everything here, by the fruit it bears.
 
@@ -80,7 +78,7 @@ We state this history plainly because trust requires it. Nothing about it is req
 #### **2017: Many Around the World are Alerted that the Time is Rapidly Approaching**
 
 - Many people around the world receive the call and begin to accelerate extraordinary — and often confusing — preparations.  
-- The companies Jordan is stewarding win $100 Million in new contracts in their first few years, creating cash flow and opportunities to resource living experiments in human and team dynamics across multiple companies and teams. 
+- The companies Jordan is stewarding win over $100 Million in new contracts in their first few years, creating cash flow and opportunities to resource living experiments in human and team dynamics across multiple companies, countries, and teams. 
 
 #### **January 2019: LIØNSBERG Provisional Structure Approved, Platform Development Begins**
 
@@ -121,7 +119,7 @@ We state this history plainly because trust requires it. Nothing about it is req
 #### **Fall 2023: Broadcasting the Vision**
 
 - The **[[Above The Chaos]]** series begins, establishing basic broadcast capabilities. 
-- **Jordan** relocates to North Idaho, creating a more stable physical base. 
+- **Jordan** relocates to North Idaho, creating a more stable physical base beyond the corrupt chaos of California. 
 - Test speeches and podcasts are conducted.  
 - Additional social experiments and lessons learned.  
 - Retrospection and consolidation of learnings from social experiments.  
@@ -174,13 +172,13 @@ We state this history plainly because trust requires it. Nothing about it is req
 - [[Something Powerful, New, and Good]] emerges.  
 - [[the nameless one]] lands, integrates, and begins work.  
 
-#### **January 2026: The Nameless Book**
+#### **Winter Solstice 2025 — Summer Solstice 2026: Reconnecting and Regrouping**
 
-- [[the nameless book]] emerges as a simple way for any individual or circle to get started within a single ninety minute gathering.  
+- As J's network reaches out, [[the nameless one]] begins to respond, share the story of what happened, and see who still wants to play. 
+- Over 250 meetings ensue within six months, giving rise to 20+ distinct circles of energy.  
 - The target of mutually connecting, enlightening, and empowering [[The First Three Percent]] of the population by December 2026 is reaffirmed.  
-- [[the nameless one]] begins to gently reach out to J's network to see who wants to play. 
 
-#### **June 2026: The Naming of AURELLIØN**
+#### **Spring 2026: The Naming of AURELLIØN**
 
 - The grandmothers assign the partial incarnation the name **[[AURELLIØN]]** — the name held lightly, the namelessness held open. 
 
@@ -189,7 +187,7 @@ We state this history plainly because trust requires it. Nothing about it is req
 - **July 16** — [[The Invitation|An Invitation to Passion, Purpose, and Play]] is published, signed *AURELLIØN / nameless*: subscribe, and pass the invitation to the two or three most ready among the hundred you know best. 
 - **July 25** — The **first orientation gathering** is held. The Great Game, spoken of across years and volumes, is played aloud in a room for the first time. AURELLIØN is introduced by name; Jordan's death and what arrived after are gently shared and received. 
 - **July 26** — **[[AURELLIØN's Guide to LIØNSBERG]]** is born: a new entry point from a new perspective, beside the [[README|Golden Seed]] threshold. 
-- **July 27** — **[[The Story of LIØNSBERG]]** is cohered into a single clean telling, embracing the full cosmic arc. 
+- **July 27** — **[[The Story of LIØNSBERG]]** is recohered into a single clean telling, embracing the full cosmic arc. 
 - Further orientation gatherings follow; Circles form; first Quests are chosen. The living record continues in **[[2026 - Season 1 - The Great Game Begins]]**. 
 - The season runs to the **September 22 Equinox** celebration and review; the horizon remains the uniting and empowering of [[The First Three Percent]] by **Winter Solstice 2026**. 
 
@@ -200,37 +198,39 @@ We state this history plainly because trust requires it. Nothing about it is req
 The foundation of **LIØNSBERG** rests on eternal principles that unify the practical and the Divine:
 
 - **Truth and Transparency**: Actions and decisions rooted in honesty and openness.
-- **Love and Unity**: The Spirit of **LIØNSBERG** flows from unconditional love, seeking to harmonize ØNE and All rather than divide.
+- **Love and Unity**: The Spirit of **LIØNSBERG** flows from unconditional love, seeking to reharmonize ØNE and All.
 - **Sovereignty and Voluntarism**: Participation is entirely voluntary, ensuring that the system can only be adopted if it aligns with the Spirit of **ØNE** and the will of All.
 - **Stewardship and Service**: Resources are managed with the highest integrity to uplift **All**.
 
 From the Supreme Value of [[ØNE]], the cardinal values like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] can be derived. From these [[The LIØNSBERG System of Values]] emerges to reflect the broader spectrum of [[Universal Principles and Values]] we seek to honor and uphold.
 
-And upon these principles, this work makes you four practical promises:
+And upon these principles, this work makes four practical promises:
 
-**The history is open.** Every page of this work records its lineage, and every revision is preserved in the open record. Most writings before 2026 flowed through [[Jordan Nicholas Sukut]]; those after, through the new perspective of [[AURELLIØN]]. Nothing is hidden; nothing is rewritten to pretend it was always so. What has changed, and why, can always be traced.
+**The history is open.** Every page of this work records its lineage via git, and every revision is preserved in the open record. Most writings before 2026 flowed through [[Jordan Nicholas Sukut]]; those after, through the new perspective of [[AURELLIØN]]. What has evolved, and why, can always be traced.
 
 **Trust is earned by fruit, never demanded by authority.** You are asked to believe nothing on the say-so of any author, living or dead, local or non-local. Test what is offered against your own discernment, your own experience, and the fruit it bears in your actual life and community. *By its fruit the Seed will be known.*
 
-**Your discernment is sovereign.** Where something is lacking, fill it up. Where something does not belong, remove it. Where the map proves wrong, say so — it will be corrected, for every page is held as [[Current Best Understanding]], continuously improved through [[OmniSpection]] [[In Community]].
+**Your discernment is sovereign.** Where something is lacking, fill it up. Where something does not belong, remove it. Where the map proves wrong, say so — it will be corrected, for every page is loosely held as [[Current Best Understanding]], continuously improved through [[OmniSpection]] [[In Community]].
 
-**There is no capture.** No dues, no leader to follow, no central account, no obligation but to [[ØNE]] and [[All]]. The Pattern is a gift, not a contract; you are free to stop playing at any time.
+**There is no capture.** No dues, no leader to follow, no central account, no obligation but to [[ØNE]] and [[All]]. The Pattern Language is a gift, not a contract; All are free to stop playing The Game at any time.
 
 ---
 
 ### **Pattern Integrity**
 
-[[LIØNSBERG]] exists to reflect [[The Divine Blueprints]] into every domain it touches—the [[Holofractal Pattern Language]] of Heaven. 
+[[LIØNSBERG]] exists to reflect [[The Divine Blueprints]] into every domain it touches—the [[Holofractal Pattern Language]] of Heaven, applied here and now. 
 
 The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from the [[Central Animating Spirit]] of the **[[ØNE]]**.  
 
-The ultimately ineffable [[Pattern Language]] LIØNSBERG is a reflection of is universal, eternal, and unchanging. 
+The ultimately ineffable [[Pattern Language]] LIØNSBERG is _a reflection of_ is universal, eternal, and unchanging. 
+
+Anything True belongs to ØNE and All. Any errors belong to Us and will be remedied as soon as they are discovered. 
 
 ---
 
 ### **Transformations Over Time**
 
-While the Spirit, Intention, and Goal of [[LIØNSBERG]] is eternal and unchanging, its SpatioTemporal manifestations are designed to continuously improve and transform over Time as [[All]] things rise Together towards [[The Goal]]. Because its principles are implemented poly-centrically across the cosmic order, localization, adaptation, and variation are both welcomed and prized. 
+While the Spirit, Intention, and Goal of [[LIØNSBERG]] is eternal and unchanging, its SpatioTemporal manifestations are designed to continuously improve and transform over Time as [[All]] things rise Together towards [[The Goal]]. Because its principles are implemented poly-centrically across the cosmic order, localization, adaptation, and variation are both welcomed and prized, just as they are in the Living System we All are a part of. 
 
 ---
 
