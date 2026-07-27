@@ -50,5 +50,5 @@ _And through this great shared journey, All returns to ØNE — elevated, transf
 
 ØNE.  
 
-→ [[The Story of LIØNSBERG — One Thousand Words]] — _the arc opened into its first fullness_  
+→ [[The Story of LIØNSBERG]] — _the arc opened into its fullness_  
 → [[The Story of LIØNSBERG]] — _the rings, and the Centre they spring from_  

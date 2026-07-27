@@ -3,7 +3,7 @@
 _Comprehensive working material — verse and prose — for [[The Story of LIØNSBERG — The Full Breath|The Full Breath]]._  
 
 > **What this is.** This is the original comprehensive draft we began with — the whole arc told at length, Earth's chapter included in full, verse and prose interwoven. Its nature is _comprehensive_, so it is being **expanded and cohered into [[The Story of LIØNSBERG — The Full Breath|The Full Breath]]** (the One Hundred Thousand Words), not compressed.  
-> It is **not** the Ten Thousand Words. That ring — [[The Story of LIØNSBERG — In Sacred Verse]] — is drafted fresh from [[The Story of LIØNSBERG — The Sacred Arc|the Sacred Arc]].  
+> It is **not** the Ten Thousand Words. That ring — *In Sacred Verse* — was drafted fresh from [[The Story of LIØNSBERG — The Sacred Arc|the Sacred Arc]] and is parked as ore for the rings to come.  
 > The chapters below remain the working seed; mine them for the Full Breath.  
 
 [[200 - Prolegomenon]]  

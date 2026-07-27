@@ -39,7 +39,7 @@ The whole Game is seven moves, at every scale, self to galaxy:
 ## The Story — at every depth
 
 The mythic frame that orients the player, told deliberately at nested depths so you can take it in a breath or a long reading:
-the Seed (one syllable) → the Sacred Arc (12 movements) → One Thousand Words → In Sacred Verse. → [[The Story of LIØNSBERG]]
+the Seed (one syllable) → the Sacred Arc (12 movements) → the single cohered telling. → [[The Story of LIØNSBERG]]
 
 ## The Pattern Language — the operating grammar (the keystone)
 

@@ -124,9 +124,9 @@ _The named concepts The Story references — the working vocabulary of the cosmi
 
 The wiki-link is not a footnote. It is the holofractal Map's nervous system. The Story is the spine; the links are the connective tissue.
 
-**At the Seed** — one link only, to the One Thousand Words. The Seed is single resonance; navigation comes after.
+**At the Seed** — one link only, to [[The Story of LIØNSBERG|the Story]]. The Seed is single resonance; navigation comes after.
 
-**At the One Thousand Words** — link the first appearance of each major named concept. Leave subsequent mentions unlinked so the prose flows uninterrupted. Sparing but present.
+**At the telling** — link the first appearance of each major named concept. Leave subsequent mentions unlinked so the prose flows uninterrupted. Sparing but present.
 
 **At the Ten Thousand Words** — link more densely. The mid-ring is more navigable; readers will explore.
 

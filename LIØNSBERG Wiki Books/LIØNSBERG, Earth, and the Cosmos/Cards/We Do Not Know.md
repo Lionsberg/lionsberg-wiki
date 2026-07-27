@@ -29,6 +29,6 @@ We have **glimpses**. We have **archetypal pattern recognition**. We have **inne
 
 The Matrix Cannot Be Reasoned Out Of — reason was constructed inside the Matrix and serves the Matrix. But a being **can be Shown** the truth. And the first step is always: admit **We Do Not Know**. From that admission, the seeing begins.
 
-This is potentially **the final Gate** of [[The 144 Gates as Architecture of Consciousness Shift|the 144 Gates]] — the Crossing of The Boundary itself. The author of [[The Story of LIØNSBERG — In Sacred Verse]] marked this in margin: "Gate 88 or 144 (final gate) might be Crossing The Boundary."
+This is potentially **the final Gate** of [[The 144 Gates as Architecture of Consciousness Shift|the 144 Gates]] — the Crossing of The Boundary itself. The author of the *In Sacred Verse* rendering of the Story marked this in margin: "Gate 88 or 144 (final gate) might be Crossing The Boundary."
 
 Lives canonically in [[The LIØNSBERG Pattern Language]] as a foundational epistemic Pattern.
