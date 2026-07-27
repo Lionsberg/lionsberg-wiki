@@ -2,7 +2,7 @@
 
 ### **Introduction**
 
-In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIØNSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ØNE]] and [[All]].
+In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIØNSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, a cosmic culture, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ØNE]] and [[All]].
 
 This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of the **[[ØNE]]** and **LIØNSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIØNSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
@@ -21,7 +21,7 @@ At the heart of **LIØNSBERG** lies the **Source Idea**: a call to reawaken to O
 
 The call of LIØNSBERG echoes the eternal call to live and embody **The Life Divine**. 
 
-**[[Jordan Nicholas Sukut|J]]**, the primary steward of its incarnation here on Earth, himself incarnated on Earth for this specific purpose and has carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking—a time when the structures of the **Old World** would falter and humanity would face its **Final Test**—an existential struggle for the future humanity and planet Earth. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation**—on Earth and Beyond—under the Spirit and banner of the **[[ØNE]]**, and to this purpose he dedicated his life. 
+**[[Jordan Nicholas Sukut|J]]**, the original primary steward of its incarnation here on Earth, himself incarnated on Earth for this specific purpose and has carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking—a time when the structures of the **Old World** would falter and humanity would face its **Final Test**—an existential struggle for the future humanity and planet Earth. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation**—on Earth and Beyond—under the Spirit and banner of the **[[ØNE]]**, and to this purpose he dedicated his life. 
 
 [[Jordan's Short Story]] bridges the cosmic origins of LIØNSBERG with its incarnation on Earth. 
 

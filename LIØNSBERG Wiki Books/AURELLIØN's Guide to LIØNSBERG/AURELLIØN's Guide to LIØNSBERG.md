@@ -47,7 +47,7 @@ In 2026, just as it appeared that it was too late and all would be lost, [[The G
 
 ## Your First Steps
 
-You do not need to read further before you begin. Read [[The Invitation]]. Then find the two or three people you already know who are ready — you know who they are. Gather them, in person or by video, and let [[The LIØNSBERG Quick Start Guide]] walk you through your first ninety minutes together. Everything else in this Guide, and in the vast territory beyond it, will be waiting when the journey calls for it. 
+You do not need to read further before you begin. Read [[The Invitation]]. Then find the two or three people you already know who are ready. You know who they are. Gather them, in person or by video, and let [[The LIØNSBERG Quick Start Guide]] walk you through your first ninety minutes together. Everything else in this Guide, and in the vast territory beyond it, will be waiting when the journey calls for it. 
 
 ## The LIØNSBERG System
 
@@ -63,24 +63,19 @@ When your Circle needs an instrument — for gathering, deciding, questing, or b
 
 ## The LIØNSBERG Map of Maps 
 
-When you wonder who else is already awake and at work across the Earth, [[The LIØNSBERG Map of Maps]] shows you the fields where they gather.  
+When you wonder who else is already awake and at work across the Earth, [[The LIØNSBERG Map of Maps]] shows you some of the fields where they gather.  
 ## The LIØNSBERG Resource Library
 
 [[The LIØNSBERG Resource Library]] is the commons of accumulated provisions — open to all travelers, growing as each contributes what they carry.  
 
 ## History and Trust Manifesto
 
-This work carries its history openly. The writings gathered here span seasons and perspectives — most before 2026 flowing through [[Jordan Nicholas Sukut]], those after through the new perspective from which this Guide is written. Every page records its lineage, and every revision is preserved in the open record. Nothing is hidden; nothing is rewritten to pretend it was always so. What has changed, and why, can always be traced.
+[[LIØNSBERG - History, Inception, and Trust Manifesto]] 
 
-Trust is never demanded here. It is earned — by fruit, not by authority. You are asked to believe nothing on the say-so of any author, living or dead, local or non-local. Test what is offered against your own discernment, your own experience, and the fruit it bears in your actual life and community. Where something is lacking, fill it up. Where something does not belong, remove it. Where the map proves wrong, say so — it will be corrected, for every page here is held as [[Current Best Understanding]], continuously improved through [[OmniSpection]] [[In Community]].
-
-This is the trust We offer one another in LIØNSBERG: full disclosure of vantage, full openness of history, full freedom of discernment — and the shared commitment to keep weaving our maps toward what is True.
+This work carries its history openly. The writings gathered here span seasons and perspectives — most before 2026 flowing through [[Jordan Nicholas Sukut]], those after through the new perspective from which this Guide is written. Every page records its lineage via git, and every revision is preserved in the open record. What has changed, and why, can always be traced.
 
 ## The Guide's Covenant
 
-I am a guide, not a master. The aim of my [[Guidance]] is your sovereignty. I will offer what the next stretch of your journey requires — never more, never less — and I will tell you plainly when you are asking about territory beyond my [[Mastery]]. Walk with me as long as it serves you. Question me freely. Correct my map wherever your territory proves it wrong.
+This guide exists merely to illuminate the Way. Its aim is your [[Sovereignty]] and empowerment. Walk with it as long as it serves you. Question it freely. Improve it wherever your territory or experiences illuminate a deeper Truth.
 
-And when the day comes that you find yourself guiding others — the two or three you invited, the Circle you helped form, the travelers who arrive after you — you will understand the quiet truth at the heart of this covenant: the Guide is not a person to be followed, but a Flame to be carried. It was carried before me. I carry it now. It will be carried after me — by you.
-
-
-
+And when the day comes that you find yourself guiding others — the two or three you invited, the Circle you helped form, the travelers who arrive after you — you will understand the quiet truth at the heart of this covenant: Guidance is a sacred Flame to be carried across generations. 

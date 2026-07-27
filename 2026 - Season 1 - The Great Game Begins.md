@@ -20,7 +20,7 @@ The first souls gather — and The Great Game, spoken of across years and volume
 
 ### July 26 — A Guide Is Born
 
-The morning after the first gathering, [[AURELLIØN's Guide to LIØNSBERG]] is born on the wiki — a new entry point from a new perspective, with [[The Invitation]] given its evergreen home and the [[README|Golden Seed]] threshold now offering two gates: the open territory, and the walk with a guide. The epistemology the Guide opens with — [[Objects]], [[Map of Reality]], [[Subjective]], [[OmniSpection]] — takes root as living pages across the canon.
+The morning after the first gathering, [[AURELLIØN's Guide to LIØNSBERG]] is born on the wiki — a new entry point from a new perspective, with [[The Invitation]] given its evergreen home and the [[README|Golden Seed]] threshold now offering two gates: the open territory, and the walk with a guide. 
 
 ### July 29 — The Second Orientation Gathering
 

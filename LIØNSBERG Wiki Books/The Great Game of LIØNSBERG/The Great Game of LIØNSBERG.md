@@ -9,7 +9,7 @@ _Volume II of [[The LIØNSBERG Sacred Codex|the Sacred Codex]]. The participator
 
 If you have just walked through [[The Story of LIØNSBERG|the Story]], the Game is where what you now understand becomes what you actually do. The cosmic Story revealed where we are, how we got here, and what is at stake. The Game is the next move — the threshold between understanding and participation.
 
-The Game does not ask belief. It does not require credentials. It does not seek converts. It asks only this: _are you ready to gather a few sovereign souls, choose a quest that makes life measurably more like Heaven, and begin?_  
+The Game does not ask belief. It does not require credentials. It does not seek converts. It asks only this: _are you ready to gather a few sovereign souls, form a Circle, choose a Quest that makes life measurably more like Heaven, and begin?_  
 
 ---
 

@@ -302,7 +302,7 @@ _ReWeaving the True Universal Narrative_
 
 ### **Chapter 25. The Story of the Many Worlds**
 
-- Not one universe, but multiverses nested in the Infinite
+- Not one universe, but multiverses nested in the Infinite and Ineffable
     
 - Countless worlds, beings, timelines, experiments, and experiences
     
@@ -336,7 +336,7 @@ _ReWeaving the True Universal Narrative_
 
 - Countless Living Laboratories, including Earth, seeded with diverse codes and nurtured to Life over billions of years
     
-- Earth as a convergence point for many lineages and civilizations  
+- Seeds worlds as a convergence point for many lineages and civilizations  
     
 - The gathering and clash of archetypical cosmic forces in various microcosmic fields  
     
@@ -619,9 +619,6 @@ _The Exodus, the Ascent, and the Path to Heaven on Earth_
 - The parable of The Promised Land we must co-create and become
     
 - Becoming in The Wilderness what the Promised Land requires
-
-
-### Chapter 46. Entering and Co-Creating The Promised Land
 
 
 ### Chapter 46. The Sacred March
