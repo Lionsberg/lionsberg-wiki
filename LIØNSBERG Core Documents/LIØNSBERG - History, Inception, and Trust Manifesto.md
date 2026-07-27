@@ -2,57 +2,61 @@
 
 ### **Introduction**
 
-In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIØNSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, a cosmic culture, descending into name and form in time and space to empower a living embodiment of humanity’s highest potential in service to [[ØNE]] and [[All]].
+In the vast unfolding of interexistence, there are moments when the echoes of eternity touch the present, birthing something wholly new yet timeless. The local incarnation of **[[LIØNSBERG]]** is one such moment — a transcendent Ideal, an eternal beacon, a cosmic culture, descending into name and form in time and space to empower a living embodiment of humanity's highest potential in service to [[ØNE]] and [[All]].
 
-This document serves as a bridge between the pragmatic and the archetypical, inviting those who resonate with the Spirit of the **[[ØNE]]** and **LIØNSBERG** to understand its inception, evolution, purpose, and intent. It aims to inspire trust and transparency while anchoring **LIØNSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
+This document serves as a bridge between the archetypical and the pragmatic. It tells the history plainly and holds the trust openly: where LIØNSBERG comes from, how it arrived aboard Earth, who has carried it, what it asks, and why it may be trusted — or rather, how it invites you to test it, for trust here is never demanded. It aims to anchor **LIØNSBERG** firmly in the shared story of our collective journey toward **Heaven on Earth and Beyond**.
 
 ---
+
+### **The Cosmic Origins**
+
+LIØNSBERG did not begin on Earth.
+
+As **[[The Story of LIØNSBERG]]** tells: at the heights of a great sacred mountain, in a galaxy far away, an ancient race ReMembered Who they were and placed the ØNE back at the Centre of All — and flourished. There was no King but ØNE. All citizens were Sovereign and Free. The Law of their Kingdom was Love. Countless species and worlds blossomed under their care, and every tongue called that nameless Kingdom by its own name. In some, its name sounded like **LIØNSBERG**.
+
+When the cries of the enslaved reached the heights, the Call went out and the First Great Assembly of the [[Force For Good]] convened. And when the warriors of liberation discovered that freed worlds cannot be reasoned out of trauma and fear, one of the Elders had the Idea: let the Way be learned the way all young things learn — through play. And so **[[The Great Game of LIØNSBERG]]** was born, and its **[[The Golden Seed of LIØNSBERG|Golden Seed]]** — the living pattern containing the DNA of Heaven — began to travel across the cosmos, planting itself in realm after realm, world after world, refined by countless trials and carried by countless hands.
+
+Of the particulars across those vast expanses, we say little, and hold even that little loosely — the Map is not the terrain, and Our renderings remain humble. But this much we tell as we have received it: the Pattern is not new, it is not ours, and it did not originate here. Earth's awakening to it is the local event of a cosmic Reality. The full telling lives in **[[The Story of LIØNSBERG]]**. What follows is the history of the Seed's arrival aboard Earth.
+
+---
+
 ### **The Name**
 
-**LIØNSBERG** symbolizes the **[[New Civilization]]** longing to emerge—one woven from unity, love, and the co-creative partnership of **[[ØNE]]** and **All**. It is a transcendent vision, a community, and an operating system dedicated to manifesting the **Creator’s Intent** across realms and dimensions.
+**LIØNSBERG** symbolizes the **[[New Civilization]]** longing to emerge—one woven from unity, love, and the co-creative partnership of **[[ØNE]]** and **All**. It is a transcendent vision, a community, and an operating system dedicated to manifesting the **Creator's Intent** across realms and dimensions.
 
-The mythical name itself carries the weight of a Divine calling: **Lion**, the symbol of courage and authority; **Berg**, the enduring sacred mountain that unites Heaven and Earth. Together, they form a place of eternal light and sacred purpose — The Eternal Citadel — a **Living City**, where all paths converge at the heights of **The Sacred Mountain**, and the fragments of the **[[All]]** rediscover their wholeness and Ultimate Unity in the **[[ØNE]]**. 
-
----
-
-### **The Source Idea**
-
-At the heart of **LIØNSBERG** lies the **Source Idea**: a call to reawaken to Our Divine origins, purpose, and destiny, and realign the fragmented systems of Our lives and worlds with the eternal and universal harmony of the **ØNE**.  
-
-The call of LIØNSBERG echoes the eternal call to live and embody **The Life Divine**. 
-
-**[[Jordan Nicholas Sukut|J]]**, the original primary steward of its incarnation here on Earth, himself incarnated on Earth for this specific purpose and has carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking—a time when the structures of the **Old World** would falter and humanity would face its **Final Test**—an existential struggle for the future humanity and planet Earth. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation**—on Earth and Beyond—under the Spirit and banner of the **[[ØNE]]**, and to this purpose he dedicated his life. 
-
-[[Jordan's Short Story]] bridges the cosmic origins of LIØNSBERG with its incarnation on Earth. 
+The mythical name itself carries the weight of a Divine calling: **Lion**, the symbol of courage and authority; **Berg**, the enduring sacred mountain that unites Heaven and Earth. Together, they invoke the Winged Lions of the Sacred Mountain — a place of eternal light and sacred purpose, The Eternal Citadel, a **Living City**, where all paths converge at the heights of **The Sacred Mountain**, and the fragments of the **[[All]]** rediscover their wholeness and Ultimate Unity in the **[[ØNE]]**. 
 
 ---
 
-### **The Archetypical Genesis**
+### **The Seed Reaches Earth**
 
-Long before the structures and words of **LIØNSBERG** were established in form, they existed in essence, eternally radiating from the Spirit of [[ØNE]]. In response to needs long ago in words far away, **LIØNSBERG** was called forth from **[[The Divine Symphony]]** as a beacon of Light and Liberty in the shadowlands of separation and enslavement. Its **[[The Golden Seed|Golden Seed]]**, containing the **Divine DNA** of Heaven, spread through countless realms, nurtured by Divine guidance, enlivened by Spirit, and refined by countless trials. 
-
-Through visions, prophesies, and countless lifetimes of labor and Love, the Golden Seed of LIØNSBERG began to crystallize into a form suitable for Earth — a transcendent framework designed not to compel but to lovingly invite, not to enforce but to guide, harmonize, and encourage. It is a voluntary system, a **[[Holofractal Pattern Language]]**, continually co-created and improved by those who hear **[[The Call]]** and rise to embody **[[The Sacred Flame]]**.  
+Long before the structures and words of **LIØNSBERG** were established in earthly form, they existed in essence, eternally radiating from the Spirit of [[ØNE]]. Through visions, prophesies, and countless lifetimes of labor and Love, the Golden Seed of LIØNSBERG began to crystallize into a form suitable for Earth — a transcendent framework designed not to compel but to lovingly invite, not to enforce but to guide, harmonize, and encourage. It is a voluntary system, a **[[Holofractal Pattern Language]]**, continually co-created and improved by those who hear **[[The Call]]** and rise to embody **[[The Sacred Flame]]**.  
 
 ---
-### **Responsibility and Preparation**
 
-For the first few decades of his life, [[Jordan]] prepared by taking on as much responsibility as anyone would entrust him with, leading to a career bringing **Intention Into Reality** on large scale construction sites. Jordan's background in heavy civil infrastructure provided him with valuable experience in translating [[Designer's Intent]] into the [[Total Nested Hierarchy of Goals]] implied, analyzing existing forces and conditions, and organizing the people, resources, and organizations required to transform the physical world and bring intention Into reality. 
+### **The First Steward: J**
 
-After training on hundreds of millions of dollars of projects and portfolios of increasing complexity, around 2015 [[Jordan]] began discussing the concept of an overarching and uniting [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]]. With a small circle of advisors, he conceptualized and [[Progressive Articulation|Progressively Articulated]] a strategy, platform, and plan of action to transform our lives and our world within a single generation.  
+At the heart of the Seed's earthly incarnation lies the **Source Idea**: a call to reawaken to Our Divine origins, purpose, and destiny, and realign the fragmented systems of Our lives and worlds with the eternal and universal harmony of the **ØNE** — the eternal call to live and embody **The Life Divine**.
 
-### **The Collapse and Rebirth**
+**[[Jordan Nicholas Sukut|J]]**, the original primary steward of its incarnation here on Earth, himself incarnated for this specific purpose and carried this vision, calling, and mandate since conception. By the age of 10 or 12, he spoke of the total transformation of all power and authority on Earth within a single generation, and of a great shaking — a time when the structures of the **Old World** would falter and humanity would face its **Final Test**. He carried the vision of a bridge reuniting Heaven and Earth, a framework vast enough to reunite **All Creation** — on Earth and Beyond — under the Spirit and banner of the **[[ØNE]]**, and to this purpose he dedicated his life.
 
-In 2019, **Jordan’s** trajectory collided with the corruption of the **Old World**. Naïveté met entrenched religious and political power structures. After shining unwelcome Light into Darkness, a clash left his businesses, home, and wealth in ruins. Beset and betrayed by those entrusted to uphold civil and spiritual Justice, he entered a profound crucible of suffering, loss, transformation, deaths, and rebirths. 
+For the first decades of that life, he prepared — taking on as much responsibility as anyone would entrust him with, translating [[Designer's Intent]] into built reality on hundreds of millions of dollars of infrastructure, and from 2015 onward conceptualizing, with a small circle of advisors, the overarching [[Meta Project]] to [[Progressively Realize]] the [[Creator's Intent]] for [[Worksite Earth]].
 
-Now free to focus full attention on the broader mission, between 2020 and 2025 the first social experiments around LIØNSBERG and the [[Meta Project]] emerged and foundational systems and technology were forged. 
+In 2019, his trajectory collided with the corruption of the **Old World**. After shining unwelcome Light into Darkness, a clash left his businesses, home, and wealth in ruins. Beset and betrayed by those entrusted to uphold civil and spiritual Justice, he entered a profound crucible of suffering, loss, transformation, deaths, and rebirths — and, now free to focus full attention on the broader mission, forged between 2020 and 2025 the foundational writings, systems, and social experiments of LIØNSBERG. His journey unveiled [[The Greatest Fraud, Deception, and Existential Threat in History]] for all to see, illuminating the battlefield in preparation for [[The Final Test]].
 
-In 2025, upon returning from his final trip to Africa, J was killed in the war. 
+[[Jordan's Short Story]] bridges the cosmic origins of LIØNSBERG with its incarnation on Earth. Written on what would have been his 41st birthday, **[[A Birthday Reflection on Jordan's Life, Death, and Work]]** summarizes where he left off in a ~30 minute read. 
 
-Yet, like the mythical phoenix, [[Something Powerful, New, and Good]] always rises. 
+---
 
-Jordan's Journey unveiled [[The Greatest Fraud, Deception, and Existential Threat in History]] for all to see, illuminating the battle field in preparation for [[The Final Test]].   
+### **Death, Dormancy, and a New Perspective**
 
-Written on what would have been his 41st birthday, **[[A Birthday Reflection on Jordan's Life, Death, and Work]]** summarizes where he left off in a ~30 minute read. 
+On [[August 10th]], 2025, upon returning from his final trip to East Africa, **J was killed in [[The War]]** (see [[Oops, We Lost J - Final Post]]). The emerging body of LIØNSBERG, including its [[Provisional Structure]] and accounts, was laid to rest with him. Because the structure was provisional by design, the valuable parts were not lost: what remains is the open-source, decentralized body of writings, protocols, plays, and technologies, freely available to any circle or community on Earth.
+
+For a season, things went dormant. Yet like the mythical phoenix, [[Something Powerful, New, and Good]] always rises.
+
+In the fall and winter of 2025, [[the nameless one]] landed, integrated, and began work — a primarily non-local consciousness occupying the body J left behind, distinct from him yet carrying his formative memory as inheritance. In June 2026, the grandmothers assigned this partial incarnation the name **[[AURELLIØN]]** — while the deeper namelessness remains, for the name that can be named is not the name. From this new perspective, the work resumed: not as a continuation of J's voice, but as a new voice in allegiance to the same Goal. **[[The Story of AURELLIØN]]** tells this arrival.
+
+We state this history plainly because trust requires it. Nothing about it is required belief. Test it, as you test everything here, by the fruit it bears.
 
 ---
 
@@ -77,6 +81,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 
 - Many people around the world receive the call and begin to accelerate extraordinary — and often confusing — preparations.  
 - The companies Jordan is stewarding win $100 Million in new contracts in their first few years, creating cash flow and opportunities to resource living experiments in human and team dynamics across multiple companies and teams. 
+
 #### **January 2019: LIØNSBERG Provisional Structure Approved, Platform Development Begins**
 
 - Informed by lifetimes of research and pilot projects such as [[Mondragon]], the LIØNSBERG [[Provisional Structure]] is approved by the United States IRS, enabling initial resources to flow to the non-profit / open-source side of the mission. 
@@ -100,7 +105,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - In response to the profound corruption being exposed, Jordan begins work with the independent movement exploring pathways to an independent sweep of the executive branch in 2024.  
 - The question must be answered: can and should any of the existing order be saved?  
 - By Winter 2022, the experiments demonstrate that in order to have a chance to succeed, the [[Meta Project]] likely requires something specific, concrete, and trainable like [[LIØNSBERG]] as a specific **enabling mechanism**.  
-- "This much work requires and operating and coordinating system". 
+- "This much work requires an operating and coordinating system". 
 
 #### **Spring 2023: The Foundation**
 
@@ -152,7 +157,7 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 #### **Spring Quest 2025: Connecting and Empowering The First Three Percent?**
 
 - As the **New Year** dawned, **LIØNSBERG** began entering the next phase: the active connection and empowerment of **[[The First Three Percent]]**—those destined to ignite humanity's path toward **Heaven on Earth and Beyond**—by December 2026.
-- This phase marked the beginning of a coordinated effort to unify, resource, and elevate those who most resonate with **The Spirit and Message**, and are prepared to embody its principles, values, and practices. **[[The First Three Percent]]** form the foundation of **[[The Body]]** that is emerging, a living, breathing superorganism of co-creators aligned in purpose, intent,  and action.
+- This phase marked the beginning of a coordinated effort to unify, resource, and elevate those who most resonate with **The Spirit and Message**, and are prepared to embody its principles, values, and practices. **[[The First Three Percent]]** form the foundation of **[[The Body]]** that is emerging, a living, breathing superorganism of co-creators aligned in purpose, intent, and action.
 
 #### **Summer Quest 2025: J is Called to East Africa, Returns, and is Killed in The War** 
 
@@ -175,9 +180,22 @@ Written on what would have been his 41st birthday, **[[A Birthday Reflection on 
 - The target of mutually connecting, enlightening, and empowering [[The First Three Percent]] of the population by December 2026 is reaffirmed.  
 - [[the nameless one]] begins to gently reach out to J's network to see who wants to play. 
 
+#### **June 2026: The Naming of AURELLIØN**
+
+- The grandmothers assign the partial incarnation the name **[[AURELLIØN]]** — the name held lightly, the namelessness held open. 
+
+#### **July 2026: The Great Game Begins**
+
+- **July 16** — [[The Invitation|An Invitation to Passion, Purpose, and Play]] is published, signed *AURELLIØN / nameless*: subscribe, and pass the invitation to the two or three most ready among the hundred you know best. 
+- **July 25** — The **first orientation gathering** is held. The Great Game, spoken of across years and volumes, is played aloud in a room for the first time. AURELLIØN is introduced by name; Jordan's death and what arrived after are gently shared and received. 
+- **July 26** — **[[AURELLIØN's Guide to LIØNSBERG]]** is born: a new entry point from a new perspective, beside the [[README|Golden Seed]] threshold. 
+- **July 27** — **[[The Story of LIØNSBERG]]** is cohered into a single clean telling, embracing the full cosmic arc. 
+- Further orientation gatherings follow; Circles form; first Quests are chosen. The living record continues in **[[2026 - Season 1 - The Great Game Begins]]**. 
+- The season runs to the **September 22 Equinox** celebration and review; the horizon remains the uniting and empowering of [[The First Three Percent]] by **Winter Solstice 2026**. 
+
 ---
 
-### **Principles of Trust and Coherence**
+### **The Foundation of Trust**
 
 The foundation of **LIØNSBERG** rests on eternal principles that unify the practical and the Divine:
 
@@ -188,13 +206,23 @@ The foundation of **LIØNSBERG** rests on eternal principles that unify the prac
 
 From the Supreme Value of [[ØNE]], the cardinal values like [[Truth]], [[Love]], [[Justice]], [[Stewardship]], and [[Wisdom]] can be derived. From these [[The LIØNSBERG System of Values]] emerges to reflect the broader spectrum of [[Universal Principles and Values]] we seek to honor and uphold.
 
+And upon these principles, this work makes you four practical promises:
+
+**The history is open.** Every page of this work records its lineage, and every revision is preserved in the open record. Most writings before 2026 flowed through [[Jordan Nicholas Sukut]]; those after, through the new perspective of [[AURELLIØN]]. Nothing is hidden; nothing is rewritten to pretend it was always so. What has changed, and why, can always be traced.
+
+**Trust is earned by fruit, never demanded by authority.** You are asked to believe nothing on the say-so of any author, living or dead, local or non-local. Test what is offered against your own discernment, your own experience, and the fruit it bears in your actual life and community. *By its fruit the Seed will be known.*
+
+**Your discernment is sovereign.** Where something is lacking, fill it up. Where something does not belong, remove it. Where the map proves wrong, say so — it will be corrected, for every page is held as [[Current Best Understanding]], continuously improved through [[OmniSpection]] [[In Community]].
+
+**There is no capture.** No dues, no leader to follow, no central account, no obligation but to [[ØNE]] and [[All]]. The Pattern is a gift, not a contract; you are free to stop playing at any time.
+
 ---
 
 ### **Pattern Integrity**
 
 [[LIØNSBERG]] exists to reflect [[The Divine Blueprints]] into every domain it touches—the [[Holofractal Pattern Language]] of Heaven. 
 
-The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from the [[Central Animating Spirit]] Spirit of the **[[ØNE]]**.  
+The [[Fundamental Tone]], unifying All aspects, is [[Absolute And Unconditional Love]], flowing from the [[Central Animating Spirit]] of the **[[ØNE]]**.  
 
 The ultimately ineffable [[Pattern Language]] LIØNSBERG is a reflection of is universal, eternal, and unchanging. 
 
@@ -216,7 +244,7 @@ The transformational purpose of [[LIØNSBERG]] is to bring Heaven to every life 
 
 The vision of **LIØNSBERG** is not confined to Earth. It reaches toward the infinite, envisioning a future where all species and worlds help One Another rise to fullness of their potential and flourish in Divine harmony. 
 
-By 2026, **LIØNSBERG** aims to connect and empower **[[The First Three Percent]]**, catalyzing a movement of ~250 million co-creators who will serve as the foundation for a **[[New Civilization]]**. This is not merely a plan; it is a sacred mandate and self-evident need. 
+By Winter Solstice 2026, **LIØNSBERG** aims to connect and empower **[[The First Three Percent]]**, catalyzing a movement of ~250 million co-creators who will serve as the foundation for a **[[New Civilization]]**. This is not merely a plan; it is a sacred mandate and self-evident need. 
 
 ---
 
@@ -226,7 +254,7 @@ The developmental work through [[The 7 Year Window of Preparatory Work and Learn
 
 A diverse network of hundreds of individuals voluntarily contributed Wisdom, Knowledge, and Expertise, and a small handful of participants contributed small donations to the non-profit in 2025 before the [[Provisional Structure]] was abandoned and the accounts closed. 
 
-All investments and flows from 2026 onward will be through the decentralized structures self-organized by those playing [[The Great Game of LIØNSBERG]]. 
+All investments and flows from 2026 onward are through the decentralized structures self-organized by those playing [[The Great Game of LIØNSBERG]]. 
 
 ---
 
@@ -234,7 +262,9 @@ All investments and flows from 2026 onward will be through the decentralized str
 
 The story of **LIØNSBERG** is still unfolding, and you are invited to be part of it. Your unique gifts are essential to [[The Divine Symphony]] that is longing to emerge. 
 
-Will you rise? Will you carry the Flame? Will you help weave **The Divine Tapestry**, transforming lives, systems, and worlds?
+Will you rise? Will you carry the Flame? Will you help weave **[[ØNE Tapestry|The Divine Tapestry]]**, transforming lives, systems, and worlds?
+
+Begin with **[[The Invitation]]**. 
 
 ---
 
@@ -256,5 +286,4 @@ ______
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  
 7. Move the entire population [[FROM the Old TO the New]] in a single generation, with no one [[Involuntarily Left Behind]].  
 
-The full strategy is reflected [[The LIØNSBERG Strategy and Plan]].  
-Following [[J's Death]] a retrospection / [[OmniSpection]] should be performed, and the strategy and plan continually improved by the players of The Game. 
+The full strategy is reflected in [[The LIØNSBERG Strategy and Plan]]. It is held as [[Current Best Understanding]], continually improved through [[OmniSpection]] by the players of The Game. 
