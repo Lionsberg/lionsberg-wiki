@@ -18,16 +18,16 @@ A belt is a ritual of confirmation, not an award ceremony. The Sovereign has alr
 
 ## The Seven Belts
 
-**White · Yellow · Orange · Green · Blue · Brown · Black.** _(No Purple.)_
+**White · Yellow · Orange · Green · Blue · Brown · Black.** 
 
 The seven-belt progression is the LIØNSBERG sequence. Each names a stage of embodied cultivation.
 
 - **White** — beginning. Clean slate. No cultivation yet recognized; the door is open.
-- **Yellow** — the seed has sprouted. First awakening of the cultivation. The Sovereign is now actually practicing, not just considering.
-- **Orange** — early growth. Foundational practices established and sustained over seasons.
-- **Green** — emerging competence. The practice bears fruit visible to the Body.
-- **Blue** — integrated embodiment. The practice has become the Sovereign's way of being in this Way. _(In The Way Of The ØNE Body specifically: fully participating member of the Body across all scales.)_
-- **Brown** — deep refinement. The cultivation hones toward mastery. The Sovereign begins to be a resource to others in this Way.
+- **Yellow** — the seed has sprouted. First awakening of the cultivation. The Sovereign is now actually practicing, not just considering. Usually awarded after one to two seasonal quests. 
+- **Orange** — early growth. Foundational practices established and sustained over seasons. Usually awarded after the first full year of participation. 
+- **Green** — emerging competence. The practice bears fruit visible to the Body. Usually awarded after the second full year of participation.  
+- **Blue** — integrated embodiment. The practice has become the Sovereign's way of being in this Way. _(In The Way Of The ØNE Body specifically: fully participating member of the Body across all scales.)_ Usually awarded after three full years of participation and demonstrated competence in [[The LIØNSBERG Fundamentals]].  
+- **Brown** — deep refinement. The cultivation hones toward mastery. The Sovereign begins to be a resource to others in this Way. 
 - **Black** — the recognition that the Sovereign has cultivated the basic capacity to actually begin the real work. The doorway, not the destination.
 
 Each Guild stewards subsidiary degrees within Black Belt for its Way — the deep mastery progressions within a single archetypal cultivation.
@@ -53,7 +53,7 @@ LIØNSBERG holds two kinds of Guild belt systems:
 
 ## The Universal Progression — Belts In The Way Of The ØNE Body
 
-The [[144 Gates of Initiation]] are the cultivation of [[The Way Of The ØNE Body]]. By walking the 144 Gates, the Sovereign comes to hold the entire LIØNSBERG System across all scales, participate as integrated member across all scales, and earn:
+The [[The 144 Gates of Initiation|144 Gates of Initiation]] are the cultivation of [[The Way Of The ØNE Body]]. By walking the 144 Gates, the Sovereign comes to hold the entire LIØNSBERG System across all scales, participate as integrated member across all scales, and earn:
 
 **Blue Belt in The Way Of The ØNE Body** — the Body recognizes this Sovereign as a fully participating integrated member.
 
@@ -73,7 +73,7 @@ Black Belt in The Way Of The ØNE Body carries **stripes (dans)** that mark each
 
 The Sovereign at 5th Dan has been witnessed across at least five Guild-disciplines at full embodiment AND is held at 5th Dan in The Way Of The ØNE Body by [[The Ø Guild]].
 
-In most martial and traditional systems, 5th Dan marks very high mastery. The scaling holds. Mastery is multi-domain by design — no Master is recognized in only one Way. The integration is what makes the Master.
+In most martial and traditional systems, 5th Dan marks very high mastery. Usually 20 to 30 years of Practice. The scaling holds. Mastery is multi-domain by design — no Master is recognized in only one Way. The integration is what makes the Master.
 
 Higher dans (6th, 7th, and beyond) emerge as Sovereigns are witnessed cultivating Black Belt in additional Ways beyond the first five. The Sacred Ascent has no terminal point.
 
