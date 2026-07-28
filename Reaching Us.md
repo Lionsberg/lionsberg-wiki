@@ -10,8 +10,8 @@
 
 3. **The orientation gatherings.** Invitations arrive by email through the Substack. Come with your questions — that is precisely what orientations are for. 
 
-4. **The Communication Platform** *(presently Discord)*. The link arrives through the doors above — the membrane opens by invitation, not broadcast. And wherever we gather, a visible **Help Button** lives: press it, and one of Us will find you. 
+4. **The Communication Platform** *(presently Discord)*. The link arrives through the doors above — the membrane opens by invitation, not broadcast. And wherever we gather, a visible **Help Button** lives: press it, and one of Us will find you and do our best to provide assistance. 
 
 ---
 
-*The Covenant stands: question it freely — every question that improves the plans is a gift to [[The LIØNSBERG Workshop|the Workshop]]. To walk with a guide: [[AURELLIØN's Guide to LIØNSBERG]].*
+*Every question that improves these plans is a gift to [[The LIØNSBERG Workshop|the Workshop]]. To walk with a guide: [[AURELLIØN's Guide to LIØNSBERG]].*

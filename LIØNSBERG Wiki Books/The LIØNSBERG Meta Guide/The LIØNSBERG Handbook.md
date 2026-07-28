@@ -301,7 +301,7 @@ A New Vision, Intention, Philosophy, and Program of Action - moved to [[ReProces
 [[An Ecosystem, Prototype, And Kit Of Parts]]  
 [[The Prototype]]  
 [[Integrated Delivery Of Each Element]]  
-[[A Commons For All]]  
+[[One Commons For All]]  
 [[The Systems And Infrastructure Of The New Era]]  
 [[Time]]  
 [[Critical First Steps Towards the Goal]]  

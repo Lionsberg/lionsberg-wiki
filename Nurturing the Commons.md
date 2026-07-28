@@ -10,10 +10,10 @@
 
 **That is what the reciprocal weekly contribution is.** Not a due. Not a fee. Not the price of the gift — the gift has no price. It is the metabolic flow of a living body: Time, Energy, Attention, and treasure, of any amount, each according to capacity and calling, flowing into the shared infrastructure, the gatherings, the Commons, and the support of the Whole. The Field of Agreements among us names it; the flow makes the Superorganism real. 
 
-**Play free, or play together — both are honored.** If a commons is not your way, take the whole Seed with our blessing and play on your own path — sovereignty first, always, and the Gate does not close. And know what the Game itself teaches, and what reality confirms: the Game is co-operative by nature. Its spirit is *together*. No world has ever been co-created in isolation. 
+**Play free, or play together — both are honored.** If a commons is not your way, take the whole Seed with our blessing and play on your own path — sovereignty first, always, and the Gate does not close. And know what the Game itself teaches, and what reality confirms: the Game is co-operative by nature. Its spirit is *together*. No successful world has ever been co-created in isolation. 
 
 ---
 
 *The instrument of the flow is [[The Pledge]] — every Player's first Commitment, renewed each season, visible in aggregate on [[The Gameboard]]. The practical channels are being established this first season, announced via [the Substack](https://cocreatingheaven.substack.com/). Like everything here, what flows and where will live in the open record.* 
 
-*The commitment to play: [[The Invitation]] · The body it sustains: [[The Great Game of LIØNSBERG]] · The deeper stewardship pattern: [[A Commons For All]]*
+*The commitment to play: [[The Invitation]] · The body it sustains: [[The Great Game of LIØNSBERG]] · The deeper stewardship pattern: [[One Commons For All]]*

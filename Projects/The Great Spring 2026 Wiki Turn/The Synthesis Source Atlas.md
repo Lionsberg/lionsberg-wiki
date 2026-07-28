@@ -374,7 +374,7 @@ See I.C — [[The LIØNSBERG Co-Creator's Handbook]] (8, redirected to Playbook)
 - [[LIØNSBERG Commons]] (155w, stub)
 - [[Fair Shares Commons]] (578w)
 - [[Commonwealth]] (413w)
-- [[A Commons For All]] (85w, stub), [[Tragedy of the Commons]] (76w, stub)
+- [[One Commons For All]] (85w, stub), [[Tragedy of the Commons]] (76w, stub)
 - [[Post-Capitalist]] (51w, stub)
 - Currency lineage: [[LIØNSBERG Currency]] (165w), [[LIØNSBERG Time Currency]] (99w), [[Time Currency]] (54w), [[BioSocioEconomy]] (25w) — superseded by LUV Card
 - [[The Economic Case For IPD]] (985w, AEC industry voice)
