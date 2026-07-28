@@ -12,7 +12,7 @@ Earth has now entered its Nexus. The converging [[Meta Crisis]] is the Old reach
 
 **Living Within the Nexus**
 
-The Nexus cannot be managed from above, and it cannot be escaped from below. It is crossed the way all living transitions are crossed: seed by seed, Circle by Circle, season by season. This is precisely why [[The Great Game of LIØNSBERG]] exists — the practice by which the New is composed, place by place, while the Old completes its passing. Every move that makes life a little more like Heaven turns the released energy toward ascension. 
+The Nexus cannot be managed from above, and it cannot be escaped from below. It is crossed the way all living transitions are crossed: seed by seed, Circle by Circle, season by season, step by step. This is precisely why [[The Great Game of LIØNSBERG]] exists — the practice by which the New is composed, place by place, while the Old completes its passing. Every move that makes life a little more like Heaven turns the released energy toward ascension. 
 
 ---
 

@@ -158,7 +158,7 @@ Then **take your Turn on the Board**: a few lines from your Circle to the Whole 
 
 At each turning comes the seasonal **OmniSpection** — the Circle sees from above: *What did we set out to do? What actually happened? What did we learn? What is ours to do next?* Then a new Quest, and the wheel turns again.
 
-And the Game's clock runs at two speeds at once: this week's turn, and the **[[Ten Thousand Generations|ten thousand generations to come]]**. Every move is small enough to make this week — and every move echoes across the whole arc of our kind, through civilizations that rise and fall and rise again. We play as the elders teach, holding the sweetgrass braid: those who came before, those here now, those yet to come — three strands woven into one strong cord.
+And the Game's clock runs at two speeds at once: this week's turn, and the **[[Ten Thousand Generations|ten thousand generations to come]]**. Every move is small enough to make this week — and every move echoes across the whole arc of our interexistence, through civilizations that rise and fall and rise again. We play as the elders teach, holding the sweetgrass braid: those who came before, those here now, those yet to come — three strands woven into one strong cord.
 
 Play with urgency; rest with intention. The Earth itself is your timekeeper.
 
