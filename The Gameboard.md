@@ -17,6 +17,7 @@
 **[[2026 - Season 1 - The Great Game Begins|2026 · Season 1 — The Great Game Begins]]** — Summer: Grow.
 Solstice June 21 → Equinox September 22.
 Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Celebration & Review, September 22.
+*Gatherings and turnings are announced via [the Substack](https://cocreatingheaven.substack.com/).*
 
 ## Who We Are — the Circles
 

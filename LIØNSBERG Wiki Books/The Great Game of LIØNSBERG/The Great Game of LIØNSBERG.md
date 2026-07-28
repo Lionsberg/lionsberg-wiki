@@ -145,7 +145,7 @@ Then the wheel turns, and the moves begin again — a new Quest, a deeper Circle
 
 ## The Turns
 
-**Each week is a turn.** Gather, check in, monitor the commitments, plan the [[Wise Right Next Steps]], harvest what you are learning, close in gratitude. An hour or two, every week, same time.
+**Each week is a turn.** Gather, check in, monitor the commitments, plan the Wise Right Next Steps, harvest what you are learning, close in gratitude. An hour or two, every week, same time.
 
 Then **take your Turn on the Board**: a few lines from your Circle to the Whole — what we did, what we will do, what we learned, what we need, what we offer, and an update to your "green, yellow, red" status. Articulating the Turn is not paperwork; it is the heartbeat of the Superorganism — the pulse by which one body of ten thousand Circles knows itself, senses what is needed, and moves as one.
 

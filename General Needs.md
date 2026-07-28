@@ -11,7 +11,7 @@
 1. **Awaken and find one another** — the ready must find the ready. *In hand:* [[The Invitation]] · [[The LIØNSBERG Map of Maps]] · [[README|The Golden Seed]]. *Pattern:* [[Pass The Flame]]. 
 2. **Form and seal the body** — gathering at the pace of trust; name, membership, first commitment. *In hand:* [[The LIØNSBERG Quick Start Guide]] · [[Forge or Join a Group]] · [[Template For Group]] · [[Template For Rules of Participation]] · [[Circle Card Template]]. *To forge:* Welcome & Onboarding Checklist *(for those who join after the sealing)* · Graceful Release Protocol *(for those who leave — no one involuntarily left behind, no one involuntarily held)*. 
 3. **Aim together** — shared vision, purpose, and direction. *In hand:* [[Template For Vision and Purpose]] · [[Tool For Aiming]] · [[Template For Navigation Chart]]. 
-4. **Agree** — the field of agreements that protects the field of trust. *In hand:* [[Template For Field of Agreements]] · [[Template For Agreement With Group]] · [[Template For Agreement Between Groups]] · [[Template For Agreement to Collaborate]] · [[Template For Agreement With One And All - Temporal]] · [[Template For Agreement With One And All - Eternal]] · [[Protocols]]. *Pattern:* [[Selectively Permeable Membrane]]. 
+4. **Agree** — the field of agreements that protects the field of trust. *In hand:* [[Template For Field of Agreements]] · [[Template For Agreement With Group]] · [[Template For Agreement Between Groups]] · [[Template For Agreement to Collaborate]] · [[Template For Agreement With One And All - Temporal]] · [[Template For Agreement With One And All - Eternal]] · [[Protocols]]. *Pattern:* Selectively Permeable Membrane *(pending articulation)*. 
 
 ## II. Governing — deciding and organizing as one
 
@@ -33,7 +33,7 @@
 
 15. **Mend and repair** — tension without harm, rupture into repair. *In hand:* [[Transforming Conflict]] · [[The LIØNSBERG Circle Guide]] *(the tension protocol)*. *To forge:* Crisis Navigation Protocol *(when breakage exceeds the body's own capacity)*. 
 16. **Tend each member** — every soul in its zone of optimum development. *In hand:* [[The LIØNSBERG Co-Creator's Handbook]]. *To forge:* Circle & Member Health Check *(the universal assessment, made specific)*. 
-17. **Protect the body** — membrane, immunity, safety, privacy. *In hand:* [[Consent]] · [[Template For Rules of Participation]]. *Pattern:* [[Selectively Permeable Membrane]]. *To forge:* Safety & Privacy Guide *(consent-before-visibility; protecting members in a watching world)*. 
+17. **Protect the body** — membrane, immunity, safety, privacy. *In hand:* [[Consent]] · [[Template For Rules of Participation]]. *Pattern:* Selectively Permeable Membrane *(pending articulation)*. *To forge:* Safety & Privacy Guide *(consent-before-visibility; protecting members in a watching world)*. 
 
 ## V. Growing — the body among bodies
 

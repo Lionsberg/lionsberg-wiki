@@ -77,6 +77,8 @@ Those who feel the resonance and would like to play are invited to take three si
 2. **Subscribe to [the Substack](https://cocreatingheaven.substack.com/)** (free of course) to receive the next communications, including invitations to the orientation gatherings.
 3. Of the 100 people you know best: **pass this invitation forward to the two or three in your network most resonant and ready to play** — within one week.
 
+*And if more than a week has passed since this reached you — begin where you are. The Gate does not close.*
+
 The minimum commitment to play is 4–5 hours a week through the current season — each season turning at the solstice or equinox — and a reciprocal weekly resource contribution of any amount.
 
 From these simple steps **The Great Game begins**.

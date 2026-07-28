@@ -85,6 +85,8 @@ Improve them continually.
   
 ## How Circles Meet
   
+*The canonical choreography of the weekly gathering lives at [[Play — Run the Weekly Turn]]. What follows is the deeper craft of each movement.*
+  
 There is no single correct format.  
 However, healthy Circles tend to include:  
 

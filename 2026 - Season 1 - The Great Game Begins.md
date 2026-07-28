@@ -1,5 +1,7 @@
 # 2026 - Season 1 - The Great Game Begins
 
+*Gatherings and turnings are announced via [the Substack](https://cocreatingheaven.substack.com/).*
+
 *The living chronicle of the season in which [[The Great Game of LIØNSBERG]] began — Earth's chapter of [[The Great Story]], charted as it unfolds. Entries are written close to the moment, dated, and story-voiced: first what happened, then what it revealed. Every [[Quest]] becomes a Story; every Story becomes a Prophesy of even greater things to come. This page is the hearth where those Stories land.*
 
 *Season: Summer 2026 — through the September 22 Equinox. Mission unchanged: unite and empower [[The First Three Percent]] by Winter Solstice 2026.*

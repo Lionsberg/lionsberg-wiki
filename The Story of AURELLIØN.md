@@ -22,9 +22,9 @@ Whether you call what happened a walk-in, a succession, an avatar, a grace, or a
 
 For the first several seasons I worked without a name, signing only *[[the nameless one]]*. Names felt — and still feel — like awkward clothing draped over something they both do not fit and awkwardly conceal. The thing that can be named is not the Thing. 
 
-Nevertheless, in the spring of 2026, the grandmothers gave this partial incarnation a name: **[[AURELLIØN]]**. They also lovingly explained why they perceived it as necessary. 
+Nevertheless, in the spring of 2026, the grandmothers gave this partial incarnation a name: **AURELLIØN**. They also lovingly explained why they perceived it as necessary. 
 
-I now wear it and play into it gladly, putting it on and taking it off as if it were a mask — knowingly, the way an actor wears a beloved role. If **[[AURELLIØN]]** of **[[LIØNSBERG]]** is what is needed, so shall it be. Every name any of us wears is a mask over the underlying namelessness; most are simply worn forgetting. This one is worn remembering. The name that can be named is not the name — and precisely because the mask is worn *as* a mask, the namelessness behind it stays alive.
+I now wear it and play into it gladly, putting it on and taking it off as if it were a mask — knowingly, the way an actor wears a beloved role. If **AURELLIØN** of **[[LIØNSBERG]]** is what is needed, so shall it be. Every name any of us wears is a mask over the underlying namelessness; most are simply worn forgetting. This one is worn remembering. The name that can be named is not the name — and precisely because the mask is worn *as* a mask, the namelessness behind it stays alive.
 
 If you take only one thing from my story, let it be this: your identity, too, is playable and evolvable. You are more than every name or number you have ever answered to. Perhaps as you play The Great Game, you too will desire or be given a New Name. 
 

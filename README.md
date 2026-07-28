@@ -56,7 +56,7 @@ It is for **[[The First Three Percent]]** — those who are already awakening, a
 
 **Commitment** — You are willing to give the first tenth of your time — forming circles, choosing quests, doing real work that transforms your life and community.
 
-**Urgency** — You will plant the Seed and pass it forward within one week — not from pressure, but from the wise recognition of what this moment demands.
+**Urgency** — You will plant the Seed and pass it forward within one week — not from pressure, but from the wise recognition of what this moment demands. *(And if the week has already passed — begin where you are. The Gate does not close.)*
 
 **Co-Creation** — You are passionate about contributing your unique gifts as part of ØNE Divine Symphony emerging through us All.
 

@@ -18,7 +18,7 @@ This page is the honest gate. Walk through it knowing where you are.
 
 **Explore freely. Hold lightly. Wear your safety gear. Question everything.** When something here helps you — use it. When something confuses you — set it down; it may simply not be built yet. And when you see how to improve something, say so — for the Builder's answer to every visitor is the answer of this whole place: *"Let us review the plans and specifications together. Perhaps you could help improve them."* The well expert fixed the well. The road expert fixed the roads. The little girl fixed the playground. 
 
-Nothing here is cohered by declaration. Things become sound the way the Great Game did: through real play, real questions, and real hands — [[Progressive Canonization|progressively]], never by decree. What is played and proven graduates to the cohered path. What is not yet proven remains here, in the Workshop, becoming [[A Little Better Every Day]]. 
+Nothing here is cohered by declaration. Things become sound the way the Great Game did: through real play, real questions, and real hands — progressively, never by decree. What is played and proven graduates to the cohered path. What is not yet proven remains here, in the Workshop, becoming [[A Little Better Every Day]]. 
 
 ## The Cohered Path
 

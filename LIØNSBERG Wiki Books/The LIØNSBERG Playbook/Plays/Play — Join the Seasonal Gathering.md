@@ -4,6 +4,8 @@
 
 *When* the Circles gather at the turning — the Equinox Celebration & Review, September 22. Bring your Story. Hear the others. Feel the body you are part of. → [[2026 - Season 1 - The Great Game Begins]]
 
+*Gatherings are announced via [the Substack](https://cocreatingheaven.substack.com/).*
+
 **Related:** [[Play — Turn the Season]]
 
 ---

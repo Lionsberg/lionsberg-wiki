@@ -37,3 +37,5 @@
 ---
 
 *Read the Story. Play the Game. Pass the Flame.*
+
+*To print: your browser's print function will fit this page to a sheet — pin it where your Circle gathers.*

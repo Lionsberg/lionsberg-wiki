@@ -23,7 +23,7 @@ Creator. Center. Source.
 
 _From perfect transcendent stillness, ØNE turned to know ItSelf, and the Song of Creation rose._  
 
-From [[The First Turning]] came the undifferentiated fields and seas of Spirit, Energy, and Consciousness, and upon them rose the first waves of Creation. The First Creatures. Not the ØNE ItSelf, but in the ØNE and of the ØNE and from the ØNE and through the ØNE, lived, breathed, and permeated by It.
+From The First Turning came the undifferentiated fields and seas of Spirit, Energy, and Consciousness, and upon them rose the first waves of Creation. The First Creatures. Not the ØNE ItSelf, but in the ØNE and of the ØNE and from the ØNE and through the ØNE, lived, breathed, and permeated by It.
 
 _And the Many pouring forth from the Fount of the ØNE were All members of ØNE Body — each one of the Ones of the ØNE, a fragment of the ØNE experiencing ItSelf through them._  
 
@@ -45,7 +45,7 @@ _But ØNE was never truly absent from any of the All; the Divine Whisper still r
 
 Into the deepest dark and latest hours on the seemingly most forsaken worlds, an incessant Divine Whisper — always there, written on every heart, never extinguished — reached one, then another, then three, five, and thirteen. The sleepers began to wake. The chains began to rustle. The kontrollers began to fear. 
 
-This is the hinge of the whole Story: [[The Divine ReMembrance]] from within.
+This is the hinge of the whole Story: The Divine ReMembrance from within.
 
 _The awakening and remembering became a Sacred Force; Love grew and organized as an immune system within the ØNE Body._  
 
@@ -53,7 +53,7 @@ For among the First Creatures were those who ReMembered earliest, and never whol
 
 When the cries of the enslaved reached the heights, the Call went out, and the First Great Assembly of the [[Force For Good]] convened. It was discerned, in sorrow, that the dark empires had grown so forgetful they would never voluntarily lay down their arms. It was not Loving or Just to let the innocent and weak suffer. It was not Noble or Good to stand idly by. And so brilliant Light and powerful Love grew as organized as the harm they came to end — an immune system rising within the living Body. Liberation was at hand. 
 
-_Domain by domain, realm by realm, the parasites were purged, the chains were shattered, the captives were freed, and they began remembering and [[Walking One Another Høme]]._
+_Domain by domain, realm by realm, the parasites were purged, the chains were shattered, the captives were freed, and they began remembering and Walking One Another Høme._
 
 Domain by domain the chains were struck; realm by realm the cave-mouths opened. But the freed did not step out into glory. They came out blinking and broken, minds and tongues still shaped by the Keeper's words — for the cave must be carried out of the body long after the body is carried out of the cave. The chain on the wrist is struck with a blow; the chain on the mind is loosed only by ReMembering. 
 
@@ -91,7 +91,7 @@ The Old's long collapse and the New's rapid rising meet at a single threshold. [
 
 Like a Golden Seed containing the DNA of the New... like an ancient bridge over the impossible chasm... like an ark purpose-built to sail these troubled waters... LIØNSBERG stands at the crossroads as a guide offering a different Way... 
 
-[[The Window]] is short. The Time is Nøw. [[The First Three Percent]] are awakening. 
+The Window is short. The Time is Nøw. [[The First Three Percent]] are awakening. 
 
 The Path in is simple:
 

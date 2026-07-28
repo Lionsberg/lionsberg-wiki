@@ -152,7 +152,7 @@ Before closing, each person answers one question:
 
 > "Who are the 2 or 3 people I already know who are ready for this?"
 
-Write the names down. This is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern — not campaigns, but trust passed from hand to hand, always at the pace of trust. This is how [[The First Three Percent]] are reached on schedule. 
+Write the names down. This is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern — not campaigns, but trust passed from hand to hand, always at the pace of trust. This is how [[The First Three Percent]] are reached on schedule. *(If the week slips — begin where you are. The Gate does not close.)* 
 
 Ideally, you are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
 
@@ -167,34 +167,7 @@ Go around one final time. Each person completes this sentence:
 
 ### Your Weekly Rhythm
 
-Use **[[The LIØNSBERG Playbook]]** for detailed guidance on circle practices. Your typical meeting structure will be something like:
-
-**Opening Ritual** (5 min)  
-- Brief centering practice (breath, meditation, or prayer)
-- Remember who we are and why we're here
-
-**Check-In Round** (10-15 min)  
-- Each person shares where they are and how they are coming in to the gathering (emotionally, spiritually, practically)
-- No fixing, no discussion, just witnessing
-
-**Quest Coordination** (30-40 min)  
-- Progress updates: What's been done since last meeting?
-- Obstacles: What's blocking us?
-- Planning: What are the [[Discern the Wise Right Next Steps|Wise Right Next Steps]]?  
-- Commitments: Who will do what by when?  
-- Support: Who needs what from the circle?
-
-**Harvest** (10 min)  
-- What are we discovering as we work together?
-- What is working well?
-- What would we like to do differently or better?
-- What are we learning — about ourselves, each other, the quest?
-
-**Closing Ritual** (5 min)  
-- Gratitude round
-- Commitments: What will each person do before next meeting?
-- Take your Circle's Turn on [[The Gameboard]] — *did / will / learned*, plus any needs and offers
-- Benediction or closing word
+Every week, same time: run **[[Play — Run the Weekly Turn]]** — the full choreography, from arrival to gratitude, including taking your Circle's Turn on [[The Gameboard]]. [[The LIØNSBERG Playbook]] holds it, and every other Play your Circle will need.
 
 ### Your Seasonal Rhythm
 
