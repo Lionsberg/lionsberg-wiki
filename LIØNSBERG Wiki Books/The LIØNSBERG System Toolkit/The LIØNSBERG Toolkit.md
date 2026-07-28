@@ -1,6 +1,6 @@
 # The LIØNSBERG Toolkit
 
-*The toolshed of the Great Game — real instruments in hand today, and a forge for what is still being commissioned.*
+*The toolshed of **The Great Game** — real instruments in hand today, and a forge for what is still being commissioned.*
 
 *A resident of [[The LIØNSBERG Workshop]]: the shed is useful now, and the collection unfolds and continuously improves as the Game is played.*
 
@@ -10,50 +10,109 @@
 
 [[The LIØNSBERG Pattern Language]] holds the notes. [[The LIØNSBERG Playbook]] composes the riffs — the Plays a Circle runs when an operational moment calls. The Toolkit is the rack of instruments: the templates, trackers, and protocols you actually hold in your hands while a Play is running. When a Play says *forge your agreements* or *make a proposal* or *see the whole from above*, the Tool is what you pick up. 
 
-## The Workbench — ready today
+## The Workbench 
 
 **For gathering and forming**
-[[The LIØNSBERG Quick Start Guide]] · [[Forge or Join a Group]] · [[Template For Group]] · [[Circle Card Template]] *(your Circle's card in The Commons)* · [[The LIØNSBERG Co-Creator's Handbook]]
+- [[The LIØNSBERG Quick Start Guide]]
+- [[Forge or Join a Group]]
+- [[Template For Group]]
+- [[Template For Rules of Participation]]
+- [[Circle Card Template]] *(your Circle's card in The Commons)*
+- [[The LIØNSBERG Co-Creator's Handbook]]
 
 **For seeing the whole Game**
-[[The Gameboard]] · [[The Game on One Page]] · [[The LIØNSBERG Map of Maps]]
+- [[The Gameboard]]
+- [[The Game on One Page]]
+- [[The LIØNSBERG Map of Maps]]
+
+**For aiming and envisioning**
+- [[Template For Vision and Purpose]]
+- [[Tool For Aiming]]
+- [[Template For Navigation Chart]]
 
 **For deciding together**
-[[Decision Making]] · [[Proposals]] · [[Consent]] · [[Meaningful Objection]] · [[Range of Tolerance]]
+- [[Decision Making]]
+- [[Advantage Based Decision Making]]
+- [[Proposals]]
+- [[Consent]]
+- [[Meaningful Objection]]
+- [[Range of Tolerance]]
 
 **For organizing**
-[[Roles]] · [[Functional Accountability]] · [[Functional Accountability Chart]] · [[Domains of Responsibility and Authority]] · [[Organizations The LIØNSBERG Way]]
+- [[Roles]]
+- [[Functional Accountability]]
+- [[Functional Accountability Chart]]
+- [[Domains of Responsibility and Authority]]
+- [[Organizations The LIØNSBERG Way]]
 
 **For agreements**
-[[Template For Field of Agreements]]
+- [[Template For Field of Agreements]]
+- [[Template For Agreement With Group]]
+- [[Template For Agreement Between Groups]]
+- [[Template For Agreement to Collaborate]]
+- [[Template For Agreement With One And All - Temporal]] · [[Template For Agreement With One And All - Eternal]]
+- [[Protocols]]
+
+**For meetings**
+- [[Preflight Checklist For Meeting]]
+- [[Template For PM Navigation Meeting]]
 
 **For questing and delivering**
-[[Quests]] · [[Quest Card Template]] · [[Everything Is A Project]] · [[Template For Project]] · [[Project Delivery Guide]] · [[Project Management Hygiene]] · [[Identifying And Solving Issues]] · [[Tool For Aiming]]
+- [[Quests]]
+- [[Quest Card Template]] *(in The Commons)*
+- [[Everything Is A Project]]
+- [[Template For Project]]
+- [[Project Delivery Guide]]
+- [[Project Management Hygiene]]
+- [[Identifying And Solving Issues]]
+- [[LIØNSBERG Issue Tracker]]
+- [[A3 Reports]]
+- [[Template For Analysis]]
 
 **For the turnings**
-[[Template For Seasonal OmniSpection]]
+- [[Template For Seasonal OmniSpection]]
 
 **For mending**
-[[Transforming Conflict]]
+- [[Transforming Conflict]]
+
+**For pattern-crafting**
+- [[Template For Pattern Language (Simple)]]
+- [[Template For Pattern Language (Detailed)]]
+- [[Template For Values Pattern Language]]
 
 **For telling and resourcing**
-[[Your Story]] · [[Story Template]] *(the harvest, in The Commons)* · [[LIØNSBERG Case Studies]] · [[3.2 Crowdfunding Overview]]
+- [[Your Story]]
+- [[Story Template]] *(the harvest, in The Commons)*
+- [[LIØNSBERG Case Studies]]
+- [[3.2 Crowdfunding Overview]]
+- [[The LIØNSBERG Resource Library]]
 
-## The Forge — commissioned, not yet built
+**For growing the movement**
+- [[The LIØNSBERG Guide To Movement Building]]
 
-The instruments the Game already knows it needs. The Builder's answer stands: *perhaps you could help build them.* When one is forged and proven in real play, it moves to the Workbench. 
+## The Forge — what remains to be built
 
-- **Commitment Tracker** — the Circle's said-and-did ledger *(until it exists, the `turns::` line on your [[Quest Card Template|Quest card]] serves)*
-- **Issue Tracker** · **Template For Roles** · **Template For Proposals** · **Quarterly Quests** guide
-- Assessment and retrospective instruments at each scale — personal, Circle, Community, System
-- Vision and story tools · analysis and sense-making tools · strategy and planning tools
-- Outreach and engagement guide · communication, networking, and collaboration tools
-- Monitoring, evaluation, and continuous-improvement tools · capacity-building resources · advocacy and systemic-change tools
-- **The Transformation Handbooks** — Individual · Group · Community and Bioregion · National and Global
+**One tool, every scale.** The instruments of LIØNSBERG are universal — holofractal by design. We do not build a personal version, a group version, a community version: we build each instrument once, so the same tool serves a soul, a Circle, a Community, and a world. 
 
-## The Design Ore
+What follows is what remains to be built to fulfill the Toolkit's original vision. The Builder's answer stands: *perhaps you could help build them.* When an instrument is forged and proven in real play, it moves to the Workbench. 
 
-Beneath the shed lies the original design worth keeping whole: **the same toolset expressed at four scales** — personal, group, community, systemic — each scale with its own six-step process, its own prototype and pattern language, each integrating with the levels above and below it. That four-scale grid remains the Toolkit's north star as the shed fills, and the full original sketch is preserved in the open record. 
+- **Commitment Tracker** — the said-and-did ledger, with Percent Commitments Kept *(until it exists, the `turns::` line on your [[Quest Card Template|Quest card]] serves)*
+- **Template For Roles** — defining and rotating a body's roles with clarity and lightness
+- **Template For Proposals** — bringing a proposal fit for consent
+- **Seasonal Quest Starter Kit** — prompts and patterns for choosing and shaping a season's Quest
+- **The Six Step Process** — the universal transformation sequence any body can walk
+- **The Universal Assessment** — seeing honestly where any body stands, and what wants to grow next
+- **The System-of-Systems Lens** — seeing any body as a living system of systems
+- **Consciousness and capacity practices** — growing creativity, communication, and collaboration
+- **Regenerative culture and lifestyle instruments** — living justly and regeneratively as a way of being
+- **Vision and story instruments** — crafting shared vision and living story, beyond the first templates
+- **Strategy and planning instruments** — from intention to executable pathway
+- **Engagement and outreach instruments** — communication, networking, and alliance-building
+- **Monitoring, evaluation, and continuous-improvement instruments** — reflection and growth beyond the Seasonal OmniSpection
+- **Advocacy and systemic-change instruments** — moving policy and structures toward The Goal
+- **The Transformation Handbook** — one universal handbook, alive at every scale
+- **The Adaptation Guide** — carrying the instruments faithfully across contexts and cultures
+- **Training, mentoring, and support pathways** — so no Quest walks alone
 
 ---
 
