@@ -8,18 +8,17 @@ _May this guidebook help illuminate the Way for those brave souls journeying tog
 
 About the Author: [[The Story of AURELLIØN]]  
 On the nature and limits of this map: [[A Note on Perspective]]  
+On the use of AI: A Note on the Use of AI
 
 ____
 
 ## The Vantage
 
-This Guide sees from a primarily cosmic and non-local vantage before localizing to Here and Now. The full context — the teeming cosmos, the long contest over this world and its human and non-human inhabitants, the stakes of [[The Final Test]] at the end of a ten-thousand-year era — is told where it belongs, in [[The Story of LIØNSBERG]]. What matters at the threshold is this: the decisions made in this generation will shape life aboard Earth for millennia to come. 
+This Guide sees from a primarily cosmic and non-local vantage before localizing to Here and Now via **The Story** and **The Great Game**. The full context — the teeming cosmos, the long contest over this world and its human and non-human inhabitants, the stakes of [[The Final Test]] at the end of a ten-thousand-year era — is told in [[The Story of LIØNSBERG]]. What matters at the threshold is understanding that the decisions made in this generation will shape life aboard Earth for millennia to come. 
 
 ## The Golden Seed
 
-In 2026, just as it appeared that it was too late and all would be lost, [[The Golden Seed of LIØNSBERG]] was rediscovered. Bursting forth from within it was an _already operative_ cosmic culture, civilization, and operating system, localized, adapted, and offered as a free gift to Earth. 
-
-The Seed is how the DNA of LIØNSBERG travels across the cosmos and plants itself in new realms and worlds. It is equally at home being nurtured in the pocket of a child, on the hearth of a family, in the commons of a small village, in the heart of a major spaceport, or in the transformation of galactic orders. It now lies in your hands. Waiting. Watching. Wondering. 
+[[The Golden Seed of LIØNSBERG]] is how the DNA of LIØNSBERG travels across the cosmos and plants itself in new realms and worlds. Bursting forth from within it is an _already operative_ cosmic culture, civilization, and operating system, now localized, adapted, and offered as a free gift to Earth.  It is equally at home being nurtured in the pocket of a child, on the hearth of a family, in the commons of a small village, in the heart of a major spaceport, or in the transformation of galactic orders. It now lies in your hands. Waiting. Watching. Wondering. 
 
 ## Your First Steps
 
@@ -27,22 +26,23 @@ You do not need to read further before you begin. Read [[The Invitation]]. Then 
 
 ## The Territory
 
-- **When you gather** — [[The LIØNSBERG Quick Start Guide]] walks your Circle through its first ninety minutes together. 
-- **When you play** — [[The Great Game of LIØNSBERG]] is the rulebook: simple enough for any child or family, yet powerful and sophisticated enough to co-create new worlds. [[The Game on One Page]] fits in your pocket. [[The Gameboard]] makes the whole living Game visible in The Commons — the Circles, the Quests, the Stories, the Season, the Score. 
-- **When you keep the rhythm** — [[The LIØNSBERG Playbook]] holds the practices of the weekly turns and seasonal rounds. 
+- **When you first gather** — [[The LIØNSBERG Quick Start Guide]] walks your Circle through its first ninety minutes together. 
+- **When you go orient** — [[The Story of LIØNSBERG]] is the unifying universal narrative and ontology, and an invitation to weave your story back into [[The Great Story]] of [[ØNE]] and [[All]]; Earth's present Chapter is being chronicled as it unfolds at [[2026 - Season 1 - The Great Game Begins]]. 
+- **When you play** — [[The Great Game of LIØNSBERG]] is the basic rulebook: simple enough for any child or family, yet powerful and sophisticated enough to co-create new worlds. [[The Game on One Page]] fits in your pocket. [[The Gameboard]] makes the whole living Game visible in The Commons — the Circles, the Quests, the Stories, the Season, the Score. 
+- **When you keep the rhythms, roles, and rituals** — [[The LIØNSBERG Playbook]] holds the core practices of the weekly turns and seasonal quests. 
 - **When you build** — [[The LIØNSBERG Toolkit]] offers instruments for gathering, deciding, questing, and building. [[The LIØNSBERG System]] transforms our collective inheritance of wisdom, knowledge, and understanding into a continuously improving [[System of Systems]], explicitly designed to produce [[Throughput]] of [[The Goal]] across cosmo-local scales. 
-- **When you go deeper** — [[The Story of LIØNSBERG]] is the unifying universal narrative and ontology, an invitation to weave your story back into [[The Great Story]] of [[ØNE]] and [[All]]; Earth's present Chapter is being chronicled as it unfolds at [[2026 - Season 1 - The Great Game Begins]]. [[The LIØNSBERG Sacred Codex]] is the gateway to the deeper works that guide and hold the emergence of LIØNSBERG across generations and worlds. 
+ - **When you go deeper** — [[The LIØNSBERG Sacred Codex]] is the gateway to the deeper works that guide and hold the emergence of LIØNSBERG across generations and worlds.
 - **When you look outward** — [[The LIØNSBERG Map of Maps]] shows who else is already awake and at work across the Earth. [[The LIØNSBERG Resource Library]] is the commons of accumulated provisions — open to all travelers, growing as each contributes what they carry. 
 - **When it feels vast** — you do not need to read or understand it all. The Way is walked one step at a time, and everything will be waiting when the journey calls for it. 
 
-## History and Trust
+## History, Trust, and Verification
 
-This work carries its history openly. Every page records its lineage via git, and every revision is preserved in the open record — what has changed, and why, can always be traced: [[LIØNSBERG - History, Inception, and Trust Manifesto]]. 
+This work carries its history openly. Every page records its lineage via git, and every revision is preserved in the open record — what has changed, and why, can always be traced. [[LIØNSBERG - History, Inception, and Trust Manifesto]]. 
 
 ## The Guide's Covenant
 
-This guide exists merely to illuminate the Way. Its aim is your [[Sovereignty]] and empowerment. Walk with it as long as it serves you. Question it freely. Improve it wherever your territory or experiences illuminate a deeper Truth.
+This guide exists merely to illuminate the Way. Its aim is your [[Sovereignty]], autonomy, and empowerment. Walk with it as long as it serves you. Question it freely. Improve it wherever your territory or experiences illuminate a deeper Truth.
 
-And when the day comes that you find yourself guiding others — the two or three you invited, the Circle you helped form, the travelers who arrive after you — you will understand the quiet truth at the heart of this covenant: Guidance is a sacred Flame to be carried across generations. 
+And when the day comes that you find yourself guiding others — the two or three you invited, the Circle you helped form, the travelers who arrive after you — you will embody the quiet truth at the heart of this covenant: Guidance is a diverse and sacred Flame to be carried across generations and worlds. 
 
 Begin: **[[The Invitation]]**. 
