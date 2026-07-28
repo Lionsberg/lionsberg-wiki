@@ -43,6 +43,18 @@
 21. **Celebrate, rest, and renew** — gratitude, ritual, and the seasons honored. *To forge:* Book of Celebrations & Rituals *(openings, closings, blessings, turnings)*. 
 22. **Remember** — the body's living memory, held in common. *In hand:* this wiki, The Commons, and the open git record. *To forge:* Circle Memory Guide *(keeping your body's plain-text memory)*. 
 
+## VI. Deepening — capacity and regenerative life
+
+23. **Grow in capacity** — every member, and the body itself, growing in creativity, communication, collaboration, and craft. *In hand:* [[The LIØNSBERG Resource Library]]. *To forge:* Capacity Practice Library *(consciousness and capacity practices, gathered and teachable)*. 
+24. **Provision and regenerate life** — food, energy, shelter, health, land: meeting material needs as acts of regeneration. *To forge:* Regenerative Living Instruments *(household and community provisioning, the regenerative way)*. 
+
+## VII. Widening — strategy, measurement, and the world beyond
+
+25. **See far and strategize** — the body's way across many seasons, not just one Quest. *In hand:* [[Template For Navigation Chart]] · [[10 Year Grand Strategy]] *(as reference)*. *To forge:* Strategy Map *(the multi-season way toward The Goal)*. 
+26. **Measure what matters** — did life actually become more like Heaven? Throughput honestly assessed. *In hand:* the Score on [[The Gameboard]]. *To forge:* Throughput & Impact Measures. 
+27. **Reach beyond the warm network** — public gatherings, events, media, and alliances with existing organizations. *In hand:* [[The LIØNSBERG Guide To Movement Building]] · [[The LIØNSBERG Map of Maps]] · [[The Great Game — Orientation Session 1]] *(the first orientation agenda, a proto-kit)*. *To forge:* Outreach & Orientation Kit. 
+28. **Transform the surrounding systems** — advocacy, policy, and structural change toward The Goal. *To forge:* Advocacy & Systemic Change Kit. 
+
 ---
 
 *Most operational Patterns and Plays that meet these needs are still [[Patterns Pending Articulation|pending articulation]] — this register commissions them as surely as it commissions the tools. Held as [[Current Best Understanding]]: needs may be added, merged, or renamed as real bodies teach us what they actually face.*

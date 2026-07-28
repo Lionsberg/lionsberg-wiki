@@ -112,8 +112,17 @@ What follows is what remains to be built to fulfill the Toolkit's original visio
 - **Book of Celebrations & Rituals** — openings, closings, blessings, turnings *(need 21)*
 - **Circle Memory Guide** — keeping the body's plain-text memory *(need 22)*
 
+- **Capacity Practice Library** — practices that grow creativity, communication, collaboration, and craft *(need 23)*
+- **Regenerative Living Instruments** — provisioning food, energy, shelter, health, and land the regenerative way *(need 24)*
+- **Strategy Map** — the body's multi-season way toward The Goal *(need 25)*
+- **Throughput & Impact Measures** — measuring what matters, beyond the Score *(need 26)*
+- **Outreach & Orientation Kit** — public gatherings, events, and orientation sessions; its seed already exists in [[The Great Game — Orientation Session 1]] *(need 27)*
+- **Advocacy & Systemic Change Kit** — moving policy and structures toward The Goal *(need 28)*
+
 And the deeper universal instruments that hold the whole kit together:
 
+- **The Universal Assessment** — seeing honestly where any body stands and what wants to grow next; the Circle & Member Health Check is its first specific instance
+- **The System-of-Systems Lens** — seeing any body as a living system of systems
 - **The Six Step Process** — the universal transformation sequence any body can walk
 - **The Transformation Handbook** — one universal handbook, alive at every scale
 - **The Adaptation Guide** — carrying the instruments faithfully across contexts and cultures
