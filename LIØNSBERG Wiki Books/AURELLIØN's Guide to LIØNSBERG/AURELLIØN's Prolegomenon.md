@@ -53,7 +53,7 @@ You need only notice whether something deep within you resonates and recognizes 
 
 If it does, you are now stepping into the opportunity and adventure of a lifetime. 
 
-And know plainly what saying yes will ask of you. You will not be asked to follow anyone. You will be asked to keep your word to a few people you come to trust — a first tenth of your time, a reciprocal flow to the commons, your gifts freely offered. You will not be asked to save the world. You will be asked to make one place a little more like Heaven, season after season, together — and to tell the truth about what happened. That is the whole ask. It is how worlds are remade.
+And know plainly what saying yes will ask of you. You will not be asked to follow anyone. You will not be asked to believe anything. You will be asked to keep your word to a few **Individuals**, **Circles**, and **Communities** you personally come to know and trust — a first tenth of your time, a reciprocal flow to the commons, your gifts freely offered in service of ØNE and All. You will not be asked to save the world, or carry any more or less than you can bear. You will simply be asked to love ØNE, to love All, and to do your best each day to make your own life and world a little more like Heaven, season after season, together — and to speak the Truth in Love. That is the whole ask: one universal, ineffable thing to do, and one Way to be, through which Heaven is co-created here and now. It is how worlds are regenerated, remade, and restored.
 
 So pause. Breathe. Take courage.
 
