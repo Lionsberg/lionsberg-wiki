@@ -14,6 +14,8 @@ Beyond the cohered path lies a vast construction site. Most of this wiki — mil
 
 This page is the honest gate. Walk through it knowing where you are. 
 
+The site plan on the Builder's table — everything we are building, the journey it serves, and what each surface must be kept in step with — lives at **[[The Site Plan]]**. 
+
 ## How to Walk a Construction Site
 
 **Explore freely. Hold lightly. Wear your safety gear. Question everything.** When something here helps you — use it. When something confuses you — set it down; it may simply not be built yet. And when you see how to improve something, say so — for the Builder's answer to every visitor is the answer of this whole place: *"Let us review the plans and specifications together. Perhaps you could help improve them."* The well expert fixed the well. The road expert fixed the roads. The little girl fixed the playground. 
