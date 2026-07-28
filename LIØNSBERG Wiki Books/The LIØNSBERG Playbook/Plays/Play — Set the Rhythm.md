@@ -4,7 +4,7 @@
 
 *When* the Circle is sealed. One consistent slot, weekly, about ninety minutes. Decide who reminds, who facilitates first (rotate it), and who tends your corner of [[The Gameboard]]. The rhythm is the trellis everything grows on.
 
-**Related:** [[Play — Forge Your Agreements]] · [[Play — Open a Channel]]
+**Related:** [[Play — Forge Your Agreements]] · [[Play — Open a Communication Channel]]
 
 ---
 

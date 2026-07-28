@@ -4,7 +4,7 @@
 
 *When* your Circle consents to be visible. Copy the [[Circle Card Template]], add your row to [[The Gameboard]] — first names only; playing unlisted is honored. From now on, your Circle takes its Turn there weekly.
 
-**Related:** [[Play — Open a Channel]]
+**Related:** [[Play — Open a Communication Channel]]
 
 ---
 

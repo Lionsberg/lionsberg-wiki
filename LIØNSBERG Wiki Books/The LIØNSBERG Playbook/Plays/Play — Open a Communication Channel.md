@@ -1,4 +1,5 @@
-# Play — Open a Channel
+# Play — Open a Communication 
+Channel
 
 *The Opening Plays · a card of [[The LIØNSBERG Playbook]]*
 

@@ -26,7 +26,7 @@ Every Play answers a need in [[General Needs|the General Needs register]]. Two r
 - **[[Play — Name the Circle]]** — *when sealing, or when the placeholder goes stale*
 - **[[Play — Forge Your Agreements]]** — *when sealing, and at every turning after*
 - **[[Play — Set the Rhythm]]** — *when the Circle is sealed*
-- **[[Play — Open a Channel]]** — *when the week between gatherings falls silent*
+- **[[Play — Open a Communication Channel]]** — *when the week between gatherings falls silent*
 - **[[Play — Join the Board]]** — *when your Circle consents to be visible*
 
 ### The Weekly Turn — the heartbeat
