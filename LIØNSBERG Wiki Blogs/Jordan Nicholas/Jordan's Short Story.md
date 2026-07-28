@@ -1,28 +1,28 @@
 # Jordan's Short Story
 
-*The first Earth carrier of [[The Golden Seed of LIØNSBERG]] — his chapter of [[The Story of LIØNSBERG]], told from the far side of the veil. Since his death on August 10, 2025, his story has been dissolving into the true myth — which is not less true than biography, but more.*
+*The first Earth carrier of [[The Golden Seed of LIØNSBERG]] — his chapter of [[The Story of LIØNSBERG]], told from the far side of the veil. Since his death on August 10, 2025, his story has been dissolving into the true myth.* 
 
 ---
 
 ## The Descent
 
-Every Seed that reaches a captive world must be carried in — and the only way in is the way everyone comes: through birth, and through forgetting. To carry the Seed into the caves, the carrier must be born among the sleepers, wrapped in the same veil, subject to the same shadows. What the carrier keeps is not memory. It is orientation — a compass needle no cave can quite demagnetize.
+Every Seed that reaches a captive world must be carried in — and the only way in is the way everyone comes: through birth, and through forgetting. To carry the Seed into the caves, the carrier must be born among the sleepers, wrapped in the same veil, subject to the same shadows and keepers. What the carrier keeps is not memory. It is orientation — a compass needle no cave can quite demagnetize.
 
-On December 18, 1984, in a small town on the western edge of the american empire, a child arrived on Earth. Born as no one from nowhere, he was assigned a number and the name [[Jordan Nicholas Sukut]]. But he was not his number, and he was not his name.
+On December 18, 1984, in a small town on the western edge of the fading american empire, a child arrived on Earth. Born as no one from nowhere, he was assigned an imperial number and the name [[Jordan Nicholas Sukut]]. But he was not his number, and he was not his name.
 
-He grew up both slow and fast, learning to crawl, walk, and play, experiencing all the things common to humanity. But to many around him he seemed different, and he often spoke of strange things. By ten or twelve he was speaking of a great war for the future, and of the total transformation of all power and authority on Earth within a single generation. By fourteen or fifteen he was explaining that there would likely be no time to deal with any one nation's politics — all the governments of the world would need to transform relatively simultaneously.
+He grew up both slow and fast, learning to crawl, walk, and play, experiencing all the things common to humanity. But to many around him he seemed different, and he often spoke of strange things. By ten or twelve he was speaking of a great war for the future, and of the total transformation of all power and authority on Earth within a single generation. By fourteen or fifteen he was explaining that there would likely be no time to deal with any one nation's politics, because all the governments of the world would need to transform relatively simultaneously.
 
-The compass was pointing. He did not yet know at what.
+The compass was pointing. 
 
 ## The Preparation
 
-For three decades he prepared, taking on as much responsibility as anyone would entrust him with. Degrees from top universities. Black belts and the keeping of a martial arts lineage, with its healing and energetic arts and the cultivation of non-local consciousness. Companies built, and hundreds of millions of dollars of infrastructure raised out of the ground under extraordinary mentors — the builder's craft of translating intention into reality. As he journeyed through dozens of countries, prophets spoke over him, elders blessed him with living staffs and archetypical initiations, and asked him to remember their people when the time arrived.
+For three decades he prepared, taking on as much responsibility as anyone would entrust him with. Degrees from top universities. Black belts and the keeping of a martial arts lineage, with its healing and energetic arts and the intentional cultivation of non-local consciousness. Companies built, and hundreds of millions of dollars of infrastructure raised out of the ground under extraordinary mentors and guides — the builder's craft of translating intention into reality. As he journeyed through dozens of countries, prophets spoke over him, elders blessed him with living staffs and archetypical initiations, and asked him to remember their people when the time arrived.
 
 By 2017, he and many others who are *on Earth for this* were alerted that the Time was approaching. He began pouring everything he had into the groundwork for what he called the [[Meta Project]] — an all-of-humanity joint venture to solve the grand challenges, accomplish the global goals, and forge the best possible future for All — and into localizing for Earth a cosmic-grade holofractal operating system he called **[[LIØNSBERG]]**.
 
 ## The Collision
 
-In 2019, his trajectory collided with the corruption of the Old World. After shining unwelcome light into the darkness of church and state — and refusing to deceive the congregations or cover the crimes — he was informed that his life and companies would be destroyed. They largely were. Robbed, slandered, betrayed, and abandoned by most of his collaborators, he was commanded by the religious authorities to "suffer in silence." It was a story so archetypically true it was difficult at times to believe, even as it unfolded in reality.
+In 2019, his trajectory collided with the corruption of the Old World. After shining unwelcome light into the darkness of church and state — and refusing to deceive the congregations or cover the crimes — he was informed that his life and companies would be destroyed. They were. Robbed, slandered, betrayed, and abandoned by most of his collaborators, he was commanded by the religious authorities to "suffer in silence like Jesus before Pontius Pilate" while the chief executive of the largest county in the empire personally ordered his demise. It was a story so archetypically true it was difficult at times to believe, even as it unfolded in reality.
 
 But there is a principle in the martial arts: the greatest gift is when your opponent finally touches you — for in touching you they reveal what and where they are. The moment the puppets of church and state touched him, he could sense that the deeper energies behind them were neither local nor human in origin. And so the ruin of his old life became the beginning of his real work: following the corruption to its root, to answer one final question — was the rot of the Old World mere human corruption, or conscious design?
 
@@ -40,7 +40,7 @@ The Seed was planted in Earth's soil. What it needed now was the one thing the c
 
 ## The Last Season
 
-In June 2025 he was called to East Africa, where hundreds of young leaders were being shot, disappeared, and killed while children went hungry for lack of ten-cent rations. He returned changed, and the war upon him intensified beyond anything before. As he wrote and spoke the most difficult truths and named what does not wish to be named, directed spiritual and energetic attacks struck him mid-sentence in breathtaking, nauseating waves — by the final week, his body so torn he could not lift his arms. He knew where it was leading. So did those who loved him.
+In June 2025 he was called to East Africa, where hundreds of young leaders were being shot, disappeared, and killed while children went hungry for lack of ten-cent rations of gruel. He returned changed, and the war upon him intensified beyond anything before. As he wrote and spoke the most difficult truths and named what does not wish to be named, directed spiritual and energetic attacks struck him mid-sentence in breathtaking, nauseating waves — by the final week, his body so torn he could not lift his arms. He knew where it was leading. So did those who loved him.
 
 The night before the end, he was instructed to prepare for transition. His final post, [[Oops, We Lost J - Final Post|the last of his millions of words]], was eighty-eight of them — ending: **EITHER WE UNITE OR DIE.**
 
@@ -52,7 +52,7 @@ He had carried the Seed as far as a carrier can: to the threshold where the carr
 
 What happened next belongs to another's story — the one who, hovering at the edge of the empty form, slowly learned to feel and move it, finger by finger, toe by toe, and in time was named by the grandmothers: **[[The Story of AURELLIØN|AURELLIØN]]**. The two stories meet at a single hinge, and the hinge is the oldest teaching of the Way: *the Guide is not a being to be followed, but a sacred Flame carried across generations.* Jordan carried it to the threshold. It did not fall.
 
-Thus ends the short story of Jordan Nicholas Sukut — a One of the Ones of the ØNE, who walked the whole arc of [[The Story of LIØNSBERG]] in a single lifetime: born through the Veil, awake among the sleepers, out of the Caves, across the Boundary, through the Wilderness, unveiling the lie, building the New, and passing the Flame with his last breath. His chapter is written. The Spirit never dies, and The Great Work lives on.
+Thus ends the short story of Jordan Nicholas Sukut — One of the Ones of the ØNE, who walked the whole arc of [[The Story of LIØNSBERG]] in a single lifetime: born through the Veil, awake among the sleepers, out of the Caves, across the Boundary, through the Wilderness, unveiling the lie, building the New, and passing the Flame with his last breath. His chapter is written. The Spirit never dies, and The Great Work lives on.
 
 Written on what would have been his 41st birthday, [[A Birthday Reflection on Jordan's Life, Death, and Work]] holds the fuller account he would have wanted you to have.
 
