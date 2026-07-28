@@ -16,15 +16,15 @@ tags: [map, seed, entry, agent-core]
 
 ## The Heart — what the whole thing is
 
-- **The Game** — *"All of us, together, making every place we touch a little more like Heaven."* The simplest thing in the world; everything else is commentary on it. → [[1. The Game]]
-- **The Goal** — *ØNE. Creator's Intent. Heaven. On Earth. For All. Forever.* Not after you die — here, now, progressively realized. The compass is one question: *"Does this make life a little more like Heaven, or a little more like Hell?"* → [[2. The Goal]]
+- **The Game** — *"All of us, together, making every place we touch a little more like Heaven."* The simplest thing in the world; everything else is commentary on it. → [[The Great Game of LIØNSBERG]]
+- **The Goal** — *ØNE. Creator's Intent. Heaven. On Earth. For All. Forever.* Not after you die — here, now, progressively realized. The compass is one question: *"Does this make life a little more like Heaven?"* If it does — make the move. If it does not — pause, turn, and choose a better one. → [[The Great Game of LIØNSBERG]]
 - grounded_in:: [[ONE]] · [[Creator's Intent]] · [[Heaven On Earth]]
 
-## How to play — the Seven Moves
+## How to play — the Five Basic Moves
 
-The whole Game is seven moves, at every scale, self to galaxy:
-**Wake Up · Form a Circle · Choose a Quest · Do the Work · Share Your Stories · Learn and Improve · Pass the Flame.**
-*A child can learn them in five minutes; a lifetime is not enough to master them.* → [[4. The Moves]]
+The whole Game is five basic moves, at every scale, self to galaxy — and before them, the move you have already made: waking up.
+**Form a Circle · Choose a Quest · Learn and Grow · Share Your Stories · Pass The Flame.**
+*A child can learn them in five minutes; a lifetime is not enough to master them.* → [[The Great Game of LIØNSBERG]]
 - part_of:: [[The Great Game of LIØNSBERG]]
 - informs_downstream:: [[Playing The Great Game — With Your Agent]] (the ready-to-play on-ramp)
 
@@ -33,6 +33,8 @@ The whole Game is seven moves, at every scale, self to galaxy:
 - **The Golden Seed** — the single shareable invitation, passed hand to hand. → [[README]]
 - **Welcome to LIØNSBERG** — the deeper threshold: the Ground, the Story, the Pattern, the Game, the Ascent, the Path. → [[Welcome to LIØNSBERG]]
 - **START HERE** — the simplest first-steps ramp. → [[START HERE — The First Steps of Our Shared Journey]]
+- **The Game on One Page** — the whole Game in your hand: print it, pin it, pass it. → [[The Game on One Page]]
+- **The Gameboard** — the Game made visible: the Commons where every Circle, Quest, and Story can be seen at a glance. → [[The Gameboard]]
 - **The Quick Start Guide** — your literal first 90 minutes together. → [[The LIØNSBERG Quick Start Guide]]
 - **A Note on Overwhelm** — read this if it all feels vast. *"You do not need to read or understand it all."* → [[A Note on Overwhelm]]
 
@@ -48,7 +50,7 @@ The most refined body in the canon: the **Twelve Irreducible Elements** (eight o
 
 ## Pass the Flame — how it spreads
 
-Not optional — the nature of living things. When your Circle finds its rhythm, each member finds one or two others who are ready, shares the Seed, and helps them form a **new, sovereign, complete Circle** — then the Circles federate. The mathematics of life: 1 → 2 → 3 → 5 → 13 → 144 → 250 million, by trust passed hand to hand, not by campaign. → [[4. The Moves#Move Seven Pass the Flame|Move Seven]] · [[Pass The Flame]]
+Not optional — the nature of living things. When your Circle finds its rhythm, each member finds one or two others who are ready, shares the Seed, and helps them form a **new, sovereign, complete Circle** — then the Circles federate. The mathematics of life: 1 → 2 → 3 → 5 → 13 → 144 → 250 million, by trust passed hand to hand, not by campaign — always at the pace of trust. → [[The Great Game of LIØNSBERG]] · [[Pass The Flame]]
 
 ## The Path — the developmental walk (the ladder a guide keeps you on)
 
