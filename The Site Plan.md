@@ -53,6 +53,7 @@ The Workshop ── the honest gate to everything still being built
 | [[The Pledge]] · [[Nurturing the Commons]] | the flow | the pledge/flow mechanism as it becomes real · the Pledge Board |
 | [[The Arc of Play]] | the journey's stages | orientation cadence · the Pledge · fluency and mastery language as it matures |
 | [[Sponsorship]] | the mentoring line | Pass-the-Flame language · Reaching Us · term/guardrail changes |
+| [[The LIØNSBERG Belt System]] · [[Blue Belt]] | the maturity ladder | Gates/Ascent articulation · Blue Belt language on the Arc and Sponsorship |
 | [[The Seasons of the Great Game]] | the almanac | a new chronicle row at every turning |
 | [[Reaching Us]] | the doors | **any new channel, platform, steward, or door updates here first** |
 | [[The LIØNSBERG Workshop]] | the honest gate | the cohered-path list · WIP statuses · this Site Plan |

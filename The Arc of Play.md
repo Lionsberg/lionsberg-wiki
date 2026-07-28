@@ -12,7 +12,7 @@
 
 **4. The First Season** — *90 days.* Your first Quest. The weekly Turns. The first harvest into a Story at the turning. Somewhere in these ninety days, the Game stops being something you read about and becomes something you are playing. 
 
-**5. The Journey** — *season after season.* Roughly three years — a dozen seasons of questing, mending, harvesting, and passing the flame — grows basic fluency in the Way: what a dojo would call the first belt. Beyond it stretches the seven-year journey towards mastery. From there the deeper paths open — the Ascent, the Guilds, the Gates, still being articulated in [[The LIØNSBERG Workshop|the Workshop]] — and the Game goes on, without end. 
+**5. The Blue Belt Journey** — *season after season.* Roughly three years — a dozen seasons of questing, mending, harvesting, and passing the flame — grows basic fluency in the Way: what a dojo would call the [[Blue Belt]]. Beyond it stretches the seven-year journey towards mastery. From there the deeper paths open — the Ascent, the Guilds, the Gates, still being articulated in [[The LIØNSBERG Workshop|the Workshop]] — and the Eternal Divine Play goes on, without end. 
 
 ---
 

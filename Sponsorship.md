@@ -4,9 +4,9 @@
 
 ---
 
-**The role.** When you share [[The Invitation]] and someone says yes, you become their **sponsor**. A sponsor is a door, never a gatekeeper; a companion, never an authority. The role is simple and real: walk them to their orientation; be reachable through their first gathering and their first ninety days; help them find the instruments and the doors when the way is unclear; and model the Way by keeping your own commitments where they can see. 
+**The role.** When you share [[The Invitation]] and someone says yes, you become their **sponsor**. A sponsor is a door, never a gatekeeper; a companion and guide, never an authority. The role is simple and real: walk them to their orientation; be reachable through their first gathering and their first ninety days; help guide them through [[Blue Belt]] in [[The LIØNSBERG Belt System]] (~3 years); help them find the instruments and the doors when the way is unclear; and model the Way by keeping your own commitments and growing your mastery of The Game. 
 
-**The term.** Sponsorship runs through the sponsee's first season — the first gathering and the first ninety days. Then it completes, with gratitude: by then the sponsee stands inside their own Circle, held by many hands, and is likely becoming a sponsor themselves. A shift of sponsorship may occur — or be requested **by either party** — at any time, for any reason or none, without stigma. Freedom in this is not a weakness of the bond; it is what keeps the bond clean. 
+**The term.** Sponsorship runs primarily through the sponsee's first season — the first gathering and the first ninety days; secondarily through [[Blue Belt]]. Then it completes, with gratitude: by then the sponsee stands inside their own Circle, held by many hands, and is likely becoming a sponsor themselves. A shift of sponsorship may occur — or be requested **by either party** — at any time, for any reason or none, without stigma. Freedom and [[Ongoing Mutual Consent]] in this is not a weakness of the bond; it is what keeps the bond clean. 
 
 **The mutual accountability.** The flame passes with obligations flowing in both directions: 
 
@@ -19,7 +19,7 @@
 
 - A sponsor holds **no authority** over the sponsee's choices, beliefs, resources, or relationships. Sovereignty first, always. 
 - A sponsor is **never anyone's only door**: [[Reaching Us]] stays open to every Player at every moment. 
-- **Consent governs every step**; either party may step back at any time. 
+- **[[Ongoing Mutual Consent]] governs every step**; either party may step back at any time. 
 - Any concern about any sponsorship is welcome through any door on [[Reaching Us]], and is received with care. 
 
 ---
