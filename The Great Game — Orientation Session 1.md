@@ -35,9 +35,8 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 - Communication Platform
     - Circles: Signal, Discord, or your choice
     - Community: Discord, while we build our own
-- Gameboard / Questing Platform
-    - Coming soon, via the Tech Guild
-    - Individuals, Circles, Roles, Quests, Stories, and more
+- [[The Gameboard]] — live in The Commons
+    - Circles, Quests, Stories, the Season, the Score
 
 **Milestone: The First Three Percent**  · _3 min_
 
@@ -51,8 +50,11 @@ Then —
 
 - Form a Circle
 - Choose a Quest
-- Share your Stories
+- Learn and Grow
+- Share Your Stories
 - Pass The Flame
+
+→ [[The Great Game of LIØNSBERG]]
 
 **September 22, 2026 — Equinox Celebration & Review**
 

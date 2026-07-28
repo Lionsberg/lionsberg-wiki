@@ -25,9 +25,9 @@ ______
 
 **Purpose**: Open the Path. Invite the Soul. Transmit the Call.
 
-- **[[START HERE — The First Steps of Our Shared Journey]]** 
+- **[[Welcome to LIØNSBERG]]** 
     
-- [[The Invitation to All Humanity]] 
+- [[The Invitation]] 
     
 - [[The Great Story So Far]] — narrative context to activate memory and belonging.
     

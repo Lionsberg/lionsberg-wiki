@@ -32,11 +32,9 @@ The whole Game is five basic moves, at every scale, self to galaxy — and befor
 
 - **The Golden Seed** — the single shareable invitation, passed hand to hand. → [[README]]
 - **Welcome to LIØNSBERG** — the deeper threshold: the Ground, the Story, the Pattern, the Game, the Ascent, the Path. → [[Welcome to LIØNSBERG]]
-- **START HERE** — the simplest first-steps ramp. → [[START HERE — The First Steps of Our Shared Journey]]
 - **The Game on One Page** — the whole Game in your hand: print it, pin it, pass it. → [[The Game on One Page]]
 - **The Gameboard** — the Game made visible: the Commons where every Circle, Quest, and Story can be seen at a glance. → [[The Gameboard]]
 - **The Quick Start Guide** — your literal first 90 minutes together. → [[The LIØNSBERG Quick Start Guide]]
-- **A Note on Overwhelm** — read this if it all feels vast. *"You do not need to read or understand it all."* → [[A Note on Overwhelm]]
 
 ## The Story — at every depth
 

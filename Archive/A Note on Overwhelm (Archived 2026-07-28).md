@@ -91,7 +91,7 @@ Welcome.
 
 ## 🔗 Where To Begin
 
-→ [[START HERE — The First Steps of Our Shared Journey]]  
-→ [[The Invitation to All Humanity]]  
-→ [[The Overview of the LIØNSBERG System & Way]]  
-→ [[How To Use This Wiki]]  
+→ [[Welcome to LIØNSBERG]]  
+→ [[AURELLIØN's Guide to LIØNSBERG]]  
+→ [[The LIØNSBERG Quick Start Guide]]  
+→ [[The Map of the LIØNSBERG Universe]]  

@@ -23,7 +23,6 @@ The [[LIØNSBERG Wiki]] homepage now has a more contextual and narrative feel. (
 ## Misc
 
 - [[LIØNSBERG Capitalization & Style Protocol]]  
-- [[A Note on Overwhelm]]  
 ## Thoughts
 
 Eventually, the [[LIØNSBERG Rosetta Stone]] will provide a portal for All. It will also likely magically exist in AI via the [[LIØNSBERG Intelligence System]]. 

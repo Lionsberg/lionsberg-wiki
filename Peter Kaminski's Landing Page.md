@@ -20,4 +20,4 @@
 
 ## Other Pages I Love
 
-- [[J's Guide to LIØNSBERG]] 
+- [[AURELLIØN's Guide to LIØNSBERG]] 
