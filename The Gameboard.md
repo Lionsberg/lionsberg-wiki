@@ -19,13 +19,21 @@ Solstice June 21 → Equinox September 22.
 Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Celebration & Review, September 22.
 *Gatherings and turnings are announced via [the Substack](https://cocreatingheaven.substack.com/). All seasons: [[The Seasons of the Great Game]].*
 
+## Who Stands — the Players
+
+| Player | Place | Sponsor | Circle | Pledged |
+| ------ | ----- | ------- | ------ | ------- |
+|        |       |         |        |         |
+
+*We stand together — openly, by name. To take your stand: accept [[The Invitation]], attend an orientation, make [[The Pledge]], and add your [[Player Card Template|Player card]] — or send word through [[Reaching Us]] and it will be tended for you. The `Sponsor` column is the lineage of the flame.*
+
 ## Who We Are — the Circles
 
 | Circle | Place | Players | Quest | State |
 | ------ | ----- | ------- | ----- | ----- |
 |        |       |         |       |       |
 
-*The first Circles are forming now. Each appears here by its own consent — first names by default, and a Circle may also play unlisted. Sovereignty first.*
+*The first Circles are forming now, from the Players standing above. Circles appear as they seal — visible to All, so the Game can see itself grow.*
 
 ## How We Are Questing
 
@@ -55,7 +63,7 @@ TEA invested: — · Commitments kept: — · Value created: — · Stories shar
 
 *Each week, every Circle **takes its Turn** here — a few lines to the Whole: did, will, learned, needs, offers. The Turn is the heartbeat of the Superorganism; the Board is how one body of many Circles knows itself.*
 
-*The Board runs on consent, and it is agent-optional: the whole thing can be kept by one person with a text editor. To add or update your Circle's corner, send word through the one who invited you — or any door on [[Reaching Us]].*
+*The Board runs on standing openly, together — and standing is always chosen, informed, and held by [[Ongoing Mutual Consent]]. Those whose circumstances truly require quiet may play unlisted through any door on [[Reaching Us]] — the exception honored, not the default assumed. The Board is agent-optional: the whole thing can be kept by one person with a text editor. To add or update any corner of it, send word through the one who invited you — or any door on [[Reaching Us]].*
 
 *Circle, Quest, and Story cards live in [[The Commons/Circles/Circle Card Template|The Commons]].*
 

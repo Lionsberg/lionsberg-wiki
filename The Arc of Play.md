@@ -4,7 +4,7 @@
 
 ---
 
-**1. The Invitation** — *a few minutes.* [[The Invitation]] reaches you through a trusted hand — or finds you on its own. Something deep in you says yes. You respond, you subscribe, and — when you are ready to step from resonance into commitment — you make [[The Pledge]]. 
+**1. The Invitation** — *a few minutes.* [[The Invitation]] reaches you through a trusted hand — or finds you on its own. Something deep in you says yes. You respond, you subscribe, and — when you are ready to step from resonance into commitment — you make [[The Pledge]] — and take your stand, openly, on [[The Gameboard]]. 
 
 **2. The Orientation** — *90 minutes, together.* An orientation gathering, by email invitation via [the Substack](https://cocreatingheaven.substack.com/): hear the Story and the Game live, meet the others, ask everything. Your **sponsor** — the one who invited you — walks beside you here. 
 

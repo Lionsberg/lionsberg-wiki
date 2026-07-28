@@ -7,7 +7,7 @@
 place:: <where in the world>
 formed:: <date the Circle was sealed>
 lineage:: [[<the Circle that passed you the flame>]]
-players:: <first names, by consent only>
+players:: <the Players standing in this Circle — link their [[Player Card Template|Player cards]]>
 agreements:: <your 2–5 simple agreements>
 rhythm:: <when you meet>
 quest:: [[<current Quest>]]

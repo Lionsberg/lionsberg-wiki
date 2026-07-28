@@ -46,7 +46,7 @@ The Workshop ── the honest gate to everything still being built
 | [[The Great Game of LIØNSBERG]] | the rulebook | moves, compass, score, seasons — **ripples to One Page, Quick Start, Plays** |
 | [[The Game on One Page]] | the pocket distillation | **must mirror the rulebook, phrase for phrase** |
 | [[The LIØNSBERG Quick Start Guide]] | the first 90 minutes | reading times · rituals · Board steps · the Plays it points to |
-| [[The Gameboard]] + The Commons | the living state | season dates · score currencies · pledge board · card templates |
+| [[The Gameboard]] + The Commons | the living state | season dates · score currencies · pledge board · Who Stands · card templates (Player · Circle · Quest · Story) |
 | [[The LIØNSBERG Playbook]] + Plays | the choreography | new tools (link them) · new needs (new Plays) · rhythm changes |
 | [[The LIØNSBERG Toolkit]] | the instruments | new/retired tools · **Forge ⇄ General Needs sync** |
 | [[General Needs]] | the spine | needs ⇄ Forge commissions ⇄ Plays — the law of non-redundancy |
