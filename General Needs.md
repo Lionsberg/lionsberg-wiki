@@ -18,7 +18,7 @@
 5. **Decide together** — without rulers, without gridlock. *In hand:* [[Decision Making]] · [[Advantage Based Decision Making]] · [[Proposals]] · [[Consent]] · [[Meaningful Objection]] · [[Range of Tolerance]]. *To forge:* Template For Proposals. 
 6. **Organize** — roles, responsibility, and accountability, lightly held. *In hand:* [[Roles]] · [[Functional Accountability]] · [[Functional Accountability Chart]] · [[Domains of Responsibility and Authority]] · [[Organizations The LIØNSBERG Way]]. *To forge:* Template For Roles. 
 7. **Meet well** — presence, rhythm, and coherence when gathered. *In hand:* [[Preflight Checklist For Meeting]] · [[Template For PM Navigation Meeting]] · [[The LIØNSBERG Circle Guide]] *(the meeting anatomy)*. 
-8. **Stay connected between gatherings** — the flame alive across the week. *To forge:* Communications Setup Guide *(choosing and tending the body's channel)*. 
+8. **Stay connected between gatherings** — the flame alive across the week. *In hand:* [[The Communication Platform]] · [[Template For Weekly Turn Post]]. *To forge:* Communications Setup Guide *(choosing and tending a Circle's own channel)*. 
 
 ## III. Working — producing Throughput of The Goal
 

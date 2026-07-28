@@ -72,6 +72,7 @@
 - [[Template For Analysis]]
 
 **For the turnings**
+- [[Template For Weekly Turn Post]]
 - [[Template For Seasonal OmniSpection]]
 
 **For mending**

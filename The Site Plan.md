@@ -55,6 +55,7 @@ The Workshop ── the honest gate to everything still being built
 | [[Sponsorship]] | the mentoring line | Pass-the-Flame language · Reaching Us · term/guardrail changes |
 | [[The LIØNSBERG Belt System]] · [[Blue Belt]] | the maturity ladder | Gates/Ascent articulation · Blue Belt language on the Arc and Sponsorship |
 | [[The Seasons of the Great Game]] | the almanac | a new chronicle row at every turning |
+| [[The Communication Platform]] | the Server (borrowed land, then our own) | channel shape · membrane · Turn-post flow · Reaching Us door 4 |
 | [[Reaching Us]] | the doors | **any new channel, platform, steward, or door updates here first** |
 | [[The LIØNSBERG Workshop]] | the honest gate | the cohered-path list · WIP statuses · this Site Plan |
 

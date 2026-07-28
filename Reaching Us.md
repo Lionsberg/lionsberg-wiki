@@ -10,7 +10,7 @@
 
 3. **The orientation gatherings.** Invitations arrive by email through the Substack. Come with your questions — that is precisely what orientations are for. 
 
-4. **The Communication Platform** *(presently Discord)*. The link arrives through the doors above — the membrane opens by invitation, not broadcast. And wherever we gather, a visible **Help Button** lives: press it, and one of Us will find you and do our best to provide assistance. 
+4. **[[The Communication Platform]]** *(presently Discord — the LIØNSBERG Server)*. The link arrives through the doors above — the membrane opens by invitation, not broadcast. And wherever we gather, a visible **Help Button** lives: press it, and one of Us will find you and do our best to provide assistance. 
 
 ---
 
