@@ -34,7 +34,7 @@ What *is* ready — played, questioned, and current — is small and complete: b
 - [[The Book of LIØNSBERG]] — the long prophetic narrative, drafted across seasons. 
 - [[The Kingdom of LIØNSBERG — Plans and Specifications]] — the structural plans of the New Civilization. Deep ore. 
 - [[The LIØNSBERG Pattern Language]] — among the most refined bodies on the site, and still growing. 
-- [[The LIØNSBERG Toolkit]] — a toolshed awaiting its rebuild. 
+- [[The LIØNSBERG Toolkit]] — the toolshed: a real workbench today, and a forge of instruments still being commissioned. 
 - [[LIØNSBERG Wiki Books]] — the whole library of explorations, at every stage from sketch to near-sound. 
 
 And beyond these: nearly everything else on this wiki. If a page is not on the cohered path, assume you are standing on scaffolding — and enjoy the view. 

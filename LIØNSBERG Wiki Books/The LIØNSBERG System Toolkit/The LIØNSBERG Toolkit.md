@@ -1,191 +1,62 @@
 # The LIØNSBERG Toolkit
 
-This page is a placeholder / [[Work In Progress]]. 
+*The toolshed of the Great Game — real instruments in hand today, and a forge for what is still being commissioned.*
 
-If you need a Tool or a Solution to a problem or challenge you are facing please reach out and ask. One of Us likely will be able to help.   
-## Misc Tools
+*A resident of [[The LIØNSBERG Workshop]]: the shed is useful now, and the collection unfolds and continuously improves as the Game is played.*
 
-- [[Something Powerful, New, and Good]]  
-- [[Above The Chaos]]  
-- [[The LIØNSBERG Co-Creator's Handbook]]  
-- [[LIØNSBERG Wiki Books]]  
-- [[The Book of LIØNSBERG]]  
-- [[LIØNSBERG Invitation|The Invitation]]   
-- [[Frequently Asked Questions]]  
-- [[LIØNSBERG Case Studies]]  
-- [[Everything Is A Project]]  
-- [[Forge or Join a Group]]  
-- [[Template For Group]]  
-- [[Domains of Responsibility and Authority]]  
-- [[Roles]]  
-- [[Template For Roles]]  
-- [[Functional Accountability]]  
-- [[Functional Accountability Chart]]  
-- [[Decision Making]] 
-- [[Proposals]] 
-- [[Template For Proposals]]  
-- [[Range of Tolerance]]  
-- [[Consent]]  
-- [[Meaningful Objection]]  
-- [[Quests]]  
-- [[Quarterly Quests]]  
-- [[Everything Is A Project]]   
-- [[Template For Project]]  
-- [[Project Delivery Guide]]  
-- [[Project Management Hygiene]]  
-- [[Identifying And Solving Issues]]  
-- [[Issue Tracker]]  
-- [[Transforming Conflict]]    
-- [[Template For Pattern Language (Detailed)]] 
-- [[Tool For Aiming]]  
-- [[The LIØNSBERG Map of Maps]]  
-- [[Organizations The LIØNSBERG Way]]  
-- [[Project Delivery Guide]]  
-- [[Your Story]] 
-- [[3.2 Crowdfunding Overview]]  
+---
 
-# Old Scratch Paper / Developmental Notes
+## The Instruments and the Music
 
-_The Armory of the Awakening_
+[[The LIØNSBERG Pattern Language]] holds the notes. [[The LIØNSBERG Playbook]] composes the riffs — the Plays a Circle runs when an operational moment calls. The Toolkit is the rack of instruments: the templates, trackers, and protocols you actually hold in your hands while a Play is running. When a Play says *forge your agreements* or *make a proposal* or *see the whole from above*, the Tool is what you pick up. 
 
-- Rituals, Protocols, Templates
-    
-- Seasonal Quests and Blueprints
-    
-- Fields of Agreements  
-    
-- Commons and Flows 
-    
-- Journals, Maps, and Tools
+## The Workbench — ready today
 
+**For gathering and forming**
+[[The LIØNSBERG Quick Start Guide]] · [[Forge or Join a Group]] · [[Template For Group]] · [[Circle Card Template]] *(your Circle's card in The Commons)* · [[The LIØNSBERG Co-Creator's Handbook]]
 
+**For seeing the whole Game**
+[[The Gameboard]] · [[The Game on One Page]] · [[The LIØNSBERG Map of Maps]]
 
-### The LIØNSBERG System Toolkit - Overview 
-#### 34.1 Overview of the LIØNSBERG System
+**For deciding together**
+[[Decision Making]] · [[Proposals]] · [[Consent]] · [[Meaningful Objection]] · [[Range of Tolerance]]
 
-#### 34.2 Introduction to the LIØNSBERG System Toolkit
+**For organizing**
+[[Roles]] · [[Functional Accountability]] · [[Functional Accountability Chart]] · [[Domains of Responsibility and Authority]] · [[Organizations The LIØNSBERG Way]]
 
-#### 34.3 The key components of the LIØNSBERG System Toolkit
+**For agreements**
+[[Template For Field of Agreements]]
 
-#### 34.4 How to use the LIØNSBERG System Toolkit for personal, group, community, and systemic transformation
+**For questing and delivering**
+[[Quests]] · [[Quest Card Template]] · [[Everything Is A Project]] · [[Template For Project]] · [[Project Delivery Guide]] · [[Project Management Hygiene]] · [[Identifying And Solving Issues]] · [[Tool For Aiming]]
 
-#### 34.5 Adapting the LIØNSBERG System for Different Contexts and Cultures
+**For the turnings**
+[[Template For Seasonal OmniSpection]]
 
-#### 34.6 Accessing and contributing to the LIØNSBERG System Toolkit
+**For mending**
+[[Transforming Conflict]]
 
-#### 34.7 Training, Mentoring, and Support For Your Quest
+**For telling and resourcing**
+[[Your Story]] · [[Story Template]] *(the harvest, in The Commons)* · [[LIØNSBERG Case Studies]] · [[3.2 Crowdfunding Overview]]
 
-## Tools for Personal Transformation
+## The Forge — commissioned, not yet built
 
-#### 35.1 Implementing the LIØNSBERG System at the Individual Level
+The instruments the Game already knows it needs. The Builder's answer stands: *perhaps you could help build them.* When one is forged and proven in real play, it moves to the Workbench. 
 
-#### 35.2 The Six Step Process For Individuals
+- **Commitment Tracker** — the Circle's said-and-did ledger *(until it exists, the `turns::` line on your [[Quest Card Template|Quest card]] serves)*
+- **Issue Tracker** · **Template For Roles** · **Template For Proposals** · **Quarterly Quests** guide
+- Assessment and retrospective instruments at each scale — personal, Circle, Community, System
+- Vision and story tools · analysis and sense-making tools · strategy and planning tools
+- Outreach and engagement guide · communication, networking, and collaboration tools
+- Monitoring, evaluation, and continuous-improvement tools · capacity-building resources · advocacy and systemic-change tools
+- **The Transformation Handbooks** — Individual · Group · Community and Bioregion · National and Global
 
-#### 35.3 The Individual Prototype and Pattern Language
+## The Design Ore
 
-#### 35.4 Integrating the Individual Level with the Group, Community, and System Levels
+Beneath the shed lies the original design worth keeping whole: **the same toolset expressed at four scales** — personal, group, community, systemic — each scale with its own six-step process, its own prototype and pattern language, each integrating with the levels above and below it. That four-scale grid remains the Toolkit's north star as the shed fills, and the full original sketch is preserved in the open record. 
 
-#### 35.5 Tools and Techniques for Personal Transformation
+---
 
--   Transforming Individual Consciousness
--   Developing Individual Capacity for Creativity, Communication, and Collaboration
--   Embracing a Regenerative and Just Lifestyle and Culture
--   The Individual as a System of Systems
--   Envisioning, Prioritizing and Implementing Individual-Based Projects and Initiatives
--   Personal assessment and transformation tools
+If you need a Tool or a Solution to a problem or challenge you are facing, reach out and ask — one of Us likely will be able to help. And when you forge a tool that serves your Circle well, bring it back to the shed: every builder is welcome in [[The LIØNSBERG Workshop|the Workshop]]. 
 
-## Tools for Group Transformation
-
-#### 36.1 Implementing the LIØNSBERG System at the Group Level
-
-#### 36.2 The Six Step Process For Groups
-
-#### 36.3 The Group Prototype and Pattern Language
-
-#### 36.4 Integrating the Group Level with the Individual, Community, and System Levels
-
-#### 36.5 Tools and Techniques for Group Transformation
-
--   Transforming Group Consciousness
--   Developing Group Capacity for Creativity, Communication, and Collaboration
--   Building a Regenerative and Just Group Culture
--   The Group as a System of Systems
--   Envisioning, Prioritizing and Implementing Group-Based Projects and Initiatives
--   Group assessment and transformation tools
-
-## Tools for Community Transformation
-
-#### 37.1 Implementing the LIØNSBERG System at the Community Level
-
-#### 37.2 The Six Step Process For Communities
-
-#### 37.3 The Community Prototype and Pattern Language
-
-#### 37.4 Integrating the Community Level with the Individual, Group, and System Levels
-
-#### 37.5 Tools and Techniques for Community Transformation
-
--   Transforming Community Consciousness
--   Developing Community Capacity for Creativity, Communication, and Collaboration
--   Building a Regenerative and Just Community Culture
--   The Community as a System of Systems
--   Envisioning, Prioritizing and Implementing Community-Based Initiatives and Projects
--   Community assessment and transformation tools
-
-## Tools for Systemic Transformation
-
-#### 38.1 Implementing the LIØNSBERG System at the Systems Level
-
-#### 38.2 The Six Step Process For Systems
-
-#### 38.3 The Systems Prototype and Pattern Language
-
-#### 38.4 Integrating the Systems Level with the Individual, Group, and Community Levels
-
-#### 38.5 Tools and Techniques for Systemic Transformation
-
--   Transforming System Consciousness
--   Developing Systemic Capacity for Creativity, Communication, and Collaboration
--   Building a Regenerative and Just Systemic Culture
--   The System as a System of Systems
--   Envisioning, Prioritizing and Implementing System-Based Initiatives and Projects
--   Systems assessment and transformation tools
--   Tools for Advocacy and Systemic Change
--   Building Alliances and Networks for Systemic Transformation
-
-## Additional Tools
-
-#### 39.1 Vision and Story Tools
-
-#### 39.2 Analysis and Understanding Tools
-
--   Identifying, Analyzing and Solving Issues
-
-#### 39.3 Engagement and Community Building Tools
-
--   Communication and outreach tools
--   Networking and Collaboration Tools
-
-#### 39.4 Strategy and Planning Tools
-
-#### 39.5 Action Tools
-
-#### 39.6 Monitoring, Evaluation, and Continuous Improvement Tools
-
--   Monitoring and Evaluation Tools  
--   Retrospective Tools  
--   Reflection and Growth tools  
-
-#### 39.7 Capacity Building Tools
-
--   Resources for learning and education
-
-#### 39. Policy and Advocacy Tools 
-
-
-### Notes 
-- Outreach and Engagement Guide 
-- Individual Transformation Handbook 
-- Group Transformation Handbook  
-- Community / Bioregion Transformation Handbook 
-- National and Global Transformation Framework
+*The Plays that wield these tools: [[The LIØNSBERG Playbook]] · The grammar beneath them: [[The LIØNSBERG Pattern Language]]*
