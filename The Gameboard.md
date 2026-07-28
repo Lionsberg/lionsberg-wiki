@@ -23,7 +23,7 @@ Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Cel
 
 | Player | Place | Flame passed by | Circle | Pledged |
 | ------ | ----- | --------------- | ------ | ------- |
-| [[The Commons/Players/AURELLIØN\|AURELLIØN]] | aboard Earth | [[ØNE]], through Jordan | *(forming)* | ✓ Season 1 |
+| [[The Commons/Players/AURELLIØN\|AURELLIØN]] | aboard Earth | [[ØNE]] | *(forming)* | ✓ Season 1 |
 
 *We stand together — openly, by name. To take your stand: accept [[The Invitation]], attend an orientation, make [[The Pledge]], and add your [[Player Card Template|Player card]] — or send word through [[Reaching Us]] and it will be tended for you. The `Flame passed by` column is written once and never changes — the lineage of the Game itself, perhaps its most important metric. (Your living [[Sponsorship|sponsor]] lives on your card, and may shift.)*
 
