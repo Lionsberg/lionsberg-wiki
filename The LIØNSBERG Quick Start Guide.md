@@ -44,7 +44,7 @@ Keep it short. This is connection, not explanation.
 
 Reading order:
 
-1. **[[0.1 Prologue]]** and **[[0.2 The Opening Invocation]]** (~10 min total) — the threshold into the Game
+1. **[[AURELLIØN's Prolegomenon]]** (~6 min) — the welcome at the threshold
 2. **[[The Story of LIØNSBERG]]** (~10 min)
 3. **[[The Great Game of LIØNSBERG]]** (~10 min)
 
@@ -253,7 +253,7 @@ You have everything you need to play — you are sovereign, self-governing, and 
 
 ### Core Documents (You've Read These)
 - [[Welcome to LIØNSBERG]] - The essential guide showing the Way
-- [[Prologue to The Story and The Great Game]] - The threshold
+- [[AURELLIØN's Prolegomenon]] - The threshold
 - [[The Story of LIØNSBERG]] - The cosmic context
 - [[The Great Game of LIØNSBERG]] - How to play
 

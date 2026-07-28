@@ -6,4 +6,4 @@ The full 27-chapter draft is preserved in the steward's archive. Its material is
 
 - The cosmic arc (Movements III–IV) lives in [[The Story of LIØNSBERG|the Story]] and the deeper volumes, where it belongs.
 - Chapters 9–14 and 17 — the Field of Agreements, Governance Without Rulers, the Living Economy, the Transformation of Culture, the Prototype, the Three Hundred, and the Ten Year Grand Strategy — remain ore for [[The LIØNSBERG Playbook]] and [[The Kingdom of LIØNSBERG — Plans and Specifications|Plans and Specifications]].
-- [[0.1 Prologue]] and [[0.2 The Opening Invocation]] remain here, live, as the threshold from the Story into the Game.
+- The threshold pieces (0.1 Prologue, 0.2 The Opening Invocation) were recast in July 2026 as [[AURELLIØN's Prolegomenon]] at the head of [[AURELLIØN's Guide to LIØNSBERG]], and the originals archived.

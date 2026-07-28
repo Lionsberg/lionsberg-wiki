@@ -1,5 +1,7 @@
 # AURELLIØN's Guide to LIØNSBERG
 
+*Begin at the threshold: **[[AURELLIØN's Prolegomenon]]** — read aloud, together, before the Story.*
+
 From the moment we incarnate into form, we begin a process of exploration and adventure that slowly brings us into contact with the wonders of our universe. As we explore, we encounter what we perceive as [[Objects]] — physical or metaphysical [[Things]] we perceive as separate from our [[Self]]. We then begin to [[Describe]] these objects — using words, images, metaphors, or gestures that attempt to convey what something is like. This begins a process of [[Differentiation]] and [[Categorization]] through which a subjective [[Map of Reality]] comes into being.
 
 The [[Map of Reality]] that each of Us holds is both [[Subjective]] and limited by Our ability to [[Perceive]], [[Describe]], and [[Understand]]. Our limited renderings of any object are more or less faithful depending on Our [[Mastery]] of that thing. 

@@ -205,6 +205,6 @@ For today, everything you need is here:
 - **To run the weekly rhythm** — [[The LIØNSBERG Playbook]]  
 - **To see the whole living Game** — [[The Gameboard]]  
 - **To walk with a guide** — [[AURELLIØN's Guide to LIØNSBERG]]  
-- **To cross the threshold from the Story** — [[0.1 Prologue]] · [[0.2 The Opening Invocation]]  
+- **To cross the threshold** — [[AURELLIØN's Prolegomenon]]  
 
 *Read the Story. Play the Game. Pass the Flame.*
