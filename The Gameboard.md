@@ -41,6 +41,12 @@ Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Cel
 
 *Who passed the flame to whom — the family tree of Circles.*
 
+## The Pledges — committed to the season ahead
+
+Pledged TEA (hours/week): — · Pledged resources: — · Gifts offered: —
+
+*Every Player's first Commitment — [[The Pledge]] — renewed each turning, updatable at any time. The growing pledge board is how the body sees what is coming, and plays into the future. By consent; aggregates by default.*
+
 ## The Score — this season
 
 TEA invested: — · Commitments kept: — · Value created: — · Stories shared: — · Flames passed: —

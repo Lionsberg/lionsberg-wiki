@@ -74,7 +74,7 @@ Communications systems enable **meaning** and **energy** to flow, as shared sens
 Those who feel the resonance and would like to play are invited to take three simple actions:
 
 1. **Respond to the one who shared this with you** — let them know you are in.
-2. **Subscribe to [the Substack](https://cocreatingheaven.substack.com/)** (free of course) to receive the next communications, including invitations to the orientation gatherings.
+2. **Subscribe to [the Substack](https://cocreatingheaven.substack.com/)** (free of course) to receive the next communications, including invitations to the orientation gatherings and the link to [[The Pledge|the Pledge page]].
 3. Of the 100 people you know best: **pass this invitation forward to the two or three in your network most resonant and ready to play** — within one week.
 
 *And if more than a week has passed since this reached you — begin where you are. The Gate does not close.*

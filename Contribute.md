@@ -1,8 +1,7 @@
 # Contribute
 
-The LIØNSBERG Community collectively thrives on the voluntary association and contributions of its members. 
+The LIØNSBERG Community thrives on the voluntary association and contributions of its members. 
 
-It is Time to Rise Together. To contribute, simply click below. 
+The way to contribute is the way to play: make and keep [[The Pledge]] — your committed Time, Energy, Attention, reciprocal resources, and gifts for the season. The why of the flow lives at [[Nurturing the Commons]]. 
 
-<a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Rise With Us</a>
-<script src='https://LIØNSBERG-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
+*The practical channels are being established this season and announced via [the Substack](https://cocreatingheaven.substack.com/).* 

@@ -106,6 +106,7 @@ What follows is what remains to be built to fulfill the Toolkit's original visio
 - **Template For Proposals** — bringing a proposal fit for consent *(need 5)*
 - **Template For Roles** — defining and rotating roles with clarity and lightness *(need 6)*
 - **Communications Setup Guide** — choosing and tending the body's channel between gatherings *(need 8)*
+- **Pledge Form** — making and updating [[The Pledge]], cycle by cycle; may grow into a season-by-season crowdfunding of the commons *(need 9)*
 - **Resource Flow Ledger** — Time, Energy, Attention, and treasure, visible and flowing; feeds the Score's Value created *(need 9)*
 - **Seasonal Quest Starter Kit** — prompts and patterns for choosing and shaping a season's Quest *(need 10)*
 - **Commitment Tracker** — the said-and-did ledger, with Percent Commitments Kept; until it exists, the `turns::` line on your [[Quest Card Template|Quest card]] serves *(need 12)*

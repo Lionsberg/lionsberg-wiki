@@ -57,8 +57,6 @@ Over the next 60 days, we warmly invite you to participate in private small-grou
 
 **If you feel called to unite in Spirit and Truth at this historic juncture, please respond now via the link below:**
 
-<a class='kindful-donate-btn' id='kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'>Stand With Us</a>
-<script src='https://LIØNSBERG-bloom.kindful.com/embeds/991b40b3-0f60-41fb-9679-b2faa8482284/init.js?type=button' data-embed-id='991b40b3-0f60-41fb-9679-b2faa8482284' data-lookup-type='jquery-selector' data-lookup-value='#kindful-donate-btn-991b40b3-0f60-41fb-9679-b2faa8482284'></script>
 
 With Profound Love, Unwavering Hope, and Steadfast Faith—  
 In Sacred Service to One and All,  

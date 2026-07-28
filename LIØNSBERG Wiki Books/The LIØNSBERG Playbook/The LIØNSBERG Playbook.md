@@ -20,6 +20,7 @@ Every Play answers a need in [[General Needs|the General Needs register]]. Two r
 
 ### The Opening Plays — from Invitation to living Circle
 - **[[Play — Answer the Invitation]]** — *when [[The Invitation]] reaches you and something deep in you says yes*
+- **[[Play — Make Your Pledge]]** — *when you are ready to step from resonance into commitment*
 - **[[Play — Gather the Ready]]** — *when you are in, and alone*
 - **[[Play — Run the First Gathering]]** — *when your two or three say yes*
 - **[[Play — Seal the Circle]]** — *when the gathered choose one another*

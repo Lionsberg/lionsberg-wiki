@@ -14,6 +14,6 @@
 
 ---
 
-*The practical channels of flow are being established this first season and will be announced via [the Substack](https://cocreatingheaven.substack.com/) and the gatherings as they open. Like everything here, what flows and where will live in the open record.* 
+*The instrument of the flow is [[The Pledge]] — every Player's first Commitment, renewed each season, visible in aggregate on [[The Gameboard]]. The practical channels are being established this first season, announced via [the Substack](https://cocreatingheaven.substack.com/). Like everything here, what flows and where will live in the open record.* 
 
 *The commitment to play: [[The Invitation]] · The body it sustains: [[The Great Game of LIØNSBERG]] · The deeper stewardship pattern: [[A Commons For All]]*

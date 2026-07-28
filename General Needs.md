@@ -22,7 +22,7 @@
 
 ## III. Working — producing Throughput of The Goal
 
-9. **Resource the work** — Time, Energy, Attention, and treasure, flowing rightly. *In hand:* [[3.2 Crowdfunding Overview]] · [[The LIØNSBERG Resource Library]]. *To forge:* Resource Flow Ledger *(feeds the Score's Value created)*. 
+9. **Resource the work** — Time, Energy, Attention, and treasure, flowing rightly. *In hand:* [[The Pledge]] · [[3.2 Crowdfunding Overview]] · [[The LIØNSBERG Resource Library]]. *To forge:* Pledge Form *(making and updating the Pledge, cycle by cycle)* · Resource Flow Ledger *(feeds the Score's Value created)*. 
 10. **Choose the work** — the right Quest for the season. *In hand:* [[Quests]] · [[Quest Card Template]]. *To forge:* Seasonal Quest Starter Kit. 
 11. **Deliver the work** — from intention to done. *In hand:* [[Everything Is A Project]] · [[Template For Project]] · [[Project Delivery Guide]] · [[Project Management Hygiene]] · [[Identifying And Solving Issues]] · [[LIØNSBERG Issue Tracker]] · [[A3 Reports]] · [[Template For Analysis]]. 
 12. **Keep promises visible** — say, do, learn from the gap. *In hand:* the `turns::` line on the [[Quest Card Template|Quest card]]. *To forge:* Commitment Tracker *(with Percent Commitments Kept)*. 
