@@ -15,4 +15,4 @@ The Game breathes in seasons: ninety days, turning at each solstice and equinox.
 
 ---
 
-*The journey each Player walks through the seasons: [[The Arc]] · The living state of this season: [[The Gameboard]] · The deepest Stories are woven, in time, into [[The Story of LIØNSBERG|the Story]] itself.*
+*The journey each Player walks through the seasons: [[The Arc of Play]] · The living state of this season: [[The Gameboard]] · The deepest Stories are woven, in time, into [[The Story of LIØNSBERG|the Story]] itself.*

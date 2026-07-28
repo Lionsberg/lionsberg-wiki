@@ -39,7 +39,7 @@ Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Cel
 
 ## The Flame — the lineage
 
-*Who passed the flame to whom — the family tree of Circles. Sponsorship is the mentoring line of the Game: the one who invites walks beside the one who arrives.*
+*Who passed the flame to whom — the family tree of Circles. [[Sponsorship]] is the mentoring line of the Game: the one who invites walks beside the one who arrives.*
 
 ## The Pledges — committed to the season ahead
 

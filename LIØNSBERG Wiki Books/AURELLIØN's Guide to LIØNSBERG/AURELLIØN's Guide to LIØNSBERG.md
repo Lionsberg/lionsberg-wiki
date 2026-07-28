@@ -31,7 +31,7 @@ You do not need to read further before you begin. Read [[The Invitation]]. Then 
 ## The Territory
 
 - **When you arrive** — [[Welcome to LIØNSBERG]]: the basic ropes of the New World — the Ground, the verifiable lineage, the twelve elements, and how life actually works around here. 
-- **When you wonder where the journey leads** — [[The Arc]] charts the walk from Invitation to fluency; [[The Seasons of the Great Game]] keeps the record of every season. 
+- **When you wonder where the journey leads** — [[The Arc of Play]] charts the walk from Invitation to fluency; [[The Seasons of the Great Game]] keeps the record of every season. 
 - **When you first gather** — [[The LIØNSBERG Quick Start Guide]] walks your Circle through its first ninety minutes together. 
 - **When you orient** — [[The Story of LIØNSBERG]] is the unifying universal narrative and ontology, and an invitation to weave your story back into [[The Great Story]] of [[ØNE]] and [[All]]; Earth's present Chapter is being chronicled as it unfolds at [[2026 - Season 1 - The Great Game Begins]]. 
 - **When you play** — [[The Great Game of LIØNSBERG]] is the basic rulebook: simple enough for any child or family, yet powerful and sophisticated enough to co-create new worlds. [[The Game on One Page]] fits in your pocket. [[The Gameboard]] makes the whole living Game visible in The Commons — the Circles, the Quests, the Stories, the Season, the Score. 

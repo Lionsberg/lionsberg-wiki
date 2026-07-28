@@ -1,4 +1,4 @@
-# The Arc
+# The Arc of Play
 
 *The journey of a Player, from first touch to fluency — so you always know where you stand, and what comes next.*
 
@@ -12,10 +12,10 @@
 
 **4. The First Season** — *90 days.* Your first Quest. The weekly Turns. The first harvest into a Story at the turning. Somewhere in these ninety days, the Game stops being something you read about and becomes something you are playing. 
 
-**5. The Journey** — *season after season.* Roughly three years — a dozen seasons of questing, mending, harvesting, and passing the flame — grows basic fluency in the Way: what a dojo would call the first belt. From there the deeper paths open — the Ascent, the Guilds, the Gates, still being articulated in [[The LIØNSBERG Workshop|the Workshop]] — and the Game goes on, without end. 
+**5. The Journey** — *season after season.* Roughly three years — a dozen seasons of questing, mending, harvesting, and passing the flame — grows basic fluency in the Way: what a dojo would call the first belt. Beyond it stretches the seven-year journey towards mastery. From there the deeper paths open — the Ascent, the Guilds, the Gates, still being articulated in [[The LIØNSBERG Workshop|the Workshop]] — and the Game goes on, without end. 
 
 ---
 
-At every step of the Arc, two hands hold you: your **sponsor** — the one who passed you the flame, who mentors you through orientation and first gathering, as one day you will mentor the two or three you invite — and the always-open doors of [[Reaching Us]]. 
+At every step of the Arc, two hands hold you: your **[[Sponsorship|sponsor]]** — the one who passed you the flame, reachable through your orientation, first gathering, and first ninety days, as one day you will be for the two or three you invite — and the always-open doors of [[Reaching Us]]. 
 
 *The rhythm beneath the Arc: [[The Great Game of LIØNSBERG|the rulebook]] · The record of the seasons: [[The Seasons of the Great Game]]*
