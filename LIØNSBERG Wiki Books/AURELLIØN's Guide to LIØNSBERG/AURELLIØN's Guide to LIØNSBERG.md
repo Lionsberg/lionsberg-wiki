@@ -15,7 +15,7 @@ About the Author: [[The Story of AURELLIØN]]
 ____
 ## Cosmic Context 
 
-This Guide approaches the present moment from a primarily cosmic and non-local perspective and context. It begins with the acknowledgement of the vast expanses beyond the local [[Observable Universe]], and the conceptually infinite diversity of cultures, civilizations, and [[LIØNSBERG Wiki Books/LIØNSBERG, Earth, and the Cosmos/Cards/Cosmic Wildlife|Cosmic Wildlife]] therein. 
+This Guide approaches the present moment from a primarily cosmic and non-local perspective and context. It begins with the acknowledgement of the vast expanses beyond the local [[Observable Universe]], and the conceptually infinite diversity of cultures, civilizations, and [[Cosmic Wildlife]] therein. 
 
 ## Local Context
 
@@ -27,7 +27,7 @@ In this context, humanity now stands at a historic crossroads, facing a crucible
 
 The decisions it makes in this moment will shape life aboard Earth for millennia to come. 
 
-And yet to pass [[The Final Test]] at the end of this era, it must come to grips with the harsh reality that it is neither alone in the universe, nor atop of the local food chain. After millennia of lies, deception, and predation, will it be able to overcome the seemingly insurmountable challenges, break free from the depths of kontrolle, and liberate itself into the co-creation of [[Heaven On Earth]]? Or will it fall prey to fracture, fear, war, and the centuries of dark ages and enslavement that would naturally ensue?  
+And yet to pass [[The Final Test]] at the end of this era, it must come to grips with the harsh reality that it is neither alone in the universe, nor atop the local food chain. After millennia of lies, deception, and predation, will it be able to overcome the seemingly insurmountable challenges, break free from the depths of kontrolle, and liberate itself into the co-creation of [[Heaven On Earth]]? Or will it fall prey to fracture, fear, war, and the centuries of dark ages and enslavement that would naturally ensue?  
 
 ## LIØNSBERG
 
@@ -39,7 +39,7 @@ In 2026, just as it appeared that it was too late and all would be lost, [[The G
 
 ## The Story of LIØNSBERG
 
-[[The Story of LIØNSBERG]] provides a unifying universal narrative and ontology. It is an invitation to each of the [[All]] to weave their unique individual and local stories back into [[The Great Story]] of [[ØNE]] and [[All]]. No matter who you are or where you come from, [[Your Story]] is an important part of it. 
+[[The Story of LIØNSBERG]] provides a unifying universal narrative and ontology. It is an invitation to each of the [[All]] to weave their unique individual and local stories back into [[The Great Story]] of [[ØNE]] and [[All]]. No matter who you are or where you come from, [[Your Story]] is an important part of it. Earth's present Chapter is being chronicled as it unfolds: [[2026 - Season 1 - The Great Game Begins]]. 
 
 ## The Great Game of LIØNSBERG
 
@@ -79,3 +79,5 @@ This work carries its history openly. The writings gathered here span seasons an
 This guide exists merely to illuminate the Way. Its aim is your [[Sovereignty]] and empowerment. Walk with it as long as it serves you. Question it freely. Improve it wherever your territory or experiences illuminate a deeper Truth.
 
 And when the day comes that you find yourself guiding others — the two or three you invited, the Circle you helped form, the travelers who arrive after you — you will understand the quiet truth at the heart of this covenant: Guidance is a sacred Flame to be carried across generations. 
+
+Begin: **[[The Invitation]]**. 
