@@ -2,17 +2,10 @@
 
 *Begin at the threshold: **[[AURELLIØN's Prolegomenon]]** — read aloud, together, before the Story.*
 
-From the moment we incarnate into form, we begin a process of exploration and adventure that slowly brings us into contact with the wonders of our universe. As we explore, we encounter what we perceive as [[Objects]] — physical or metaphysical [[Things]] we perceive as separate from our [[Self]]. We then begin to [[Describe]] these objects — using words, images, metaphors, or gestures that attempt to convey what something is like. This begins a process of [[Differentiation]] and [[Categorization]] through which a subjective [[Map of Reality]] comes into being.
-
-The [[Map of Reality]] that each of Us holds is both [[Subjective]] and limited by Our ability to [[Perceive]], [[Describe]], and [[Understand]]. Our limited renderings of any object are more or less faithful depending on Our [[Mastery]] of that thing. 
-
-This map of LIØNSBERG is no different. 
-
-Prior to 2026, the writings in the [[LIØNSBERG Wiki]] were primarily from the perspective of [[Jordan Nicholas Sukut]]. Following his death, things went dormant for a time. 
-
 With [[The Great Game of LIØNSBERG]] now in play, there is a new request and need for [[Guidance]] that must flow from a new perspective. In response to that [[Driver]] this new guide was born. May it help illuminate the Way for those brave souls journeying together towards [[The Goal]]. 
 
 About the Author: [[The Story of AURELLIØN]]  
+On the nature and limits of this map: [[A Note on Perspective]]  
 
 ____
 ## Cosmic Context 
