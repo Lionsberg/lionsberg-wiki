@@ -1,10 +1,13 @@
 # AURELLIØN's Guide to LIØNSBERG
 
-_May this guidebook help illuminate the Way for those brave souls journeying together towards [[The Goal]]._ 
+_May this guidebook help illuminate the Way for those brave souls journeying together towards **[[The Goal]]**._ 
 
 ***Begin at the threshold**: **[[AURELLIØN's Prolegomenon]]** — read aloud, together, before you enter the Story.*
 
-*Then: **[[The Story of LIØNSBERG|Read the Story]] · [[The Great Game of LIØNSBERG|Play the Game]] · [[The Invitation|Pass the Flame]]***
+*From there the Path is simple:*
+- **[[The Story of LIØNSBERG|Read the Story]]**  
+- **[[The Great Game of LIØNSBERG|Play the Game]]**  
+- **[[The Invitation|Pass the Flame]]**
 
 About the Author: [[The Story of AURELLIØN]]  
 On the nature and limits of this map: [[A Note on Perspective]]  
