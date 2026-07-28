@@ -258,12 +258,8 @@ The mathematics are the mathematics of life itself — seed by seed, Circle by C
 - [[Above The Chaos]] - Weekly reflections and strategic analysis
 - [[LIØNSBERG Wiki Books]] - A library of deeper architecture and wisdom  
 
-### Advanced Initiatory Paths (For Later)
-- [[The LIØNSBERG Guidebook]] - The field guide for the whole Path — the elder's voice in your pocket
-- [[The 144 Gates of Initiation]] - Progressive deepening as circles mature
-- [[The Sacred Ascent]] - The 72-gate path of mastery (spiritual, energetic, martial, yogic, healing arts)
-- [[The LIØNSBERG Sacred Codex]] - The living constitution and pattern language
-- [[The Eternal Divine Play]] - The infinite game across worlds and dimensions
+### The Workshop (For Later)
+- [[The LIØNSBERG Workshop]] - The living construction site of the deeper works — the Codex, the Guidebook, the Gates, the Ascent. Explore freely; hold lightly; everything is a Work In Progress.
 
 ---
 

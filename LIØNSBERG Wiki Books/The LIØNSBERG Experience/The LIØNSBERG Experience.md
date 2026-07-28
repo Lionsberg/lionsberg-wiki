@@ -1,5 +1,7 @@
 # The LIØNSBERG Experience
 
+*A living work in active construction — rich ore, not yet cohered. Explore freely; hold lightly. The cohered path lives at [[AURELLIØN's Guide to LIØNSBERG|the Guide]]; the wider site at [[The LIØNSBERG Workshop]].*
+
 _Volume I of [[The LIØNSBERG Sacred Codex|the Sacred Codex]]. The Sovereign's Guidebook through the bound corpus — the path each sovereign being walks, the daily way they live, the temporal calendar by which they mature, from the moment the Seed is received to the moment the Game becomes infinite._
 
 ---

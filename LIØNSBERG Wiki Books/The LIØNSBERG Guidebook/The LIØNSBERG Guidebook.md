@@ -1,5 +1,7 @@
 # The LIØNSBERG Guidebook
 
+*A living work in active construction — rich ore, not yet cohered. Explore freely; hold lightly. The cohered path lives at [[AURELLIØN's Guide to LIØNSBERG|the Guide]]; the wider site at [[The LIØNSBERG Workshop]].*
+
 ## _The Field Guide For The Journey — Across Lifetimes, Across Worlds, From And Into The Eternal Divine Play_
 
 Welcome.
