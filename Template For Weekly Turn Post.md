@@ -18,7 +18,7 @@ NEEDS: <what we could use — anyone may answer>
 OFFERS: <what we have to give>
 ```
 
-Two minutes. Honest over polished. The gap between said and did is the field of play, never a shame. And when another Circle's NEEDS meets your OFFERS — answer in the thread: that is the body coordinating itself, no center required. 
+Two minutes. Honest and done over polished. The gap between said and did is the field of play, never a shame. And when another Circle's NEEDS meets your OFFERS — answer in the thread: that is the body coordinating itself, no center required. 
 
 ---
 
