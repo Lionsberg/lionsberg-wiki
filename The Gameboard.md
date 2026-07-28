@@ -55,7 +55,7 @@ TEA invested: — · Commitments kept: — · Value created: — · Stories shar
 
 *Each week, every Circle **takes its Turn** here — a few lines to the Whole: did, will, learned, needs, offers. The Turn is the heartbeat of the Superorganism; the Board is how one body of many Circles knows itself.*
 
-*The Board runs on consent, and it is agent-optional: the whole thing can be kept by one person with a text editor. To add or update your Circle's corner, send word through the one who invited you.*
+*The Board runs on consent, and it is agent-optional: the whole thing can be kept by one person with a text editor. To add or update your Circle's corner, send word through the one who invited you — or any door on [[Reaching Us]].*
 
 *Circle, Quest, and Story cards live in [[The Commons/Circles/Circle Card Template|The Commons]].*
 

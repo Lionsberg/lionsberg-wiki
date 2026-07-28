@@ -137,6 +137,6 @@ And the deeper universal instruments that hold the whole kit together:
 
 ---
 
-If you need a Tool or a Solution to a problem or challenge you are facing, reach out and ask — one of Us likely will be able to help. And when you forge a tool that serves your Circle well, bring a copy of it back to the shed for others to use: every builder is welcome in [[The LIØNSBERG Workshop|the Workshop]]. 
+If you need a Tool or a Solution to a problem or challenge you are facing, reach out and ask ([[Reaching Us]]) — one of Us likely will be able to help. And when you forge a tool that serves your Circle well, bring a copy of it back to the shed for others to use: every builder is welcome in [[The LIØNSBERG Workshop|the Workshop]]. 
 
 *The Plays that wield these tools: [[The LIØNSBERG Playbook]] · The grammar beneath them: [[The LIØNSBERG Pattern Language]]*
