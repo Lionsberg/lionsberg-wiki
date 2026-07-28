@@ -1,73 +1,43 @@
 # AURELLIØN's Guide to LIØNSBERG
 
-*Begin at the threshold: **[[AURELLIØN's Prolegomenon]]** — read aloud, together, before the Story.*
+_May this guidebook help illuminate the Way for those brave souls journeying together towards [[The Goal]]._ 
 
-With [[The Great Game of LIØNSBERG]] now in play, there is a new request and need for [[Guidance]] that must flow from a new perspective. In response to that [[Driver]] this new guide was born. May it help illuminate the Way for those brave souls journeying together towards [[The Goal]]. 
+***Begin at the threshold**: **[[AURELLIØN's Prolegomenon]]** — read aloud, together, before you enter the Story.*
+
+*Then: **[[The Story of LIØNSBERG|Read the Story]] · [[The Great Game of LIØNSBERG|Play the Game]] · [[The Invitation|Pass the Flame]]***
 
 About the Author: [[The Story of AURELLIØN]]  
 On the nature and limits of this map: [[A Note on Perspective]]  
 
 ____
-## Cosmic Context 
 
-This Guide approaches the present moment from a primarily cosmic and non-local perspective and context. It begins with the acknowledgement of the vast expanses beyond the local [[Observable Universe]], and the conceptually infinite diversity of cultures, civilizations, and [[Cosmic Wildlife]] therein. 
+## The Vantage
 
-## Local Context
+This Guide sees from a primarily cosmic and non-local vantage before localizing to Here and Now. The full context — the teeming cosmos, the long contest over this world and its human and non-human inhabitants, the stakes of [[The Final Test]] at the end of a ten-thousand-year era — is told where it belongs, in [[The Story of LIØNSBERG]]. What matters at the threshold is this: the decisions made in this generation will shape life aboard Earth for millennia to come. 
 
-Secondarily, it localizes and adapts itself to Here and Now, where an existential interdimensional war is raging over this local star system and its human and non-human inhabitants.
-
-## Humanity's Crossroads Aboard Earth and Beyond
-
-In this context, humanity now stands at a historic crossroads, facing a crucible of transformative change unlike any in the last ten thousand years. 
-
-The decisions it makes in this moment will shape life aboard Earth for millennia to come. 
-
-And yet to pass [[The Final Test]] at the end of this era, it must come to grips with the harsh reality that it is neither alone in the universe, nor atop the local food chain. After millennia of lies, deception, and predation, will it be able to overcome the seemingly insurmountable challenges, break free from the depths of kontrolle, and liberate itself into the co-creation of [[Heaven On Earth]]? Or will it fall prey to fracture, fear, war, and the centuries of dark ages and enslavement that would naturally ensue?  
-
-## LIØNSBERG
+## The Golden Seed
 
 In 2026, just as it appeared that it was too late and all would be lost, [[The Golden Seed of LIØNSBERG]] was rediscovered. Bursting forth from within it was an _already operative_ cosmic culture, civilization, and operating system, localized, adapted, and offered as a free gift to Earth. 
 
-## The Golden Seed of LIØNSBERG
-
-[[The Golden Seed of LIØNSBERG]] is how the DNA of LIØNSBERG travels across the cosmos and plants itself in new realms and worlds. It is equally at home being nurtured in the pocket of a child, on the hearth of a family, in the commons of a small village, in the heart of a major spaceport, or in the transformation of galactic orders. It now lies in your hands. Waiting. Watching. Wondering. 
-
-## The Story of LIØNSBERG
-
-[[The Story of LIØNSBERG]] provides a unifying universal narrative and ontology. It is an invitation to each of the [[All]] to weave their unique individual and local stories back into [[The Great Story]] of [[ØNE]] and [[All]]. No matter who you are or where you come from, [[Your Story]] is an important part of it. Earth's present Chapter is being chronicled as it unfolds: [[2026 - Season 1 - The Great Game Begins]]. 
-
-## The Great Game of LIØNSBERG
-
-[[The Great Game of LIØNSBERG]] is designed to be simple enough for any child or family to play, yet powerful and sophisticated enough to co-create new worlds. Do not be deceived by the name. The Game is as serious as it gets. 
+The Seed is how the DNA of LIØNSBERG travels across the cosmos and plants itself in new realms and worlds. It is equally at home being nurtured in the pocket of a child, on the hearth of a family, in the commons of a small village, in the heart of a major spaceport, or in the transformation of galactic orders. It now lies in your hands. Waiting. Watching. Wondering. 
 
 ## Your First Steps
 
 You do not need to read further before you begin. Read [[The Invitation]]. Then find the two or three people you already know who are ready. You know who they are. Gather them, in person or by video, and let [[The LIØNSBERG Quick Start Guide]] walk you through your first ninety minutes together. Everything else in this Guide, and in the vast territory beyond it, will be waiting when the journey calls for it. 
 
-## The LIØNSBERG System
+## The Territory
 
-[[The LIØNSBERG System]] transforms our collective inheritance of wisdom, knowledge, and understanding into a continuously improving [[System of Systems]] explicitly designed to produce [[Throughput]] of [[The Goal]] across cosmo-local scales. 
+- **When you gather** — [[The LIØNSBERG Quick Start Guide]] walks your Circle through its first ninety minutes together. 
+- **When you play** — [[The Great Game of LIØNSBERG]] is the rulebook: simple enough for any child or family, yet powerful and sophisticated enough to co-create new worlds. [[The Game on One Page]] fits in your pocket. [[The Gameboard]] makes the whole living Game visible in The Commons — the Circles, the Quests, the Stories, the Season, the Score. 
+- **When you keep the rhythm** — [[The LIØNSBERG Playbook]] holds the practices of the weekly turns and seasonal rounds. 
+- **When you build** — [[The LIØNSBERG Toolkit]] offers instruments for gathering, deciding, questing, and building. [[The LIØNSBERG System]] transforms our collective inheritance of wisdom, knowledge, and understanding into a continuously improving [[System of Systems]], explicitly designed to produce [[Throughput]] of [[The Goal]] across cosmo-local scales. 
+- **When you go deeper** — [[The Story of LIØNSBERG]] is the unifying universal narrative and ontology, an invitation to weave your story back into [[The Great Story]] of [[ØNE]] and [[All]]; Earth's present Chapter is being chronicled as it unfolds at [[2026 - Season 1 - The Great Game Begins]]. [[The LIØNSBERG Sacred Codex]] is the gateway to the deeper works that guide and hold the emergence of LIØNSBERG across generations and worlds. 
+- **When you look outward** — [[The LIØNSBERG Map of Maps]] shows who else is already awake and at work across the Earth. [[The LIØNSBERG Resource Library]] is the commons of accumulated provisions — open to all travelers, growing as each contributes what they carry. 
+- **When it feels vast** — you do not need to read or understand it all. The Way is walked one step at a time, and everything will be waiting when the journey calls for it. 
 
-## The LIØNSBERG Sacred Codex  
+## History and Trust
 
-[[The LIØNSBERG Sacred Codex]] is the gateway to the deeper works that guide and hold the emergence of LIØNSBERG across generations and worlds. 
-
-## The LIØNSBERG Toolkit
-
-When your Circle needs an instrument — for gathering, deciding, questing, or building — look first to [[The LIØNSBERG Toolkit]].  
-
-## The LIØNSBERG Map of Maps 
-
-When you wonder who else is already awake and at work across the Earth, [[The LIØNSBERG Map of Maps]] shows you some of the fields where they gather.  
-## The LIØNSBERG Resource Library
-
-[[The LIØNSBERG Resource Library]] is the commons of accumulated provisions — open to all travelers, growing as each contributes what they carry.  
-
-## History and Trust Manifesto
-
-[[LIØNSBERG - History, Inception, and Trust Manifesto]] 
-
-This work carries its history openly. The writings gathered here span seasons and perspectives — most before 2026 flowing through [[Jordan Nicholas Sukut]], those after through the new perspective from which this Guide is written. Every page records its lineage via git, and every revision is preserved in the open record. What has changed, and why, can always be traced.
+This work carries its history openly. Every page records its lineage via git, and every revision is preserved in the open record — what has changed, and why, can always be traced: [[LIØNSBERG - History, Inception, and Trust Manifesto]]. 
 
 ## The Guide's Covenant
 
