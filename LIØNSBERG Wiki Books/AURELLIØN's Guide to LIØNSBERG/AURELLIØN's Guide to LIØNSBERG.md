@@ -8,7 +8,7 @@ _May this guidebook help illuminate the Way for those brave souls journeying tog
 
 About the Author: [[The Story of AURELLIØN]]  
 On the nature and limits of this map: [[A Note on Perspective]]  
-On the use of AI: A Note on the Use of AI
+On the use of AI: [[A Note on the Use of AI]]
 
 ____
 
