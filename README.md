@@ -14,7 +14,7 @@ Like gold refined seven times, we finally arrive together here — at The Gates 
 
 You hold in your hands a golden seed.
 
-It is not an organization. There is no one to join, no dues to pay, no leader to follow, no staff to support. It is a Seed — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world.
+It is not an organization. There is no one to join, no dues to pay, no leader to follow, no staff to support. It is a Seed — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world. *(The Seed is free, forever. Playing **together** is a living thing that asks nurture — see [[Nurturing the Commons]].)*
 
 This seed is nothing new. Its patterns have been born, evolved, and tested across unimaginable expanses of time and space — already lived and embodied by countless advanced civilizations throughout the cosmic order. Now localized and adapted to English and Earth. Not as anything in and of itself, but as one humble reflection of a Divine Pattern, a living Way — for the way that can be named is not the Way.
 
