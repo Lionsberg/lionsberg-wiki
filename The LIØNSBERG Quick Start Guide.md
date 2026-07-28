@@ -165,6 +165,10 @@ Go around one final time. Each person completes this sentence:
 
 ## What Happens Next
 
+### Send Word
+
+Your Circle now exists — let the body know. Send word through any door on [[Reaching Us]], and — by your Circle's consent — take your place on [[The Gameboard]]. This is how the lineage of the flame stays visible, and how the body knows a new cell is alive.
+
 ### Your Weekly Rhythm
 
 Every week, same time: run **[[Play — Run the Weekly Turn]]** — the full choreography, from arrival to gratitude, including taking your Circle's Turn on [[The Gameboard]]. [[The LIØNSBERG Playbook]] holds it, and every other Play your Circle will need.

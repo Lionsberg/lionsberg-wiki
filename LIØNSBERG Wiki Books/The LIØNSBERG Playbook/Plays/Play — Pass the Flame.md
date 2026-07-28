@@ -4,6 +4,8 @@
 
 *When* your Circle's roots are holding and commitments are being kept. Each member names the two or three they know who are ready, and shares [[The Invitation]] hand to hand within the week. Support whoever says yes as they gather their own sovereign Circle. At the pace of trust, never faster — and it always passes.
 
+And you who invite become the **sponsor**: walk them to their orientation, be reachable through their first gathering, mentor them into their first season — as someone once did, or would have done, for you.
+
 *(If the week slips — begin where you are. The Gate does not close.)*
 
 **Related:** [[Play — Tell the Story]] · [[Play — Midwife a New Circle]]

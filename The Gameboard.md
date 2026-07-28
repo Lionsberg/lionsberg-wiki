@@ -17,7 +17,7 @@
 **[[2026 - Season 1 - The Great Game Begins|2026 · Season 1 — The Great Game Begins]]** — Summer: Grow.
 Solstice June 21 → Equinox September 22.
 Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Celebration & Review, September 22.
-*Gatherings and turnings are announced via [the Substack](https://cocreatingheaven.substack.com/).*
+*Gatherings and turnings are announced via [the Substack](https://cocreatingheaven.substack.com/). All seasons: [[The Seasons of the Great Game]].*
 
 ## Who We Are — the Circles
 
@@ -39,7 +39,7 @@ Next turning: **the Autumn Harvest** — first Stories shared at the Equinox Cel
 
 ## The Flame — the lineage
 
-*Who passed the flame to whom — the family tree of Circles.*
+*Who passed the flame to whom — the family tree of Circles. Sponsorship is the mentoring line of the Game: the one who invites walks beside the one who arrives.*
 
 ## The Pledges — committed to the season ahead
 
