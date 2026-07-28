@@ -3,7 +3,7 @@
 
 ## You Are Here
 
-You have crossed the threshold. You have read [[Welcome to LIØNSBERG]]. You have gathered your circle of 3 to 13 resonant souls. You are sitting together — in person or connected by video. **The Walk begins here.**
+You have received [[The Invitation]] and answered it. You have gathered your circle of 3 to 13 resonant souls. You are sitting together — in person or connected by video. **The Walk begins here.**
 
 This guide will walk you through **your first 90 minutes together** — what to read aloud, how to sense-make as a group, and how to choose your first quest.
 
@@ -25,7 +25,7 @@ By the end of today, you will have:
 **One person facilitates.** Rotate this role in future meetings.
 
 **Welcome** (~2 min):  
-- Acknowledge everyone has read [[Welcome to LIØNSBERG]]
+- Acknowledge everyone has received and read [[The Invitation]]
 - We're here to step into The Story and The Great Game together
 - This is a threshold moment—we're crossing from the Old World into the New
 
@@ -38,15 +38,15 @@ Keep it short. This is connection, not explanation.
 
 ---
 
-### Minutes 10-40: Reading Together
+### Minutes 10-45: Reading Together
 
-**One person reads aloud** while others listen with full attention. Don't rush. Let the words land.
+**One person reads aloud** while others listen with full attention. Don't rush. Let the words land. Rotate readers between pieces if you like.
 
 Reading order:
 
 1. **[[AURELLIØN's Prolegomenon]]** (~6 min) — the welcome at the threshold
 2. **[[The Story of LIØNSBERG]]** (~10 min)
-3. **[[The Great Game of LIØNSBERG]]** (~10 min)
+3. **[[The Great Game of LIØNSBERG]]** (~18 min) — the rulebook, in one sitting. *If time runs short, read [[The Game on One Page]] instead, and read the full rulebook together at your next gathering.*
 
 _Don't worry about understanding everything. Let the story and the game wash over you. Sensing comes before understanding. Some will resonate immediately, some will need time to unfold._
 
@@ -54,7 +54,7 @@ _Don't worry about understanding everything. Let the story and the game wash ove
 
 ---
 
-### Minutes 40-70: Sensing & Forming the Circle
+### Minutes 45-70: Sensing & Forming the Circle
 
 **Round 1: Individual Reflections** (~15 min, ~2-3 min per person)
 
@@ -144,6 +144,7 @@ Decide together:
 - **What day and time?** (Choose a consistent slot that works for everyone)
 - **Where?** (Physical location or video link)
 - **Who will send reminders?** (Rotate this role or assign to one person)
+- **Who will tend your corner of [[The Gameboard]]?** (By your Circle's consent, add it to the Board and take your weekly Turn — a few lines from your Circle to the Whole)
 
 **Pass the Flame** (~5 min)
 
@@ -151,7 +152,7 @@ Before closing, each person answers one question:
 
 > "Who are the 2 or 3 people I already know who are ready for this?"
 
-Write the names down. This is not optional — it is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern by which 3 become 13 become 144 become 250 million — not through campaigns, but through trust passed from hand to hand.
+Write the names down. This is not optional — it is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern — not campaigns, but trust passed from hand to hand, always at the pace of trust.
 
 You are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
 
@@ -191,6 +192,7 @@ Use **[[The LIØNSBERG Playbook]]** for detailed guidance on circle practices. Y
 **Closing Ritual** (5 min)  
 - Gratitude round
 - Commitments: What will each person do before next meeting?
+- Take your Circle's Turn on [[The Gameboard]] — *did / will / learned*, plus any needs and offers
 - Benediction or closing word
 
 ### Your Seasonal Rhythm
@@ -200,9 +202,9 @@ Every solstice and equinox (~every 90 days):
 **1. Complete Your Quest**  
 - Celebrate what you've accomplished together
 - Acknowledge the transformation in your lives and community
-- Share stories of what emerged through your work
+- Harvest the Quest into a Story on [[The Gameboard]] — *every Quest becomes a Story; every Story becomes a Prophesy of even greater things to come*
 
-**2. Retrospective**  
+**2. Retrospective — the Seasonal OmniSpection**  
 - What worked well in our circle?
 - What would we like to do better in the future?
 - What did we learn that we can carry forward?  
@@ -233,7 +235,7 @@ Each person in your circle already named 2 or 3 others who are ready. Within one
 
 This is how [[The First Three Percent]] emerges — through the ancient organic pattern of flame passed from hand to hand, Circle to Circle, community to community. Not through campaigns. Not through central control. Through trust.
 
-The mathematics are the mathematics of life itself — the Fibonacci sequence. In just months, not years, the sacred organism shelters and nourishes the world.
+The mathematics are the mathematics of life itself — seed by seed, Circle by Circle, at the pace of trust, until the sacred organism shelters and nourishes the world.
 
 ---
 
@@ -252,17 +254,19 @@ You have everything you need to play — you are sovereign, self-governing, and 
 ## Resources for Your Journey
 
 ### Core Documents (You've Read These)
-- [[Welcome to LIØNSBERG]] - The essential guide showing the Way
 - [[AURELLIØN's Prolegomenon]] - The threshold
 - [[The Story of LIØNSBERG]] - The cosmic context
 - [[The Great Game of LIØNSBERG]] - How to play
 
 ### Practical Guides (Use These Weekly)
+- [[AURELLIØN's Guide to LIØNSBERG]] - The guide to the whole territory
+- [[The Gameboard]] - Where your Circle takes its weekly Turn
 - [[The LIØNSBERG Playbook]] - Detailed plays and practices for circles
 - [[The LIØNSBERG Circle Guide]] - Circle formation, health, and evolution
 - [[Frequently Asked Questions]] - Common concerns and questions addressed
 
 ### Strategy & Depth (Explore When Ready)
+- [[Welcome to LIØNSBERG]] - The deeper orientation hub
 - [[The LIØNSBERG Strategy and Plan]] - The 10-year vision and framework
 - [[the nameless strategy and plan]] - The first instance implementation
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Context on what was discovered and what is at stake
