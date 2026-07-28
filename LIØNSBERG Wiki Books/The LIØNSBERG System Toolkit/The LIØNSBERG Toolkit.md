@@ -10,6 +10,8 @@
 
 [[The LIØNSBERG Pattern Language]] holds the notes. [[The LIØNSBERG Playbook]] composes the riffs — the Plays a Circle runs when an operational moment calls. The Toolkit is the rack of instruments: the templates, trackers, and protocols you actually hold in your hands while a Play is running. When a Play says *forge your agreements* or *make a proposal* or *see the whole from above*, the Tool is what you pick up. 
 
+**And the Tools are how the Way is actually learned.** People do not learn Patterns by reading them; they learn by doing the thing with a well-made instrument in hand — the way music is learned by playing, not by theory — until the Pattern lives in the body and the instrument becomes a companion rather than a crutch. This is the design criterion of the whole shed, and the standard for everything in the Forge: **an instrument is well-forged when using it teaches the Wise Right embodiment of its Pattern and Play.** 
+
 ## The Workbench 
 
 **For gathering and forming**
