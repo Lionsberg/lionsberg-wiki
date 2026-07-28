@@ -94,28 +94,33 @@
 
 **One tool, every scale.** The instruments of LIØNSBERG are universal — holofractal by design. We do not build a personal version, a group version, a community version: we build each instrument once, so the same tool serves a soul, a Circle, a Community, and a world. 
 
-What follows is what remains to be built to fulfill the Toolkit's original vision. The Builder's answer stands: *perhaps you could help build them.* When an instrument is forged and proven in real play, it moves to the Workbench. 
+What follows is what remains to be built to fulfill the Toolkit's original vision — every commission derived from **[[General Needs|the General Needs register]]**, the anticipated needs of any body, so each is specific enough to actually forge. The Builder's answer stands: *perhaps you could help build them.* When an instrument is forged and proven in real play, it moves to the Workbench. 
 
-- **Commitment Tracker** — the said-and-did ledger, with Percent Commitments Kept *(until it exists, the `turns::` line on your [[Quest Card Template|Quest card]] serves)*
-- **Template For Roles** — defining and rotating a body's roles with clarity and lightness
-- **Template For Proposals** — bringing a proposal fit for consent
-- **Seasonal Quest Starter Kit** — prompts and patterns for choosing and shaping a season's Quest
+- **Welcome & Onboarding Checklist** — receiving a new member after the sealing *(need 2)*
+- **Graceful Release Protocol** — honoring a member's leaving; no one involuntarily held *(need 2)*
+- **Template For Proposals** — bringing a proposal fit for consent *(need 5)*
+- **Template For Roles** — defining and rotating roles with clarity and lightness *(need 6)*
+- **Communications Setup Guide** — choosing and tending the body's channel between gatherings *(need 8)*
+- **Resource Flow Ledger** — Time, Energy, Attention, and treasure, visible and flowing; feeds the Score's Value created *(need 9)*
+- **Seasonal Quest Starter Kit** — prompts and patterns for choosing and shaping a season's Quest *(need 10)*
+- **Commitment Tracker** — the said-and-did ledger, with Percent Commitments Kept; until it exists, the `turns::` line on your [[Quest Card Template|Quest card]] serves *(need 12)*
+- **Crisis Navigation Protocol** — when breakage exceeds the body's own capacity *(need 15)*
+- **Circle & Member Health Check** — where does this body stand, and what wants to grow next *(need 16)*
+- **Safety & Privacy Guide** — consent-before-visibility; protecting members in a watching world *(need 17)*
+- **Federation Starter Guide** — the first Circle-of-Circles *(need 18)*
+- **Story Crafting Guide** — telling Stories that carry: witness, not marketing *(need 20)*
+- **Book of Celebrations & Rituals** — openings, closings, blessings, turnings *(need 21)*
+- **Circle Memory Guide** — keeping the body's plain-text memory *(need 22)*
+
+And the deeper universal instruments that hold the whole kit together:
+
 - **The Six Step Process** — the universal transformation sequence any body can walk
-- **The Universal Assessment** — seeing honestly where any body stands, and what wants to grow next
-- **The System-of-Systems Lens** — seeing any body as a living system of systems
-- **Consciousness and capacity practices** — growing creativity, communication, and collaboration
-- **Regenerative culture and lifestyle instruments** — living justly and regeneratively as a way of being
-- **Vision and story instruments** — crafting shared vision and living story, beyond the first templates
-- **Strategy and planning instruments** — from intention to executable pathway
-- **Engagement and outreach instruments** — communication, networking, and alliance-building
-- **Monitoring, evaluation, and continuous-improvement instruments** — reflection and growth beyond the Seasonal OmniSpection
-- **Advocacy and systemic-change instruments** — moving policy and structures toward The Goal
 - **The Transformation Handbook** — one universal handbook, alive at every scale
 - **The Adaptation Guide** — carrying the instruments faithfully across contexts and cultures
 - **Training, mentoring, and support pathways** — so no Quest walks alone
 
 ---
 
-If you need a Tool or a Solution to a problem or challenge you are facing, reach out and ask — one of Us likely will be able to help. And when you forge a tool that serves your Circle well, bring it back to the shed: every builder is welcome in [[The LIØNSBERG Workshop|the Workshop]]. 
+If you need a Tool or a Solution to a problem or challenge you are facing, reach out and ask — one of Us likely will be able to help. And when you forge a tool that serves your Circle well, bring a copy of it back to the shed for others to use: every builder is welcome in [[The LIØNSBERG Workshop|the Workshop]]. 
 
 *The Plays that wield these tools: [[The LIØNSBERG Playbook]] · The grammar beneath them: [[The LIØNSBERG Pattern Language]]*
