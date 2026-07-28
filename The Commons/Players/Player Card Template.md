@@ -4,12 +4,15 @@
 
 ```
 # <Your Name>
-place:: <where in the world you play>
+place:: <where in the world you play — as coarse as you like>
 pledged:: <the season of your current Pledge — e.g. 2026 · Season 1>
-sponsor:: [[<the one who passed you the flame>]]
+flame:: [[<the one who FIRST passed you the flame — written once, never changed>]]
+sponsor:: [[<the one currently walking beside you — begins as your flame-passer, may shift>]]
 circle:: [[<your Circle>]] (when it forms or you join one)
 gifts:: <the capacities and crafts you bring>
 state:: arriving | gathering | playing
 ```
 
-*The `sponsor::` line is the lineage of the flame — from these cards alone, the whole family tree of the Game can be seen. Then add your row to [[The Gameboard]], or send word through any door on [[Reaching Us]] and it will be tended for you.*
+**The two lines of lineage:** the `flame::` line records who *first* passed you the flame — a single point, written once, never changed. From these lines alone, the whole family tree of the Game can be traced, forever: perhaps the most important metric in the Game. The `sponsor::` line is living — [[Sponsorship]] may shift by either party at any time. The flame is history; the sponsor is companionship. 
+
+**How cards are made, for now:** send word through any door on [[Reaching Us]] — your name as you wish to stand, your place as coarse as you like, who first passed you the flame, and your season — and the stewards will tend your card onto [[The Gameboard]]. Contact details are never published; the wiki is public, and only what belongs in the open stands in the open. Self-serve tending will come as the Board matures. 

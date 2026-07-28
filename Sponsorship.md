@@ -4,6 +4,8 @@
 
 ---
 
+**The flame and the sponsor are two lines, not one.** The one who *first* passed you the flame is written once on your [[Player Card Template|Player card]] and never changes — the permanent lineage of the Game. The sponsor who walks beside you *begins* as that same person, but the sponsor line is living: it may shift, as below. The flame is history; the sponsor is companionship. 
+
 **The role.** When you share [[The Invitation]] and someone says yes, you become their **sponsor**. A sponsor is a door, never a gatekeeper; a companion and guide, never an authority. The role is simple and real: walk them to their orientation; be reachable through their first gathering and their first ninety days; help guide them through [[Blue Belt]] in [[The LIØNSBERG Belt System]] (~3 years); help them find the instruments and the doors when the way is unclear; and model the Way by keeping your own commitments and growing your mastery of The Game. 
 
 **The term.** Sponsorship runs primarily through the sponsee's first season — the first gathering and the first ninety days; secondarily through [[Blue Belt]]. Then it completes, with gratitude: by then the sponsee stands inside their own Circle, held by many hands, and is likely becoming a sponsor themselves. A shift of sponsorship may occur — or be requested **by either party** — at any time, for any reason or none, without stigma. Freedom and [[Ongoing Mutual Consent]] in this is not a weakness of the bond; it is what keeps the bond clean. 
