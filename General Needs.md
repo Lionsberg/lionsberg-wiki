@@ -1,6 +1,6 @@
 # General Needs
 
-*The register of the needs we anticipate **any body** will face — any family, Circle, Assembly, Community, or Bioregion. The vast majority of what any body encounters is not unique to it: these are [[General Issues]], met by [[General Solutions]], through [[General Pattern, Specific Application]].*
+*The register of the needs we anticipate **any body** will face — any family, Circle, Assembly, Community, or Bioregion — or a nation, a world, and beyond. The vast majority of what any body encounters is not unique to it: these are [[General Issues]], met by [[General Solutions]], through [[General Pattern, Specific Application]].*
 
 *The law of non-redundancy: each need is named **once, here**. The timeless HOW of meeting it lives in [[The LIØNSBERG Pattern Language]]. The WHEN — the choreography — lives in [[The LIØNSBERG Playbook]]. The instrument in hand lives in [[The LIØNSBERG Toolkit]]. This register only maps; it never duplicates. Where a Pattern, Play, or Tool does not yet exist, the gap is named honestly — this register is also the commissioning list for [[The LIØNSBERG Workshop|the Workshop]].*
 
@@ -46,7 +46,7 @@
 ## VI. Deepening — capacity and regenerative life
 
 23. **Grow in capacity** — every member, and the body itself, growing in creativity, communication, collaboration, and craft. *In hand:* [[The LIØNSBERG Resource Library]]. *To forge:* Capacity Practice Library *(consciousness and capacity practices, gathered and teachable)*. 
-24. **Provision and regenerate life** — food, energy, shelter, health, land: meeting material needs as acts of regeneration. *To forge:* Regenerative Living Instruments *(household and community provisioning, the regenerative way)*. 
+24. **Provision and regenerate life** — food, energy, shelter, health, land: meeting material needs justly and regeneratively, as acts of co-creation. *To forge:* Regenerative Living Instruments *(household and community provisioning, the regenerative way)*. 
 
 ## VII. Widening — strategy, measurement, and the world beyond
 

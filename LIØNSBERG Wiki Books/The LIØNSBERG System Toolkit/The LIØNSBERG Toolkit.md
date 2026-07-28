@@ -88,9 +88,12 @@
 - [[The LIØNSBERG Resource Library]]
 
 **For growing the movement**
+- [[The Invitation]] *(the page to pass, hand to hand)*
 - [[The LIØNSBERG Guide To Movement Building]]
 
 ## The Forge — what remains to be built
+
+*— the Armory of the Awakening —*
 
 **One tool, every scale.** The instruments of LIØNSBERG are universal — holofractal by design. We do not build a personal version, a group version, a community version: we build each instrument once, so the same tool serves a soul, a Circle, a Community, and a world. 
 
@@ -111,6 +114,7 @@ What follows is what remains to be built to fulfill the Toolkit's original visio
 - **Story Crafting Guide** — telling Stories that carry: witness, not marketing *(need 20)*
 - **Book of Celebrations & Rituals** — openings, closings, blessings, turnings *(need 21)*
 - **Circle Memory Guide** — keeping the body's plain-text memory *(need 22)*
+- **Sovereign's Journal** — the personal companion: small enough to carry, personal enough to write in *(need 23)*
 
 - **Capacity Practice Library** — practices that grow creativity, communication, collaboration, and craft *(need 23)*
 - **Regenerative Living Instruments** — provisioning food, energy, shelter, health, and land the regenerative way *(need 24)*
