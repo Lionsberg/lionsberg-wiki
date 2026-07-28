@@ -1,6 +1,6 @@
 # Circle Card Template
 
-*Copy this file to create your Circle's card: `The Commons/Circles/<Circle Name>.md`. A Circle appears in the Commons only by its own consent; first names by default.*
+*Copy this file to create your Circle's card: `The Commons/Circles/<Circle Name>.md`. Circles stand visibly, formed of Players who stand — so the Game can see itself grow.*
 
 ```
 # <Circle Name>
