@@ -53,6 +53,8 @@ You need only notice whether something deep within you resonates and recognizes 
 
 If it does, you are now stepping into the opportunity and adventure of a lifetime. 
 
+And know plainly what saying yes will ask of you. You will not be asked to follow anyone. You will be asked to keep your word to a few people you come to trust — a first tenth of your time, a reciprocal flow to the commons, your gifts freely offered. You will not be asked to save the world. You will be asked to make one place a little more like Heaven, season after season, together — and to tell the truth about what happened. That is the whole ask. It is how worlds are remade.
+
 So pause. Breathe. Take courage.
 
 ____
