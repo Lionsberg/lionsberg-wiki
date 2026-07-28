@@ -4,6 +4,8 @@ _The Living Guide of The Great Game. The field book for the operational movement
 
 The Playbook is where the Pattern becomes Practice. It is the **field music-book** of LIØNSBERG — the gathered set of common-need compositions a Circle, Community, Bioregion, or any Body opens when they need to perform a specific operational riff.
 
+*For the whole craft of Circle life — meeting anatomy, roles, tension, lifecycle — see [[The LIØNSBERG Circle Guide]], held within this Playbook.*
+
 ---
 
 ## Where This Volume Sits — Lexicon · Pattern Language · Playbook

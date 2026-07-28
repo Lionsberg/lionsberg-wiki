@@ -26,21 +26,21 @@ By the end of today, you will have:
 
 **Welcome** (~2 min):  
 - Acknowledge everyone has received and read [[The Invitation]]
-- We're here to step into The Story and The Great Game together
-- This is a threshold moment—we're crossing from the Old World into the New
+- We're here to step into **The Story** and **The Great Game** together
+- This is a threshold moment—we're beginning the crossing from the Old World into the New
 
 **Opening Round** (~8 min, ~1 min per person):
 
 Go around the circle. Each person briefly shares:  
 > "My name is _____, and I'm here because _____."  
 
-Keep it short. This is connection, not explanation.
+Keep it short. This is connection and witnessing, not explanation.
 
 ---
 
 ### Minutes 10-45: Reading Together
 
-**One person reads aloud** while others listen with full attention. Don't rush. Let the words land. Rotate readers between pieces if you like.
+**One person reads aloud** while others listen with full attention. Don't rush. Let the words land. Rotate readers between pieces or paragraphs if you like.
 
 Reading order:
 
@@ -48,9 +48,9 @@ Reading order:
 2. **[[The Story of LIØNSBERG]]** (~10 min)
 3. **[[The Great Game of LIØNSBERG]]** (~18 min) — the rulebook, in one sitting. *If time runs short, read [[The Game on One Page]] instead, and read the full rulebook together at your next gathering.*
 
-_Don't worry about understanding everything. Let the story and the game wash over you. Sensing comes before understanding. Some will resonate immediately, some will need time to unfold._
+_Don't worry about understanding everything. Let the story and the game wash over you. Sensing comes before understanding. Some will resonate immediately, some will need time to unfold._  
 
-**A note for the facilitator**: The Story contains a passage on death and transformation that strikes like lightning when read aloud. When the group reaches it, let the reader slow down. After the passage, allow a brief silence. No one needs to explain it. Simply breathe together and continue when the group is ready. Let it land.
+**A note for the facilitator**: The Story contains a passage on death and transformation that might be challenging for some. No one needs to explain it. No one needs to believe it. Simply let it land, breathe together, and continue when the group is ready. 
 
 ---
 
@@ -89,11 +89,11 @@ Or simply: "Our Circle" until something better emerges.
 Agree on 2-5 core commitments that will hold your circle together.
 
 **Suggested starting agreements:**  
-- **Confidentiality**: What's shared in circle stays in circle  
+- **Chattam house rules**: Participants can share non-confidential information they hear, but they must not name the speaker or those in the meeting.  
 - **Respect**: Honor each person's voice and journey  
 - **Show up**: When you commit to attend, attend  
 - **Universal Principles and Values**: Uphold universal values such as Truth, Love, Justice, Stewardship, and Wisdom
-- **Communication**: Agree to check in and contribute regularly to keep the energy and flame of the group alive. Consider setting up a basic platform for asynchronous communications (text, Signal, Discord, Matrix, messenger pigeons, smoke signals, etc.)
+- **Communication**: Agree to check in and contribute regularly between meetings to keep the energy and flame of the group alive. Consider setting up a basic platform for asynchronous communications (text, Signal, Discord, Matrix, messenger pigeons, smoke signals, etc.)
 
 Add any others that matter to your specific circle, but **keep it simple**—2-5 maximum. You can always add more later as needs arise.
 
@@ -103,7 +103,7 @@ Add any others that matter to your specific circle, but **keep it simple**—2-5
 
 **What is a Quest?**
 
-A Quest is a **tangible act of goodwill** you'll accomplish **together** before the next solstice or equinox (~90 days from now max depending on when you begin).
+A Quest is a **tangible act of goodwill** you'll accomplish **together** before the next solstice or equinox (~90 days or less from now max depending on when you begin).
 
 It should be:  
 - **Real**: Something that actually transforms your lives or community  
@@ -128,7 +128,7 @@ Go around the circle. Each person suggests one possibility:
 - Clear and maintain a local trail or natural space  
 - Map and begin a directory of local offers and needs  
 
-**Choose ØNE Quest** (~7 min)
+**Choose a Quest** (~7 min)
 
 Discuss which quest resonates most with the group. Look for:  
 - What lights people up when they talk about it?
@@ -152,9 +152,9 @@ Before closing, each person answers one question:
 
 > "Who are the 2 or 3 people I already know who are ready for this?"
 
-Write the names down. This is not optional — it is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern — not campaigns, but trust passed from hand to hand, always at the pace of trust.
+Write the names down. This is the heartbeat of everything. Within one week, each person shares **[[The Invitation]]** with their 2 or 3. Those who resonate gather their own circle. Those circles pass the Flame forward. This is the ancient organic pattern — not campaigns, but trust passed from hand to hand, always at the pace of trust. This is how [[The First Three Percent]] are reached on schedule. 
 
-You are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
+Ideally, you are now part of two Circles: the one that invited you, and the one you form with the 2 or 3 you invite. This is the double helix through which the DNA replicates and the movement becomes unstoppable.
 
 **Close with Gratitude** (~2-3 min)
 
@@ -180,13 +180,14 @@ Use **[[The LIØNSBERG Playbook]]** for detailed guidance on circle practices. Y
 **Quest Coordination** (30-40 min)  
 - Progress updates: What's been done since last meeting?
 - Obstacles: What's blocking us?
-- Planning: What are the [[Discern the Wise Right Next Steps|Wise Right Next Steps]]?
+- Planning: What are the [[Discern the Wise Right Next Steps|Wise Right Next Steps]]?  
+- Commitments: Who will do what by when?  
 - Support: Who needs what from the circle?
 
 **Harvest** (10 min)  
 - What are we discovering as we work together?
 - What is working well?
-- What would we do differently?
+- What would we like to do differently or better?
 - What are we learning — about ourselves, each other, the quest?
 
 **Closing Ritual** (5 min)  
@@ -219,7 +220,7 @@ Every solstice and equinox (~every 90 days):
 - Connect with other circles in your region
 - Share stories and learnings
 - Celebrate together as the movement grows  
-- Begin aligning **Circles** into **Communities**, **Guilds**, and **Bioregions** from the bottom up  
+- Begin aligning **Circles** into **Assemblies**, **Communities**, **Guilds**, and **Bioregions** from the bottom up  
 
 ### Passing The Flame
 
@@ -231,30 +232,15 @@ Each person in your circle already named 2 or 3 others who are ready. Within one
 2. **Support them** as they read and gather their own circle
 3. **Be present** for their first gathering if they ask
 
-**Each person you invite becomes a carrier of the full DNA.** They don't need to be convinced. They need to be *found*.
+**Each person you invite becomes a carrier of the full DNA.** They don't need to be convinced. They already know. They need to be *found* and *invited*.
 
 This is how [[The First Three Percent]] emerges — through the ancient organic pattern of flame passed from hand to hand, Circle to Circle, community to community. Not through campaigns. Not through central control. Through trust.
 
 The mathematics are the mathematics of life itself — seed by seed, Circle by Circle, at the pace of trust, until the sacred organism shelters and nourishes the world.
 
----
-
-## A Nameless Instance of The Game
-
-For those desiring deeper community, connection, and guidance, a first living instance of The Game is already underway — **[[the nameless emergence]]**.
-
-**Commitment:** The first tenth of your time — several hours per week  
-**Structure:** Your sovereign circle, connected to the larger emerging body  
-**How to join:** Let the person who invited you know you're in and ask them to communicate word back to the center.
-
-You have everything you need to play — you are sovereign, self-governing, and free to adapt the patterns to your context. And by connecting to this first instance, your circle becomes part of something larger from the start.
-
----
-
 ## Resources for Your Journey
 
 ### Core Documents (You've Read These)
-- [[AURELLIØN's Prolegomenon]] - The threshold
 - [[The Story of LIØNSBERG]] - The cosmic context
 - [[The Great Game of LIØNSBERG]] - How to play
 
@@ -268,12 +254,12 @@ You have everything you need to play — you are sovereign, self-governing, and 
 ### Strategy & Depth (Explore When Ready)
 - [[Welcome to LIØNSBERG]] - The deeper orientation hub
 - [[The LIØNSBERG Strategy and Plan]] - The 10-year vision and framework
-- [[the nameless strategy and plan]] - The first instance implementation
 - [[A Birthday Reflection on Jordan's Life, Death, and Work]] - Context on what was discovered and what is at stake
 - [[Above The Chaos]] - Weekly reflections and strategic analysis
 - [[LIØNSBERG Wiki Books]] - A library of deeper architecture and wisdom  
 
 ### Advanced Initiatory Paths (For Later)
+- [[The LIØNSBERG Guidebook]] - The field guide for the whole Path — the elder's voice in your pocket
 - [[The 144 Gates of Initiation]] - Progressive deepening as circles mature
 - [[The Sacred Ascent]] - The 72-gate path of mastery (spiritual, energetic, martial, yogic, healing arts)
 - [[The LIØNSBERG Sacred Codex]] - The living constitution and pattern language
@@ -286,8 +272,8 @@ You have everything you need to play — you are sovereign, self-governing, and 
 **You have everything you need to begin.**
 
 The Golden Seed is in your hands.  
-Your circle is formed.  
-Your quest awaits.
+Your Circle is formed.  
+Your Quest awaits.
 
 The rest will emerge through living it together—week by week, quest by quest, season by season.
 

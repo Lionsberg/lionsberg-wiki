@@ -1,5 +1,7 @@
 # The LIØNSBERG Circle Guide
 
+*A Play from [[The LIØNSBERG Playbook]] — the craft of keeping a Circle alive and healthy through the seasons.*
+
 ## What a Circle Is
   
 A Circle is the smallest complete unit of the New Civilization.  
@@ -45,37 +47,14 @@ Every Circle is meant to transform our lives and our worlds.
   
 A Circle may begin with as few as three people.  
 Five to seven is often ideal.  
-Twelve is a natural upper bound,  
+Thirteen is a natural upper bound,  
 After which it is natural for the emerging organism to split into two.  
   
-Begin by gathering—physically or digitally—and reading aloud:  
-
-- The Prologue
-    
-- The Story
-    
-- The Quickstart Guide
-    
-- And this Circle Guide
-    
-  
-Then pause.  
-  
-Let silence do some of the work.  
-  
-### Naming the Circle
-  
-Choose a name that:  
-
-- feels alive
-    
-- reflects your locality, intention, or shared image
-    
-- can grow with you
-    
-  
-The name matters less than the care with which it is chosen.  
-It is provisional and can be changed at any time.  
+For forming, naming, and sealing your Circle —
+the first gathering itself —
+follow [[The LIØNSBERG Quick Start Guide]].
+What follows here is the craft of keeping a Circle
+alive and healthy through the seasons.
   
 ### Establishing Agreements
   
