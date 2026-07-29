@@ -4,7 +4,7 @@
 
 ---
 
-The Game plans the lean way: **pull, don't push** — each horizon draws from the one above it, and no task begins before its constraints clear. The cascade, at any scale from a Circle to the whole Body: 
+Every plan serves [[ØNE Vision and Intent]] — the invariant why above all the changeable hows. From there, the Game plans the lean way: **pull, don't push** — each horizon draws from the one above it, and no task begins before its constraints clear. The cascade, at any scale from a Circle to the whole Body: 
 
 1. **The Season Plan** — at each turning, the body chooses its Quest and aims: [[Play — Turn the Season]] · [[Template For Vision and Purpose]] · [[Tool For Aiming]] · [[Template For Navigation Chart]] 
 2. **[[Milestones]]** — the markers the season turns on *(this season: the orientations · the first sealings · the Equinox Celebration & Review, September 22)* 
