@@ -261,7 +261,7 @@ footer a {{ color:var(--gold-deep); }}
   <p class="questions">Who We Are · How We Are Questing · Where We Are Going · Why</p>
 </header>
 
-<p class="welcome-line">Welcome. The territory you are entering is vast, new, and unknown. If you are just arriving, we highly suggest you enter through <a href="/README.html">The&nbsp;Gates</a> and walk with <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">a&nbsp;Guide</a>.</p>
+<p class="welcome-line">Welcome. The territory you are entering is vast, new, mythic, and unknown.<br>If you are just arriving, we highly suggest you enter through <a href="/README.html">The&nbsp;Gates</a> and walk with <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">a&nbsp;Guide</a>.</p>
 
 <div class="wheel">{wheel}</div>
 <p class="sky-line" id="gb-sky">It is Summer in the northern sky, Winter in the southern — the turning is shared by All.</p>
