@@ -10,6 +10,7 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 
 - A journey to the starting point  
 - Why we are here  
+- The start of a multi-year journey  
 
 **Opening Round** · _10 min — 1 minute each_
 
