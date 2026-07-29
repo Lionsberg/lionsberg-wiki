@@ -317,6 +317,7 @@ footer a {{ color:var(--gold-deep); }}
 </section>
 
 <footer>
+  <p><a href="/About_the_Gameboard.html" style="color:var(--gold)">What is this? — About the Gameboard</a></p>
   <p>This Board is kept in plain text, in the open record, tended by hand —
      the ledger behind it lives at <a href="/The_Gameboard.html">The Gameboard</a>.</p>
   <p class="doors">Gatherings &amp; turnings announced via <a href="https://cocreatingheaven.substack.com/">the Substack</a> ·
@@ -403,7 +404,7 @@ a.card:hover {{ border-color:var(--gold); filter:brightness(1.06); }}
 <input id="gb-filter" type="search" placeholder="Filter by name, place, or gift…" aria-label="Filter cards"
   style="width:100%;max-width:480px;font:inherit;font-size:18px;padding:12px 16px;border-radius:12px;border:1.5px solid var(--edge);background:var(--card);color:var(--ink);margin-bottom:18px;">
 <div class="cards" id="gb-cards">{body_html}</div>
-<p class="sub" style="margin-top:22px">To connect with anyone here, send word through any door on <a href="/Reaching_Us.html" style="color:var(--gold-deep)">Reaching Us</a> — contact details are never published; the membrane opens by consent.</p>
+<p class="sub" style="margin-top:22px">To connect with anyone here, send word through any door on <a href="/Reaching_Us.html" style="color:var(--gold-deep)">Reaching Us</a> — contact details are never published; the membrane opens by consent. New to the Board? <a href="/About_the_Gameboard.html" style="color:var(--gold-deep)">About the Gameboard</a>.</p>
 <script>
 (function(){{var f=document.getElementById("gb-filter");if(!f)return;
 f.addEventListener("input",function(){{var q=f.value.toLowerCase();
