@@ -2,6 +2,8 @@
 
 *Who We Are · How We Are Questing · Where We Are Going · Why*
 
+**→ [View the living Board](https://lionsberg.wiki/gameboard)** — *the Gameboard under the stars. This page is the plain-text ledger behind it.*
+
 *The Game made visible — the Commons where the whole living Game can be seen at a glance. Every Circle tends its own path of the Sacred Garden; the Vision stays in the middle, and it only grows.*
 
 ---
