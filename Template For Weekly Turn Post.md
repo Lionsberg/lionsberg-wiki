@@ -22,4 +22,4 @@ Two minutes. Honest and done over polished. The gap between said and did is the 
 
 ---
 
-*The movement it serves: [[Play — Run the Weekly Turn]] · The living state it feeds: [[The Gameboard]] · The shed it lives in: [[The LIØNSBERG Toolkit]]*
+*The door it goes through: [[Update the Board]] · The movement it serves: [[Play — Run the Weekly Turn]] · The living state it feeds: [[The Gameboard]] · The shed it lives in: [[The LIØNSBERG Toolkit]]*

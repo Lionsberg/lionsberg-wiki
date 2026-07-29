@@ -16,7 +16,7 @@
 
 **Make Commitments** — Each member names one specific, doable commitment for the week: *say what you will do.* Next week: *tell what you did; learn from the difference.* *(To forge: Commitment Tracker — until then, the `turns::` line on your Quest card serves.)*
 
-**Take the Turn on the Board** — Two minutes before closing: a few lines from your Circle to the Whole — *did / will / learned*, plus needs and offers — posted with [[Template For Weekly Turn Post]] and kept on your Quest card for [[The Gameboard]]. The heartbeat of the Superorganism: skip it, and the body cannot feel you.
+**Take the Turn on the Board** — Two minutes before closing: a few lines from your Circle to the Whole — *did / will / learned*, plus needs and offers — posted with [[Template For Weekly Turn Post]] through the one weekly door — [[Update the Board]] — and kept on your Quest card for [[The Gameboard]]. The heartbeat of the Superorganism: skip it, and the body cannot feel you.
 
 **Harvest and Close** — What are we learning? One appreciation or one improvement each. Gratitude round. A closing word. End on time — trust is built at the edges.
 

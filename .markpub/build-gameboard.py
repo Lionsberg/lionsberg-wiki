@@ -208,6 +208,8 @@ header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; }
 .sky-line {{ text-align:center; font-style:italic; color:var(--ink-soft); font-size:18px; margin:10px 0 0; }}
 .now-line {{ text-align:center; font-size:21px; margin:8px 0 4px; }}
 .now-line strong {{ color:var(--rust); }}
+.update-row {{ text-align:center; font-size:19px; margin:2px 0 0; }}
+.update-row a {{ color:var(--gold); text-decoration:none; font-family:Inter,sans-serif; }}
 .actions {{ display:flex; flex-wrap:wrap; gap:14px; justify-content:center; margin:30px 0 8px; }}
 .btn {{ font-family:Inter,sans-serif; font-weight:600; font-size:19px; text-decoration:none;
   padding:16px 26px; border-radius:14px; min-height:44px; display:inline-flex; align-items:center; gap:10px; }}
@@ -262,6 +264,7 @@ footer a {{ color:var(--gold-deep); }}
   <a class="btn primary" href="/The_Pledge.html">✍️ Make Your Pledge</a>
   <a class="btn quiet" href="/Reaching_Us.html">🤝 Get Help · Send Word</a>
 </div>
+<p class="update-row">Already playing? <a href="/Update_the_Board.html">🗓️ <strong>Update the Board</strong></a> — the two-minute weekly Turn.</p>
 
 <section>
   <a class="h2link" href="/players.html"><h2>Who Stands →</h2></a>

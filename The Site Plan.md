@@ -56,6 +56,7 @@ The Workshop ── the honest gate to everything still being built
 | [[The LIØNSBERG Belt System]] · [[Blue Belt]] | the maturity ladder | Gates/Ascent articulation · Blue Belt language on the Arc and Sponsorship |
 | [[The Seasons of the Great Game]] | the almanac | a new chronicle row at every turning |
 | [[The Communication Platform]] | the Server (borrowed land, then our own) | channel shape · membrane · Turn-post flow · Reaching Us door 4 |
+| [[Update the Board]] | the one weekly door | the form when it lands · Turn template · Play — Run the Weekly Turn |
 | [[Reaching Us]] | the doors | **any new channel, platform, steward, or door updates here first** |
 | [[The LIØNSBERG Workshop]] | the honest gate | the cohered-path list · WIP statuses · this Site Plan |
 
