@@ -101,7 +101,7 @@ def build_wheel(t):
         arcs.append(f'<path class="{cls}" data-season="{sname}" d="{arc_path(C,C,R,a0+GAP,a0+90-GAP)}" stroke="{colors[sname]}" stroke-width="{ARC_W}" fill="none" stroke-linecap="butt"{dim}/>')
         lx, ly = pol(C, C, R, a0+45)
         lcls = "season-label now" if now else "season-label"
-        labels.append(f'<text x="{lx:.0f}" y="{ly:.0f}" class="{lcls}" text-anchor="middle" dominant-baseline="middle">{sname.upper()}</text>')
+        labels.append(f'<text x="{lx:.0f}" y="{ly:.0f}" class="{lcls}" data-season="{sname}" text-anchor="middle" dominant-baseline="middle">{sname.upper()}</text>')
     ticks = []
     for d, sname in TURNINGS[:4]:
         a = SEASON_START_ANGLE[sname]
@@ -197,7 +197,8 @@ header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; }
 .c-name {{ font-size:21px; font-style:italic; fill:var(--ink-soft); text-anchor:middle; }}
 .c-one {{ font-size:54px; font-weight:700; fill:var(--gold); text-anchor:middle; }}
 .c-q {{ font-size:19px; font-style:italic; fill:var(--ink); text-anchor:middle; }}
-.now-line {{ text-align:center; font-size:21px; margin:14px 0 4px; }}
+.sky-line {{ text-align:center; font-style:italic; color:var(--ink-soft); font-size:18px; margin:10px 0 0; }}
+.now-line {{ text-align:center; font-size:21px; margin:8px 0 4px; }}
 .now-line strong {{ color:var(--rust); }}
 .actions {{ display:flex; flex-wrap:wrap; gap:14px; justify-content:center; margin:30px 0 8px; }}
 .btn {{ font-family:Inter,sans-serif; font-weight:600; font-size:19px; text-decoration:none;
@@ -241,7 +242,8 @@ footer a {{ color:var(--gold-deep); }}
 </header>
 
 <div class="wheel">{wheel}</div>
-<p class="now-line">🔥 <strong>You are here</strong> — <span id="gb-season">{SEASON}</span> of Season&nbsp;1 · <strong><span id="gb-days">{DAYS_TO_TURN}</span>&nbsp;days</strong> to <span id="gb-turnname">the Harvest &amp; Equinox Celebration</span>, <span id="gb-turndate">{NEXT_TURN.strftime("%B %-d")}</span>.</p>
+<p class="sky-line" id="gb-sky">It is Summer in the northern sky, Winter in the southern — the turning is shared by All.</p>
+<p class="now-line">🔥 <strong>You are here</strong> — <span id="gb-season">{SEASON}</span> of Season&nbsp;1 · <strong><span id="gb-days">{DAYS_TO_TURN}</span>&nbsp;days</strong> to <span id="gb-turnname">the Equinox Celebration &amp; Review</span>, <span id="gb-turndate">{NEXT_TURN.strftime("%B %-d")}</span>.</p>
 
 <div class="actions">
   <a class="btn quiet" href="/LIØNSBERG_Wiki_Books/The_Story_of_LIØNSBERG/The_Story_of_LIØNSBERG.html">📖 Read the Story</a>
@@ -294,36 +296,46 @@ footer a {{ color:var(--gold-deep); }}
 </footer>
 </div><script>
 (function(){{
-  // Turnings (verify each year at the seasonal tending; the Board forgives ±1 day)
   var T=[["2025-12-21","Winter"],["2026-03-20","Spring"],["2026-06-21","Summer"],["2026-09-22","Autumn"],
          ["2026-12-21","Winter"],["2027-03-20","Spring"],["2027-06-21","Summer"],["2027-09-23","Autumn"],
          ["2027-12-21","Winter"],["2028-03-19","Spring"],["2028-06-20","Summer"],["2028-09-22","Autumn"],
          ["2028-12-21","Winter"],["2029-03-20","Spring"],["2029-06-21","Summer"],["2029-09-22","Autumn"],
          ["2029-12-21","Winter"],["2030-03-20","Spring"],["2030-06-21","Summer"],["2030-09-22","Autumn"]];
-  var now=new Date(); var today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
+  var OPP={{Summer:"Winter",Winter:"Summer",Spring:"Autumn",Autumn:"Spring"}};
   var start={{Winter:0,Spring:90,Summer:180,Autumn:270}};
-  var turnName={{Autumn:"the Harvest & Equinox Celebration",Winter:"the Winter Solstice turning",
-                Spring:"the Spring Equinox turning",Summer:"the Summer Solstice turning"}};
+  function south(){{
+    try{{var tz=Intl.DateTimeFormat().resolvedOptions().timeZone||"";
+      return /Australia|Auckland|Fiji|Antarctica|Santiago|Buenos_Aires|Sao_Paulo|Montevideo|Asuncion|La_Paz|Lima|Johannesburg|Maputo|Harare|Windhoek|Gaborone|Maseru|Mbabane|Port_Moresby|Noumea|Pacific\/(Apia|Tongatapu|Rarotonga|Tahiti)/.test(tz);
+    }}catch(e){{return false;}}
+  }}
+  var isSouth=south();
+  var now=new Date(); var today=new Date(now.getFullYear(),now.getMonth(),now.getDate());
   for(var i=0;i<T.length-1;i++){{
     var d1=new Date(T[i][0]+"T00:00:00"), d2=new Date(T[i+1][0]+"T00:00:00");
     if(today>=d1&&today<d2){{
-      var season=T[i][1], nextSeason=T[i+1][1];
+      var canon=T[i][1];                      // northern-canonical key
+      var local=isSouth?OPP[canon]:canon;     // the viewer's sky
       var frac=(today-d1)/(d2-d1), days=Math.round((d2-today)/864e5);
+      var m=d2.getMonth();
+      var turn=(m===8)?"the Equinox Celebration & Review":(m===2)?"the March Equinox turning":(m===5)?"the June Solstice turning":"the December Solstice turning";
       var el=function(id){{return document.getElementById(id);}};
-      if(el("gb-season"))el("gb-season").textContent=season;
+      if(el("gb-season"))el("gb-season").textContent=local;
       if(el("gb-days"))el("gb-days").textContent=days;
-      if(el("gb-turnname"))el("gb-turnname").textContent=turnName[nextSeason]||("the "+nextSeason+" turning");
+      if(el("gb-turnname"))el("gb-turnname").textContent=turn;
       if(el("gb-turndate"))el("gb-turndate").textContent=d2.toLocaleDateString("en-US",{{month:"long",day:"numeric"}});
-      var angle=start[season]+frac*90;
+      if(el("gb-sky"))el("gb-sky").textContent="It is "+canon+" in the northern sky, "+OPP[canon]+" in the southern — the turning is shared by All.";
+      var angle=start[canon]+frac*90;
       var g=document.querySelector(".flame-now");
       if(g){{var built=parseFloat(g.getAttribute("data-built-angle")||angle);
         g.setAttribute("transform","rotate("+(angle-built)+" 330 330)");}}
       document.querySelectorAll(".arc").forEach(function(a){{
-        var isNow=a.getAttribute("data-season")===season;
+        var isNow=a.getAttribute("data-season")===canon;
         a.setAttribute("opacity",isNow?"1":"0.4");
         a.classList.toggle("now-arc",isNow);}});
       document.querySelectorAll(".season-label").forEach(function(l){{
-        l.classList.toggle("now",l.textContent===season.toUpperCase());}});
+        var key=l.getAttribute("data-season")||l.textContent;
+        if(isSouth)l.textContent=OPP[key].toUpperCase();
+        l.classList.toggle("now",key===canon);}});
       break;
     }}
   }}

@@ -156,6 +156,8 @@ Then **take your Turn on the Board**: a few lines from your Circle to the Whole 
 - **Harvest.** As the next turning nears, gather the fruits. Tell the Story. Celebrate, and return the learnings to the Whole.
 - **Rest.** Pause. Remember why you play. Renew your commitment — or release it with grace.
 
+The turnings are planetary — the same solstice and equinox arrive for every sky on Earth in the same breath. The seasons wear opposite faces in the north and the south, and so the Body breathes in counter-phase: while half of us plant, half harvest. There is always a harvest ripening somewhere, always a planting beginning somewhere. The Game never sleeps.
+
 At each turning comes the seasonal **OmniSpection** — the Circle sees from above: *What did we set out to do? What actually happened? What did we learn? What is ours to do next?* Then a new Quest, and the wheel turns again.
 
 And the Game's clock runs at two speeds at once: this week's turn, and the **[[Ten Thousand Generations|ten thousand generations to come]]**. Every move is small enough to make this week — and every move echoes across the whole arc of our interexistence, through civilizations that rise and fall and rise again. We play as the elders teach, holding the sweetgrass braid: those who came before, those here now, those yet to come — three strands woven into one strong cord.
