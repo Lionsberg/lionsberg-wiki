@@ -17,4 +17,7 @@ quest:: [[<current Quest>]]
 state:: rooting | playing | harvesting | resting
 ```
 
+
+*Two formatting laws for cards: leave a **blank line after every `field::` line** — without it, the fields run together as one paragraph on the rendered page — and write every member, circle, and group as a `[[wikilink]]`, so all the cards interlink and the whole Commons becomes internavigable.*
+
 *Then add one row for your Circle to [[The Gameboard]].*

@@ -15,6 +15,9 @@ gifts:: <the capacities and crafts you bring>
 state:: arriving | gathering | playing
 ```
 
+
+*Two formatting laws for cards: leave a **blank line after every `field::` line** — without it, the fields run together as one paragraph on the rendered page — and write every member, circle, and group as a `[[wikilink]]`, so all the cards interlink and the whole Commons becomes internavigable.*
+
 **The two lines of lineage:** the `flame::` line records who *first* passed you the flame — a single point, written once, never changed. From these lines alone, the whole family tree of the Game can be traced, forever: perhaps the most important metric in the Game. The `sponsor::` line is living — [[Sponsorship]] may shift by either party at any time. The flame is history; the sponsor is companionship. 
 
 **How cards are made, for now:** send word through any door on [[Reaching Us]] — your name as you wish to stand, your place as coarse as you like, who first passed you the flame, and your season — and the stewards will tend your card onto [[The Gameboard]]. Contact details are never published; the wiki is public, and only what belongs in the open stands in the open. Self-serve tending will come as the Board matures. 

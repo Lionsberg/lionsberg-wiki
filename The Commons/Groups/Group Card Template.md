@@ -12,6 +12,9 @@ open:: <yes, if welcoming new members>
 members:: <the Players and Circles who belong — [[Player]] · [[Circle]] · …>
 ```
 
+
+*Two formatting laws for cards: leave a **blank line after every `field::` line** — without it, the fields run together as one paragraph on the rendered page — and write every member, circle, and group as a `[[wikilink]]`, so all the cards interlink and the whole Commons becomes internavigable.*
+
 **The mutual-consent mechanic:** membership is real when it is written on *both* cards — the Group lists the member, and the member's own card lists the Group (`groups:: [[Group Name]]`). Written on one side only, it is a hand extended, awaiting the clasp. Either side may withdraw its line at any time — [[Ongoing Mutual Consent]], in plain text. 
 
 *To stand a Group, or join one: send word through any door on [[Reaching Us]] — the stewards tend both cards.*
