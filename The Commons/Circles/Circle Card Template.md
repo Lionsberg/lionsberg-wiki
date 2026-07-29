@@ -1,6 +1,6 @@
 # Circle Card Template
 
-*Copy this file to create your Circle's card: `The Commons/Circles/<Circle Name>.md`. Circles stand visibly, formed of Players who stand — so the Game can see itself grow.*
+*Copy this file to create your Circle's card: `The Commons/Circles/<Circle Name>.md`. Circles stand visibly, formed of Players who stand — so the Game can see itself grow. One name, one card; if your Circle's name is already burning elsewhere, add your place: `Circle of the Sacred Flame (Melbourne)`.*
 
 ```
 # <Circle Name>

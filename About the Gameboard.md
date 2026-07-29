@@ -12,6 +12,8 @@
 
 **How does it stay current?** Once a week, each Circle's tender takes two minutes at [[Update the Board]] — the one weekly door. The wheel and the day-count keep themselves; the cards are tended by human hands. 
 
+**What name do I stand by?** The name you are truly known by among those you play with — legal, chosen, or craft name (the first Player stands as AURELLIØN). One name, one card. If your name is already standing, the stewards add your place — *John Smith (Boise)* — the way villages have always told their Johns apart. And identity here is **witnessed, not credentialed**: every arrival names who first passed them the flame, and the stewards can confirm along that living line. If your name changes, send word — the card follows you. 
+
 **Who can see this?** Everyone — the Board is public, because standing together openly is how the Game becomes visible to All. What is *never* shown: contact details, or anything you did not consent to. Those whose circumstances truly require quiet may play unlisted ([[Reaching Us]]). 
 
 **How do I find and reach people?** The field pages *(Who Stands → · The Circles →)* have a filter — type a place, a gift, a name. To connect with anyone: send word through [[Reaching Us]] — the membrane opens by consent, never by broadcast. 

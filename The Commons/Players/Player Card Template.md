@@ -1,6 +1,6 @@
 # Player Card Template
 
-*Copy this file to take your stand: `The Commons/Players/<Your Name>.md`. Players stand openly, by name — standing together is how the Game becomes visible to All.*
+*Copy this file to take your stand: `The Commons/Players/<Your Name>.md`. Players stand openly, by the name they are truly known by — legal, chosen, or craft. One name, one card; if yours is already standing, the stewards add your place: `John Smith (Boise)`. Standing together is how the Game becomes visible to All.*
 
 ```
 # <Your Name>
