@@ -207,6 +207,8 @@ header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; }
 .c-name {{ font-size:21px; font-style:italic; fill:var(--ink-soft); text-anchor:middle; }}
 .c-one {{ font-size:54px; font-weight:700; fill:var(--gold); text-anchor:middle; }}
 .c-q {{ font-size:19px; font-style:italic; fill:var(--ink); text-anchor:middle; }}
+.welcome-line {{ text-align:center; font-style:italic; font-size:19px; color:var(--ink-soft); max-width:620px; margin:6px auto 0; }}
+.welcome-line a {{ color:var(--gold); text-decoration:none; border-bottom:1px solid var(--gold-deep); }}
 .sky-line {{ text-align:center; font-style:italic; color:var(--ink-soft); font-size:18px; margin:10px 0 0; }}
 .now-line {{ text-align:center; font-size:21px; margin:8px 0 4px; }}
 .now-line strong {{ color:var(--rust); }}
@@ -254,6 +256,8 @@ footer a {{ color:var(--gold-deep); }}
   <h1>The Gameboard</h1>
   <p class="questions">Who We Are · How We Are Questing · Where We Are Going · Why</p>
 </header>
+
+<p class="welcome-line">Welcome. The territory you are entering is vast, new, and unknown. If you are just arriving, we highly suggest you enter through <a href="/README.html">The&nbsp;Gates</a> and walk with <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">a&nbsp;Guide</a>.</p>
 
 <div class="wheel">{wheel}</div>
 <p class="sky-line" id="gb-sky">It is Summer in the northern sky, Winter in the southern — the turning is shared by All.</p>
