@@ -1,6 +1,6 @@
 # The Great Game of LIØNSBERG
 
-*Volume III of [[The LIØNSBERG Sacred Codex|the Sacred Codex]] — the participatory form: the Game played in real life, with real stakes, by every sovereign being who chooses to play.*
+*The participatory form: the Game played in real life, with real stakes, by every sovereign being who chooses to play.*
 
 *This is the rulebook. Read it aloud, together, in one sitting. Then form a Circle, choose a Quest, and step into play. Everything deeper waits for you when you are ready.*
 
@@ -207,6 +207,5 @@ For today, everything you need is here:
 - **To run the weekly rhythm** — [[The LIØNSBERG Playbook]]  
 - **To see the whole living Game** — [[The Gameboard]]  
 - **To walk with a guide** — [[AURELLIØN's Guide to LIØNSBERG]]  
-- **To cross the threshold** — [[AURELLIØN's Prolegomenon]]  
 
 *Read the Story. Play the Game. Pass the Flame.*
