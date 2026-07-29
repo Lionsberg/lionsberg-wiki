@@ -22,7 +22,7 @@ THEMES = {
     surface="#FAF5EA", card="#FFFDF6", edge="#E7DCC4", ink="#2B2419", soft="#6B6152",
     gold="#D79417", gold_deep="#A8720C", gold_ink="#241B08", rust="#B4552D",
     label_fill="#FAF5EA", glow="", stars="", body_extra=""),
-  "cosmic": dict(out="gameboard-cosmic.html",
+  "cosmic": dict(out="gameboard.html",
     colors={"Spring":"#7EA260","Summer":"#935B00","Autumn":"#C98063","Winter":"#3C6BA1"},
     surface="#0D1424", card="#16203A", edge="#2A3A5E", ink="#EDE6D6", soft="#B8AE97",
     gold="#E8B14B", gold_deep="#B8841F", gold_ink="#1A1408", rust="#E09070",
@@ -159,10 +159,11 @@ GHOSTS = {
 
 n_players, n_circles = len(players), len(circles)
 
-def render(t, other_link, other_name):
+def render(t, other_link=None, other_name=None):
     wheel = build_wheel(t)
     stars = starfield_css() if t["stars"] else ""
     glow_css = f'.now-arc,.flame-now {{ {t["glow"]} }}' if t["glow"] else ""
+    skin_line = f'  <p class="skin"><a href="{other_link}">{other_name}</a></p>\n' if other_link else ""
     circles_html = simple_cards(circles, "Circles") or GHOSTS["circles"]
     quests_html  = simple_cards(quests, "Quests") or GHOSTS["quests"]
     stories_html = simple_cards(stories, "Stories") or GHOSTS["stories"]
@@ -226,7 +227,11 @@ footer {{ margin-top:60px; border-top:1.5px solid var(--edge); padding-top:22px;
 footer a {{ color:var(--gold-deep); }}
 .doors {{ margin-top:8px; }}
 .skin {{ font-family:Inter,sans-serif; font-size:15px; }}
-@media print {{ .actions,.card.ghost,.skin {{ display:none; }} body {{ font-size:16px; }} body::before {{ display:none; }} }}
+@media print {{ .actions,.card.ghost,.skin {{ display:none; }} body {{ font-size:16px; background:#fff !important; color:#1C1710; }}
+  body::before {{ display:none; }} .card,.tile {{ background:#fff; border-color:#bbb; color:#1C1710; }}
+  .card .meta,.tile .lab,.sub,.young,footer {{ color:#555; }}
+  .season-label {{ fill:#fff; }} .c-one {{ fill:#8A6A10; }} .c-q,.c-name,.c-season,.tick-label {{ fill:#333; }}
+  .now-arc,.flame-now {{ filter:none; }} }}
 </style></head><body>
 <div class="wrap">
 <header>
@@ -285,14 +290,12 @@ footer a {{ color:var(--gold-deep); }}
   <p class="doors">Gatherings &amp; turnings announced via <a href="https://cocreatingheaven.substack.com/">the Substack</a> ·
      New here? Begin with <a href="/The_Invitation.html">The Invitation</a> and
      <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">the Guide</a>.</p>
-  <p class="skin"><a href="{other_link}">{other_name}</a></p>
-  <p>Made with love, for All · CC BY-SA 4.0 · regenerated {TODAY.strftime("%B %-d, %Y")}</p>
+{skin_line}  <p>Made with love, for All · CC BY-SA 4.0 · regenerated {TODAY.strftime("%B %-d, %Y")}</p>
 </footer>
 </div></body></html>"""
     out = os.path.join(ROOT, t["out"])
     open(out, "w", encoding="utf-8").write(HTML)
     print(f"built {t['out']}")
 
-render(THEMES["light"], "/gameboard-cosmic.html", "◐ view under the stars")
-render(THEMES["cosmic"], "/gameboard.html", "☀ view in daylight")
+render(THEMES["cosmic"], None, None)
 print(f"{SEASON} frac {FRAC:.2f}, {DAYS_TO_TURN}d to turn; players={n_players} circles={n_circles}")
