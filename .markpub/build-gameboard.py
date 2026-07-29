@@ -66,6 +66,11 @@ def arc_path(cx, cy, r, a1, a2):
     large = 1 if (a2-a1)%360 > 180 else 0
     return f"M {x1:.1f} {y1:.1f} A {r} {r} 0 {large} 1 {x2:.1f} {y2:.1f}"
 
+def arc_path_rev(cx, cy, r, a1, a2):
+    x1,y1 = pol(cx,cy,r,a2); x2,y2 = pol(cx,cy,r,a1)
+    large = 1 if (a2-a1)%360 > 180 else 0
+    return f"M {x1:.1f} {y1:.1f} A {r} {r} 0 {large} 0 {x2:.1f} {y2:.1f}"
+
 # ---------- read The Commons ----------
 def cards(folder):
     out=[]
@@ -101,9 +106,11 @@ def build_wheel(t):
         dim = "" if now else ' opacity="0.4"'
         order = ["Winter","Spring","Summer","Autumn"].index(sname)
         arcs.append(f'<path class="{cls}" data-season="{sname}" style="animation-delay:{0.15*order:.2f}s" pathLength="100" d="{arc_path(C,C,R,a0+GAP,a0+90-GAP)}" stroke="{colors[sname]}" stroke-width="{ARC_W}" fill="none" stroke-linecap="butt"{dim}/>')
-        lx, ly = pol(C, C, R, a0+45)
         lcls = "season-label now" if now else "season-label"
-        labels.append(f'<text x="{lx:.0f}" y="{ly:.0f}" class="{lcls}" data-season="{sname}" text-anchor="middle" dominant-baseline="middle">{sname.upper()}</text>')
+        bottom = sname in ("Spring","Summer")
+        lp = arc_path_rev(C,C,R+7,a0+6,a0+84) if bottom else arc_path(C,C,R-7,a0+6,a0+84)
+        labels.append(f'<path id="lp{sname}" d="{lp}" fill="none"/>'
+                      f'<text class="{lcls}" data-season="{sname}"><textPath href="#lp{sname}" startOffset="50%" text-anchor="middle">{sname.upper()}</textPath></text>')
     ticks = []
     for d, sname in TURNINGS[:4]:
         a = SEASON_START_ANGLE[sname]
@@ -111,6 +118,8 @@ def build_wheel(t):
         lx,ly = pol(C,C,R+ARC_W/2+26,a)
         ticks.append(f'<line x1="{x1:.0f}" y1="{y1:.0f}" x2="{x2:.0f}" y2="{y2:.0f}" class="tick"/>'
                      f'<text x="{lx:.0f}" y="{ly:.0f}" class="tick-label" text-anchor="middle" dominant-baseline="middle">{d.strftime("%b %-d")}</text>')
+    trail = (f'<path class="trail" pathLength="100" d="{arc_path(C,C,R,SEASON_START_ANGLE[SEASON]+GAP,NOW_ANGLE)}" '
+             f'stroke="#F2C86B" stroke-width="9" fill="none" stroke-linecap="round"/>')
     fx, fy = pol(C, C, R, NOW_ANGLE)
     flame = (f'<g class="flame-now" data-built-angle="{NOW_ANGLE:.2f}">'
              f'<circle cx="{fx:.0f}" cy="{fy:.0f}" r="26" class="flame-halo"/>'
@@ -126,7 +135,7 @@ def build_wheel(t):
 <radialGradient id="oneGlow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="rgba(232,177,75,0.28)"/><stop offset="70%" stop-color="rgba(232,177,75,0.06)"/><stop offset="100%" stop-color="rgba(232,177,75,0)"/></radialGradient>
 </defs>
 <circle cx="{C}" cy="{C}" r="{R-ARC_W/2-6}" fill="url(#oneGlow)"/>
-{''.join(arcs)}{''.join(ticks)}{''.join(labels)}
+{''.join(arcs)}{trail}{''.join(ticks)}{''.join(labels)}
 <text x="{C}" y="{C-74}" class="c-season">2026 · SEASON 1</text>
 <text x="{C}" y="{C-46}" class="c-name">The Great Game Begins</text>
 <text x="{C}" y="{C+14}" class="c-one">ØNE</text>
@@ -199,7 +208,7 @@ def render(t, other_link=None, other_name=None):
 <title>The Gameboard — The Great Game of LIØNSBERG</title>
 <meta name="description" content="The living Gameboard of The Great Game of LIØNSBERG — who stands, the Circles, the Quests, the Stories, the season, and the Score.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Fraunces:opsz,wght@9..144,600..700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root {{ --surface:{t["surface"]}; --ink:{t["ink"]}; --ink-soft:{t["soft"]}; --gold:{t["gold"]}; --gold-deep:{t["gold_deep"]};
   --rust:{t["rust"]}; --card:{t["card"]}; --edge:{t["edge"]}; }}
@@ -225,14 +234,14 @@ body::after {{ content:''; position:absolute; inset:0; pointer-events:none; widt
 .wrap {{ max-width:920px; margin:0 auto; padding:34px 22px 70px; position:relative; }}
 header {{ text-align:center; padding:36px 0 6px; }}
 header .kicker {{ font-family:Inter,sans-serif; font-size:13.5px; letter-spacing:.34em; color:var(--gold); text-transform:uppercase; opacity:.9; }}
-h1 {{ font-size:clamp(52px,9vw,88px); font-weight:700; letter-spacing:.005em; margin:10px 0 4px; line-height:1.05;
+h1 {{ font-family:Fraunces,"Source Serif 4",serif; font-size:clamp(52px,9vw,88px); font-weight:700; letter-spacing:.005em; margin:10px 0 4px; line-height:1.05;
   background:linear-gradient(180deg,#F7EED6 20%, #E8B14B 85%); -webkit-background-clip:text; background-clip:text; color:transparent;
   text-shadow:0 0 60px rgba(232,177,75,.18); }}
 header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; letter-spacing:.02em; }}
 .welcome-line {{ text-align:center; font-style:italic; font-size:19.5px; color:var(--ink-soft); max-width:640px; margin:18px auto 0; line-height:1.7; }}
 .welcome-line a {{ color:var(--gold); text-decoration:none; border-bottom:1px solid rgba(232,177,75,.45); transition:border-color .25s; }}
 .welcome-line a:hover {{ border-color:var(--gold); }}
-.wheel {{ max-width:640px; margin:26px auto 0; position:relative; }}
+.wheel {{ width:min(680px, 92vw); max-width:680px; margin:26px auto 0; position:relative; }}
 .wheel::before {{ content:''; position:absolute; inset:-12%; border-radius:50%; pointer-events:none;
   background:radial-gradient(circle, rgba(232,177,75,.13) 0%, rgba(60,107,161,.10) 45%, rgba(0,0,0,0) 70%); filter:blur(24px); }}
 .wheel svg {{ width:100%; height:auto; display:block; position:relative; }}
@@ -242,7 +251,7 @@ header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; l
 .tick-label {{ font-family:Inter,sans-serif; font-size:13.5px; letter-spacing:.06em; fill:var(--ink-soft); }}
 .c-season {{ font-family:Inter,sans-serif; font-size:14.5px; letter-spacing:.3em; fill:var(--gold); text-anchor:middle; }}
 .c-name {{ font-size:21px; font-style:italic; fill:var(--ink-soft); text-anchor:middle; }}
-.c-one {{ font-size:58px; font-weight:700; fill:var(--gold); text-anchor:middle; }}
+.c-one {{ font-family:Fraunces,"Source Serif 4",serif; font-size:58px; font-weight:700; fill:var(--gold); text-anchor:middle; }}
 .c-q {{ font-size:19px; font-style:italic; fill:var(--ink); text-anchor:middle; }}
 .sky-line {{ text-align:center; font-style:italic; color:var(--ink-soft); font-size:17.5px; margin:14px 0 0; opacity:.85; }}
 .now-line {{ text-align:center; font-size:21.5px; margin:10px 0 4px; }}
@@ -258,9 +267,21 @@ header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; l
 .btn:hover {{ transform:translateY(-2px); box-shadow:0 8px 32px rgba(232,177,75,.30); border-color:rgba(232,177,75,.55); }}
 .update-row {{ text-align:center; font-size:19px; margin:4px 0 0; }}
 .update-row a {{ color:var(--gold); text-decoration:none; font-family:Inter,sans-serif; }}
+
+.hero {{ min-height:100svh; display:flex; flex-direction:column; justify-content:center; padding:8px 0 4px; }}
+.hero > * {{ flex-shrink:0; }}
+.cue {{ text-align:center; font-size:30px; color:var(--gold); opacity:.7; margin-top:14px; animation:cue 2.4s ease-in-out infinite; }}
+@keyframes cue {{ 0%,100% {{ transform:translateY(0); opacity:.55; }} 50% {{ transform:translateY(8px); opacity:.95; }} }}
+.trail {{ stroke-dasharray:100; stroke-dashoffset:100; animation:draw 1.2s .9s cubic-bezier(.6,0,.3,1) forwards; filter:drop-shadow(0 0 8px rgba(242,200,107,.75)); opacity:.95; }}
+.btn.primary {{ position:relative; overflow:hidden; }}
+.btn.primary::after {{ content:''; position:absolute; top:0; left:-70%; width:45%; height:100%;
+  background:linear-gradient(105deg, transparent, rgba(255,255,255,.5), transparent); animation:shine 11s ease-in-out infinite; }}
+@keyframes shine {{ 0%,86% {{ left:-70%; }} 95% {{ left:135%; }} 100% {{ left:135%; }} }}
+.horizon {{ margin-top:70px; height:96px; opacity:.9;
+  background:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 120' preserveAspectRatio='none'%3E%3Cpath d='M0,92 L120,66 L230,88 L360,44 L470,82 L600,26 L730,78 L860,52 L980,84 L1090,64 L1200,88 L1200,120 L0,120 Z' fill='%23131E38'/%3E%3C/svg%3E") center bottom / 100% 100% no-repeat; }}
 section {{ margin-top:66px; opacity:0; transform:translateY(22px); transition:opacity .8s ease, transform .8s ease; }}
 section.in {{ opacity:1; transform:none; }}
-h2 {{ font-size:30px; letter-spacing:.015em; display:inline-block; padding-bottom:7px; margin-bottom:6px; position:relative; }}
+h2 {{ font-family:Fraunces,"Source Serif 4",serif; font-size:30px; letter-spacing:.015em; display:inline-block; padding-bottom:7px; margin-bottom:6px; position:relative; }}
 h2::after {{ content:''; position:absolute; left:0; bottom:0; height:2px; width:100%;
   background:linear-gradient(90deg, var(--gold), rgba(232,177,75,0)); }}
 .h2link {{ text-decoration:none; color:inherit; }}
@@ -282,7 +303,7 @@ a.card.ghost:hover {{ border-color:var(--gold); }}
 .tiles {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(145px,1fr)); gap:15px; }}
 .tile {{ background:rgba(22,32,58,.55); border:1px solid rgba(232,177,75,.13); border-radius:18px; padding:20px 14px; text-align:center;
   backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); }}
-.tile .num {{ font-size:42px; font-weight:700; line-height:1.1;
+.tile .num {{ font-family:Fraunces,"Source Serif 4",serif; font-size:42px; font-weight:700; line-height:1.1;
   background:linear-gradient(180deg,#F7EED6, #E8B14B); -webkit-background-clip:text; background-clip:text; color:transparent; }}
 .tile .lab {{ font-family:Inter,sans-serif; font-size:14px; letter-spacing:.04em; color:var(--ink-soft); margin-top:5px; }}
 .young {{ color:var(--ink-soft); font-style:italic; font-size:18px; margin-top:14px; }}
@@ -299,6 +320,7 @@ footer a {{ color:var(--gold-deep); }}
   .now-arc,.flame-now {{ filter:none; }} section {{ opacity:1; transform:none; }} h1 {{ color:#1C1710; -webkit-text-fill-color:#1C1710; text-shadow:none; }} }}
 </style></head><body>
 <div class="wrap">
+<div class="hero">
 <header>
   <div class="kicker">The Great Game of LIØNSBERG</div>
   <h1>The Gameboard</h1>
@@ -309,7 +331,9 @@ footer a {{ color:var(--gold-deep); }}
 
 <div class="wheel">{wheel}</div>
 <p class="sky-line" id="gb-sky">It is Summer in the northern sky, Winter in the southern — the turning is shared by All.</p>
-<p class="now-line">🔥 <strong>You are here</strong> — <span id="gb-season">{SEASON}</span> of Season&nbsp;1 · <strong><span id="gb-days">{DAYS_TO_TURN}</span>&nbsp;days</strong> to <span id="gb-turnname">the Equinox Celebration &amp; Review</span>, <span id="gb-turndate">{NEXT_TURN.strftime("%B %-d")}</span>.</p>
+<p class="now-line"><strong>You are here</strong> — <span id="gb-season">{SEASON}</span> of Season&nbsp;1 · <strong><span id="gb-days">{DAYS_TO_TURN}</span>&nbsp;days</strong> to <span id="gb-turnname">the Equinox Celebration &amp; Review</span>, <span id="gb-turndate">{NEXT_TURN.strftime("%B %-d")}</span>.</p>
+<div class="cue" aria-hidden="true">⌄</div>
+</div>
 
 <div class="actions">
   <a class="btn quiet" href="/LIØNSBERG_Wiki_Books/The_Story_of_LIØNSBERG/The_Story_of_LIØNSBERG.html">📖 Read the Story</a>
@@ -410,6 +434,7 @@ footer a {{ color:var(--gold-deep); }}
   </div>
 </section>
 
+<div class="horizon" aria-hidden="true"></div>
 <footer>
   <p><a href="/About_the_Gameboard.html" style="color:var(--gold)">What is this? — About the Gameboard</a></p>
   <p>This Board is kept in plain text, in the open record, tended by hand —
@@ -460,7 +485,8 @@ footer a {{ color:var(--gold-deep); }}
         a.classList.toggle("now-arc",isNow);}});
       document.querySelectorAll(".season-label").forEach(function(l){{
         var key=l.getAttribute("data-season")||l.textContent;
-        if(isSouth)l.textContent=OPP[key].toUpperCase();
+        var tp=l.querySelector("textPath")||l;
+        if(isSouth)tp.textContent=OPP[key].toUpperCase();
         l.classList.toggle("now",key===canon);}});
       break;
     }}
@@ -488,7 +514,7 @@ def render_field(t, title, sub, body_html, out_name):
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} — The Gameboard — LIØNSBERG</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700&family=Fraunces:opsz,wght@9..144,600..700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root {{ --surface:{t["surface"]}; --ink:{t["ink"]}; --ink-soft:{t["soft"]}; --gold:{t["gold"]}; --gold-deep:{t["gold_deep"]}; --rust:{t["rust"]}; --card:{t["card"]}; --edge:{t["edge"]}; }}
 * {{ box-sizing:border-box; margin:0; }}
@@ -497,7 +523,7 @@ body {{ color:var(--ink); font-family:"Source Serif 4",Georgia,serif; font-size:
 {starfield_css() if t["stars"] else ""}
 .wrap {{ max-width:880px; margin:0 auto; padding:28px 20px 60px; position:relative; }}
 .back {{ font-family:Inter,sans-serif; font-size:16px; }} .back a {{ color:var(--gold-deep); text-decoration:none; }}
-h1 {{ font-size:clamp(38px,6.5vw,56px); margin:10px 0 4px;
+h1 {{ font-family:Fraunces,"Source Serif 4",serif; font-size:clamp(38px,6.5vw,56px); margin:10px 0 4px;
   background:linear-gradient(180deg,#F7EED6 20%, #E8B14B 85%); -webkit-background-clip:text; background-clip:text; color:transparent; }}
 .sub {{ color:var(--ink-soft); font-style:italic; margin-bottom:22px; }}
 .cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }}
