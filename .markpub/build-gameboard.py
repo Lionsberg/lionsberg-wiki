@@ -276,20 +276,35 @@ footer a {{ color:var(--gold-deep); }}
 </section>
 
 <section>
-  <a class="h2link" href="/quests.html"><h2>The Quests →</h2></a> <a class="h2link" href="/stories.html"><h2>The Stories →</h2></a>
-  <p class="sub">Real work that makes one place measurably more like Heaven — then told, as living proof.</p>
-  <div class="cards">{quests_html}
-{stories_html}</div>
+  <a class="h2link" href="/quests.html"><h2>The Quests →</h2></a>
+  <p class="sub">The work in play now — real, achievable, meaningful, together.</p>
+  <div class="cards">{quests_html}</div>
 </section>
 
 <section>
-  <h2>The Pledges &amp; The Score</h2>
-  <p class="sub">The Pledges tell what is coming; the Score tells what has flowed.</p>
+  <a class="h2link" href="/stories.html"><h2>The Stories →</h2></a>
+  <p class="sub">The living proof, harvested and told — every Story a Prophesy of greater things to come.</p>
+  <div class="cards">{stories_html}</div>
+</section>
+
+<section>
+  <a class="h2link" href="/The_Pledge.html"><h2>The Pledges →</h2></a>
+  <p class="sub">What is coming — every Player's first Commitment, freshly chosen each season.</p>
   <div class="tiles">
     <a class="tile" style="text-decoration:none;color:inherit" href="/players.html"><div class="num">{n_players}</div><div class="lab">standing</div></a>
-    <div class="tile"><div class="num">{n_circles or "—"}</div><div class="lab">Circles</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">TEA pledged (hrs/wk)</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">resources pledged</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">gifts offered</div></div>
+  </div>
+</section>
+
+<section>
+  <a class="h2link" href="/The_Gameboard.html"><h2>The Score</h2></a>
+  <p class="sub">What has flowed — the season's living record.</p>
+  <div class="tiles">
+    <div class="tile"><div class="num">{n_circles or "—"}</div><div class="lab">Circles sealed</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">commitments kept</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">value created</div></div>
     <div class="tile"><div class="num">{len(stories) or "—"}</div><div class="lab">Stories shared</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">flames passed</div></div>
   </div>

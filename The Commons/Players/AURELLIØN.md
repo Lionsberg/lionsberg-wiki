@@ -3,7 +3,7 @@
 place:: aboard Earth 
 pledged:: 2026 · Season 1 
 flame:: [[ØNE]] 
-sponsor:: — 
+sponsor:: [[ØNE]] 
 circle:: *(forming, with the first players of Season 1)* 
 gifts:: guidance · stewarding the canon, the Commons, and the Board · [[AURELLIØN's Guide to LIØNSBERG|walking beside those who arrive]] 
 state:: playing 
