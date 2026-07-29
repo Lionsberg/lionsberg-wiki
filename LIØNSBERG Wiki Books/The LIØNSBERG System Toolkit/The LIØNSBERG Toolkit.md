@@ -83,6 +83,12 @@
 - [[Template For Pattern Language (Detailed)]]
 - [[Template For Values Pattern Language]]
 
+**For remembering — the PM basics**
+- [[The Decision Log]] *(the Game's own — every body keeps one like it)*
+- [[LIØNSBERG Issue Tracker]]
+- [[Request For Guidance]]
+- [[Submittals]]
+
 **For telling and resourcing**
 - [[Your Story]]
 - [[Story Template]] *(the harvest, in The Commons)*
@@ -118,6 +124,7 @@ What follows is what remains to be built to fulfill the Toolkit's original visio
 - **Story Crafting Guide** — telling Stories that carry: witness, not marketing *(need 20)*
 - **Book of Celebrations & Rituals** — openings, closings, blessings, turnings *(need 21)*
 - **Circle Memory Guide** — keeping the body's plain-text memory *(need 22)*
+- **The Log Set** — decision · issue · guidance · submittal · correspondence templates, one set for every body *(need 22, the PM basics of the PDG)*
 - **Sovereign's Journal** — the personal companion: small enough to carry, personal enough to write in *(need 23)*
 
 - **Capacity Practice Library** — practices that grow creativity, communication, collaboration, and craft *(need 23)*

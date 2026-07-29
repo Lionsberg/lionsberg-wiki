@@ -15,7 +15,7 @@
 - **The Stories** — harvests told as they happen; the finest tended into The Commons. 
 - **The Commons Floor** — needs and offers, coordination between Circles, shared sensemaking. 
 - **The Workshop Bench** — questions and improvements to the plans: *perhaps you could help improve them.* 
-- **Circle Rooms** — optional rooms for Circles who want their own channel here. 
+- **Circle Rooms & Inboxes** — each Circle may take a room of its own, and every listed Circle receives an **inbox**: the public door where other Circles and Players leave word — inquiries, offers, invitations to collaborate — tended at the weekly gathering. The Board's directory points here. 
 
 ## The Membrane
 

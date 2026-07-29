@@ -41,7 +41,7 @@
 19. **Grow and replicate** — the fruit carries the seed. *In hand:* [[The Invitation]] · the Pass-the-Flame steps of [[The LIØNSBERG Quick Start Guide|the Quick Start]]. *Pattern:* [[Pass The Flame]]. 
 20. **Tell the story** — witness, not marketing; the living proof that carries. *In hand:* [[Your Story]] · [[Story Template]] · [[LIØNSBERG Case Studies]]. *To forge:* Story Crafting Guide. 
 21. **Celebrate, rest, and renew** — gratitude, ritual, and the seasons honored. *To forge:* Book of Celebrations & Rituals *(openings, closings, blessings, turnings)*. 
-22. **Remember** — the body's living memory, held in common. *In hand:* this wiki, The Commons, and the open git record. *To forge:* Circle Memory Guide *(keeping your body's plain-text memory)*. 
+22. **Remember** — the body's living memory, held in common. *In hand:* this wiki, The Commons, the open git record · [[The Decision Log]] · [[LIØNSBERG Issue Tracker]] · [[Request For Guidance]] · [[Submittals]]. *To forge:* Circle Memory Guide · The Log Set *(decision/issue/guidance/submittal/correspondence templates for every body)*. 
 
 ## VI. Deepening — capacity and regenerative life
 
