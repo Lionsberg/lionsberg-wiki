@@ -122,9 +122,12 @@ def build_wheel(t):
 {flame}
 </svg>"""
 
-def player_cards():
+BOARD_CAP = 9
+
+def player_cards(limit=None):
     out = []
-    for pl in players:
+    shown = players if limit is None else players[:limit]
+    for pl in shown:
         url = "/The_Commons/Players/" + pl["name"].replace(" ", "_") + ".html"
         out.append(f"""<a class="card stand" href="{url}">
       <div class="flame-mark">🔥</div>
@@ -133,6 +136,8 @@ def player_cards():
       <p class="line">Flame passed by <strong>{esc(pl.get("flame","—"))}</strong></p>
       <p class="line">Pledged · {esc(pl.get("pledged","—"))}</p>
     </a>""")
+    if limit is not None and len(players) > limit:
+        out.append(f'<a class="card ghost" href="/players.html"><h3>… and {len(players)-limit} more</h3><p class="line">See the whole field of Players →</p></a>')
     out.append("""<a class="card ghost" href="/The_Pledge.html">
       <div class="flame-mark dim">🔥</div>
       <h3>Your name belongs here</h3>
@@ -140,12 +145,15 @@ def player_cards():
     </a>""")
     return "\n".join(out)
 
-def simple_cards(items, folder):
+def simple_cards(items, folder, limit=None):
     out = []
-    for c in items:
+    shown = items if limit is None else items[:limit]
+    for c in shown:
         bits = " · ".join(esc(c[k]) for k in ("place","season","state") if c.get(k))
         url = f"/The_Commons/{folder}/" + c["name"].replace(" ", "_") + ".html"
         out.append(f'<a class="card" href="{url}"><h3>{esc(c["name"])}</h3><p class="meta">{bits}</p></a>')
+    if limit is not None and len(items) > limit:
+        out.append(f'<a class="card ghost" href="/{folder.lower()}.html"><h3>… and {len(items)-limit} more</h3><p class="line">See them all →</p></a>')
     return "\n".join(out)
 
 GHOSTS = {
@@ -164,9 +172,9 @@ def render(t, other_link=None, other_name=None):
     stars = starfield_css() if t["stars"] else ""
     glow_css = f'.now-arc,.flame-now {{ {t["glow"]} }}' if t["glow"] else ""
     skin_line = f'  <p class="skin"><a href="{other_link}">{other_name}</a></p>\n' if other_link else ""
-    circles_html = simple_cards(circles, "Circles") or GHOSTS["circles"]
-    quests_html  = simple_cards(quests, "Quests") or GHOSTS["quests"]
-    stories_html = simple_cards(stories, "Stories") or GHOSTS["stories"]
+    circles_html = simple_cards(circles, "Circles", BOARD_CAP) or GHOSTS["circles"]
+    quests_html  = simple_cards(quests, "Quests", BOARD_CAP) or GHOSTS["quests"]
+    stories_html = simple_cards(stories, "Stories", BOARD_CAP) or GHOSTS["stories"]
     HTML = f"""<!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
@@ -207,6 +215,8 @@ header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; }
 .btn.quiet {{ background:var(--card); color:var(--ink); border:2px solid var(--edge); }}
 .btn:hover {{ filter:brightness(1.08); }}
 section {{ margin-top:46px; }}
+.h2link {{ text-decoration:none; color:inherit; }}
+.h2link:hover h2 {{ color:var(--gold); }}
 h2 {{ font-size:31px; border-bottom:3px solid var(--gold); display:inline-block; padding-bottom:4px; margin-bottom:6px; }}
 .sub {{ color:var(--ink-soft); font-style:italic; margin-bottom:16px; }}
 .cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }}
@@ -254,19 +264,19 @@ footer a {{ color:var(--gold-deep); }}
 </div>
 
 <section>
-  <h2>Who Stands</h2>
+  <a class="h2link" href="/players.html"><h2>Who Stands →</h2></a>
   <p class="sub">We stand together — openly, by name. {n_players} {"soul stands" if n_players==1 else "souls stand"} so far; the first, so that no one is asked to stand first.</p>
-  <div class="cards">{player_cards()}</div>
+  <div class="cards">{player_cards(BOARD_CAP)}</div>
 </section>
 
 <section>
-  <h2>The Circles</h2>
+  <a class="h2link" href="/circles.html"><h2>The Circles →</h2></a>
   <p class="sub">Three to thirteen souls, sealed at the pace of trust.</p>
   <div class="cards">{circles_html}</div>
 </section>
 
 <section>
-  <h2>The Quests &amp; The Stories</h2>
+  <a class="h2link" href="/quests.html"><h2>The Quests →</h2></a> <a class="h2link" href="/stories.html"><h2>The Stories →</h2></a>
   <p class="sub">Real work that makes one place measurably more like Heaven — then told, as living proof.</p>
   <div class="cards">{quests_html}
 {stories_html}</div>
@@ -276,7 +286,7 @@ footer a {{ color:var(--gold-deep); }}
   <h2>The Pledges &amp; The Score</h2>
   <p class="sub">The Pledges tell what is coming; the Score tells what has flowed.</p>
   <div class="tiles">
-    <div class="tile"><div class="num">{n_players}</div><div class="lab">standing</div></div>
+    <a class="tile" style="text-decoration:none;color:inherit" href="/players.html"><div class="num">{n_players}</div><div class="lab">standing</div></a>
     <div class="tile"><div class="num">{n_circles or "—"}</div><div class="lab">Circles</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">TEA pledged (hrs/wk)</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">commitments kept</div></div>
@@ -345,5 +355,40 @@ footer a {{ color:var(--gold-deep); }}
     open(out, "w", encoding="utf-8").write(HTML)
     print(f"built {t['out']}")
 
+def render_field(t, title, sub, body_html, out_name):
+    HTML = f"""<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{title} — The Gameboard — LIØNSBERG</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {{ --surface:{t["surface"]}; --ink:{t["ink"]}; --ink-soft:{t["soft"]}; --gold:{t["gold"]}; --gold-deep:{t["gold_deep"]}; --rust:{t["rust"]}; --card:{t["card"]}; --edge:{t["edge"]}; }}
+* {{ box-sizing:border-box; margin:0; }}
+body {{ background:var(--surface); color:var(--ink); font-family:"Source Serif 4",Georgia,serif; font-size:20px; line-height:1.55; }}
+{starfield_css() if t["stars"] else ""}
+.wrap {{ max-width:880px; margin:0 auto; padding:28px 20px 60px; position:relative; }}
+.back {{ font-family:Inter,sans-serif; font-size:16px; }} .back a {{ color:var(--gold-deep); text-decoration:none; }}
+h1 {{ font-size:clamp(34px,6vw,48px); margin:10px 0 4px; }}
+.sub {{ color:var(--ink-soft); font-style:italic; margin-bottom:22px; }}
+.cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }}
+.card {{ background:var(--card); border:1.5px solid var(--edge); border-radius:16px; padding:20px 22px; display:block; text-decoration:none; color:inherit; }}
+a.card:hover {{ border-color:var(--gold); filter:brightness(1.06); }}
+.card h3 {{ font-size:24px; margin:4px 0 2px; }} .card .meta {{ color:var(--ink-soft); font-size:17px; }}
+.card .line {{ font-size:18px; margin-top:6px; }} .flame-mark {{ font-size:26px; }} .flame-mark.dim {{ filter:grayscale(.6) opacity(.6); }}
+.card.stand {{ border-color:var(--gold); box-shadow:0 2px 14px rgba(232,177,75,.22); }}
+.card.ghost {{ border-style:dashed; background:transparent; }}
+</style></head><body><div class="wrap">
+<p class="back"><a href="/gameboard">← back to the Gameboard</a></p>
+<h1>{title}</h1><p class="sub">{sub}</p>
+<div class="cards">{body_html}</div>
+</div></body></html>"""
+    open(os.path.join(ROOT, out_name), "w", encoding="utf-8").write(HTML)
+    print(f"built {out_name}")
+
 render(THEMES["cosmic"], None, None)
+_t = THEMES["cosmic"]
+render_field(_t, "Who Stands", f"The whole field — {n_players} {'soul' if n_players==1 else 'souls'} standing openly, by name.", player_cards(None), "players.html")
+render_field(_t, "The Circles", "Three to thirteen souls, sealed at the pace of trust.", simple_cards(circles, "Circles") or GHOSTS["circles"], "circles.html")
+render_field(_t, "The Quests", "Real work that makes one place measurably more like Heaven.", simple_cards(quests, "Quests") or GHOSTS["quests"], "quests.html")
+render_field(_t, "The Stories", "Living proof, passed from hand to hand.", simple_cards(stories, "Stories") or GHOSTS["stories"], "stories.html")
 print(f"{SEASON} frac {FRAC:.2f}, {DAYS_TO_TURN}d to turn; players={n_players} circles={n_circles}")

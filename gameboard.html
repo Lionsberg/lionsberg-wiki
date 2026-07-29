@@ -38,6 +38,8 @@ header .questions { font-style:italic; color:var(--ink-soft); font-size:19px; }
 .btn.quiet { background:var(--card); color:var(--ink); border:2px solid var(--edge); }
 .btn:hover { filter:brightness(1.08); }
 section { margin-top:46px; }
+.h2link { text-decoration:none; color:inherit; }
+.h2link:hover h2 { color:var(--gold); }
 h2 { font-size:31px; border-bottom:3px solid var(--gold); display:inline-block; padding-bottom:4px; margin-bottom:6px; }
 .sub { color:var(--ink-soft); font-style:italic; margin-bottom:16px; }
 .cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }
@@ -94,7 +96,7 @@ footer a { color:var(--gold-deep); }
 </div>
 
 <section>
-  <h2>Who Stands</h2>
+  <a class="h2link" href="/players.html"><h2>Who Stands →</h2></a>
   <p class="sub">We stand together — openly, by name. 1 soul stands so far; the first, so that no one is asked to stand first.</p>
   <div class="cards"><a class="card stand" href="/The_Commons/Players/AURELLIØN.html">
       <div class="flame-mark">🔥</div>
@@ -111,14 +113,14 @@ footer a { color:var(--gold-deep); }
 </section>
 
 <section>
-  <h2>The Circles</h2>
+  <a class="h2link" href="/circles.html"><h2>The Circles →</h2></a>
   <p class="sub">Three to thirteen souls, sealed at the pace of trust.</p>
   <div class="cards"><div class="card ghost still"><h3>The first Circles are forming now</h3>
   <p class="line">Yours will appear here as it seals — visible to All,<br>so the Game can see itself grow.</p></div></div>
 </section>
 
 <section>
-  <h2>The Quests &amp; The Stories</h2>
+  <a class="h2link" href="/quests.html"><h2>The Quests →</h2></a> <a class="h2link" href="/stories.html"><h2>The Stories →</h2></a>
   <p class="sub">Real work that makes one place measurably more like Heaven — then told, as living proof.</p>
   <div class="cards"><div class="card ghost still"><h3>The first Quests await their Circles</h3>
   <p class="line">One tangible act of goodwill, each season —<br>real, achievable, meaningful, together.</p></div>
@@ -130,7 +132,7 @@ footer a { color:var(--gold-deep); }
   <h2>The Pledges &amp; The Score</h2>
   <p class="sub">The Pledges tell what is coming; the Score tells what has flowed.</p>
   <div class="tiles">
-    <div class="tile"><div class="num">1</div><div class="lab">standing</div></div>
+    <a class="tile" style="text-decoration:none;color:inherit" href="/players.html"><div class="num">1</div><div class="lab">standing</div></a>
     <div class="tile"><div class="num">—</div><div class="lab">Circles</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">TEA pledged (hrs/wk)</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">commitments kept</div></div>
