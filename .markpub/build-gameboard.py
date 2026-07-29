@@ -269,8 +269,17 @@ footer a {{ color:var(--gold-deep); }}
 <p class="update-row">Already playing? <a href="/Update_the_Board.html">🗓️ <strong>Update the Board</strong></a> — the two-minute weekly Turn.</p>
 
 <section>
+  <h2>The Gatherings</h2>
+  <p class="sub">Where the Game meets face to face — invitations arrive by email via <a href="https://cocreatingheaven.substack.com/" style="color:var(--gold-deep)">the Substack</a>.</p>
+  <div class="cards">
+    <div class="card"><h3>🌅 Orientation Gatherings</h3><p class="line">July 29 &amp; August 1 — hear the Story and the Game live, meet the others, ask everything. More follow as the season flows.</p></div>
+    <div class="card"><h3>🍂 The Equinox Celebration &amp; Review</h3><p class="line">September 22 — the season's harvest: first Stories told, the OmniSpection, Season 2 begins.</p></div>
+  </div>
+</section>
+
+<section>
   <a class="h2link" href="/players.html"><h2>Who Stands →</h2></a>
-  <p class="sub">We stand together — openly, by name. {n_players} {"soul stands" if n_players==1 else "souls stand"} so far; the first, so that no one is asked to stand first.</p>
+  <p class="sub">We stand together — openly, by name. {n_players} {"soul stands" if n_players==1 else "souls stand"} so far; the first, so that no one is asked to stand first. Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.</p>
   <div class="cards">{player_cards(BOARD_CAP)}</div>
 </section>
 
@@ -334,7 +343,7 @@ footer a {{ color:var(--gold-deep); }}
   <h2>The Armory</h2>
   <p class="sub">What every Player carries — the aids of the Game.</p>
   <div class="cards">
-    <a class="card" href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html"><h3>🕯️ AURELLIØN's Guide</h3><p class="line">The one guide at the door — the whole territory, walked beside you.</p></a>
+    <a class="card" href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html"><h3>🕯️ The Guide</h3><p class="line">The one guide at the door — the whole territory, walked beside you.</p></a>
     <a class="card" href="/LIØNSBERG_Wiki_Books/The_LIØNSBERG_Playbook/The_LIØNSBERG_Playbook.html"><h3>🎼 The Playbook</h3><p class="line">The Plays — small choreography for every recurring moment in a Circle's life.</p></a>
     <a class="card" href="/LIØNSBERG_Wiki_Books/The_LIØNSBERG_System_Toolkit/The_LIØNSBERG_Toolkit.html"><h3>🛠️ The Toolkit</h3><p class="line">The instruments in hand — and the Forge, where what is missing gets made.</p></a>
     <a class="card" href="/The_LIØNSBERG_Resource_Library.html"><h3>📚 The Resource Library</h3><p class="line">The commons of provisions — open to all travelers, growing as each contributes.</p></a>
@@ -345,6 +354,7 @@ footer a {{ color:var(--gold-deep); }}
   <p><a href="/About_the_Gameboard.html" style="color:var(--gold)">What is this? — About the Gameboard</a></p>
   <p>This Board is kept in plain text, in the open record, tended by hand —
      the ledger behind it lives at <a href="/The_Gameboard.html">The Gameboard</a>.</p>
+  <p class="doors"><a href="/search.html">🔍 Search the whole territory</a> · this season's chronicle: <a href="/2026_-_Season_1_-_The_Great_Game_Begins.html">2026 · Season 1</a></p>
   <p class="doors">Gatherings &amp; turnings announced via <a href="https://cocreatingheaven.substack.com/">the Substack</a> ·
      New here? Begin with <a href="/The_Invitation.html">The Invitation</a> and
      <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">the Guide</a>.</p>
