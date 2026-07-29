@@ -73,7 +73,7 @@ def cards(folder):
         if "Template" in os.path.basename(p): continue
         s=open(p,encoding="utf-8").read()
         d={"name": os.path.basename(p)[:-3]}
-        for k in ("place","pledged","flame","sponsor","circle","gifts","state","formed","quest","commitment","season"):
+        for k in ("place","region","open","pledged","flame","sponsor","circle","gifts","state","formed","quest","commitment","season"):
             m=re.search(rf"^{k}::\s*(.+)$", s, re.M)
             if m: d[k]=re.sub(r"\[\[([^\]|]+\|)?([^\]]+)\]\]", r"\2", m.group(1)).strip()
         out.append(d)
@@ -132,7 +132,8 @@ def player_cards(limit=None):
         out.append(f"""<a class="card stand" href="{url}">
       <div class="flame-mark">🔥</div>
       <h3>{esc(pl["name"])}</h3>
-      <p class="meta">{esc(pl.get("place",""))}</p>
+      <p class="meta">{esc(pl.get("place",""))}{(" · " + esc(pl["region"])) if pl.get("region") else ""}{(" · " + esc(pl["state"])) if pl.get("state") else ""}</p>
+      <p class="line" style="font-size:16px;color:var(--ink-soft)">{esc(pl.get("gifts",""))}</p>
       <p class="line">Flame passed by <strong>{esc(pl.get("flame","—"))}</strong></p>
       <p class="line">Pledged · {esc(pl.get("pledged","—"))}</p>
     </a>""")
@@ -149,7 +150,8 @@ def simple_cards(items, folder, limit=None):
     out = []
     shown = items if limit is None else items[:limit]
     for c in shown:
-        bits = " · ".join(esc(c[k]) for k in ("place","season","state") if c.get(k))
+        bits = " · ".join(esc(c[k]) for k in ("place","region","season","state") if c.get(k))
+        if c.get("open","").lower().startswith("y"): bits += " · open to new members"
         url = f"/The_Commons/{folder}/" + c["name"].replace(" ", "_") + ".html"
         out.append(f'<a class="card" href="{url}"><h3>{esc(c["name"])}</h3><p class="meta">{bits}</p></a>')
     if limit is not None and len(items) > limit:
@@ -398,7 +400,16 @@ a.card:hover {{ border-color:var(--gold); filter:brightness(1.06); }}
 </style></head><body><div class="wrap">
 <p class="back"><a href="/gameboard">← back to the Gameboard</a></p>
 <h1>{title}</h1><p class="sub">{sub}</p>
-<div class="cards">{body_html}</div>
+<input id="gb-filter" type="search" placeholder="Filter by name, place, or gift…" aria-label="Filter cards"
+  style="width:100%;max-width:480px;font:inherit;font-size:18px;padding:12px 16px;border-radius:12px;border:1.5px solid var(--edge);background:var(--card);color:var(--ink);margin-bottom:18px;">
+<div class="cards" id="gb-cards">{body_html}</div>
+<p class="sub" style="margin-top:22px">To connect with anyone here, send word through any door on <a href="/Reaching_Us.html" style="color:var(--gold-deep)">Reaching Us</a> — contact details are never published; the membrane opens by consent.</p>
+<script>
+(function(){{var f=document.getElementById("gb-filter");if(!f)return;
+f.addEventListener("input",function(){{var q=f.value.toLowerCase();
+document.querySelectorAll("#gb-cards .card").forEach(function(c){{
+c.style.display=(!q||c.textContent.toLowerCase().indexOf(q)>-1)?"":"none";}});}});}})();
+</script>
 </div></body></html>"""
     open(os.path.join(ROOT, out_name), "w", encoding="utf-8").write(HTML)
     print(f"built {out_name}")

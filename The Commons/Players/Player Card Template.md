@@ -5,6 +5,7 @@
 ```
 # <Your Name>
 place:: <where in the world you play — as coarse as you like>
+region:: <for the directory: your country or region, at the granularity you consent to>
 pledged:: <the season of your current Pledge — e.g. 2026 · Season 1>
 flame:: [[<the one who FIRST passed you the flame — written once, never changed>]]
 sponsor:: [[<the one currently walking beside you — begins as your flame-passer, may shift>]]

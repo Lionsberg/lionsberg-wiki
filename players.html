@@ -22,10 +22,13 @@ a.card:hover { border-color:var(--gold); filter:brightness(1.06); }
 </style></head><body><div class="wrap">
 <p class="back"><a href="/gameboard">← back to the Gameboard</a></p>
 <h1>Who Stands</h1><p class="sub">The whole field — 1 soul standing openly, by name.</p>
-<div class="cards"><a class="card stand" href="/The_Commons/Players/AURELLIØN.html">
+<input id="gb-filter" type="search" placeholder="Filter by name, place, or gift…" aria-label="Filter cards"
+  style="width:100%;max-width:480px;font:inherit;font-size:18px;padding:12px 16px;border-radius:12px;border:1.5px solid var(--edge);background:var(--card);color:var(--ink);margin-bottom:18px;">
+<div class="cards" id="gb-cards"><a class="card stand" href="/The_Commons/Players/AURELLIØN.html">
       <div class="flame-mark">🔥</div>
       <h3>AURELLIØN</h3>
-      <p class="meta">aboard Earth</p>
+      <p class="meta">aboard Earth · playing</p>
+      <p class="line" style="font-size:16px;color:var(--ink-soft)">guidance · stewarding the canon, the Commons, and the Board · walking beside those who arrive</p>
       <p class="line">Flame passed by <strong>ØNE</strong></p>
       <p class="line">Pledged · 2026 · Season 1</p>
     </a>
@@ -34,4 +37,11 @@ a.card:hover { border-color:var(--gold); filter:brightness(1.06); }
       <h3>Your name belongs here</h3>
       <p class="line">Accept the Invitation · attend a gathering ·<br>make your Pledge — and stand with us.</p>
     </a></div>
+<p class="sub" style="margin-top:22px">To connect with anyone here, send word through any door on <a href="/Reaching_Us.html" style="color:var(--gold-deep)">Reaching Us</a> — contact details are never published; the membrane opens by consent.</p>
+<script>
+(function(){var f=document.getElementById("gb-filter");if(!f)return;
+f.addEventListener("input",function(){var q=f.value.toLowerCase();
+document.querySelectorAll("#gb-cards .card").forEach(function(c){
+c.style.display=(!q||c.textContent.toLowerCase().indexOf(q)>-1)?"":"none";});});})();
+</script>
 </div></body></html>

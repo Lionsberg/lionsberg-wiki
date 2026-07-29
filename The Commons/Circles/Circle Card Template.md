@@ -5,6 +5,8 @@
 ```
 # <Circle Name>
 place:: <where in the world>
+region:: <for the directory: country or region>
+open:: <yes, if welcoming new members — the directory shows you to Players gathering nearby>
 formed:: <date the Circle was sealed>
 lineage:: [[<the Circle that passed you the flame>]]
 players:: <the Players standing in this Circle — link their [[Player Card Template|Player cards]]>
