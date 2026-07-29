@@ -10,6 +10,7 @@ pledged:: <the season of your current Pledge — e.g. 2026 · Season 1>
 flame:: [[<the one who FIRST passed you the flame — written once, never changed>]]
 sponsor:: [[<the one currently walking beside you — begins as your flame-passer, may shift>]]
 circle:: [[<your Circle>]] (when it forms or you join one)
+groups:: [[<the Groups you belong to — real when written on both cards>]]
 gifts:: <the capacities and crafts you bring>
 state:: arriving | gathering | playing
 ```

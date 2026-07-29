@@ -6,7 +6,7 @@
 
 **What is this?** The living Board of [[The Great Game of LIØNSBERG]] — the one place where the whole Game is visible at a glance: who stands, the Circles, the Quests in play, the Stories harvested, the season we are in, and the Score. It lives at [lionsberg.wiki/gameboard](https://lionsberg.wiki/gameboard). 
 
-**What do the sections mean?** Each speaks its own tense. *Who Stands* — the Players, openly, by name. *The Circles* — bodies of three to thirteen, sealed at the pace of trust. *The Quests* — the work in play now. *The Stories* — the proof already harvested. *The Pledges* — what is coming. *The Score* — what has flowed. 
+**What do the sections mean?** Each speaks its own tense. *Who Stands* — the Players, openly, by name. *The Circles* — bodies of three to thirteen, sealed at the pace of trust. *The Groups* — networks, councils, and guilds weaving beyond the Circle, joined by mutual consent written on both cards. *The Quests* — the work in play now. *The Stories* — the proof already harvested. *The Pledges* — what is coming. *The Score* — what has flowed. 
 
 **How do I appear here?** Walk [[The Arc of Play|the Arc]]: accept [[The Invitation]] · attend an orientation gathering *(announced via [the Substack](https://cocreatingheaven.substack.com/))* · make [[The Pledge]] — and take your stand. Send word through any door on [[Reaching Us]] and the stewards will tend your card onto the Board. 
 

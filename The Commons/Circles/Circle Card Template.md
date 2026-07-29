@@ -12,6 +12,7 @@ lineage:: [[<the Circle that passed you the flame>]]
 players:: <the Players standing in this Circle — link their [[Player Card Template|Player cards]]>
 agreements:: <your 2–5 simple agreements>
 rhythm:: <when you meet>
+groups:: [[<the Groups this Circle weaves with — real when written on both cards>]]
 quest:: [[<current Quest>]]
 state:: rooting | playing | harvesting | resting
 ```

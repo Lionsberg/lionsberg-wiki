@@ -73,7 +73,7 @@ def cards(folder):
         if "Template" in os.path.basename(p): continue
         s=open(p,encoding="utf-8").read()
         d={"name": os.path.basename(p)[:-3]}
-        for k in ("place","region","open","pledged","flame","sponsor","circle","gifts","state","formed","quest","commitment","season"):
+        for k in ("place","region","open","kind","reach","purpose","members","pledged","flame","sponsor","circle","gifts","state","formed","quest","commitment","season"):
             m=re.search(rf"^{k}::\s*(.+)$", s, re.M)
             if m: d[k]=re.sub(r"\[\[([^\]|]+\|)?([^\]]+)\]\]", r"\2", m.group(1)).strip()
         out.append(d)
@@ -81,6 +81,7 @@ def cards(folder):
 
 players = cards("Players")
 circles = cards("Circles")
+groups  = cards("Groups")
 quests  = cards("Quests")
 stories = cards("Stories")
 
@@ -161,6 +162,8 @@ def simple_cards(items, folder, limit=None):
 GHOSTS = {
  "circles": """<div class="card ghost still"><h3>The first Circles are forming now</h3>
   <p class="line">Yours will appear here as it seals — visible to All,<br>so the Game can see itself grow.</p></div>""",
+ "groups": """<div class="card ghost still"><h3>The Groups will weave here</h3>
+  <p class="line">Networks, councils, and guilds — aggregations beyond<br>three-to-thirteen — joined by mutual consent, written on both cards.</p></div>""",
  "quests": """<div class="card ghost still"><h3>The first Quests await their Circles</h3>
   <p class="line">One tangible act of goodwill, each season —<br>real, achievable, meaningful, together.</p></div>""",
  "stories": """<div class="card ghost still"><h3>The first harvest comes at the Equinox</h3>
@@ -175,6 +178,7 @@ def render(t, other_link=None, other_name=None):
     glow_css = f'.now-arc,.flame-now {{ {t["glow"]} }}' if t["glow"] else ""
     skin_line = f'  <p class="skin"><a href="{other_link}">{other_name}</a></p>\n' if other_link else ""
     circles_html = simple_cards(circles, "Circles", BOARD_CAP) or GHOSTS["circles"]
+    groups_html = simple_cards(groups, "Groups", BOARD_CAP) or GHOSTS["groups"]
     quests_html  = simple_cards(quests, "Quests", BOARD_CAP) or GHOSTS["quests"]
     stories_html = simple_cards(stories, "Stories", BOARD_CAP) or GHOSTS["stories"]
     HTML = f"""<!DOCTYPE html>
@@ -292,6 +296,12 @@ footer a {{ color:var(--gold-deep); }}
   <a class="h2link" href="/circles.html"><h2>The Circles →</h2></a>
   <p class="sub">Three to thirteen souls, sealed at the pace of trust.</p>
   <div class="cards">{circles_html}</div>
+</section>
+
+<section>
+  <a class="h2link" href="/groups.html"><h2>The Groups →</h2></a>
+  <p class="sub">Networks, councils, and guilds — weaving beyond the Circle, joined by mutual consent.</p>
+  <div class="cards">{groups_html}</div>
 </section>
 
 <section>
@@ -460,6 +470,7 @@ render(THEMES["cosmic"], None, None)
 _t = THEMES["cosmic"]
 render_field(_t, "Who Stands", f"The whole field — {n_players} {'soul' if n_players==1 else 'souls'} standing openly, by name.", player_cards(None), "players.html")
 render_field(_t, "The Circles", "Three to thirteen souls, sealed at the pace of trust.", simple_cards(circles, "Circles") or GHOSTS["circles"], "circles.html")
+render_field(_t, "The Groups", "Networks, councils, and guilds — click any Group to see the Players and Circles who belong.", simple_cards(groups, "Groups") or GHOSTS["groups"], "groups.html")
 render_field(_t, "The Quests", "Real work that makes one place measurably more like Heaven.", simple_cards(quests, "Quests") or GHOSTS["quests"], "quests.html")
 render_field(_t, "The Stories", "Living proof, passed from hand to hand.", simple_cards(stories, "Stories") or GHOSTS["stories"], "stories.html")
 print(f"{SEASON} frac {FRAC:.2f}, {DAYS_TO_TURN}d to turn; players={n_players} circles={n_circles}")
