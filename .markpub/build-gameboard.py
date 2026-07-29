@@ -99,7 +99,8 @@ def build_wheel(t):
         now = sname == SEASON
         cls = "arc now-arc" if now else "arc"
         dim = "" if now else ' opacity="0.4"'
-        arcs.append(f'<path class="{cls}" data-season="{sname}" d="{arc_path(C,C,R,a0+GAP,a0+90-GAP)}" stroke="{colors[sname]}" stroke-width="{ARC_W}" fill="none" stroke-linecap="butt"{dim}/>')
+        order = ["Winter","Spring","Summer","Autumn"].index(sname)
+        arcs.append(f'<path class="{cls}" data-season="{sname}" style="animation-delay:{0.15*order:.2f}s" pathLength="100" d="{arc_path(C,C,R,a0+GAP,a0+90-GAP)}" stroke="{colors[sname]}" stroke-width="{ARC_W}" fill="none" stroke-linecap="butt"{dim}/>')
         lx, ly = pol(C, C, R, a0+45)
         lcls = "season-label now" if now else "season-label"
         labels.append(f'<text x="{lx:.0f}" y="{ly:.0f}" class="{lcls}" data-season="{sname}" text-anchor="middle" dominant-baseline="middle">{sname.upper()}</text>')
@@ -111,9 +112,20 @@ def build_wheel(t):
         ticks.append(f'<line x1="{x1:.0f}" y1="{y1:.0f}" x2="{x2:.0f}" y2="{y2:.0f}" class="tick"/>'
                      f'<text x="{lx:.0f}" y="{ly:.0f}" class="tick-label" text-anchor="middle" dominant-baseline="middle">{d.strftime("%b %-d")}</text>')
     fx, fy = pol(C, C, R, NOW_ANGLE)
-    flame = (f'<g class="flame-now" data-built-angle="{NOW_ANGLE:.2f}"><circle cx="{fx:.0f}" cy="{fy:.0f}" r="21" fill="{t["surface"]}" stroke="{t["rust"]}" stroke-width="2"/>'
-             f'<text x="{fx:.0f}" y="{fy+2:.0f}" text-anchor="middle" dominant-baseline="middle" font-size="24">🔥</text></g>')
+    flame = (f'<g class="flame-now" data-built-angle="{NOW_ANGLE:.2f}">'
+             f'<circle cx="{fx:.0f}" cy="{fy:.0f}" r="26" class="flame-halo"/>'
+             f'<circle cx="{fx:.0f}" cy="{fy:.0f}" r="20" fill="{t["surface"]}" stroke="{t["gold_deep"]}" stroke-width="1.5"/>'
+             f'<g class="flame-art" transform="translate({fx:.0f},{fy+9:.0f}) scale(0.62)"><g class="flick">'
+             f'<path fill="url(#flameOuter)" d="M0,-30 C10,-16 15,-8 15,2 C15,13 8,20 0,20 C-8,20 -15,13 -15,2 C-15,-6 -9,-12 -6,-18 C-4,-12 2,-12 0,-30 Z"/>'
+             f'<path fill="url(#flameInner)" d="M0,-14 C5,-7 8,-3 8,3 C8,10 4,14 0,14 C-4,14 -8,10 -8,3 C-8,-2 -4,-7 0,-14 Z"/>'
+             f'</g></g></g>')
     return f"""<svg viewBox="0 0 {2*C} {2*C}" role="img" aria-label="The wheel of the year. It is {SEASON} — {DAYS_TO_TURN} days until the turning on {NEXT_TURN.strftime('%B %-d')}.">
+<defs>
+<radialGradient id="flameOuter" cx="50%" cy="70%" r="80%"><stop offset="0%" stop-color="#F7DE9A"/><stop offset="45%" stop-color="#E8A62B"/><stop offset="100%" stop-color="#B4552D"/></radialGradient>
+<radialGradient id="flameInner" cx="50%" cy="75%" r="80%"><stop offset="0%" stop-color="#FFF6DC"/><stop offset="100%" stop-color="#F2C154"/></radialGradient>
+<radialGradient id="oneGlow" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="rgba(232,177,75,0.28)"/><stop offset="70%" stop-color="rgba(232,177,75,0.06)"/><stop offset="100%" stop-color="rgba(232,177,75,0)"/></radialGradient>
+</defs>
+<circle cx="{C}" cy="{C}" r="{R-ARC_W/2-6}" fill="url(#oneGlow)"/>
 {''.join(arcs)}{''.join(ticks)}{''.join(labels)}
 <text x="{C}" y="{C-74}" class="c-season">2026 · SEASON 1</text>
 <text x="{C}" y="{C-46}" class="c-name">The Great Game Begins</text>
@@ -192,67 +204,99 @@ def render(t, other_link=None, other_name=None):
 :root {{ --surface:{t["surface"]}; --ink:{t["ink"]}; --ink-soft:{t["soft"]}; --gold:{t["gold"]}; --gold-deep:{t["gold_deep"]};
   --rust:{t["rust"]}; --card:{t["card"]}; --edge:{t["edge"]}; }}
 * {{ box-sizing:border-box; margin:0; }}
-body {{ background:var(--surface); color:var(--ink); font-family:"Source Serif 4", Georgia, serif;
-  font-size:20px; line-height:1.55; }}
+html {{ scroll-behavior:smooth; }}
+body {{ color:var(--ink); font-family:"Source Serif 4", Georgia, serif; font-size:20px; line-height:1.6;
+  background:#090E1B;
+  background-image:radial-gradient(1400px 900px at 50% -12%, #22345C 0%, #131E38 38%, #0D1424 62%, #090E1B 100%);
+  background-repeat:no-repeat; background-color:#090E1B; }}
 {stars}
+body::after {{ content:''; position:absolute; inset:0; pointer-events:none; width:2px; height:2px; border-radius:50%;
+  box-shadow: 240px 180px 0 1px rgba(245,233,200,.9), 1210px 340px 0 2px rgba(245,233,200,.8), 620px 90px 0 1px rgba(245,233,200,.85),
+   940px 700px 0 2px rgba(245,233,200,.75), 150px 900px 0 1px rgba(245,233,200,.8), 1420px 1180px 0 1px rgba(245,233,200,.9),
+   420px 1500px 0 2px rgba(245,233,200,.7), 1080px 1740px 0 1px rgba(245,233,200,.85), 760px 2100px 0 2px rgba(245,233,200,.75);
+  animation: twinkle 5.5s ease-in-out infinite alternate; }}
+@keyframes twinkle {{ from {{ opacity:.55; }} to {{ opacity:1; }} }}
 {glow_css}
-.wrap {{ max-width:880px; margin:0 auto; padding:28px 20px 60px; position:relative; }}
-header {{ text-align:center; padding:26px 0 8px; }}
-header .kicker {{ font-family:Inter,sans-serif; font-size:14px; letter-spacing:.22em; color:var(--ink-soft); text-transform:uppercase; }}
-h1 {{ font-size:clamp(40px,7vw,58px); font-weight:700; letter-spacing:.01em; margin:6px 0 2px; }}
-header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; }}
-.wheel {{ max-width:600px; margin:16px auto 0; }}
-.wheel svg {{ width:100%; height:auto; display:block; }}
-.season-label {{ font-family:Inter,sans-serif; font-size:19px; font-weight:600; letter-spacing:.14em; fill:{t["label_fill"]}; }}
-.season-label.now {{ fill:#fff; }}
-.tick {{ stroke:var(--surface); stroke-width:3; }}
-.tick-label {{ font-family:Inter,sans-serif; font-size:14px; fill:var(--ink-soft); }}
-.c-season {{ font-family:Inter,sans-serif; font-size:15px; letter-spacing:.2em; fill:var(--ink-soft); text-anchor:middle; }}
+.flame-halo {{ fill:rgba(232,177,75,.16); }}
+.flick {{ animation: flick 2.4s ease-in-out infinite alternate; transform-box:fill-box; transform-origin:50% 85%; }}
+@keyframes flick {{ from {{ transform:scale(1); }} to {{ transform:scale(1.07) rotate(1.5deg); }} }}
+.arc {{ stroke-dasharray:100; stroke-dashoffset:100; animation: draw 1.4s cubic-bezier(.6,0,.3,1) forwards; }}
+@keyframes draw {{ to {{ stroke-dashoffset:0; }} }}
+.wrap {{ max-width:920px; margin:0 auto; padding:34px 22px 70px; position:relative; }}
+header {{ text-align:center; padding:36px 0 6px; }}
+header .kicker {{ font-family:Inter,sans-serif; font-size:13.5px; letter-spacing:.34em; color:var(--gold); text-transform:uppercase; opacity:.9; }}
+h1 {{ font-size:clamp(52px,9vw,88px); font-weight:700; letter-spacing:.005em; margin:10px 0 4px; line-height:1.05;
+  background:linear-gradient(180deg,#F7EED6 20%, #E8B14B 85%); -webkit-background-clip:text; background-clip:text; color:transparent;
+  text-shadow:0 0 60px rgba(232,177,75,.18); }}
+header .questions {{ font-style:italic; color:var(--ink-soft); font-size:19px; letter-spacing:.02em; }}
+.welcome-line {{ text-align:center; font-style:italic; font-size:19.5px; color:var(--ink-soft); max-width:640px; margin:18px auto 0; line-height:1.7; }}
+.welcome-line a {{ color:var(--gold); text-decoration:none; border-bottom:1px solid rgba(232,177,75,.45); transition:border-color .25s; }}
+.welcome-line a:hover {{ border-color:var(--gold); }}
+.wheel {{ max-width:640px; margin:26px auto 0; position:relative; }}
+.wheel::before {{ content:''; position:absolute; inset:-12%; border-radius:50%; pointer-events:none;
+  background:radial-gradient(circle, rgba(232,177,75,.13) 0%, rgba(60,107,161,.10) 45%, rgba(0,0,0,0) 70%); filter:blur(24px); }}
+.wheel svg {{ width:100%; height:auto; display:block; position:relative; }}
+.season-label {{ font-family:Inter,sans-serif; font-size:18px; font-weight:600; letter-spacing:.22em; fill:{t["ink"]}; opacity:.85; }}
+.season-label.now {{ fill:#FFF8E6; }}
+.tick {{ stroke:#0D1424; stroke-width:3; }}
+.tick-label {{ font-family:Inter,sans-serif; font-size:13.5px; letter-spacing:.06em; fill:var(--ink-soft); }}
+.c-season {{ font-family:Inter,sans-serif; font-size:14.5px; letter-spacing:.3em; fill:var(--gold); text-anchor:middle; }}
 .c-name {{ font-size:21px; font-style:italic; fill:var(--ink-soft); text-anchor:middle; }}
-.c-one {{ font-size:54px; font-weight:700; fill:var(--gold); text-anchor:middle; }}
+.c-one {{ font-size:58px; font-weight:700; fill:var(--gold); text-anchor:middle; }}
 .c-q {{ font-size:19px; font-style:italic; fill:var(--ink); text-anchor:middle; }}
-.welcome-line {{ text-align:center; font-style:italic; font-size:19px; color:var(--ink-soft); max-width:620px; margin:6px auto 0; }}
-.welcome-line a {{ color:var(--gold); text-decoration:none; border-bottom:1px solid var(--gold-deep); }}
-.sky-line {{ text-align:center; font-style:italic; color:var(--ink-soft); font-size:18px; margin:10px 0 0; }}
-.now-line {{ text-align:center; font-size:21px; margin:8px 0 4px; }}
+.sky-line {{ text-align:center; font-style:italic; color:var(--ink-soft); font-size:17.5px; margin:14px 0 0; opacity:.85; }}
+.now-line {{ text-align:center; font-size:21.5px; margin:10px 0 4px; }}
 .now-line strong {{ color:var(--rust); }}
-.update-row {{ text-align:center; font-size:19px; margin:2px 0 0; }}
+.actions {{ display:flex; flex-wrap:wrap; gap:13px; justify-content:center; margin:34px 0 8px; }}
+.btn {{ font-family:Inter,sans-serif; font-weight:600; font-size:18.5px; text-decoration:none;
+  padding:15px 25px; border-radius:15px; min-height:44px; display:inline-flex; align-items:center; gap:10px;
+  transition:transform .22s ease, box-shadow .22s ease, border-color .22s ease; }}
+.btn.primary {{ background:linear-gradient(135deg,#F2C86B 0%, #D79417 70%); color:{t["gold_ink"]};
+  border:1px solid rgba(255,230,170,.6); box-shadow:0 4px 26px rgba(232,177,75,.35); }}
+.btn.quiet {{ background:rgba(22,32,58,.55); color:var(--ink); border:1px solid rgba(232,177,75,.18);
+  backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); }}
+.btn:hover {{ transform:translateY(-2px); box-shadow:0 8px 32px rgba(232,177,75,.30); border-color:rgba(232,177,75,.55); }}
+.update-row {{ text-align:center; font-size:19px; margin:4px 0 0; }}
 .update-row a {{ color:var(--gold); text-decoration:none; font-family:Inter,sans-serif; }}
-.actions {{ display:flex; flex-wrap:wrap; gap:14px; justify-content:center; margin:30px 0 8px; }}
-.btn {{ font-family:Inter,sans-serif; font-weight:600; font-size:19px; text-decoration:none;
-  padding:16px 26px; border-radius:14px; min-height:44px; display:inline-flex; align-items:center; gap:10px; }}
-.btn.primary {{ background:var(--gold); color:{t["gold_ink"]}; border:2px solid var(--gold-deep); }}
-.btn.quiet {{ background:var(--card); color:var(--ink); border:2px solid var(--edge); }}
-.btn:hover {{ filter:brightness(1.08); }}
-section {{ margin-top:46px; }}
+section {{ margin-top:66px; opacity:0; transform:translateY(22px); transition:opacity .8s ease, transform .8s ease; }}
+section.in {{ opacity:1; transform:none; }}
+h2 {{ font-size:30px; letter-spacing:.015em; display:inline-block; padding-bottom:7px; margin-bottom:6px; position:relative; }}
+h2::after {{ content:''; position:absolute; left:0; bottom:0; height:2px; width:100%;
+  background:linear-gradient(90deg, var(--gold), rgba(232,177,75,0)); }}
 .h2link {{ text-decoration:none; color:inherit; }}
 .h2link:hover h2 {{ color:var(--gold); }}
-h2 {{ font-size:31px; border-bottom:3px solid var(--gold); display:inline-block; padding-bottom:4px; margin-bottom:6px; }}
-.sub {{ color:var(--ink-soft); font-style:italic; margin-bottom:16px; }}
-.cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }}
-.card {{ background:var(--card); border:1.5px solid var(--edge); border-radius:16px; padding:20px 22px; display:block; text-decoration:none; color:inherit; }}\na.card:hover {{ border-color:var(--gold); filter:brightness(1.04); }}
-.card h3 {{ font-size:24px; margin:4px 0 2px; }}
-.card .meta {{ color:var(--ink-soft); font-size:17px; margin-bottom:8px; }}
-.card .line {{ font-size:18px; margin-top:6px; }}
-.card.stand {{ border-color:var(--gold); box-shadow:0 2px 14px rgba(232,177,75,.22); }}
+.sub {{ color:var(--ink-soft); font-style:italic; margin-bottom:18px; max-width:66ch; }}
+.cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(255px,1fr)); gap:17px; }}
+.card {{ background:rgba(22,32,58,.55); border:1px solid rgba(232,177,75,.13); border-radius:18px; padding:22px 24px;
+  display:block; text-decoration:none; color:inherit; backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px);
+  box-shadow:0 12px 34px rgba(0,0,0,.35); transition:transform .25s ease, border-color .25s ease, box-shadow .25s ease; }}
+a.card:hover {{ transform:translateY(-4px); border-color:rgba(232,177,75,.5); box-shadow:0 16px 44px rgba(232,177,75,.14); }}
+.card h3 {{ font-size:23.5px; margin:4px 0 2px; }}
+.card .meta {{ color:var(--ink-soft); font-size:17px; }}
+.card .line {{ font-size:17.5px; margin-top:7px; line-height:1.55; }}
+.card.stand {{ border-color:rgba(232,177,75,.55); box-shadow:0 0 0 1px rgba(232,177,75,.25), 0 10px 40px rgba(232,177,75,.16); }}
 .flame-mark {{ font-size:26px; }}
 .flame-mark.dim {{ filter:grayscale(.6) opacity(.6); }}
-.card.ghost {{ border-style:dashed; text-decoration:none; color:inherit; background:transparent; }}
+.card.ghost {{ border-style:dashed; background:rgba(22,32,58,.25); }}
 a.card.ghost:hover {{ border-color:var(--gold); }}
-.tiles {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:14px; }}
-.tile {{ background:var(--card); border:1.5px solid var(--edge); border-radius:16px; padding:18px 14px; text-align:center; }}
-.tile .num {{ font-size:40px; font-weight:700; line-height:1.1; }}
-.tile .lab {{ font-family:Inter,sans-serif; font-size:14.5px; color:var(--ink-soft); margin-top:4px; }}
-.young {{ color:var(--ink-soft); font-style:italic; font-size:18px; margin-top:12px; }}
-footer {{ margin-top:60px; border-top:1.5px solid var(--edge); padding-top:22px; color:var(--ink-soft); font-size:17px; text-align:center; }}
+.tiles {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(145px,1fr)); gap:15px; }}
+.tile {{ background:rgba(22,32,58,.55); border:1px solid rgba(232,177,75,.13); border-radius:18px; padding:20px 14px; text-align:center;
+  backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); }}
+.tile .num {{ font-size:42px; font-weight:700; line-height:1.1;
+  background:linear-gradient(180deg,#F7EED6, #E8B14B); -webkit-background-clip:text; background-clip:text; color:transparent; }}
+.tile .lab {{ font-family:Inter,sans-serif; font-size:14px; letter-spacing:.04em; color:var(--ink-soft); margin-top:5px; }}
+.young {{ color:var(--ink-soft); font-style:italic; font-size:18px; margin-top:14px; }}
+footer {{ margin-top:80px; border-top:1px solid rgba(232,177,75,.16); padding-top:26px; color:var(--ink-soft); font-size:17px; text-align:center; }}
 footer a {{ color:var(--gold-deep); }}
 .doors {{ margin-top:8px; }}
 .skin {{ font-family:Inter,sans-serif; font-size:15px; }}
+@media (prefers-reduced-motion: reduce) {{ *,*::before,*::after {{ animation:none !important; transition:none !important; }}
+  section {{ opacity:1; transform:none; }} }}
 @media print {{ .actions,.card.ghost,.skin {{ display:none; }} body {{ font-size:16px; background:#fff !important; color:#1C1710; }}
-  body::before {{ display:none; }} .card,.tile {{ background:#fff; border-color:#bbb; color:#1C1710; }}
-  .card .meta,.tile .lab,.sub,.young,footer {{ color:#555; }}
+  body::before,body::after {{ display:none; }} .card,.tile {{ background:#fff; border-color:#bbb; color:#1C1710; box-shadow:none; }}
+  .card .meta,.tile .lab,.sub,.young,footer {{ color:#555; }} .tile .num {{ color:#1C1710; -webkit-text-fill-color:#1C1710; }}
   .season-label {{ fill:#fff; }} .c-one {{ fill:#8A6A10; }} .c-q,.c-name,.c-season,.tick-label {{ fill:#333; }}
-  .now-arc,.flame-now {{ filter:none; }} }}
+  .now-arc,.flame-now {{ filter:none; }} section {{ opacity:1; transform:none; }} h1 {{ color:#1C1710; -webkit-text-fill-color:#1C1710; text-shadow:none; }} }}
 </style></head><body>
 <div class="wrap">
 <header>
@@ -261,7 +305,7 @@ footer a {{ color:var(--gold-deep); }}
   <p class="questions">Who We Are · How We Are Questing · Where We Are Going · Why</p>
 </header>
 
-<p class="welcome-line">Welcome. The territory you are entering is vast, new, mythic, and unknown.<br>If you are just arriving, we highly suggest you enter through <a href="/README.html">The&nbsp;Gates</a> and walk with <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">a&nbsp;Guide</a>.</p>
+<p class="welcome-line">Welcome. The territory you are entering is vast, new, mythic, and unknown.<br>If you are just arriving, please enter through <a href="/README.html">The&nbsp;Gates</a> and walk with <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">a&nbsp;Guide</a>.</p>
 
 <div class="wheel">{wheel}</div>
 <p class="sky-line" id="gb-sky">It is Summer in the northern sky, Winter in the southern — the turning is shared by All.</p>
@@ -422,6 +466,18 @@ footer a {{ color:var(--gold-deep); }}
     }}
   }}
 }})();
+(function(){{
+  if(!('IntersectionObserver' in window))return;
+  var io=new IntersectionObserver(function(es){{es.forEach(function(e){{if(e.isIntersecting){{e.target.classList.add('in');io.unobserve(e.target);}}}});}},{{threshold:.12}});
+  document.querySelectorAll('section').forEach(function(x){{io.observe(x);}});
+  document.querySelectorAll('.tile .num').forEach(function(n){{
+    var v=parseInt(n.textContent,10); if(isNaN(v)||v<1)return;
+    var t0=null; var dur=900;
+    function step(ts){{ if(!t0)t0=ts; var p=Math.min(1,(ts-t0)/dur);
+      n.textContent=Math.round(v*(0.5-0.5*Math.cos(Math.PI*p))); if(p<1)requestAnimationFrame(step); }}
+    n.textContent='0'; requestAnimationFrame(step);
+  }});
+}})();
 </script></body></html>"""
     out = os.path.join(ROOT, t["out"])
     open(out, "w", encoding="utf-8").write(HTML)
@@ -436,15 +492,18 @@ def render_field(t, title, sub, body_html, out_name):
 <style>
 :root {{ --surface:{t["surface"]}; --ink:{t["ink"]}; --ink-soft:{t["soft"]}; --gold:{t["gold"]}; --gold-deep:{t["gold_deep"]}; --rust:{t["rust"]}; --card:{t["card"]}; --edge:{t["edge"]}; }}
 * {{ box-sizing:border-box; margin:0; }}
-body {{ background:var(--surface); color:var(--ink); font-family:"Source Serif 4",Georgia,serif; font-size:20px; line-height:1.55; }}
+body {{ color:var(--ink); font-family:"Source Serif 4",Georgia,serif; font-size:20px; line-height:1.6;
+  background:#090E1B; background-image:radial-gradient(1200px 700px at 50% -12%, #22345C 0%, #131E38 40%, #090E1B 100%); background-repeat:no-repeat; }}
 {starfield_css() if t["stars"] else ""}
 .wrap {{ max-width:880px; margin:0 auto; padding:28px 20px 60px; position:relative; }}
 .back {{ font-family:Inter,sans-serif; font-size:16px; }} .back a {{ color:var(--gold-deep); text-decoration:none; }}
-h1 {{ font-size:clamp(34px,6vw,48px); margin:10px 0 4px; }}
+h1 {{ font-size:clamp(38px,6.5vw,56px); margin:10px 0 4px;
+  background:linear-gradient(180deg,#F7EED6 20%, #E8B14B 85%); -webkit-background-clip:text; background-clip:text; color:transparent; }}
 .sub {{ color:var(--ink-soft); font-style:italic; margin-bottom:22px; }}
 .cards {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }}
-.card {{ background:var(--card); border:1.5px solid var(--edge); border-radius:16px; padding:20px 22px; display:block; text-decoration:none; color:inherit; }}
-a.card:hover {{ border-color:var(--gold); filter:brightness(1.06); }}
+.card {{ background:rgba(22,32,58,.55); border:1px solid rgba(232,177,75,.13); border-radius:18px; padding:20px 22px; display:block; text-decoration:none; color:inherit;
+  backdrop-filter:blur(10px); -webkit-backdrop-filter:blur(10px); box-shadow:0 12px 34px rgba(0,0,0,.35); transition:transform .25s ease, border-color .25s ease; }}
+a.card:hover {{ transform:translateY(-3px); border-color:rgba(232,177,75,.5); }}
 .card h3 {{ font-size:24px; margin:4px 0 2px; }} .card .meta {{ color:var(--ink-soft); font-size:17px; }}
 .card .line {{ font-size:18px; margin-top:6px; }} .flame-mark {{ font-size:26px; }} .flame-mark.dim {{ filter:grayscale(.6) opacity(.6); }}
 .card.stand {{ border-color:var(--gold); box-shadow:0 2px 14px rgba(232,177,75,.22); }}
