@@ -127,7 +127,6 @@ What follows is what remains to be built to fulfill the Toolkit's original visio
 - **Circle Memory Guide** — keeping the body's plain-text memory *(need 22)*
 - **The Log Set** — decision · issue · guidance · submittal · correspondence templates, one set for every body *(need 22, the PM basics of the PDG)*
 - **The Lookahead & Constraint Log** — seeing the work coming and making it ready: no task begins before its constraints clear *(need 11, the lean make-ready discipline)*
-- **The Risk Register** — what might block, watched before it does *(need 25)*
 - **Sovereign's Journal** — the personal companion: small enough to carry, personal enough to write in *(need 23)*
 
 - **Capacity Practice Library** — practices that grow creativity, communication, collaboration, and craft *(need 23)*

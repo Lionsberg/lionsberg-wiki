@@ -320,8 +320,9 @@ footer a {{ color:var(--gold-deep); }}
   <h2>Program Management Basics</h2>
   <p class="sub">How the Game remembers — the ledgers behind the Board.</p>
   <div class="cards">
+    <a class="card" href="/Planning.html"><h3>🗺️ Planning</h3><p class="line">From the season to this week's promise — pull, don't push. Milestones and the Lookahead live here.</p></a>
     <a class="card" href="/The_Decision_Log.html"><h3>📜 The Decision Log</h3><p class="line">What was decided, when, and why. <strong>Read before asking.</strong></p></a>
-    <a class="card" href="/LIØNSBERG_Issue_Tracker.html"><h3>🪨 The Issue Tracker</h3><p class="line">What blocks the work. When something stops you that your Circle cannot resolve, log it — a named issue is half-solved.</p></a>
+    <a class="card" href="/LIØNSBERG_Issue_Tracker.html"><h3>🪨 The Issue Tracker</h3><p class="line">What blocks now, and what looms ahead. When your Circle cannot resolve it, log it — a named worry is a surprise unscheduled.</p></a>
     <a class="card" href="/Request_For_Guidance.html"><h3>🧭 Requests For Guidance</h3><p class="line">What is unclear. <strong>Ask before assuming</strong> — every good question improves the plans.</p></a>
     <a class="card" href="/Submittals.html"><h3>📬 Submittals</h3><p class="line">What awaits review and approval — proposals, tools, resources, and improvements offered to the whole.</p></a>
   </div>
