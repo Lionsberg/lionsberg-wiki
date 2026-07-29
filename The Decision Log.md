@@ -20,6 +20,7 @@ A decision unrecorded will be re-litigated. So the Game keeps this log: one line
 - **2026-07-29** — The turnings are **planetary**; the seasons are local; the Body breathes in counter-phase. *Why: one shared clock for every sky on Earth.* 
 - **2026-07-29** — [[Update the Board]] is the **one weekly door**; the Turn is five lines plus commitments-kept. *Why: one habit to remember; the superorganism sees itself.* 
 - **2026-07-29** — Standing names are **witnessed, not credentialed**; duplicates take the village solution *(John Smith (Boise))*; verification travels the flame line. *Why: everyone arrived through someone, and someone will vouch.* 
+- **2026-07-29** — Submission channels travel **through the membrane** — pledge and update links arrive by email and the Server, never posted raw on the open wiki. *Why: bots cannot walk through doors held by humans; the membrane protects without captchas.* 
 
 ---
 

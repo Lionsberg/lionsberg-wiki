@@ -18,6 +18,6 @@ To step into the Game is to make the first Commitment: **the Pledge**. Before th
 
 ---
 
-*How, this season: the Pledge channel is being established — pledge links arrive by email alongside the orientation invitations, via [the Substack](https://cocreatingheaven.substack.com/). Its form may grow into a season-by-season crowdfunding of the commons — visible, voluntary, alive. Until the channel opens, your Pledge lives with your Circle: speak it at your gathering, and record it on your [[Circle Card Template|Circle card]].*   
+*How, this season: the Pledge channel is being established — pledge links arrive by email alongside the orientation invitations, via [the Substack](https://cocreatingheaven.substack.com/), and travel only through the doors — never posted raw on the open web, so the membrane keeps the bots out without troubling the humans. Its form may grow into a season-by-season crowdfunding of the commons — visible, voluntary, alive. Until the channel opens, your Pledge lives with your Circle: speak it at your gathering, and record it on your [[Circle Card Template|Circle card]].*   
 
 *The why of the flow: [[Nurturing the Commons]] · The commitment to play: [[The Invitation]] · The Game it serves: [[The Great Game of LIØNSBERG]]*
