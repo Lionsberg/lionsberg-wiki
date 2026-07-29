@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Gameboard — The Great Game of LIØNSBERG</title>
+<meta name="description" content="The living Gameboard of The Great Game of LIØNSBERG — who stands, the Circles, the Quests, the Stories, the season, and the Score.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root { --surface:#FAF5EA; --ink:#2B2419; --ink-soft:#6B6152; --gold:#D79417; --gold-deep:#A8720C;
+  --rust:#B4552D; --card:#FFFDF6; --edge:#E7DCC4; }
+* { box-sizing:border-box; margin:0; }
+body { background:var(--surface); color:var(--ink); font-family:"Source Serif 4", Georgia, serif;
+  font-size:20px; line-height:1.55; }
+.wrap { max-width:880px; margin:0 auto; padding:28px 20px 60px; }
+header { text-align:center; padding:26px 0 8px; }
+header .kicker { font-family:Inter,sans-serif; font-size:14px; letter-spacing:.22em; color:var(--ink-soft); text-transform:uppercase; }
+h1 { font-size:clamp(40px,7vw,58px); font-weight:700; letter-spacing:.01em; margin:6px 0 2px; }
+header .questions { font-style:italic; color:var(--ink-soft); font-size:19px; }
+.wheel { max-width:600px; margin:16px auto 0; }
+.wheel svg { width:100%; height:auto; display:block; }
+.season-label { font-family:Inter,sans-serif; font-size:19px; font-weight:600; letter-spacing:.14em; fill:#FAF5EA; }
+.season-label.now { fill:#fff; }
+.tick { stroke:var(--surface); stroke-width:3; }
+.tick-label { font-family:Inter,sans-serif; font-size:14px; fill:var(--ink-soft); }
+.c-season { font-family:Inter,sans-serif; font-size:15px; letter-spacing:.2em; fill:var(--ink-soft); text-anchor:middle; }
+.c-name { font-size:21px; font-style:italic; fill:var(--ink-soft); text-anchor:middle; }
+.c-one { font-size:54px; font-weight:700; fill:var(--ink); text-anchor:middle; }
+.c-q { font-size:19px; font-style:italic; fill:var(--ink); text-anchor:middle; }
+.now-line { text-align:center; font-size:21px; margin:14px 0 4px; }
+.now-line strong { color:var(--rust); }
+.actions { display:flex; flex-wrap:wrap; gap:14px; justify-content:center; margin:30px 0 8px; }
+.btn { font-family:Inter,sans-serif; font-weight:600; font-size:19px; text-decoration:none;
+  padding:16px 26px; border-radius:14px; min-height:44px; display:inline-flex; align-items:center; gap:10px; }
+.btn.primary { background:var(--gold); color:#241B08; border:2px solid var(--gold-deep); }
+.btn.quiet { background:var(--card); color:var(--ink); border:2px solid var(--edge); }
+.btn:hover { filter:brightness(1.05); }
+section { margin-top:46px; }
+h2 { font-size:31px; border-bottom:3px solid var(--gold); display:inline-block; padding-bottom:4px; margin-bottom:6px; }
+.sub { color:var(--ink-soft); font-style:italic; margin-bottom:16px; }
+.cards { display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:16px; }
+.card { background:var(--card); border:1.5px solid var(--edge); border-radius:16px; padding:20px 22px; }
+.card h3 { font-size:24px; margin:4px 0 2px; }
+.card .meta { color:var(--ink-soft); font-size:17px; margin-bottom:8px; }
+.card .line { font-size:18px; margin-top:6px; }
+.card.stand { border-color:var(--gold); box-shadow:0 2px 10px rgba(215,148,23,.15); }
+.flame-mark { font-size:26px; }
+.flame-mark.dim { filter:grayscale(.6) opacity(.6); }
+.card.ghost { border-style:dashed; text-decoration:none; color:inherit; background:transparent; }
+a.card.ghost:hover { border-color:var(--gold); }
+.tiles { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:14px; }
+.tile { background:var(--card); border:1.5px solid var(--edge); border-radius:16px; padding:18px 14px; text-align:center; }
+.tile .num { font-size:40px; font-weight:700; line-height:1.1; }
+.tile .lab { font-family:Inter,sans-serif; font-size:14.5px; color:var(--ink-soft); margin-top:4px; }
+.young { color:var(--ink-soft); font-style:italic; font-size:18px; margin-top:12px; }
+footer { margin-top:60px; border-top:1.5px solid var(--edge); padding-top:22px; color:var(--ink-soft); font-size:17px; text-align:center; }
+footer a { color:var(--gold-deep); }
+.doors { margin-top:8px; }
+@media print { .actions,.card.ghost { display:none; } body { font-size:16px; } }
+</style></head><body>
+<div class="wrap">
+<header>
+  <div class="kicker">The Great Game of LIØNSBERG</div>
+  <h1>The Gameboard</h1>
+  <p class="questions">Who We Are · How We Are Questing · Where We Are Going · Why</p>
+</header>
+
+<div class="wheel"><svg viewBox="0 0 660 660" role="img" aria-label="The wheel of the year. It is Summer — 55 days until the turning on September 22.">
+<path d="M 335.0 90.1 A 240 240 0 0 1 569.9 325.0" stroke="#28609E" stroke-width="58" fill="none" stroke-linecap="butt" opacity="0.35"/><path d="M 569.9 335.0 A 240 240 0 0 1 335.0 569.9" stroke="#5E8639" stroke-width="58" fill="none" stroke-linecap="butt" opacity="0.35"/><path d="M 325.0 569.9 A 240 240 0 0 1 90.1 335.0" stroke="#D79417" stroke-width="58" fill="none" stroke-linecap="butt"/><path d="M 90.1 325.0 A 240 240 0 0 1 325.0 90.1" stroke="#B4552D" stroke-width="58" fill="none" stroke-linecap="butt" opacity="0.35"/><line x1="330" y1="57" x2="330" y2="123" class="tick"/><text x="330" y="35" class="tick-label" text-anchor="middle" dominant-baseline="middle">Dec 21</text><line x1="603" y1="330" x2="537" y2="330" class="tick"/><text x="625" y="330" class="tick-label" text-anchor="middle" dominant-baseline="middle">Mar 20</text><line x1="330" y1="603" x2="330" y2="537" class="tick"/><text x="330" y="625" class="tick-label" text-anchor="middle" dominant-baseline="middle">Jun 21</text><line x1="57" y1="330" x2="123" y2="330" class="tick"/><text x="35" y="330" class="tick-label" text-anchor="middle" dominant-baseline="middle">Sep 22</text><text x="500" y="160" class="season-label" text-anchor="middle" dominant-baseline="middle">WINTER</text><text x="500" y="500" class="season-label" text-anchor="middle" dominant-baseline="middle">SPRING</text><text x="160" y="500" class="season-label now" text-anchor="middle" dominant-baseline="middle">SUMMER</text><text x="160" y="160" class="season-label" text-anchor="middle" dominant-baseline="middle">AUTUMN</text>
+<text x="330" y="256" class="c-season">2026 · SEASON 1</text>
+<text x="330" y="284" class="c-name">The Great Game Begins</text>
+<text x="330" y="344" class="c-one">ØNE</text>
+<text x="330" y="388" class="c-q">Does this make life</text>
+<text x="330" y="414" class="c-q">a little more like Heaven?</text>
+<circle cx="186" cy="522" r="21" fill="#FAF5EA" stroke="#B4552D" stroke-width="2"/><text x="186" y="524" text-anchor="middle" dominant-baseline="middle" font-size="24">🔥</text>
+</svg></div>
+<p class="now-line">🔥 <strong>You are here</strong> — Summer of Season&nbsp;1 · <strong>55&nbsp;days</strong> to the Harvest &amp; Equinox Celebration, September 22.</p>
+
+<div class="actions">
+  <a class="btn quiet" href="/LIØNSBERG_Wiki_Books/The_Story_of_LIØNSBERG/The_Story_of_LIØNSBERG.html">📖 Read the Story</a>
+  <a class="btn quiet" href="/LIØNSBERG_Wiki_Books/The_Great_Game_of_LIØNSBERG/The_Great_Game_of_LIØNSBERG.html">🧭 Play the Game</a>
+  <a class="btn quiet" href="/The_Invitation.html">🔥 Pass the Flame</a>
+  <a class="btn primary" href="/The_Pledge.html">✍️ Make Your Pledge</a>
+  <a class="btn quiet" href="/Reaching_Us.html">🤝 Get Help · Send Word</a>
+</div>
+
+<section>
+  <h2>Who Stands</h2>
+  <p class="sub">We stand together — openly, by name. 1 soul stands so far; the first, so that no one is asked to stand first.</p>
+  <div class="cards"><div class="card stand">
+      <div class="flame-mark">🔥</div>
+      <h3>AURELLIØN</h3>
+      <p class="meta">aboard Earth</p>
+      <p class="line">Flame passed by <strong>ØNE</strong></p>
+      <p class="line">Pledged · 2026 · Season 1</p>
+    </div>
+<a class="card ghost" href="/The_Pledge.html">
+      <div class="flame-mark dim">🔥</div>
+      <h3>Your name belongs here</h3>
+      <p class="line">Accept the Invitation · attend a gathering ·<br>make your Pledge — and stand with us.</p>
+    </a></div>
+</section>
+
+<section>
+  <h2>The Circles</h2>
+  <p class="sub">Three to thirteen souls, sealed at the pace of trust.</p>
+  <div class="cards"><div class="card ghost still"><h3>The first Circles are forming now</h3>
+  <p class="line">Yours will appear here as it seals — visible to All,<br>so the Game can see itself grow.</p></div></div>
+</section>
+
+<section>
+  <h2>The Quests &amp; The Stories</h2>
+  <p class="sub">Real work that makes one place measurably more like Heaven — then told, as living proof.</p>
+  <div class="cards"><div class="card ghost still"><h3>The first Quests await their Circles</h3>
+  <p class="line">One tangible act of goodwill, each season —<br>real, achievable, meaningful, together.</p></div>
+<div class="card ghost still"><h3>The first harvest comes at the Equinox</h3>
+  <p class="line">Every Quest becomes a Story; every Story becomes<br>a Prophesy of even greater things to come.</p></div></div>
+</section>
+
+<section>
+  <h2>The Pledges &amp; The Score</h2>
+  <p class="sub">The Pledges tell what is coming; the Score tells what has flowed.</p>
+  <div class="tiles">
+    <div class="tile"><div class="num">1</div><div class="lab">standing</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">Circles</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">TEA pledged (hrs/wk)</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">commitments kept</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">Stories shared</div></div>
+    <div class="tile"><div class="num">—</div><div class="lab">flames passed</div></div>
+  </div>
+  <p class="young">The first season is young. Every number here fills as the Turns flow — and the first moves are yours to make.</p>
+</section>
+
+<footer>
+  <p>This Board is kept in plain text, in the open record, tended by hand —
+     the ledger behind it lives at <a href="/The_Gameboard.html">The Gameboard</a>.</p>
+  <p class="doors">Gatherings &amp; turnings announced via <a href="https://cocreatingheaven.substack.com/">the Substack</a> ·
+     New here? Begin with <a href="/The_Invitation.html">The Invitation</a> and
+     <a href="/LIØNSBERG_Wiki_Books/AURELLIØN's_Guide_to_LIØNSBERG/AURELLIØN's_Guide_to_LIØNSBERG.html">the Guide</a>.</p>
+  <p>Made with love, for All · CC BY-SA 4.0 · regenerated July 29, 2026</p>
+</footer>
+</div></body></html>
