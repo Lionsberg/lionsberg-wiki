@@ -217,15 +217,15 @@ FIRE_JS = r'''<script>
   var ps=[],running=true,last=null;
   function spawn(){
     var b=H-26;
-    ps.push({x:W/2+(Math.random()*14-7), y:b+(Math.random()*6-3),
-      vx:(Math.random()*10-5), vy:-(34+Math.random()*52),
-      r:2.6+Math.random()*3.4, life:0, max:0.55+Math.random()*0.6,
-      sway:Math.random()*6.28, sw:1.4+Math.random()*2.2});
+    ps.push({x:W/2+(Math.random()*8-4), y:b+(Math.random()*4-2),
+      vx:(Math.random()*4-2), vy:-(20+Math.random()*22),
+      r:2.2+Math.random()*2.2, life:0, max:0.9+Math.random()*0.7,
+      sway:Math.random()*6.28, sw:0.5+Math.random()*0.7});
   }
   function tick(ts){
     if(!running)return;
     if(last==null)last=ts; var dt=Math.min((ts-last)/1000,0.05); last=ts;
-    for(var i=0;i<3;i++)if(Math.random()<0.9)spawn();
+    if(Math.random()<0.6)spawn();
     ctx.clearRect(0,0,W,H);
     ctx.globalCompositeOperation='lighter';
     for(var j=ps.length-1;j>=0;j--){
@@ -233,9 +233,9 @@ FIRE_JS = r'''<script>
       if(q.life>=q.max){ps.splice(j,1);continue;}
       var t=q.life/q.max;
       q.sway+=q.sw*dt;
-      q.x+=(q.vx+Math.sin(q.sway)*7*(1-t))*dt; q.y+=q.vy*dt; q.vy*=1-0.25*dt;
-      var rr=q.r*(1-t*0.82), al=(1-t)*(1-t)*0.85;
-      var hue=50-32*t, lig=78-30*t;
+      q.x+=(q.vx+Math.sin(q.sway)*2.5*(1-t))*dt; q.y+=q.vy*dt; q.vy*=1-0.2*dt;
+      var rr=q.r*(1-t*0.75), al=(1-t)*(1-t)*0.55;
+      var hue=48-18*t, lig=80-22*t;
       var gr=ctx.createRadialGradient(q.x,q.y,0,q.x,q.y,rr*2.4);
       gr.addColorStop(0,'hsla('+hue+',95%,'+lig+'%,'+al+')');
       gr.addColorStop(1,'hsla('+(hue-14)+',90%,'+(lig-22)+'%,0)');
@@ -243,7 +243,7 @@ FIRE_JS = r'''<script>
       ctx.beginPath(); ctx.arc(q.x,q.y,rr*2.4,0,6.2832); ctx.fill();
     }
     var eg=ctx.createRadialGradient(W/2,H-26,0,W/2,H-26,16);
-    eg.addColorStop(0,'hsla(46,100%,86%,0.5)'); eg.addColorStop(1,'hsla(30,90%,50%,0)');
+    eg.addColorStop(0,'hsla(46,100%,86%,0.38)'); eg.addColorStop(1,'hsla(30,90%,50%,0)');
     ctx.fillStyle=eg; ctx.beginPath(); ctx.arc(W/2,H-26,16,0,6.2832); ctx.fill();
     requestAnimationFrame(tick);
   }

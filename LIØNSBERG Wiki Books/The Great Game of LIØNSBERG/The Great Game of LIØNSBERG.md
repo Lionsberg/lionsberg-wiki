@@ -2,7 +2,7 @@
 
 *The participatory form: the Game played in real life, with real stakes, by every sovereign being who chooses to play.*
 
-*This is the rulebook. Read it aloud, together, in one sitting. Then form a Circle, choose a Quest, and step into play. Everything deeper waits for you when you are ready.*
+*This is the basic rulebook. Read it aloud, together, in one sitting. Then form a Circle, choose a Quest, and step into Play. Everything deeper waits for you when you are ready. The important thing is to simply begin.*
 
 ---
 
@@ -72,9 +72,9 @@ A Circle that knows and trusts itself can bear great weather. That inner stabili
 
 ## The Quests
 
-A Circle without a Quest is a conversation. A Circle with a Quest is an active force of co-creation.
+A Circle without a Quest is a conversation. A Circle with a Quest is a living, active, and powerful force of embodied co-creation.
 
-A **Quest** is a tangible mission of goodwill, chosen together and accomplished together within a single season — something that makes life measurably more like Heaven in one specific place. Feed the families on your street. Clean the stretch of river. Plant the garden. Teach the children. Build the platform. Host the gathering that knits the neighborhood back together.
+A **Quest** is a tangible mission of goodwill, chosen together and accomplished together within a single season — something that makes life measurably more like Heaven in one specific place. Feed the families on your street. Clean the stretch of river. Plant the garden. Teach the children. Mend the wounds. Build the platform. Host the gathering that knits the neighborhood back together.
 
 A good Quest is four things at once:
 
@@ -83,13 +83,13 @@ A good Quest is four things at once:
 - **Meaningful** — joined to needs you truly see and gifts you truly carry.
 - **Together** — it takes the whole Circle, not a heroic few.
 
-Keep the first Quest humble; you are learning to play. The Quests grow as the Circle grows. And no Quest is ever finished until it is told — for every completed Quest becomes a Story.
+Keep the first Quests humble as you are learning to play. The Quests grow as the Circle grows and matures. And no Quest is ever finished until it is told — for every completed Quest becomes a Story. 
 
 ---
 
 ## The Stories
 
-Every Quest becomes a **Story**. And every Story becomes a **Prophesy** of even greater things to come.
+Every Quest becomes a **Story**. And every Story becomes a **Prophesy** of even greater things to come as The Game grows.
 
 When something real happens — a family fed, a river cleaned, a wound mended, a wrong made right — tell it: on the Board, in the Commons, around the table. A true story of a transformation in community carries more power than a thousand manifestos.
 

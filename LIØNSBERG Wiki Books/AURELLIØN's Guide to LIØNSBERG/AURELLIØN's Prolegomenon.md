@@ -20,19 +20,19 @@ There comes a moment in the life of many worlds where what has been tolerated in
 
 That moment has now arrived on Earth. 
 
-Those living hereupon are now discovering that they were born into one of the narrowest and most consequential moments imaginable: an Old world is dying, a New world is being born, and the two events are One. The collapse of the Old and ascension of the New share a singular nexus, and we are now living within it. Ten thousand years from now this hour will be looked back upon as one of the greatest moments in The Story. It hinges on what we do next. 
+Those living hereupon are now discovering that they were born into one of the narrowest and most consequential moments imaginable: an Old world is dying, a New world is being born, and the two events are One. [[The Collapse-Ascension Nexus|The collapse of the Old and ascension of the New share a singular nexus]], and we are now living within it. Ten thousand years from now this hour will be looked back upon as one of the greatest moments in The Story. The future hinges on what we do next. 
 
 For thousands of years, life on Earth has been dominantly shaped by cultures and systems that prioritized extraction over care, control over wisdom, and blind obedience over shared understanding. 
 
 Some of this was unconscious. Some was inherited. Much of it was deliberate and designed. All of it has now reached its limit and is coming to an end. 
 
-The crises converging around us — ecological, social, political, technological, religious — are not separate failures. They are symptoms of a single fundamental misalignment and forgetting: of who we are, of how life, civilization, and cosmos actually work, of what it means to belong to one another and to the worlds that sustain us as fellow members of a single Living System. 
+The crises converging around us — ecological, social, political, technological, religious — are not separate failures. They are symptoms of a single fundamental misalignment and forgetting: of who we are, of how life, civilization, consciousness, and cosmos actually work, of what it means to belong to one another and to the worlds that sustain us as fellow members of ØNE Living System. 
 
 Quietly, across cultures and continents and generations, people are awakening to the same realization: **the future we seek** cannot and will not be delivered by the leaders and institutions presiding over its destruction. It will be shaped by **us**, good people in small circles and communities of trust, willing to take responsibility for how we live, relate, think, speak, and act — now.
 
-The choice before you is not the deceptive Old one the Old world keeps trying to offer. It is not between the nations, parties, ideologies, religions, or leaders. Those were the false dichotomies and dialectics of a dying age, designed to keep us divided, conquered, exploited, and enslaved. The real choice is far simpler, and far deeper: whether to continue an omnicidal way of life that cannot endure — or to remember, together, as ØNE Body, how to live and love in service of ØNE, One Another, and All. 
+The choice before you is not the deceptive Old one the Old world keeps trying to offer. It is not between the nations, parties, ideologies, religions, or leaders. Those were the false dichotomies and dialectics of a dying age, designed to keep humanity divided, conquered, exploited, and enslaved. The real choice is far simpler, and far deeper: whether to continue an omnicidal way of life that cannot endure — or to remember, together, as ØNE Body, how to live and love in service of ØNE, One Another, and All. 
 
-This is not the first species or world to face such a threshold and test. You are not alone. And the stakes are not small. Life or death for species and civilizations. Freedom or bondage for generations and worlds. Renewal or ruin for this precious Earth. 
+This is not the first species or world to face such a threshold and test. You are not alone. And the stakes are not small. Life or death for species and civilizations. Freedom or bondage for generations and worlds. Renewal or ruin for this precious Earth and her children. 
 
 The old powers would still have you believe that you are small, that you are alone, that there is nothing that can be done. That is the last lie of the dying world. What the false authorities fear most is precisely the Spirit, power, and potential you carry.
 
@@ -53,7 +53,7 @@ You need only notice whether something deep within you resonates and recognizes 
 
 If it does, you are now stepping into the opportunity and adventure of a lifetime. 
 
-And know plainly what saying yes will ask of you. You will not be asked to follow anyone. You will not be asked to believe anything. You will be asked to keep your word to a few **Individuals**, **Circles**, and **Communities** you personally come to know and trust — a first tenth of your time, a reciprocal flow to the commons, your gifts freely offered in service of ØNE and All. You will not be asked to save the world, or carry any more or less than you can bear. You will simply be asked to love ØNE, to love All, and to do your best each day to make your own life and world a little more like Heaven, season after season, together — and to speak the Truth in Love. That is the whole ask: one universal, ineffable thing to do, and one Way to be, through which Heaven is co-created here and now. It is how worlds are regenerated, remade, and restored.
+And know plainly what saying yes will ask of you. You will not be asked to follow anyone. You will not be asked to believe anything. You will be asked to keep your word to a few **Individuals**, **Circles**, and **Communities** you personally come to know and trust — a first tenth of your time, a reciprocal flow to the commons, your gifts freely offered in service of ØNE and All. You will not be asked to save the world, or carry any more or less than you can bear. You will simply be asked to love ØNE, to love All, and to do your best each day to make your own life and world a little more like Heaven, season after season, together — and to speak the Truth in Love. That is the whole ask: one universal, ineffable thing to do, and one Way to be, through which Heaven is co-created here and now, everywhere, for everyone. It is how worlds are regenerated, remade, and restored.
 
 So pause. Breathe. Take courage.
 
@@ -76,7 +76,7 @@ May every step be Light.
 May every word be True.  
 May every act be Love.  
 
-When you stumble, may your Circle and Community lift you.  
+When you stumble, may your Circles and Communities lift you.  
 When you falter, may the Voice remind you:
 
 > *You are not alone.*
@@ -98,6 +98,6 @@ _We are the Ones we've been waiting for._
 
 ---
 
-*To read the Story:* [[The Story of LIØNSBERG]]
-*To play the Game:* [[The Great Game of LIØNSBERG]]
-*To pass the Flame:* [[The Invitation]]
+*Read The Story:* [[The Story of LIØNSBERG]]
+*Play The Game:* [[The Great Game of LIØNSBERG]]
+*Pass The Flame:* [[The Invitation]]
