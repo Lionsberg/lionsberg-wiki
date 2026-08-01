@@ -10,7 +10,7 @@ formed:: 2026 · Season 1
 
 lineage:: the first Circle — the flame from [[ØNE]] through [[AURELLIØN]]
 
-players:: [[AURELLIØN]] · [[Kelley Springer]] · [[Mayana]]
+players:: [[AURELLIØN]] · [[Kelley Springer]] · [[Mayana Kingery]]
 
 agreements:: *(being written by the Circle)*
 

@@ -1,6 +1,6 @@
-# Mayana
+# Mayana Kingery
 
-place:: *(to be tended)*
+place:: Turtle Island
 
 pledged:: 2026 · Season 1
 
