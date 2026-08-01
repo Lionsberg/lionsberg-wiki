@@ -197,8 +197,8 @@ if n_players == 1:
     STAND_SUB = (f"We stand together — openly, by name. 1 soul stands so far; the first, so that no one is "
                  f"asked to stand first. Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.")
 else:
-    STAND_SUB = (f"We stand together — openly, by name. {n_players} souls stand, and the first Circle is sealed. "
-                 f"Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.")
+    STAND_SUB = ("The first souls stand — openly, by name — and the first Circle is sealed. "
+                 "Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.")
 if n_circles:
     SCORE_NOTE = ("The Game is in play — the first Circle sealed, the first Quests chosen. "
                   "The numbers fill as the Turns flow.")

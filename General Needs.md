@@ -52,7 +52,7 @@
 
 25. **See far and strategize** — the body's way across many seasons, not just one Quest. *In hand:* [[Template For Navigation Chart]] · [[10 Year Grand Strategy]] *(as reference)*. *To forge:* Strategy Map *(the multi-season way toward The Goal)*. 
 26. **Measure what matters** — did life actually become more like Heaven? Throughput honestly assessed. *In hand:* the Score on [[The Gameboard]]. *To forge:* Throughput & Impact Measures. 
-27. **Reach beyond the warm network** — public gatherings, events, media, and alliances with existing organizations. *In hand:* [[The LIØNSBERG Guide To Movement Building]] · [[The LIØNSBERG Map of Maps]] · [[The Great Game — Orientation Session 1]] *(the first orientation agenda, a proto-kit)*. *To forge:* Outreach & Orientation Kit. 
+27. **Reach beyond the warm network** — public gatherings, events, media, and alliances with existing organizations. *In hand:* [[The LIØNSBERG Guide To Movement Building]] · [[The LIØNSBERG Map of Maps]] · [[The Great Game — Orientation Season 1]] *(the first orientation agenda, a proto-kit)*. *To forge:* Outreach & Orientation Kit. 
 28. **Transform the surrounding systems** — advocacy, policy, and structural change toward The Goal. *To forge:* Advocacy & Systemic Change Kit. 
 
 ---

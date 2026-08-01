@@ -133,7 +133,7 @@ What follows is what remains to be built to fulfill the Toolkit's original visio
 - **Regenerative Living Instruments** — provisioning food, energy, shelter, health, and land the regenerative way *(need 24)*
 - **Strategy Map** — the body's multi-season way toward The Goal *(need 25)*
 - **Throughput & Impact Measures** — measuring what matters, beyond the Score *(need 26)*
-- **Outreach & Orientation Kit** — public gatherings, events, and orientation sessions; its seed already exists in [[The Great Game — Orientation Session 1]] *(need 27)*
+- **Outreach & Orientation Kit** — public gatherings, events, and orientation sessions; its seed already exists in [[The Great Game — Orientation Season 1]] *(need 27)*
 - **Advocacy & Systemic Change Kit** — moving policy and structures toward The Goal *(need 28)*
 
 And the deeper universal instruments that hold the whole kit together:
