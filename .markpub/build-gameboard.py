@@ -192,6 +192,18 @@ GHOSTS = {
 }
 
 n_players, n_circles = len(players), len(circles)
+n_flames = sum(1 for pl in players if pl.get("flame") and pl["flame"].strip() != "ØNE")
+if n_players == 1:
+    STAND_SUB = (f"We stand together — openly, by name. 1 soul stands so far; the first, so that no one is "
+                 f"asked to stand first. Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.")
+else:
+    STAND_SUB = (f"We stand together — openly, by name. {n_players} souls stand, and the first Circle is sealed. "
+                 f"Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.")
+if n_circles:
+    SCORE_NOTE = ("The Game is in play — the first Circle sealed, the first Quests chosen. "
+                  "The numbers fill as the Turns flow.")
+else:
+    SCORE_NOTE = "The first season is young. Every number here fills as the Turns flow — and the first moves are yours to make."
 
 FIRE_JS = r'''<script>
 (function(){
@@ -417,7 +429,7 @@ footer a {{ color:var(--gold-deep); }}
 
 <section>
   <a class="h2link" href="/players.html"><h2>Who Stands →</h2></a>
-  <p class="sub">We stand together — openly, by name. {n_players} {"soul stands" if n_players==1 else "souls stand"} so far; the first, so that no one is asked to stand first. Every card carries its flame-line — the family tree of the Game, growing from ØNE outward.</p>
+  <p class="sub">{STAND_SUB}</p>
   <div class="cards">{player_cards(BOARD_CAP)}</div>
 </section>
 
@@ -447,7 +459,7 @@ footer a {{ color:var(--gold-deep); }}
 
 <section>
   <a class="h2link" href="/The_Pledge.html"><h2>The Pledges →</h2></a>
-  <p class="sub">What is coming — every Player's first Commitment, freshly chosen each season.</p>
+  <p class="sub">What is coming — every Player's Commitment, freshly chosen each season.</p>
   <div class="tiles">
     <a class="tile" style="text-decoration:none;color:inherit" href="/players.html"><div class="num">{n_players}</div><div class="lab">standing</div></a>
     <div class="tile"><div class="num">—</div><div class="lab">TEA pledged (hrs/wk)</div></div>
@@ -464,9 +476,9 @@ footer a {{ color:var(--gold-deep); }}
     <div class="tile"><div class="num">—</div><div class="lab">commitments kept</div></div>
     <div class="tile"><div class="num">—</div><div class="lab">value created</div></div>
     <div class="tile"><div class="num">{len(stories) or "—"}</div><div class="lab">Stories shared</div></div>
-    <div class="tile"><div class="num">—</div><div class="lab">flames passed</div></div>
+    <div class="tile"><div class="num">{n_flames or "—"}</div><div class="lab">flames passed</div></div>
   </div>
-  <p class="young">The first season is young. Every number here fills as the Turns flow — and the first moves are yours to make.</p>
+  <p class="young">{SCORE_NOTE}</p>
 </section>
 
 <section>
