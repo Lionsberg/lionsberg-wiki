@@ -120,9 +120,10 @@ hr {
 }
 hr::before {
   content: "·  ·  ·";
-  letter-spacing: 0.5em;
-  color: var(--ink-faint);
-  font-size: 0.9em;
+  letter-spacing: 0.6em;
+  color: var(--ink-soft);
+  font-size: 1.15em;
+  font-weight: 600;
 }
 
 a {
