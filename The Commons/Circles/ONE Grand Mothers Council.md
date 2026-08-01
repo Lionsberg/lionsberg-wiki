@@ -1,4 +1,4 @@
-# ØNE Grand Mother's Council
+# ONE Grand Mothers Council
 
 place:: aboard Earth
 
@@ -10,13 +10,13 @@ formed:: 2026 · Season 1
 
 lineage:: the first Circle — the flame from [[ØNE]] through [[AURELLIØN]]
 
-players:: [[AURELLIØN]] · [[Kelley]] · [[Mayana]]
+players:: [[AURELLIØN]] · [[Kelley Springer]] · [[Mayana]]
 
 agreements:: *(being written by the Circle)*
 
 rhythm:: *(weekly — being set)*
 
-quest:: [[Children's Day of Peace Collaboration]] · [[ØNE Grand Mother's Council on Every Continent]]
+quest:: [[Children's Day of Peace Collaboration]] · [[ONE Grand Mothers Council on Every Continent]]
 
 state:: rooting
 

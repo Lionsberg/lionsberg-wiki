@@ -1,6 +1,6 @@
 # Children's Day of Peace Collaboration
 
-circle:: [[ØNE Grand Mother's Council]]
+circle:: [[ONE Grand Mothers Council]]
 
 season:: 2026 · Season 1
 

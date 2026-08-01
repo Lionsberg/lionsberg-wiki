@@ -1,4 +1,4 @@
-# Kelley
+# Kelley Springer
 
 place:: *(to be tended)*
 
@@ -8,7 +8,7 @@ flame:: [[AURELLIØN]]
 
 sponsor:: [[AURELLIØN]]
 
-circle:: [[ØNE Grand Mother's Council]]
+circle:: [[ONE Grand Mothers Council]]
 
 gifts:: *(to be tended)*
 

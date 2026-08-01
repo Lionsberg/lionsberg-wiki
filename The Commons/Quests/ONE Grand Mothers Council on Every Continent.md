@@ -1,6 +1,6 @@
-# ØNE Grand Mother's Council on Every Continent
+# ONE Grand Mothers Council on Every Continent
 
-circle:: [[ØNE Grand Mother's Council]]
+circle:: [[ONE Grand Mothers Council]]
 
 season:: 2026 · Season 1
 

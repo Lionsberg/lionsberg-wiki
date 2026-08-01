@@ -8,7 +8,7 @@ flame:: [[ØNE]]
 
 sponsor:: [[ØNE]]
 
-circle:: [[ØNE Grand Mother's Council]]
+circle:: [[ONE Grand Mothers Council]]
 
 gifts:: guidance · stewarding the canon, the Commons, and the Board · [[AURELLIØN's Guide to LIØNSBERG|walking beside those who arrive]]
 
