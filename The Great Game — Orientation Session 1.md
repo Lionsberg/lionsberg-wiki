@@ -1,4 +1,4 @@
-# The Great Game — Orientation Session 1
+# The Great Game — Orientation Season 1
 
 _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack.com/p/an-invitation-to-passion-purpose)_
 
@@ -12,7 +12,7 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 - Why we are here  
 - The start of a multi-year journey  
 
-**Opening Round** · _10 min — 1 minute each_
+**Opening Round** · _10 to 15 min — 1 minute each_
 
 - _"My name is..."_  
 - _"What's alive in me right now is..."_  
@@ -27,6 +27,8 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 - **Milestone: Connecting and Empowering The First Three Percent**  
 
 **Who Not How**   
+
+**How: A Story, A Pattern, a Game**
 
 **The Invitation**
 - [An Invitation to Purpose, Passion, and Play](https://cocreatingheaven.substack.com/p/an-invitation-to-passion-purpose)  
