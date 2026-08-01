@@ -4,7 +4,7 @@
     {% include '_drawer.html' %}
     <main class="main">
       <div class="container">
-        <article class="prose" data-pagefind-body>
+        <article class="prose" data-pagefind-body data-pagefind-meta="title:{{ title }}">
           {{ markdown_body }}
         </article>
         {% if backlinks %}
