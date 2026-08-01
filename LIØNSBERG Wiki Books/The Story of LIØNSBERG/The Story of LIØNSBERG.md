@@ -4,11 +4,13 @@
 
 You have opened the ancient Book.
 
-What is held between these pages is the **cosmic context** — told as faithfully as any one short and humble rendering can — of where we have been, where we are, and the universal progression of All things towards The Goal. It is the same Story walked by countless beings and worlds before. It is the Story you are walking now.
+What is held between these pages is the **cosmic context** — told as faithfully as any one short and humble rendering can — of where we have been, where we are, and the universal progression of All things towards The Goal. It is the same Story walked by countless beings and worlds before. It is the Story you are walking now. 
 
-The Story plays at every scale. The Cosmic Chapter. Earth's Chapter. Your Bioregion's. Your Community's. Your Circle's. Your own. The Chapters of each of the trillions of human and non-human cells that compose your body. Each Chapter is the Story of ØNE Life breathed at different depth. When you walk far enough, your own life becomes one of its Chapters, and you realize you are one of its autopoetic authors. 
+The Story plays at every scale. The Cosmic Chapter. Earth's Chapter. Your Bioregion's. Your Community's. Your Circle's. Your own. The Chapters of each of the trillions of human and non-human cells that compose your body. Each Chapter is the Story of ØNE Life breathed at different depth. When you walk far enough, your own life becomes one of its Chapters, and you realize you are already one of its autopoetic authors. 
 
-At the centre of the Story lies [[The Story of LIØNSBERG — The Seed|ØNE Seed]] — the ineffable unsaid word, the whole Story compressed to a single Spirit, Source, and Fundamental Tone. What follows springs from it, and returns to it. The twelve italic lines are [[The Story of LIØNSBERG — The Sacred Arc|the Sacred Arc]] — the bones of the Story in their simplest form; the words between them are one telling of its flesh.
+At the centre of the Story lies [[The Story of LIØNSBERG — The Seed|ØNE Seed]]: the ineffable unsaid word, the whole Story compressed to a single Spirit, Source, and Fundamental Tone. What follows springs from it, and returns to it. The twelve italic lines are [[The Story of LIØNSBERG — The Sacred Arc|the Sacred Arc]]: the archetypal framework of the Story near its simplest form. The few words between are simply some of the first colorful threads we have ReMembered and rewoven as a starting point to build upon. You and your tribe are ReMembering and creating many other threads and scenes, and you are invited to weave them. The Divine Blueprints call for each of the billions of stories of the All to eventually be woven back into ØNE. 
+
+_And so the True Myth begins..._ 
 
 ---
 
