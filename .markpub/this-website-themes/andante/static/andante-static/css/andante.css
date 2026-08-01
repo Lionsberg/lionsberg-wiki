@@ -905,6 +905,11 @@ body.no-scroll { overflow: hidden; }
   color: var(--ink-faint);
   white-space: nowrap;
 }
+.index__change {
+  max-width: 34ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 .index__table tbody tr:hover { background: var(--bg-soft); }
 .index__table tr.is-hidden { display: none; }
 
