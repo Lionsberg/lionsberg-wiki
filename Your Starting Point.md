@@ -27,6 +27,10 @@ The thing about the conceptual [[Meta Project]] | [[Meta Quest]] | [[Meta Game]]
 
 By being aliving, being, and doing, we are all inextricably engaged in the total program of human action at this moment on planet earth. The only question is how Consciously and Competently we are participating in it. 
 
+## How We Create Together
+
+Everything in LIØNSBERG — and everything you will help create — descends through the same pattern, which we call [[The Creative Cascade]]: an [[Intention]] (the WHY, which never changes) is imagined as an [[Ideal]] (perfection, held as a north star, never a judge), articulated into an [[Archetype]] (a definite, buildable form), composed into a [[Prototype]] (the whole thing, maintained as a [[Kit of Parts]]), and finally embodied as an [[Instantiation]] — in your place, among your people, adapted to your reality. What you learn on the ground flows back up, so that everyone after you inherits it. You are never handed a finished product; you are handed the current best understanding, and your life improves it. 
+
 ## Your Story and Your Quest
 Now that you have roughly oriented yourself to the [[Meta Idea]], let's bring it right back down to where the rubber meets the road in your own life and your own story. 
 

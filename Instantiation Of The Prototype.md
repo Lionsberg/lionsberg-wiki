@@ -5,3 +5,5 @@ In the [[Program Development]] section, we described how [[The Prototype]] is be
 This is accomplished through interoperable fractal elements of the [[New World]] that can be combined in many ways and sequences to serve the unique needs of each specific individual, organization, and community. 
 
 In this Chapter, we will discuss Instantiation of [[The Prototype]] in various Domains. 
+
+For the concept of [[Instantiation]] itself — the final rung of [[The Creative Cascade]], where every local embodiment honestly adapts the [[Ideal]] and sends its learnings home — see those pages. 

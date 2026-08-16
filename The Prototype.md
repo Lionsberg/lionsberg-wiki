@@ -2,6 +2,8 @@
 
 The [[LIØNSBERG System]] includes affordance for a continuously improving universal [[Prototype]] that learns across all [[Individual And Local]] [[Instantiation|Instantiations]]. 
 
+The Prototype occupies the fourth rung of [[The Creative Cascade]] — the pattern by which [[Intention]] descends through [[Ideal]] and [[Archetype]] into embodied [[Instantiation]], and learnings return home.
+
 The Prototype includes a [[Total Nested Hierarchy of Systems]] relating to fractal [[Individuals|Individual]], [[Group]], and [[Community]] [[Development]]. 
 
 The [[Idea]] is for [[Individuals]] to be and become in a Way, that helps their [[Small Groups]] be and become, in a [[Way]] that helps the Whole [[Group Of Groups]] be and become, in such a [[Way]] that helps the entire [[Living System]] be and become the fullness of its [[Potential]]. 

@@ -5,3 +5,5 @@ The planning details for the [[Systems, Facilities, Services, And Infrastructure
 For this reason, the [[SFSI]] designs would be developed based on a conceptual [[Prototype]], constructed as a [[Kit of Parts]], that could be selectively and interoperably adapted and deployed based on local realities and needs. 
 
 The [[Current Best Understanding]] of how the [[Kit of Parts]] could best function would be to maintain all parts in an integrated conceptual [[Prototype]], that would be continuously improved based on the learnings from each [[Instantiation]].  
+
+This is [[The Creative Cascade]] applied to the [[SFSI]] domain: [[Intention]] descending through [[Ideal]] and [[Archetype]] into Prototype and Instantiation, with learnings returning home.  

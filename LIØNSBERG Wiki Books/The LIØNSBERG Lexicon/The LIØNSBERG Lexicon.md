@@ -73,6 +73,17 @@ These are the **Root Keys** required to understand and speak [[The Language of L
 - Pattern Language  
 - Quest  
 
+**The Creative Cascade** — the Root Keys of how [[Intention]] becomes [[Reality]]:
+
+| **[[The Creative Cascade]]** | The pattern by which Intention becomes Reality — descending through Ideal, Archetype, Prototype, and Instantiation, with learnings returning home to perfect understanding |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Intention]]**            | The directed WHY that calls a work into being; the only rung that never changes as the work descends — every HOW below it remains revisable                                  |
+| **[[Ideal]]**                | Intention imagined as perfection; the standard holding the center of every category; a clarifying north star, never a totalitarian judge                                     |
+| **[[Archetype]]**            | The Ideal articulated into definite, buildable form — pattern, structure, interfaces — still free of any particular site or constraint                                       |
+| **[[Prototype]]**            | The first integrated embodiment, still "in the cloud"; maintained as a Kit of Parts and continuously improved by every Instantiation's learnings                             |
+| **[[Kit of Parts]]**         | The interoperable form of a Prototype: whole Parts, freely combined and sequenced, so one Prototype serves a thousand sovereign expressions                                  |
+| **[[Instantiation]]**        | The Prototype embodied on the ground, adapted — and honestly compromised — by local reality; the compromise is the data that flows back up                                   |
+
 
 
 ---
@@ -649,7 +660,7 @@ This domain integrates:
 
 88. [[Story]] / [[Stories]] / [[Story of Stories]] / [[The Story of LIØNSBERG]]  
 89. [[Narrative]] / [[Narrative Framework]] / [[Narrative Structure]] / [[Narrative Universe]] / [[The Narrative Universe]] / [[Narrative Lens]]  
-90. [[Meta Ideal]] / [[Categories]] / [[Ideal]] / [[Archetypical]] / [[Archetype]] / [[Prototype]] / [[Incarnation]] / [[Instance]]  
+90. [[Meta Ideal]] / [[Categories]] / [[Ideal]] / [[Archetypical]] / [[Archetype]] / [[Prototype]] / [[Incarnation]] / [[Instance]] / [[The Creative Cascade]]  
 91. [[Who We Are]], [[Where We Are]],  [[How We Got Here]], [[Where We Are Going]], [[Who We Are Going With]], and [[Why]]  
 
 ## Identity 
