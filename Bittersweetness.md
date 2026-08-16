@@ -1,0 +1,9 @@
+# Bittersweetness
+Bittersweetness is the braided reading of joy and loss in one moment — gladness and ache refusing to be separated, because they are reporting on the same thing.
+**Felt Sense.** Fullness and tears at once. The throat tightens while the mouth smiles: a graduation, a last night in an old house, a child's shoe outgrown, the final page of a beloved book. The heart does not alternate between the two notes; it plays them as one chord, and the chord is the feeling.
+**What It Signals.** Something good is completing. Bittersweetness reports an ending that was worth having — growth that costs the earlier form, a season honored precisely by its closing. It is the most honest flavor of finite life: everything held is held for a while, and the holding was real.
+**Its Gradient.** The braid-point of the band — where the sadness spine meets joy and [[Gratitude]]. Weighted toward loss it leans into [[Sorrow]] or [[Grief]]; flavored by time, it becomes [[Nostalgia]].
+**Its Gift.** Bittersweetness teaches, in the body, what philosophy can only argue: that [[Love]] and impermanence are one fabric — that things are precious *because* they pass, not despite it. Whoever can hold the chord without dropping either note can love fully without gripping, and let go without abandoning. It is the emotional signature of maturity.
+**Its Distortion.** Split. Keep only the sweet and it thins to sentimentality — endings denied, nothing ever really released. Keep only the bitter and every joy is pre-poisoned by its ending, tasted as loss before it is tasted at all.
+**The Move.** Hold both notes on purpose. At the threshold, say each aloud: *this was good — and it is complete.* Mark endings; do not slip past them — a toast, a walk-through, a thanks spoken in [[Circle]]. The chord fully sounded resolves on its own, into gratitude that is free to turn forward.
+Related: [[Nostalgia]] · [[Grief]] · [[Gratitude]] · [[Love]] · [[Emotion]]

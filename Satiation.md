@@ -1,0 +1,9 @@
+# Satiation
+Satiation is the reading of fullness after genuine hunger met — the body's enough-bell.
+**Felt Sense.** A soft closing. Warmth spreading from the center, the drive dissolving mid-motion, the hand setting down what it was reaching for. Pleasure ebbs to quiet; attention, released from wanting, drifts back out to the world.
+**What It Signals.** Satiation reports that a real need has been measured and met: this much food, this much rest, this much touch, this much input — and no more. It is [[Enoughness]] spoken in the body's own tongue, the precise chime that separates nourishment from consumption. Every appetite carries this bell; hearing it is a skill.
+**Its Gradient.** Its floor is honest hunger; its band is fullness; overrun, it inverts into heaviness and numbness. Its settled cousin is [[Comfort]]; sustained across a life's appetites it matures into [[Contentment]].
+**Its Gift.** Calibration. Satiation teaches the true shape and size of real needs — knowledge nothing external can supply. A person who can hear the bell knows what enough costs, and is therefore very hard to sell to.
+**Its Distortion.** Overridden, satiation gives way to the numbness of excess — consumption continuing past the bell, chasing a signal that already sounded. This deafness is not an accident; it is the engine the [[Old World]] depends on, an economy of appetites kept ringing past enough. The counterfeit of fullness is more; the real thing is *finished*.
+**The Move.** Slow down enough to hear the bell — it rings quietly and only once. Stop when it sounds, mid-plate if need be. Give thanks for the meeting of the need. Then notice which hungers never seem to close: those are usually not hungers for what is being fed them.
+Related: [[Enoughness]] · [[Contentment]] · [[Comfort]] · [[Gratitude]] · [[Emotion]]

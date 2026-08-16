@@ -1,0 +1,9 @@
+# Hurt
+Hurt is the immediate sting of a relational wound — the tender place struck, before any story about the striking.
+**Felt Sense.** A flinch in the chest, quick as a burn. Heat in the face, a catch in the breath, the impulse to turn away or cover. Hurt is fast — it lands in the second before interpretation arrives, which is exactly what makes it trustworthy.
+**What It Signals.** Someone reached a tender place — a word, a silence, an absence, a glance — and the bond through which it traveled is one that matters. We are not hurt by those who cannot reach us. Hurt reports two coordinates at once: *here is where I am soft*, and *this person has access.*
+**Its Gradient.** Sharp and brief, Hurt sits upstream of the band: unmet, it flows into [[Sadness]] or [[Sorrow]]; interpreted in haste, it converts to anger; accumulated, it compounds into [[Loneliness]] or resentment.
+**Its Gift.** Precision. Hurt marks the exact location of the tender place — what we value, where we are unguarded, which bonds carry current. Read before the story starts, it is the most accurate map of the heart's live wiring, and the doorway to repair: *when you did that, it touched this.*
+**Its Distortion.** Refused, hurt armors: the tender place gets plated over, and with it the capacity to be reached at all. Enthroned, it becomes weaponized woundedness — the injury brandished as verdict and leverage, the sting rewritten nightly into a case.
+**The Move.** Pause between the sting and the story. Locate the tender place; name it to yourself first, then — where there is enough trust — to the one involved, as information, not indictment. Offered that way, hurt becomes the raw material of [[Right Relationship]]: the place where repair, and deeper knowing, begin.
+Related: [[Sadness]] · [[Loneliness]] · [[Right Relationship]] · [[Connection]] · [[Love]] · [[Emotion]]

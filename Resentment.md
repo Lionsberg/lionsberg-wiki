@@ -1,0 +1,9 @@
+# Resentment
+Resentment is the reading of an old violation, stored and drunk again.
+**Felt Sense.** Not heat but smolder — a bitterness that rises on cue whenever the person or memory appears. The chest tightens around a familiar ache; the inner voice rehearses the case one more time, fluent from repetition. The word means *to feel again* — and that is exactly what the body does.
+**What It Signals.** Resentment reports an [[Anger]] that was never allowed to complete: a violation swallowed instead of named — because it felt unsafe, or futile, or because we chose false peace over true speech. The crossing was real; the ledger records it faithfully. Resentment is honest bookkeeping of a debt that was never presented for payment.
+**Its Gradient.** Not a band of heat but its sediment: what [[Anger]] becomes when dammed and cellared. Aged further it sours toward [[Bitterness]], and toward [[Contempt]] when the ledger becomes a verdict on the being.
+**Its Gift.** The ledger itself. Resentment preserves the record of every unspoken crossing — a precise inventory of where truth was withheld and which boundaries still stand unrestored. Read as information, it is a map of unfinished conversations.
+**Its Distortion.** The re-drinking. Kept and sipped, resentment poisons only its keeper: the other lives free while we serve their sentence. Enthroned, it curates a museum of grievances and calls it identity.
+**The Move.** Present the ledger or burn it — those are the only exits. Where truth can still be told, tell it: name the crossing to the one who made it, and restore the [[Boundary]]. Where it cannot, choose true release — [[Forgiveness]] not as excusing the deed, but as declining to drink again.
+Related: [[Anger]] · [[Forgiveness]] · [[Bitterness]] · [[Contempt]] · [[Boundary]] · [[Emotion]]

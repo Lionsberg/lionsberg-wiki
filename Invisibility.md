@@ -1,0 +1,9 @@
+# Invisibility
+Invisibility is the reading of being unseen — present in the room, but not registered by it.
+**Felt Sense.** A hollow, static quality: speaking and watching the words land nowhere, standing in a gathering and feeling like weather — around everyone, noticed by no one. Prolonged, it produces a strange doubt at the edges of the self, as if existence needed a witness to stay fully solid.
+**What It Signals.** Invisibility reports non-recognition: the social field is not reflecting me back. Where [[Shame]] reads *seen and found wanting*, invisibility reads *not seen at all* — a wound often deeper, for even judgment confirms one exists. It is the felt absence of witness: one of the deepest human needs, named by its lack.
+**Its Gradient.** [[Overlooked]] → Invisibility → [[Erasure]] → [[Aloneness]] in its bleakest band. Its longing points toward [[Belonging]]; its healed state is [[Recognition]] — being seen truly, not merely noticed.
+**Its Gift.** The ache of invisibility reveals that being witnessed is not vanity but nourishment — and having felt its absence, one gains the eyes to end it for others: the invisible, seen, become the great see-ers of rooms.
+**Its Distortion.** In one direction, performance: contorting the self into whatever gets registered — seen, but not as oneself: invisibility with an audience. In the other, vanishing as armor: choosing unseenness so thoroughly that no one gets the chance to overlook you first.
+**The Move.** Step toward being seen — deliberately, in circles that can receive you. Not the crowd that overlooked you; a [[Circle]] whose practice is witness. Speak one true thing and stay present for its landing. And practice the healing outward: find the unseen person in every room and register them by name.
+Related: [[Belonging]] · [[Shame]] · [[Loneliness]] · [[Dignity]] · [[Circle]] · [[Emotion]]

@@ -1,0 +1,9 @@
+# Betrayal
+Betrayal is the compound reading that trust has been broken from inside the circle of trust.
+**Felt Sense.** The floor giving way, then fire. First the drop — disbelief, a hollowing in the chest, the vertigo of a world rearranging. Then the heat arrives. Two currents braid and alternate: the ache of [[Grief]] for what was, and the surge of [[Anger]] at what was done. The body cannot settle on one, because both are true.
+**What It Signals.** Betrayal fires only where trust stood — a stranger cannot betray you. It reports that someone *inside* the [[Circle]] used the open gate against you: a confidence broken, a promise abandoned, a loyalty sold. The wound is doubled because the violation and the violator's access came from the same place — the trust itself.
+**Its Gradient.** Not a band but a braid: [[Grief]] and [[Anger]] entwined, from [[Disappointment]] at its shallow end to devastation at its deep. Unworked, the anger strand sours into [[Resentment]] and the grief strand into a refusal to trust at all.
+**Its Gift.** X-ray vision, at terrible cost: betrayal reveals exactly which trust was load-bearing — what you had built on this person, often without knowing. It also clarifies, more sharply than anything else can, what trust is worth.
+**Its Distortion.** Refused, it splits: swallowed anger, unwept grief, and armor mistaken for wisdom — the vow to never again let anyone close enough to matter.
+**The Move.** Let both strands speak: grieve what was real, and let anger name the crossing without softening it. Establish the [[Boundary]] the truth requires now. Then, in time and not before, make the sovereign choice about repair — trust can sometimes be rebuilt, and sometimes rightly is not; either can be the Wise Right Thing, chosen in daylight.
+Related: [[Trust]] · [[Grief]] · [[Anger]] · [[Resentment]] · [[Boundary]] · [[Emotion]]

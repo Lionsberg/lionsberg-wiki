@@ -1,0 +1,9 @@
+# Anguish
+Anguish is sadness at flood intensity — acute suffering that seizes the whole body and demands a cry.
+**Felt Sense.** Sharp, total, now. The chest in a vise, the throat full, the body doubling over or pacing because stillness is unbearable. Anguish is the cry-band of the spectrum: it does not want words yet, it wants sound — the wail, the sob that comes from below language.
+**What It Signals.** Something precious is being torn, right now, at an intensity the system cannot process in stillness. Anguish is the pressure reading of a loss or a wound at peak flow — too much signal for the ordinary channels, demanding an emergency spillway.
+**Its Gradient.** [[Sadness]] → [[Sorrow]] → [[Grief]] → Anguish → [[Despair]]. It is the crest of the wave; grief's surges pass through it. Sustained without relief, it soaks into [[Misery]].
+**Its Gift.** The cry is the gift. Anguish moves what stillness cannot: it discharges an unbearable intensity through the body's oldest release, and its sound summons others from a distance — the signal that this one cannot be left alone right now. A being who can still cry out is still in the current, still moving.
+**Its Distortion.** Refused — swallowed, silenced, composed — anguish turns inward and freezes toward [[Depression]], or leaks sideways as rage. Enthroned, it becomes performance: the cry prolonged past its truth because only at peak volume does the sufferer feel real.
+**The Move.** Let the cry out, and let it be witnessed. Find the room, the [[Circle]], the one person who can bear sound without fixing it — and wail. The body knows the duration; the wave crests and passes on its own schedule. After the cry, water, breath, a hand held. Words can come tomorrow.
+Related: [[Grief]] · [[Sorrow]] · [[Despair]] · [[Misery]] · [[Circle]] · [[Emotion]]

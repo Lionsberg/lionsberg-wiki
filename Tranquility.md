@@ -1,0 +1,9 @@
+# Tranquility
+Tranquility is the reading of stillness with sweetness — the pond without wind, and the light in it.
+**Felt Sense.** Hush. The body quiet as at dusk; breath barely needed; a fine, faint gladness suffusing the stillness like warmth in stone. Time slows and softens. Nothing calls; nothing is missing; presence itself becomes gently pleasant.
+**What It Signals.** Tranquility reports depth beneath [[Calm]]: not merely *no alarm*, but a positive rightness in the quiet — the organism resting in a field that is itself at rest. It rises where the surroundings carry no argument with being: in forest and open water, in prayer, in unhurried presence with a trusted other. The gradient says *here, being is enough*.
+**Its Gradient.** [[Calm]] → Tranquility → [[Peace]]. Its bright cousin is [[Contentment]]; opened wide before the vast, it borders [[Awe]]. It is stillness beginning to sing.
+**Its Gift.** Restoration of depth. Tranquility is where the deep layers repair — the waters the noisy world cannot reach re-fill here. It teaches the taste of being over doing, and those who visit it regularly carry a quiet back into rooms that need one ([[Resonance]] runs both ways).
+**Its Distortion.** Enthroned, tranquility becomes seclusion — the hermitage as hideout, stillness that must be defended from the world to survive it. The counterfeit depends on the absence of others and shatters at the first interruption; the real thing is a well one returns from, carrying water. A tranquility that cannot survive contact was rest becoming refusal.
+**The Move.** Seek its places on purpose — the shore, the small hours, the prayer — and then do nothing there; tranquility cannot be worked at, only allowed. Drink fully. Give thanks. Then return, and let the stillness walk into the world with you.
+Related: [[Calm]] · [[Peace]] · [[Awe]] · [[Contentment]] · [[Emotion]]

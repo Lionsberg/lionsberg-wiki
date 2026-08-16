@@ -1,0 +1,9 @@
+# Comfort
+Comfort is the reading of safety and softness — the nervous system unclenching in a place that will not hurt it.
+**Felt Sense.** Thaw. Muscles releasing holds they had kept for hours or years; breath dropping into the belly; the body growing heavy, warm, willing to be held by chair, bed, or another's presence. Vigilance dims like a lamp turned down.
+**What It Signals.** Comfort reports that defense is unnecessary here: the environment is safe, the company is kind, the temperature of the world is survivable without armor. It is the precondition reading — the state in which repair, digestion, sleep, and healing are permitted to run. Where comfort is real, the gradient says *you may put the shield down*.
+**Its Gradient.** Its bodily kin are [[Satiation]] and [[Relief]]; settled deeper it becomes [[Calm]], and held in trusted presence it opens toward [[Connection]] and [[Peace]]. Given to another, it is comfort's verb — consolation.
+**Its Gift.** Restoration. Comfort is the ground of healing — the body only rebuilds what it is sure will not be immediately struck again. Every [[Circle]] that means to grow people must first be a place where nervous systems can unclench; courage itself is stored up in comfort.
+**Its Distortion.** Enthroned, comfort becomes the comfort zone — safety hoarded until it prevents the very life it was meant to restore. The counterfeit treats all discomfort as threat, and slowly trades aliveness for cushioning. Real comfort is a basecamp; the distortion mistakes it for the summit.
+**The Move.** Receive it fully — let the thaw complete; half-rest restores nothing. Give thanks for the shelter and the ones who make it. Then, restored, go back out: comfort is for returning to the climb, and for building shelters where others can unclench too.
+Related: [[Relief]] · [[Calm]] · [[Satiation]] · [[Peace]] · [[Connection]] · [[Emotion]]

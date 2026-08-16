@@ -1,0 +1,9 @@
+# Admiration
+Admiration is the lift felt toward excellence or goodness embodied in another.
+**Felt Sense.** An upward pull through the chest — something in you rising to meet what you behold. Warmth without wanting to possess; attention that sharpens gladly; sometimes chills, sometimes the quiet *ah* of witnessing a thing done truly well.
+**What It Signals.** Admiration reports that a value you carry — perhaps still folded, unlived — is standing embodied in front of you. It is recognition across beings: *what I love is real, because there it is, walking around.* Where admiration rises, the bond carries not need but aspiration.
+**Its Gradient.** [[Appreciation]] → [[Respect]] → Admiration → [[Reverence]]. Deepened toward the sacred, it bows into [[Reverence]]; corrupted by scarcity — *their light means my darkness* — it flips into [[Envy]], the same reading with the current reversed.
+**Its Gift.** A compass for becoming. What we admire, we are called toward: admiration marks our own aspirational gradient more honestly than any stated goal, because it fires before the ego can edit it. Follow what reliably lifts you, and you find who you are trying to be.
+**Its Distortion.** Idolization — the admired enthroned, the admirer diminished: the lift frozen into a ceiling, excellence outsourced to a pedestal so it never has to be attempted ([[Old World]] celebrity runs on this). And the flip: [[Envy]], admiration soured by the belief that excellence is a rivalry rather than an invitation.
+**The Move.** Let the lift land as instruction, not verdict: ask *what exactly am I seeing, and what in me answers it?* Tell them — spoken admiration strengthens the whole [[Circle]]. Then walk one step up your own gradient; admiration is repaid in kind, never in worship ([[Sovereignty]]).
+Related: [[Reverence]] · [[Respect]] · [[Envy]] · [[Gratitude]] · [[Emotion]]

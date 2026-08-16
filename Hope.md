@@ -1,3 +1,7 @@
 # Hope
 
 The value of hope represents a belief in the possibility of positive change and a better future. It involves maintaining a sense of optimism and possibility, even in the face of challenges and setbacks.
+
+## As a Felt Reading
+
+**Felt Sense.** A lift at the horizon-line of the chest — light let into the forecast; the body leaning toward tomorrow instead of bracing against it. **What It Signals.** Hope reports that the future is *open*: among the possible tomorrows, better ones remain reachable, and our action bears on which arrives. It is the felt form of [[Potential]] — the reading that the gradient can still be climbed. Its opposite number, [[Hopelessness]], forecloses the future; Hope holds it open without denying the present's darkness. **Its Gradient.** [[Hopelessness]] ← [[Resignation]] ← [[Discouragement]] … wish → Hope → confident expectation → [[Faith]] — deepening from *it could* toward *it will*, and at [[Faith]]'s depth, *it is already at work*. **Its Gift & Distortion.** The gift: fuel across dark stretches — hope is what keeps agents in the Game between evidences. Distorted, it becomes wishing that replaces working, or optimism that refuses to read the truth. Real Hope has open eyes and busy hands. **The Move.** Name honestly what is dark; find the genuine opening ([[Just In Time Co-Creation]]'s ripeness); act on it, however small — action is hope's proof to itself; and lend hope to those whose reserves are empty: it transfers by [[Resonance]] ([[Emotion]]).

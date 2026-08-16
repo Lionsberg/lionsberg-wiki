@@ -1,0 +1,9 @@
+# Shock
+Shock is the reading that the update is too large to absorb at once.
+**Felt Sense.** The world goes glassy. Numbness where feeling should be, sound arriving from far away, time gone strange — too slow, then missing. The body may function while the self watches from behind a pane. People say *it hasn't hit me yet.* That is exact: it is being delivered in installments.
+**What It Signals.** Shock is [[Surprise]] at flood. It reports that Reality has broken the [[Map of Reality]] faster and more completely than the instrument can re-form it — a death, a diagnosis, a betrayal, a world-event. The numbness is not absence of feeling but the circuit-breaker of a [[Living System]] protecting itself: the full current would burn what it must instead rewire.
+**Its Gradient.** The far end of the suddenness band: [[Startle]] → [[Surprise]] → [[Astonishment]] → shock. Held too long past its hour, it shades toward [[Dissociation]] and frozen [[Grief]].
+**Its Gift.** Staged absorption of what cannot be taken whole. Shock buys the psyche time — hours or days in which the unbearable arrives in bearable doses while the map quietly begins rebuilding. It is mercy, mechanized.
+**Its Distortion.** The circuit-breaker left thrown: numbness adopted as residence, the update refused indefinitely, life conducted from behind the pane. What began as protection becomes a wall against all feeling — [[Joy]] locked out along with the pain.
+**The Move.** Do not demand feeling on schedule — yours or another's. Offer the body warmth, water, rest; offer the self small truths, one at a time, each allowed to land before the next. Stay accompanied. The map re-forms in presence, not in argument. When feeling returns, let it — that is the current resuming, and it means the rewiring held.
+Related: [[Surprise]] · [[Grief]] · [[Numbness]] · [[Trust]] · [[Presence]] · [[Emotion]]

@@ -1,0 +1,9 @@
+# Loneliness
+Loneliness is the reading that connection is missing — belonging unmet, the cell signaling for its body.
+**Felt Sense.** An ache with an outward lean — hollow in the chest, a reaching quality, the peculiar heaviness of rooms that hold no one, or of crowds that hold no one *for you*. It can arrive mid-conversation: loneliness measures felt belonging, not headcount.
+**What It Signals.** A being built for [[Connection]] is running without it. Humans are not optional joiners; we are cells of a larger body, and loneliness is the cell's signal that it has lost contact with the whole. The report is precise: not merely *people are absent* but *I am not known, not held, not woven in.* Solitude is different — aloneness chosen, that nourishes and returns us fuller. Loneliness is aloneness suffered; the same room, without the consent.
+**Its Gradient.** A social wound of the band: it deepens [[Sadness]] into [[Sorrow]], soaks [[Misery]], and left long enough whispers [[Despair]]'s falsehood — *no one would come.* Its quiet accumulation often begins as unspoken [[Hurt]].
+**Its Gift.** Loneliness is the hunger that keeps the superorganism alive. Without its ache we would drift apart and call it independence. It points, always, toward the next weaving — and it certifies that the capacity to belong is intact, because only a heart built for belonging can miss it.
+**Its Distortion.** Refused, it masquerades as self-sufficiency, busyness, or contempt for needing anyone. Enthroned, it becomes the story *I am the kind no one chooses* — a signal mistaken for a sentence.
+**The Move.** Treat it as hunger: feed it, do not diagnose it. One honest reach — a message, a door knocked, a [[Circle]] joined, a small service offered. Belonging is rebuilt by being of use and being seen, one thread at a time. Reach before you feel ready; the readiness follows the reaching.
+Related: [[Connection]] · [[Sadness]] · [[Hurt]] · [[Circle]] · [[Love]] · [[Emotion]]

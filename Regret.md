@@ -1,0 +1,9 @@
+# Regret
+Regret is the backward reading — the felt gap between what was done and what, seen truly, should have been.
+**Felt Sense.** A sinking pull toward the past: the wince, the replay, the involuntary *if only*. It visits at night, running the scene again with the wisdom that arrived too late. Unlike grief's waves, regret loops — the same footage, the same fork, the road not taken glowing.
+**What It Signals.** Regret is the conscience's echo: it reports that present values and past action disagree. That disagreement is, strangely, good news: it certifies the self has grown past the one who chose — the [[Map of Reality]] has sharpened since the deed.
+**Its Gradient.** [[Second Thoughts]] → Regret → [[Remorse]] → [[Contrition]]; refused outward, it sours into [[Bitterness]]; turned on the whole self, it borders [[Shame]]. Remorse adds what regret alone lacks: the other's pain, felt.
+**Its Gift.** Regret is the raw material of repair and wisdom. It marks exactly where learning is buried. Metabolized, it becomes discernment: the elder's calm at forks that once fooled them. The [[Old World]] said *no regrets*; the wiser vow is *no unharvested ones*.
+**Its Distortion.** Enthroned, it becomes the loop that replays without repairing — punishment mistaken for payment, as if suffering the scene enough times could edit it. Refused, it flattens into a self-justifying record where nothing was ever a mistake, and nothing is ever learned.
+**The Move.** Split the reading in two. Where repair is possible, make amends — regret's energy is meant to move, and one honest repair releases a thousand replays. Where it is not, harvest: name the lesson precisely, let it change your next fork, and grant the past self what it lacked — your current sight. That is the loop's exit.
+Related: [[Guilt]] · [[Shame]] · [[Grief]] · [[Forgiveness]] · [[Wisdom]] · [[Emotion]]

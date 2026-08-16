@@ -1,0 +1,9 @@
+# Jealousy
+Jealousy is the guarding reading — the felt alarm that a bond one holds dear is threatened by a third.
+**Felt Sense.** A hot-cold clench in the chest and gut: vigilance sharpened to a point, attention snapping to beloved and rival in one glance. The mind starts scanning — rereading tones, replaying scenes. It is love's smoke alarm, and like a smoke alarm it cannot tell a burning house from burnt toast.
+**What It Signals.** Jealousy reports three things at once: this bond is precious to me; I perceive a rival claim on it; and I fear I may not be enough to hold it. It is a triangle-reading — self, beloved, third — where [[Envy]] is a line: jealousy protects what is held; envy aches toward what is not.
+**Its Gradient.** [[Wariness]] → [[Protectiveness]] → Jealousy → [[Possessiveness]] → [[Obsession]]. Its underside is [[Insecurity]]; its bitter residue, [[Resentment]].
+**Its Gift.** Jealousy reveals which bonds are load-bearing. We are not jealous over what we do not treasure; the alarm marks the beams. Read early and spoken honestly, it invites the very conversation that renews a bond.
+**Its Distortion.** Enthroned, it inverts love into control: surveillance, the checked phone, the shrinking circle of who the beloved may see — possession wearing devotion's face, strangling the bond to keep it. Refused, it goes silent and ferments, surfacing as coldness the beloved cannot decode.
+**The Move.** Take the alarm seriously and the story lightly. Bring the reading to the beloved, not the rival — as a disclosure, not an accusation: *this bond matters to me, and I felt it threatened*. Ask what is true. Then tend the fear beneath: a bond is held by being nourished, never caged — that is [[Right Relationship]].
+Related: [[Envy]] · [[Love]] · [[Trust]] · [[Belonging]] · [[Right Relationship]] · [[Emotion]]

@@ -1,0 +1,9 @@
+# Embarrassment
+Embarrassment is the hot flush of minor exposure — the self caught off-script before eyes that matter.
+**Felt Sense.** Sudden heat in the face, a jolt of alertness, the urge to laugh or vanish — sometimes both in the same breath. It spikes fast and fades fast, replaying briefly in the mind like an echo. The blush itself is involuntary: the body signaling, visibly, that we know we slipped.
+**What It Signals.** Embarrassment reports a small mismatch between the self we were presenting and the self just witnessed — a stumble, a mispronounced name, a fly undone. It is about mishap, not character; the standard breached is etiquette, not ethics. That is what separates it from [[Shame]].
+**Its Gradient.** [[Self-Consciousness]] → Embarrassment → [[Shame]] → [[Humiliation]]. Its social twin is [[Awkwardness]]; felt on another's behalf, it becomes [[Vicarious Embarrassment]].
+**Its Gift.** The blush is a credential. It signals — faster than words could — that we care about the social fabric and noticed our snag in it. Circles read it rightly: the one who can be embarrassed can be trusted with shared space. A being who never blushes has stopped tracking others.
+**Its Distortion.** Refused, embarrassment stiffens into a life so carefully managed that nothing spontaneous survives — dignity as armor. Enthroned, it inflates every stumble into evidence, sliding a mishap-reading toward a character-verdict it never made.
+**The Move.** Laugh — with yourself, not at yourself. Include your own stumble in the room's warmth: named lightly, the snag becomes connection, for nothing bonds a circle faster than a person unafraid to be human in front of it. Then let it go; it was never about who you are.
+Related: [[Shame]] · [[Self-Consciousness]] · [[Humiliation]] · [[Belonging]] · [[Emotion]]

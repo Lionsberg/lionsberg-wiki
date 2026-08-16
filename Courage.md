@@ -43,3 +43,7 @@ The value of courage represents the ability to face and overcome fear, and to ta
 -   01/12/2023 : Initial version
 
 Note: The pattern language is a living document, so it's important to review and update the pattern regularly. Encourage feedback from community members to keep it updated and relevant.
+
+## As a Felt Reading
+
+**Felt Sense.** [[Fear]] present — and the body moving anyway. Heat gathering in the spine where the contraction wanted to close; the trembling hand that still reaches. **What It Signals.** Courage is not an absence but a *relation*: fear read, right-sized, and answered by love of something larger than safety. It arises exactly where the fear-band marks a threshold rather than a danger — which is why courage lives at every real growth-edge of the [[Map of Reality]]. **Its Gradient.** Timidity ← hesitation … resolve → Courage → [[Bravery]] → heroic risk — always paired with the fear it answers: no fear, no courage, only ease. **Its Gift & Distortion.** The gift: every crossing that matters is guarded by fear, and courage is the only key ever minted. Distorted, it becomes recklessness (fear unread rather than answered) or performance — risk taken for the audience, not the beloved. **The Move.** Feel the fear fully; name what is worth it; shrink the first step until it is takeable; take it accompanied — courage, like all frequencies, is contagious in [[Circle]] ([[Resonance]] · [[Emotion]]).

@@ -1,0 +1,9 @@
+# Sympathy
+Sympathy is feeling-for — warmth toward another's suffering, offered from one's own shore.
+**Felt Sense.** A softening toward, without a merging into: the heart leans, the face gentles, a quiet ache rises *for* them while your own weather stays your own. The hand wants to reach; the ground under your feet holds.
+**What It Signals.** Sympathy reports that another's pain has registered and matters — the bond is live enough to carry news of their suffering, even where it cannot carry the suffering itself. It is the reading by which strangers and distant kin stay inside each other's circle of care.
+**Its Gradient.** Sympathy → [[Empathy]] → [[Compassion]]. Sympathy is the humbler band — feeling *for* where [[Empathy]] feels *with* — and often the truer one at distance: across difference, across miles, across experiences one has never had, honest sympathy outperforms presumed empathy. Its warm ground is [[Kindness]].
+**Its Gift.** Care that does not require access. Sympathy lets us hold beings whose inner weather we cannot enter — and its honesty about that limit is a form of respect: *I do not know your storm, and I am with you anyway.*
+**Its Distortion.** Pity — sympathy that looks *down*: the sufferer converted from a fellow sovereign into a case, an object of one's own benevolence. Pity un-persons while appearing to care; the tell is that it subtly feeds the giver. The [[Old World]] institutionalizes it as charity that keeps its recipients beneath it.
+**The Move.** Feel it, and stay eye-to-eye: offer warmth as one sovereign to another, never from a height ([[Right Relationship]]). Say the honest sentence — *I can't know this, and I care.* Where the bond allows, let sympathy walk closer and become [[Empathy]]; where it doesn't, let it act anyway.
+Related: [[Empathy]] · [[Compassion]] · [[Kindness]] · [[Connection]] · [[Emotion]]

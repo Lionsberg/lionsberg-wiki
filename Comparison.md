@@ -1,0 +1,9 @@
+# Comparison
+Comparison is the measuring reading — the self laid alongside another to see how it stands.
+**Felt Sense.** A quick sideways flick of attention, often below awareness: their pace, their work, their life against mine. It lands as a small lift or a small deflation — a tick up or down on an inner scale we rarely admit we are holding. In the [[Old World]]'s ranked and feed-fed systems it runs near-constantly, a background metronome of measurement.
+**What It Signals.** Comparison reports position: where the self stands relative to another on some dimension the self has (often unconsciously) accepted as mattering. The reading itself is neutral instrumentation. The hidden variable is the dimension — comparison always answers *how do I rank?* but never asks *on whose scale?*
+**Its Gradient.** [[Curiosity]] about another → [[Admiration]] → Comparison → [[Envy]] or [[Superiority]] → [[Rivalry]]. It is the comparison family's root band — the measurement from which [[Envy]], [[Jealousy]], and [[Pride]] each take their reading.
+**Its Gift.** Honest calibration. Exemplars show what is possible; measuring against a master is how craft has always passed between hands. Comparison in right use is apprenticeship: the other as teacher, not verdict.
+**Its Distortion.** Enthroned, it steals the scale itself: a life lived on someone else's gradient, optimizing for measures never chosen, until a person can win every comparison and still not recognize their days. Refused entirely, it forfeits learning — no exemplars, no stretch.
+**The Move.** Catch the flick, then ask the unasked question: *whose scale?* Return measurement to your own [[Ideal]] — the self you are called to become — and compare chiefly against your own yesterday. Keep exemplars as teachers: study what they do; release where they rank you.
+Related: [[Envy]] · [[Pride]] · [[Admiration]] · [[Sovereignty]] · [[Emotion]]

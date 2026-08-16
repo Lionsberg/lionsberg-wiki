@@ -1,0 +1,9 @@
+# Relief
+Relief is the reading of release — the felt all-clear when a feared thing passes or a carried weight sets down.
+**Felt Sense.** Exhale. The long breath that empties all the way out; shoulders descending from ears they had climbed to unnoticed; sometimes trembling, tears, or sudden weakness in the knees as held charge leaves the body. Warmth flooding back into places that had gone rigid.
+**What It Signals.** Relief reports that an emergency has ended: the threat did not land, the burden is off, the bracing is no longer needed. It is the nervous system's stand-down order — permission to stop guarding and return resources to living. Where relief floods, the body is telling the truth about how much it had been carrying.
+**Its Gradient.** A small dose is a loosening; fully felt, it opens into [[Calm]] and can crest briefly toward [[Gladness]] or even [[Joy]]. Its settled aftermath is [[Comfort]]; repeated safely over time, it rebuilds toward [[Peace]].
+**Its Gift.** Closure. Relief marks endings so the system can actually stand down instead of guarding forever against a danger already gone. Received fully, it lets the body file the emergency as *over* — the beginning of real rest and repair.
+**Its Distortion.** Mistaken for happiness, relief quietly reorganizes a life around escape — choosing whatever merely ends pressure, calling the absence of pain a good. A life run on relief seeks smaller and smaller rooms. The real thing closes an emergency; the counterfeit becomes the goal, and needs emergencies to feel anything at all.
+**The Move.** Exhale completely — let the trembling and tears finish their work. Mark the ending aloud: *that is over.* Give thanks. Then ask what the bracing was carrying, and whether life wants rebuilding around something better than escape.
+Related: [[Calm]] · [[Comfort]] · [[Peace]] · [[Gratitude]] · [[Emotion]]

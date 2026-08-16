@@ -1,0 +1,9 @@
+# Pride
+Pride is the warm reading of worth — the felt recognition that what one is, or has done, stands well.
+**Felt Sense.** A rising warmth in the chest, the spine lengthening of its own accord, an urge to show someone — not to boast, but to complete the moment by sharing it. Pride wants a witness the way joy wants a companion.
+**What It Signals.** Pride reports that the self, measured against a real standard, has met or exceeded it — the work held, the promise was kept, the character showed. It is the mirror-reading to [[Shame]]: where shame reads *below the line*, pride reads *the line was honored*. Felt for another, it becomes one of love's purest forms.
+**Its Gradient.** [[Satisfaction]] → Pride → [[Triumph]]; enthroned, it curdles through [[Arrogance]] toward [[Hubris]]. Its quiet keel is [[Humility]] — not pride's opposite but its accurate size.
+**Its Gift.** Healthy pride is [[Dignity]] owned. It lets accomplishment *land*, converting effort into confidence and confidence into the willingness to attempt the next larger thing. A circle that can feel proud of its members, aloud, teaches its standards better than any correction.
+**Its Distortion.** It distorts in two directions. Inflated, the self is enthroned above others — worth becomes rank, and every exchange a podium. Mirrored, worth is refused: praise deflected, accomplishment never allowed to land, the self kept artificially small — which looks like modesty but breaks [[Right Relationship]] just as surely, by falsifying the measure.
+**The Move.** Let it land. Receive the praise with a whole "thank you," unhedged. Then complete the circuit: trace what the accomplishment owes — teachers, circumstances, grace — and give pride away freely to others, naming their work as warmly as you would have yours named.
+Related: [[Humility]] · [[Shame]] · [[Dignity]] · [[Gratitude]] · [[Emotion]]

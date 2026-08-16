@@ -1,0 +1,9 @@
+# Humiliation
+Humiliation is the reading of exposure inflicted — the self lowered by another's hand, before witnesses.
+**Felt Sense.** The burn of shame plus something colder underneath: a stunned stillness, the world narrowing to the faces watching. Time slows. The body remembers it with unusual fidelity — decades later the scene replays intact, marked as an injury, not merely a feeling.
+**What It Signals.** Humiliation reports that my standing was not lost but *taken* — someone used the eyes of others as an instrument against me. This is what separates it from [[Shame]]: shame may be earned; humiliation carries a justice-wound. Two readings arrive fused: *I have been lowered*, and *a wrong was done in the lowering*.
+**Its Gradient.** [[Self-Consciousness]] → [[Embarrassment]] → [[Shame]] → Humiliation. Its aftermath borders [[Resentment]] and [[Rage]]; its chronic form, under sustained degradation, shades toward [[Despair]].
+**Its Gift.** Humiliation is the sharpest detector we have for violated [[Dignity]] — our own, and by resonance, anyone's. Much of the [[Old World]]'s machinery ran on ritual lowering; those who have felt it and read it truly become the ones who refuse to build with it.
+**Its Distortion.** Refused, it collapses the self — the humiliated one pre-lowers forever, so no hand can do it again. Enthroned, it hardens into the vow of vengeance: a life organized around the scene, until the wounded becomes the humiliator and the wheel turns.
+**The Move.** Separate the two readings. The lowering was real — grieve it. The wrong was real — name it, where possible before witnesses: dignity wounded in public heals fastest in public. Then stand back up in [[Right Relationship]], without borrowing the weapon — let refusing to humiliate be the proof that your height was never theirs to take.
+Related: [[Shame]] · [[Dignity]] · [[Resentment]] · [[Sovereignty]] · [[Right Relationship]] · [[Emotion]]

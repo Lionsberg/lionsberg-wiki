@@ -1,0 +1,9 @@
+# Hate
+Hate is the reading of anger frozen into identity against a being.
+**Felt Sense.** Cold fire that no longer rises and falls — a fixed orientation. The body organizes around an enemy: attention returns to them unbidden, the jaw sets at their name, the imagination rehearses their defeat. What other emotions do in waves, hate does as posture. It has stopped being weather and become climate.
+**What It Signals.** Underneath, always, a wound and a violation that were real — [[Anger]] that was never allowed to complete its work, [[Grief]] never grieved, fused and then enthroned. Hate reports that somewhere the flow stopped entirely: the reading became a verdict, the verdict became an identity, and a being — not a deed — was made the permanent object.
+**Its Gradient.** The frozen extreme of the [[Anger]] family, past [[Contempt]] and person-aimed [[Disgust]]: heat that gave up moving and crystallized. It is the band's terminus — beyond it the spectrum does not continue; it only hardens.
+**Its Gift.** Only this: it marks, unmistakably, where the deepest unhealed violation lies. Hate is a flare over buried treasure of the painful kind.
+**Its Distortion.** Hate binds the hater. It chains a life to its enemy, hands the enemy the tiller, and slowly forges the hater into what it opposes. The [[Old World]] ran wars on this chemistry for millennia; no one it governed was ever set free by it.
+**The Move.** Separate what hate has fused. Oppose the deed with full force — [[Justice]] asks no less — and release the being back into the possibility of [[Love]], not for their sake first but for yours. Then turn toward the wound underneath and let the frozen anger and grief finally flow. Thaw is slow; begin anyway.
+Related: [[Anger]] · [[Contempt]] · [[Love]] · [[Forgiveness]] · [[Justice]] · [[Emotion]]

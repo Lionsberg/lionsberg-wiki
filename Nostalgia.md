@@ -1,0 +1,9 @@
+# Nostalgia
+Nostalgia is sweet-sad resonance with what was — memory writing a love-letter to a time that held us.
+**Felt Sense.** A warm ache. It arrives by ambush — a song, a smell of rain, low autumn light — and for a moment two times exist at once: the body here, the heart there. The sweetness and the sting are not separate notes; nostalgia is the chord they make together.
+**What It Signals.** Something in the remembered time carried real value — a quality of [[Connection]], a pace, a version of ourselves, a way the world felt — and the heart is checking whether the present still carries it. Nostalgia is not really about the past; it is the past being used as a measuring cup for now.
+**Its Gradient.** The gentlest, most time-flavored edge of the band — [[Sadness]] sweetened by [[Love]]. Its braided sibling is [[Bittersweetness]]; unattended, its ache can pool toward [[Loneliness]] or plain [[Sorrow]].
+**Its Gift.** Nostalgia reveals enduring values with unusual honesty, because memory has already filtered the noise. What survives the years' sieve — *those* evenings, *that* table, *that* freedom — is a reliable readout of what this heart is actually for. It hands the present a specification.
+**Its Distortion.** Enthroned, nostalgia becomes the past ruling the present: the golden age against which every today is convicted, the [[Old World]] gilded precisely because it no longer has to be lived in. Refused entirely, we lose the letter — and with it the values it was carrying forward.
+**The Move.** Open the letter; do not move into it. Ask what the remembered moment *carried* — then plant that quality here, in this week, in the [[New World]] being built. The evenings can return without the decade. Honor is forward: nostalgia completed becomes gratitude with instructions.
+Related: [[Bittersweetness]] · [[Sadness]] · [[Love]] · [[Gratitude]] · [[Emotion]]

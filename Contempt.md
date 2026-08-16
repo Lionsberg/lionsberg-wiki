@@ -1,0 +1,9 @@
+# Contempt
+Contempt is the reading that a being has been judged beneath regard.
+**Felt Sense.** Cold, not hot. A lip that wants to curl, an eye that looks down and away, a chest that closes the gates. Where [[Anger]] moves toward the other to contend, contempt turns from the other as not worth contending with. It is the feeling of a door being sealed.
+**What It Signals.** Beneath the ice there is an honest core: a standard betrayed. Contempt begins as a true reading — someone violated something we rightly hold high: integrity, courage, care. But the reading has curdled: it has slid from *this deed fell below the standard* to *this being is below regard*. The verdict has moved from the act to the soul.
+**Its Gradient.** Not a hotter band but a colder turn: [[Anger]] curdled by judgment, kin to [[Disgust]] aimed at persons, one step above [[Hate]]. Of all relational readings it is among the most corrosive — where it settles, repair stops, because one cannot be in [[Right Relationship]] with what one has un-personed.
+**Its Gift.** Buried in it, a standard worth keeping. Contempt always knows exactly what it holds sacred; that knowledge is recoverable and precious.
+**Its Distortion.** Contempt *is* the distortion — anger that stopped flowing and froze into hierarchy. Enthroned, it becomes superiority as a way of life: the [[Old World]]'s habit of ranking beings instead of correcting harms.
+**The Move.** Split the verdict. Name the standard plainly — it deserves defense — and return judgment to the deed, where it belongs. Then look again at the being until a person comes back into view: fallible, unfinished, still inside the circle of [[Love]]'s possibility. Hold the standard high and the door open.
+Related: [[Anger]] · [[Disgust]] · [[Hate]] · [[Right Relationship]] · [[Justice]] · [[Emotion]]

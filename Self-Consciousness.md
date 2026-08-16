@@ -1,0 +1,9 @@
+# Self-Consciousness
+Self-Consciousness is the ambient reading of being watched — the self held up before an audience, present or imagined.
+**Felt Sense.** A low hum of alertness turned inward: awareness of one's hands, one's voice, one's face. Movements that were fluid become deliberate. It is the feeling of standing slightly beside oneself, watching the watcher watch — attention split between living and monitoring the living.
+**What It Signals.** Self-Consciousness reports that the social instrument is on: eyes are present, or the mind has supplied them, and the self is being read. Often the audience is imagined — a composite of every gaze we have internalized. The reading is not *what they think*; it is *that appraisal may be underway*, and that how we land matters here.
+**Its Gradient.** Self-Consciousness → [[Embarrassment]] → [[Shame]] → [[Humiliation]]. It is the family's quiet threshold — the ambient band the sharper exposures spike from. Its easeful opposite is [[Absorption]], the self forgotten in the doing.
+**Its Gift.** Calibration. Because we can sense being seen, we can tune ourselves to a room — soften here, step forward there, notice whose voice is missing. Tact is self-consciousness in service of others.
+**Its Distortion.** Enthroned, it becomes the performed life: every moment staged, none inhabited — the imagined audience promoted to director, until one cannot locate the self beneath the presentation. Refused entirely, it leaves a person unable to read the fabric they move through.
+**The Move.** Turn the attention outward. Self-consciousness dissolves not by effort but by interest: become curious about the actual people in the room, and the imagined audience thins. Do the work in front of you until [[Absorption]] takes over. The self is most at ease when it is not the subject.
+Related: [[Embarrassment]] · [[Shame]] · [[Belonging]] · [[Sovereignty]] · [[Emotion]]

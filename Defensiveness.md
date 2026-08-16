@@ -1,0 +1,9 @@
+# Defensiveness
+Defensiveness is fear guarding the self-image in relationship — the shield raised between us and what is being said.
+**Felt Sense.** A snap of armor: chest wall up, jaw set, the rebuttal composing itself before the other's sentence ends. Listening stops; loading begins. The body treats a word as a weapon and answers accordingly.
+**What It Signals.** Defensiveness reports that incoming words have struck near something unresolved — a fault we secretly fear is true, a wound not yet healed, an identity held too tightly to examine. We defend hardest where we are least settled; the shield rises precisely over the tender place. It also reports a confusion of levels: a comment about *what I did* has been received as a verdict on *what I am*.
+**Its Gradient.** [[Insecurity]] under acute touch, kin to [[Shame]] deflected outward. Hardened, it becomes stonewalling and [[Contempt]]; softened, it opens into [[Vulnerability]] — its opposite, and its cure.
+**Its Gift.** A live map of the unhealed. Every flare marks, in real time, exactly where the inner work is — feedback no private reflection could produce so precisely.
+**Its Distortion.** The shield blocks both attack and connection. Enthroned, defensiveness makes a person unreachable — never wrong, and never met — starving the very relationships meant to hold them. Truth bounces off; so does love.
+**The Move.** Feel the armor snap on — that click is the signal. Breathe once before answering. Separate the levels aloud if needed: *this is about a deed, not my being.* Then ask the sovereign question: *what if some of this is true?* Keep the grain worth keeping, and thank the bearer. A shield lowered on purpose is not defeat; it is [[Right Relationship]] resuming.
+Related: [[Insecurity]] · [[Vulnerability]] · [[Shame]] · [[Right Relationship]] · [[Emotion]]

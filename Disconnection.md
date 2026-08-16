@@ -1,0 +1,9 @@
+# Disconnection
+Disconnection is the reading that the current between beings has stopped.
+**Felt Sense.** Numbness where warmth used to be; a glass pane sliding between you and the room. Conversations happen at you rather than with you. The body goes flat and slightly cold at the bond-site — not pain yet, but the absence where feeling should be.
+**What It Signals.** A channel has closed — from another, from a community, from one's own depths, or from ØNE — and nothing is flowing through it. Disconnection does not say who closed it or why; it only reports, accurately, that the line is dead. Often it marks a bond gone unattended rather than a bond betrayed.
+**Its Gradient.** Disconnection ← [[Loneliness]] … [[Connection]] → [[Belonging]]. Disconnection is the early band: the current stopping before the ache of [[Loneliness]] names its cost. Chronic and unread, it hardens toward [[Isolation]] and [[Alienation]].
+**Its Gift.** The alarm that precedes [[Loneliness]]. Caught early, disconnection is cheap to answer — one honest conversation, one reach, one hour of real attention. It is the smoke detector of the relational field, and its whole service is timing.
+**Its Distortion.** Refused, it gets renamed: *I'm just busy; I prefer it this way.* The [[Old World]] even dresses it as strength — the self-sufficient one who needs nobody. Enthroned, numbness becomes a policy, and the instrument forgets it was built to resonate.
+**The Move.** Name it early, out loud, to yourself first: *the current has stopped here.* Then reach before the gap widens — a message, a visit, a question that costs something. If the dead line runs inward or to ØNE, sit still long enough to hear what went quiet ([[Presence]]).
+Related: [[Loneliness]] · [[Connection]] · [[Belonging]] · [[Grief]] · [[Emotion]]

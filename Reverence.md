@@ -1,0 +1,9 @@
+# Reverence
+Reverence is admiration deepened toward the sacred — the bowed reading before what is greater.
+**Felt Sense.** Stillness arriving from below the will: the voice lowers, the pace slows, the head inclines without being told. Warmth and vastness together — held, not overwhelmed. The body's own liturgy: *here, something more than me.*
+**What It Signals.** Reverence reports right proportion in the presence of the greater — an elder's long faithfulness, an old forest, a birth, a death, ØNE glinting through any of them. Kin to [[Awe]] but relational and warm: awe can strike before an asteroid; reverence bows only where the greater is also *good*, and stays in relationship with it.
+**Its Gradient.** [[Respect]] → [[Admiration]] → Reverence → [[Awe]] → [[Worship]]. Its ground is [[Humility]]; sustained as a way of moving through the world, it becomes the quiet devotion that treats ordinary things as bearers of the sacred.
+**Its Gift.** Reverence right-sizes the self without shrinking it. It cures the [[Old World]]'s twin errors in one motion — grandiosity and worthlessness — by placing the being accurately: small before the whole, and belonging to it utterly. What we revere, we protect without being asked.
+**Its Distortion.** Servility — the bow held so long the spine forgets how to straighten, [[Sovereignty]] handed over with the honor. And capture: reverence harvested by institutions and aimed at what merely *demands* it — titles, thrones, brands. The test is fruit: the truly sacred returns your reverence as life; the counterfeit consumes it as fuel.
+**The Move.** Bow — genuinely, unhurried — and then rise. Let reverence slow you into [[Presence]] before what deserves it, and keep the compass honest: revere what gives life, not what demands tribute. Then serve it with your hands; reverence completes itself in care.
+Related: [[Awe]] · [[Admiration]] · [[Humility]] · [[Gratitude]] · [[Emotion]]

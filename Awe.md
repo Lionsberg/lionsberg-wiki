@@ -1,0 +1,9 @@
+# Awe
+Awe is the reading that something is so great the self must recalibrate.
+**Felt Sense.** Vastness meeting the body. Chills along the arms, breath caught then released long, the urge to be still — or to kneel. The skin of the self goes thin; for a moment the usual borders of *me* feel provisional, and the moment is not frightening but right.
+**What It Signals.** Awe reports an encounter with something that will not fit the [[Map of Reality]] at any scale the map currently owns — the night sky, a birth, a mind, a truth suddenly seen whole. It is the threshold band nearest the sacred: where [[Wonder]] meets magnitude. Its relational kin is [[Reverence]] — awe turned toward what it honors. The small self dissolving briefly into the larger whole is not the malfunction; it is the reading.
+**Its Gradient.** The far end of the opening band: [[Interest]] → [[Curiosity]] → [[Wonder]] → awe. Read with aversion instead of openness, the same vastness registers as [[Dread]]; read relationally, it becomes [[Reverence]].
+**Its Gift.** Right proportion. Awe is the felt size of [[ØNE]] arriving in a body — the correction that returns the self to true scale within the whole. Those who feel it regularly grow measurably humbler, kinder, less hurried; awe is [[Coherence]] restored by encounter.
+**Its Distortion.** Two counterfeits: awe collapsed into [[Terror]] — vastness read as annihilation, the [[Old World]]'s tool for crushing rather than opening; and awe manufactured and sold — spectacle engineered to trigger the chills while pointing the recalibrated self at a product or a throne.
+**The Move.** Do not shrink it and do not flee it. Stay in the vastness one breath longer than comfort asks. Let the self resize. Then carry the proportion home: act, today, at the scale the encounter revealed.
+Related: [[Wonder]] · [[Reverence]] · [[ØNE]] · [[Humility]] · [[Dread]] · [[Emotion]]
