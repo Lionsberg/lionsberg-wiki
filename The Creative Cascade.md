@@ -46,4 +46,8 @@ At the highest level, the Cascade reads:
 
 A warning, learned across thousands of years ([[6.15 Spirit, Archetypes, Prototypes, Instantiations]]): every articulated form — every named Ideal, every Archetype, every Prototype — is a *made thing*. The moment it is worshipped, it becomes an idol; the moment it is declared final, it becomes a cage. Civilizations have filled pantheons this way, and their temples lie in ruins.
 
-So the Cascade carries its own discipline: everything below Intention is held as [[Current Best Understanding]] — honored as the best we presently see, and revised the moment a truer form rings. The [[Way]] can never be boxed in. Only [[ØNE]] is worthy of worship; everything else is workmanship, offered in service, improved without end.
+So the Cascade carries its own discipline: everything below Intention is held as [[Current Best Understanding]] — honored as the best we presently see, and revised the moment a truer form rings.
+
+And the top rung is held with the most open hands of all. The ØNE Intention — like the [[Meta]] level of every concept and category — is ultimately ineffable, lying beyond our [[Current Best Understanding]], and further still beyond our [[Current Best Articulation]], which falls short of even what we understand. What is invariant is the Intent itself, not our statement of it; the statement is a fingerpost we refine forever ([[Intention]]).
+
+The [[Way]] can never be boxed in. Only [[ØNE]] is worthy of worship; everything else is workmanship, offered in service, improved without end.
