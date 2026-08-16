@@ -12,7 +12,7 @@ Its liberties and its disciplines:
 
 **Practice is daily or it is theoretical.** The unit of transformation is the day ([[Daily Practice]]); rhythm does what intensity cannot. And practices, like everything below the ineffable, are held as [[Current Best Practice]] — refined whenever a truer form rings, and woven into community so that practicing beings sharpen one another ([[Circle]]).
 
-In the fullest sense, the entire [[LIØNSBERG System]] is a Practice: the [[The Great Game]] is played, the [[Way]] is walked, and the [[New World]] is not believed into being. It is practiced into being.
+In the fullest sense, the entire [[LIØNSBERG System]] is a Practice: [[The Great Game]] is played, the [[Way]] is walked, and the [[New World]] is not believed into being. It is practiced into being.
 
 ---
 *Discussed in: [[Daily Practice]] · [[Above The Chaos, Reflections on Discipline and Daily Practice]] · [[Focused Attention As Discipline]] · [[J. Continuously Improving a Practice and a Way of Being]]*

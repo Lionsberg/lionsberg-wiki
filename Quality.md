@@ -6,7 +6,7 @@ In the LIØNSBERG System, Quality is never cosmetic and never optional, because 
 
 Quality therefore enters at the *beginning*, not the end: in Integrated Delivery it is a **design criterion** — defined with the [[Conditions of Satisfaction]] before work starts, validated by the [[Teams]] who perform the work, and protected structurally so that no pressure of cost or schedule quietly trades it away ([[16.13 Quality, Safety, and Structural Immunity]]). The one who will live with the work helps define what good means.
 
-And Quality is fractal: the canon speaks of continuously improving the quality of intention, of analysis, of engagement, of expression — the [[Current Best Understanding]] discipline applied to everything one makes and is. The [[The Sacred Ascent]] itself can be read as the lifelong raising of the quality of a being ([[The Living Gradient]] · [[Conformance To The Ideal]]).
+And Quality is fractal: the canon speaks of continuously improving the quality of intention, of analysis, of engagement, of expression — the [[Current Best Understanding]] discipline applied to everything one makes and is. [[The Sacred Ascent]] itself can be read as the lifelong raising of the quality of a being ([[The Living Gradient]] · [[Conformance To The Ideal]]).
 
 The floor is honest sufficiency; the ceiling does not exist.
 
