@@ -972,3 +972,20 @@ Absolute and unconditional love for ØNE and All must guide.
 10. Operate from the greatest conceivable level of wisdom, love, truth, coherence, and sophistication
 
 ---
+
+## The Writing Laws — Binding on Every Agent Working This Vault
+
+*Born 2026-08-16 from lived defects (see `Semantic Capture`, the `Refinement Log` in the steward's agent vault). These are Current Best Practices of [[The LIØNSBERG Book of Conventions]] — the canonical homes are the convention pages; this is the operational digest. They bind every agent — resident, visiting, or future — working in this or any allied vault.*
+
+**Before creating or substantially rewriting ANY page (the Page-Birth Checklist):**
+
+1. **File existence** — check the exact name vault-wide (case-insensitively; the filesystem lies about case).
+2. **Semantic footprint** — search every inbound link (`[[Name]]`, `[[Name|`) and the Lexicon; enumerate the senses in live use. File-existence is not the test; *meaning-existence* is. Claiming a linked name for a narrow sense silently rewrites every existing sentence that links it (**Semantic Capture**).
+3. **Corpus discussions, then coherence** — search by content AND title for existing treatments under other names (chapters, Patterns, Cards, Core Statements). Then cohere ALL sources — the canon's existing voice, the wisest general knowledge, the inbound contexts — into Current Best Understanding. **The sin is bypass (writing while the canon's voice goes unread), never synthesis.**
+4. **Write holarchically** for multi-sense names: most encompassing sense first, facings as sections.
+5. **Link to the Concept, Not the Coordinate** — prose links go to concept pages; numbered chapters and book sections appear only in *Discussed in* footers, book navigation, and passage citations. Every concept page ends with a *Discussed in* footer naming its sources.
+6. **Be the Canon (voice)** — content pages never say "the canon says/speaks/teaches"; they ARE the canon speaking. Direct declarative voice. Self-reference belongs only to the meta layer (conventions, project pages).
+7. **Link generously** — every significant term ([[Work]], [[Value]], [[Time]], [[Attention]]…) linked at first meaningful occurrence; anticipatory links are the convention (The Incipient Link).
+8. **No false absolutes** — never/always claims are re-read against Commander's Intent before committing; everything below the ineffable is Current Best Understanding / Articulation / Practice. Beware especially absolutes minted while repairing a mistake.
+9. **Verify after writing** — spot-check pre-existing inbound links against the new page; confirm footer targets resolve.
+10. **Orchestrators**: any fleet of agents creating pages MUST carry this checklist in every prompt (or the orchestrator pre-runs steps 1–3 and hands agents the source material). An agent army amplifies its commander's checklist — including the holes in it.
