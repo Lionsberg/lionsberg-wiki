@@ -94,7 +94,7 @@ This is what makes the Pattern the Ground beneath every other Pattern. Every oth
 - **[[Circle]]** — Circles that hold silence and stillness together build the collective field that makes higher Circle practice possible
 - **[[Community]]** — Communities with substantial numbers of daily practitioners hold a collective baseline of coherence that flavors the wider culture
 - **[[Planet]]** — the continuous ring of dawn return Sovereigns circling the Earth; the [[Coherent Divine Intention Wave]] as planetary expression of this Pattern
-- **Cosmic** — the wider [[Sovereign Superorganism]] holds the practice at every scale; the Ground is the same Ground from which every faithful Body operates anywhere in the cosmos
+- **Cosmic** — the wider [[The Sovereign Superorganism|Sovereign Superorganism]] holds the practice at every scale; the Ground is the same Ground from which every faithful Body operates anywhere in the cosmos
 
 ## Composes With
 

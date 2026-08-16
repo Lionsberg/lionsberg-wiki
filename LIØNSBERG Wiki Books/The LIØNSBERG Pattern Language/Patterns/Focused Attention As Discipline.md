@@ -68,7 +68,7 @@ The two foundational modes:
 - **Self** — the individual's trained attention
 - **[[Circle]]** — the Circle's shared attention as a collective capacity; gathered Circles can hold pointed and diffuse attention together
 - **[[Community]]** and beyond — the collective attentional capacity of wider Bodies; the [[Wisdom Council]]'s deliberation is partly a collective pointed-attention practice
-- **Cosmic** — attention as a cosmic capacity; the wider [[Sovereign Superorganism]]'s sustained attention to specific worlds, specific operations, specific transmissions
+- **Cosmic** — attention as a cosmic capacity; the wider [[The Sovereign Superorganism|Sovereign Superorganism]]'s sustained attention to specific worlds, specific operations, specific transmissions
 
 ## Composes With
 

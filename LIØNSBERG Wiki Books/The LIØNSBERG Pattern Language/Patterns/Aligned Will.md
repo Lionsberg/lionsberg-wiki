@@ -71,7 +71,7 @@ Ego-will, by contrast, presents:
 - **Self** — the individual Sovereign's daily and moment-by-moment will-alignment
 - **[[Circle]]** — the Circle's collective will, alignedwith the [[ØNE]] and with each Circle member's Aligned Will, produces coherent action; out-of-alignment Circle decisions surface as friction
 - **[[Community]]**, **[[Bioregion]]**, **[[Planet]]** — wider Bodies test their proposed actions against alignment; the [[Wisdom Council]]'s discernment is partly the collective version of this Pattern
-- **Cosmic** — the [[Sovereign Superorganism]]'s operations across worlds are alignment-tested at the cosmic Wisdom Councils
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]]'s operations across worlds are alignment-tested at the cosmic Wisdom Councils
 
 ## Composes With
 

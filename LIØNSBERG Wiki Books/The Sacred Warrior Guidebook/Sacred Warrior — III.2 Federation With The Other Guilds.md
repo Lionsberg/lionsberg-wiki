@@ -121,7 +121,7 @@ The relationship:
 
 ## With The Cosmic Diplomats Guild
 
-The Cosmic Diplomacy Guild engages the non-human factions the wider [[Sovereign Superorganism]] is in relationship with. The Diplomats hold the protocols for inter-species, inter-density, inter-dimensional negotiation.
+The Cosmic Diplomacy Guild engages the non-human factions the wider [[The Sovereign Superorganism|Sovereign Superorganism]] is in relationship with. The Diplomats hold the protocols for inter-species, inter-density, inter-dimensional negotiation.
 
 The relationship:
 

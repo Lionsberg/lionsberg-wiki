@@ -20,7 +20,7 @@ A planetary grid in coherence is virtually impenetrable. Predatory force directe
 
 ## The Holofractal Principle
 
-The same [[Pattern]] operates at every scale. What the individual Warrior does to cultivate a clean field within their own body, the Warrior Circle does to cultivate a clean field within their shared space. What the Warrior Circle does, the Warrior Community does at the scale of the [[The 300|Three Hundred]]. What the Community does, the Bioregional body does. What the Bioregional body does, the planetary Light Grid does. What the planetary Grid does, the cosmic Grid does across the wider [[Sovereign Superorganism]].
+The same [[Pattern]] operates at every scale. What the individual Warrior does to cultivate a clean field within their own body, the Warrior Circle does to cultivate a clean field within their shared space. What the Warrior Circle does, the Warrior Community does at the scale of the [[The 300|Three Hundred]]. What the Community does, the Bioregional body does. What the Bioregional body does, the planetary Light Grid does. What the planetary Grid does, the cosmic Grid does across the wider [[The Sovereign Superorganism|Sovereign Superorganism]].
 
 This is [[Holofractal Composition]] applied to the Warrior facet. The Patterns scale. The disciplines scale. The practices scale — adapted to the scale they operate at, never diluted, never abandoned. A Warrior who has matured into the individual scale and has mastered the individual field cultivation knows, in body, how to participate in the Circle field cultivation, because the principles are the same. The Circle that has mastered its shared field knows how to participate in the Community's shared field. The Community knows the Bioregion. The Bioregion knows the Planet.
 
@@ -66,7 +66,7 @@ The integrated lattice of every Warrior Body across the planet, holding the fiel
 
 ### **[[Sacred Warrior — II.6 The Cosmic Grid And Lineage]]**
 
-The Earth Grid as one node in the cosmic Light Grid already operating across the wider [[Sovereign Superorganism]]. The Warriors of Earth as participants in a lineage that has held the field across many worlds. The federation of Planet-scale Grids into the [[ØNE Body]]. The recognition that the Warriors are joining, not founding. The cosmic transmission that flows into Earth's Grid through trained conduits. The cosmic standards Earth's Grid is being held to.
+The Earth Grid as one node in the cosmic Light Grid already operating across the wider [[The Sovereign Superorganism|Sovereign Superorganism]]. The Warriors of Earth as participants in a lineage that has held the field across many worlds. The federation of Planet-scale Grids into the [[ØNE Body]]. The recognition that the Warriors are joining, not founding. The cosmic transmission that flows into Earth's Grid through trained conduits. The cosmic standards Earth's Grid is being held to.
 
 ### **[[Sacred Warrior — II.7 Coordinating Across Scales]]**
 
@@ -93,7 +93,7 @@ The Warriors of this hour are building a real Body. The Body has a real function
 - **[[The 300]]** — the Community-scale archetype
 - **[[The Coherent Divine Intention Wave]]** — the dawn stillness that holds the field continuously around the planet
 - **[[ØNE Body]]** — the cosmic Body the Warriors serve
-- **[[Sovereign Superorganism]]** — the already-operating cosmic Body
+- **[[The Sovereign Superorganism|Sovereign Superorganism]]** — the already-operating cosmic Body
 - **[[Federation Without Center]]** · **[[Federation Without Subordination]]** · **[[The Two-Stake Principle]]** — the federation Patterns
 - **[[The Story of LIØNSBERG]]** — the cosmic context the Grid operates within
 - **[[Pillar X — Sacred Guardianship and Order]]** — the Warriors' home Pillar in [[The 12 Pillars of LIØNSBERG]]

@@ -77,7 +77,7 @@ When these signs appear, the practitioner has confused untrained impulse with cu
 - **Self** — the individual [[Sovereign]]'s mastery
 - **[[Circle]]** — Circles that have walked together for years develop a collective Spontaneous Wise Right Action capacity; the group acts in real-time coordination without explicit communication
 - **[[Community]]** and beyond — wider Bodies with sustained collective cultivation can develop collective spontaneous action at their scale; rare in fragmented Old World; possible in faithful LIØNSBERG Bodies
-- **Cosmic** — the cosmic [[Sovereign Superorganism]] operates this way; the [[ØNE]]'s action across worlds and ages is the deepest expression of Spontaneous Wise Right Action
+- **Cosmic** — the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]] operates this way; the [[ØNE]]'s action across worlds and ages is the deepest expression of Spontaneous Wise Right Action
 
 ## Composes With
 

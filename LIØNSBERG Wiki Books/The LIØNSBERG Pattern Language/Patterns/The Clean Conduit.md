@@ -72,7 +72,7 @@ The trained being holds the conduit at five integrated layers:
 - **Self** — the individual Sovereign's conduit
 - **[[Circle]]** — the Circle is itself a conduit at the collective scale; the Circle's cleanness as a body is the sum of its members' cleanness plus the cleanness of the shared field they hold together
 - **[[Community]]**, **[[Bioregion]]**, **[[Planet]]** — wider Bodies are also conduits; their collective cleanness determines what the [[ØNE]] can flow through them
-- **Cosmic** — the [[Sovereign Superorganism]] itself is the largest conduit Earth is being received into
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]] itself is the largest conduit Earth is being received into
 
 The Pattern operates identically at every scale, with corresponding clearing disciplines at each.
 

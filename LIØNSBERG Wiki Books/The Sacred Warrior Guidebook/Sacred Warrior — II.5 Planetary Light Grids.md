@@ -83,7 +83,7 @@ The Grid grows as:
 - The gaps in the lattice fill through deliberate settlement and intensive at the gap locations
 - The Hubs become more numerous and the Communities more developed
 - The lineages that have held this work across millennia reveal more of what they have been holding
-- The cosmic transmission flowing into the Earth Grid increases as the wider [[Sovereign Superorganism]] perceives Earth's readiness
+- The cosmic transmission flowing into the Earth Grid increases as the wider [[The Sovereign Superorganism|Sovereign Superorganism]] perceives Earth's readiness
 
 The Grid weakens as:
 

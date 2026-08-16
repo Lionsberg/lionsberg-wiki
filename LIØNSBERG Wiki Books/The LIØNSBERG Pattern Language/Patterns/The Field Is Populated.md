@@ -23,7 +23,7 @@ This Pattern applies to every [[Sovereign]] who is going to operate in [[Reality
 
 ## Function
 
-The Pattern restores the operational accuracy that allows the [[Sovereign]] to **perceive what is actually present**, to engage what is engageable, to refuse what is predatory, to receive transmission that is genuine, and to participate consciously in the [[Sovereign Superorganism]] already operating across the wider cosmos. Without this Pattern, beings operate inside a perceptual cage that has been deliberately constructed to keep them blind.
+The Pattern restores the operational accuracy that allows the [[Sovereign]] to **perceive what is actually present**, to engage what is engageable, to refuse what is predatory, to receive transmission that is genuine, and to participate consciously in the [[The Sovereign Superorganism|Sovereign Superorganism]] already operating across the wider cosmos. Without this Pattern, beings operate inside a perceptual cage that has been deliberately constructed to keep them blind.
 
 ## Forces In Tension
 
@@ -41,11 +41,11 @@ The trained being holds four operational recognitions:
 
 **There are beings at every density of the field.** The physical-density beings (humans, animals, plants, fungi, bacteria, mineral consciousnesses) are familiar. There are also etheric-density beings, astral-density beings, mental-density beings, and beings at every density above and below those. Most are not malevolent. Many are neutral. Many are actively benevolent and have served as the source of authentic prophetic, mystical, and initiatory transmission throughout human history. Some are actively predatory. **The Sovereign learns to tell which is which by feel before relying on any name.**
 
-**There are organized factions.** Above the level of individual beings, there are coordinated collectives operating across long time horizons with coherent agendas. Some serve the [[ØNE]] and the rising of [[All]] (the [[Sovereign Superorganism]] already operating across the cosmos). Some serve themselves at the expense of others — the **Service-to-Self orientation** in the older contact-research vocabulary. Both kinds of factions operate in the present moment. The Service-to-Self factions include non-human collectives and the human institutions they have captured.
+**There are organized factions.** Above the level of individual beings, there are coordinated collectives operating across long time horizons with coherent agendas. Some serve the [[ØNE]] and the rising of [[All]] (the [[The Sovereign Superorganism|Sovereign Superorganism]] already operating across the cosmos). Some serve themselves at the expense of others — the **Service-to-Self orientation** in the older contact-research vocabulary. Both kinds of factions operate in the present moment. The Service-to-Self factions include non-human collectives and the human institutions they have captured.
 
 **There is a multi-dimensional contest.** It has been ongoing across the span of recorded human history and far longer. Not war in the modern military sense — a contest of orientations, [[Pattern]] against anti-Pattern, [[Logos]] against the inversion of [[Logos]], fought at every density. Humans participate whether they recognize it or not. The Sovereigns who walk the Way are the humans who have recognized it and chosen the side of the [[ØNE]].
 
-**The veil thins now.** The Old World suppression that maintained the dismissal of all this is breaking. The information becomes available to those who can hold it. The cosmic [[Sovereign Superorganism]] is reaching toward Earth with specific intentionality in this hour; the channels of transmission are being cleared; contact is being re-established. The Sovereign who awakens to this is one of those the wider Body has been waiting to receive into the work.
+**The veil thins now.** The Old World suppression that maintained the dismissal of all this is breaking. The information becomes available to those who can hold it. The cosmic [[The Sovereign Superorganism|Sovereign Superorganism]] is reaching toward Earth with specific intentionality in this hour; the channels of transmission are being cleared; contact is being re-established. The Sovereign who awakens to this is one of those the wider Body has been waiting to receive into the work.
 
 **Operational disciplines** (unpacked in companion Patterns):
 
@@ -61,7 +61,7 @@ The trained being holds four operational recognitions:
 - **[[Circle]]** — the Circle's shared field is populated; the Circle is sensed by the wider populated reality and may itself be targeted or supported
 - **[[Community]]**, **[[Bioregion]]** — wider Bodies face the populated reality at their scale; specific factions take interest in specific localities
 - **[[Planet]]** — the planetary field is populated by beings and factions whose interest in Earth shapes the broader trajectory
-- **Cosmic** — the [[Sovereign Superorganism]] itself is the wider populated reality; Earth is one node in it
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]] itself is the wider populated reality; Earth is one node in it
 
 ## Composes With
 
@@ -72,7 +72,7 @@ The trained being holds four operational recognitions:
 - **[[Non-Propositional Knowing]]** — the mode of knowing that perceives the populated field directly
 - **[[Types Of Knowing]]** — the broader framework that includes [[Field Knowing]] as one mode
 - **[[The Story of LIØNSBERG]]** — the cosmic context the populated field operates within
-- **[[Sovereign Superorganism]]** — the cosmic Body that holds the populated reality in larger [[Right Relationship]]
+- **[[The Sovereign Superorganism|Sovereign Superorganism]]** — the cosmic Body that holds the populated reality in larger [[Right Relationship]]
 
 ## Lineage
 

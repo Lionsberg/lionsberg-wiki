@@ -166,7 +166,7 @@ Per [[patterns_vs_containers_of_experience]] — these definitely do not become 
 - **Bioregional Light Grid** — field-coherence at bioregional scale; the continuous lattice across substantial geography. _Source: Sacred Warrior II.4._
 - **Planetary Light Grid** — the integrated lattice of every Warrior Body across the planet in coherent intention. _Source: Sacred Warrior II.5._
 - **Active Co-Creation Of The Grid** — the specific disciplines that hold the Grid alive (Coherent Divine Intention Wave, seasonal intensives, protective watches, coordinated engagement). _Source: Sacred Warrior II.5._
-- **Cosmic Grid And Lineage** — Earth's Grid as one node in the wider Cosmic Light Grid operating across the [[Sovereign Superorganism]]. _Source: Sacred Warrior II.6._
+- **Cosmic Grid And Lineage** — Earth's Grid as one node in the wider Cosmic Light Grid operating across the [[The Sovereign Superorganism|Sovereign Superorganism]]. _Source: Sacred Warrior II.6._
 - **Transmission Flowing Across Scales** — the channels by which information and transmission move up and down between scales. _Source: Sacred Warrior II.7._
 - **Two-Stake Principle Applied To Warrior** — each Warrior holds two stakes simultaneously — one in their own [[Sovereignty]], one in the [[Circle]] they belong to. _Source: Sacred Warrior II.7._ (May compose with existing [[The Two-Stake Principle]] Pattern.)
 

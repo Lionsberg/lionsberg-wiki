@@ -18,7 +18,7 @@ What follows is the Warrior's specific relationship with each Pillar — what th
 
 _What is. The Reality the Way operates within._
 
-**The Warrior brings to Pillar I:** the lived testing of metaphysical claims under operational conditions. The Warrior is in a position to verify or refute claims about the nature of [[Reality]] — the populated field, the multi-dimensional contest, the [[Sovereign Superorganism]] — through direct engagement. The Warrior's testimony is part of what the metaphysical discipline grounds itself in.
+**The Warrior brings to Pillar I:** the lived testing of metaphysical claims under operational conditions. The Warrior is in a position to verify or refute claims about the nature of [[Reality]] — the populated field, the multi-dimensional contest, the [[The Sovereign Superorganism|Sovereign Superorganism]] — through direct engagement. The Warrior's testimony is part of what the metaphysical discipline grounds itself in.
 
 **Pillar I brings to the Warrior:** the orienting framework. The Warrior who has not grasped the ontology is operating from incomplete understanding of what the field actually is. The metaphysics teaches the Warrior what they are working with at every level.
 

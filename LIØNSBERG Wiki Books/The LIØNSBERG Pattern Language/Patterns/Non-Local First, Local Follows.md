@@ -55,7 +55,7 @@ This Pattern operates at every scale:
 - **Self** — the individual's interior alignment precedes external action
 - **[[Circle]]** — the Circle's shared field precedes operational engagement; a Circle that has not established its field cannot perform coordinated work effectively
 - **[[Community]]**, **[[Bioregion]]**, **[[Planet]]** — the same Pattern: the collective field-coherence precedes the collective action
-- **Cosmic** — the [[Sovereign Superorganism]]'s alignment with the [[ØNE]] precedes any operation it performs in [[Creation]]
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]]'s alignment with the [[ØNE]] precedes any operation it performs in [[Creation]]
 
 ## Composes With
 

@@ -65,7 +65,7 @@ You carry the same Potential. Walk faithfully. The Realization arises as the cul
 - **[[Circle]]** — the Circle's collective Realization of capacities that emerge only when multiple Sovereigns hold the shared field
 - **[[Community]]** — Communities have their own Potentialities to Realize — specific gifts the Pattern surfaces at this scale
 - **[[Bioregion]]**, **[[Planet]]**, and beyond — every scale carries Potentialities awaiting Realization
-- **Cosmic** — the [[Sovereign Superorganism]] itself is in progressive Realization across ages and worlds
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]] itself is in progressive Realization across ages and worlds
 
 ## Composes With
 

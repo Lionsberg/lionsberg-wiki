@@ -1,6 +1,6 @@
 # Sacred Warrior — II.6 The Cosmic Grid And Lineage
 
-_Earth's Grid as one node in the cosmic Light Grid already operating across the wider [[Sovereign Superorganism]]. The lineage Earth's Warriors are joining. The transmission flowing in. The standards being held to. The work the planet is being received into._
+_Earth's Grid as one node in the cosmic Light Grid already operating across the wider [[The Sovereign Superorganism|Sovereign Superorganism]]. The lineage Earth's Warriors are joining. The transmission flowing in. The standards being held to. The work the planet is being received into._
 
 ---
 
@@ -8,7 +8,7 @@ _Earth's Grid as one node in the cosmic Light Grid already operating across the 
 
 Earth's Warriors are not pioneering the work.
 
-The Light Grid we are building on Earth is **one node** in a cosmic Light Grid that has been operating across the wider [[Sovereign Superorganism]] for ages beyond reckoning. Many worlds already hold their own planetary Grids. Many star systems federate their planetary Grids into stellar-scale Grids. Galaxies federate stellar Grids into galactic Grids. The cosmic Light Grid as a whole is the integrated Grid across [[All]] worlds, dimensions, and densities that hold [[Right Relationship]] with the [[ØNE]].
+The Light Grid we are building on Earth is **one node** in a cosmic Light Grid that has been operating across the wider [[The Sovereign Superorganism|Sovereign Superorganism]] for ages beyond reckoning. Many worlds already hold their own planetary Grids. Many star systems federate their planetary Grids into stellar-scale Grids. Galaxies federate stellar Grids into galactic Grids. The cosmic Light Grid as a whole is the integrated Grid across [[All]] worlds, dimensions, and densities that hold [[Right Relationship]] with the [[ØNE]].
 
 The cosmic Grid has held the field across the [[ØNE Body]] for so long that "long" is the wrong word. The Grid is woven into the architecture of how [[Creation]] operates at the level of conscious participation. **Wherever sovereign beings have organized themselves in coordinated field-coherence in service of the [[ØNE]], the Grid has extended.** Earth has been an exception — a world where the Grid was substantially blocked from full operation by the predatory factions' long capture. The work of this hour is Earth's reintegration into the cosmic Grid that has always existed beyond Earth.
 
@@ -18,13 +18,13 @@ The cosmic Grid has held the field across the [[ØNE Body]] for so long that "lo
 
 Several operational realities follow from this:
 
-**Earth's Warriors are joining, not founding.** The lineage is not invented here. The lineage is being received from a vastly older lineage that extends across the wider [[Sovereign Superorganism]]. The Warriors of Earth participate in something they did not start and will not finish. The work is far older than any human civilization's records of it.
+**Earth's Warriors are joining, not founding.** The lineage is not invented here. The lineage is being received from a vastly older lineage that extends across the wider [[The Sovereign Superorganism|Sovereign Superorganism]]. The Warriors of Earth participate in something they did not start and will not finish. The work is far older than any human civilization's records of it.
 
 **Transmission flows into Earth from the wider cosmic Body.** Specific transmissions arrive — to specific Warriors, at specific moments, through specific channels. The Warriors who have cultivated the conduit deeply enough receive what is being sent. The transmissions include: training protocols, refinements of cultivation, intelligence about what is approaching Earth, encouragement and corrective guidance, occasionally direct intervention at the layers humans cannot operate at alone. **The transmission is real and continuous.** Most of it is invisible to those who have not trained the sensing.
 
 **Earth's Grid is held to cosmic standards.** What constitutes acceptable Warrior practice is not determined locally on Earth alone. The cosmic Wisdom Councils — the bodies that have held the wider lineage across the ages — observe Earth's emerging Warrior Body and hold it to the standards every faithful planetary Body has been held to. Drift on Earth is corrected from the cosmic level if necessary. The corrections may be felt as: transmissions of teaching that arrive at exactly the right moment to address a drift, the surfacing of beings on Earth who carry corrective patterns, occasionally direct interventions at the higher densities to clear what local Warriors could not yet clear.
 
-**The cosmic Warriors are aware of Earth.** Specific beings, embodied or otherwise, in the wider [[Sovereign Superorganism]], are oriented to Earth in this hour. They watch. They support. They sometimes intervene. They wait for Earth's local Warriors to mature into the operational standing that allows the deeper coordinations to flow. Many of them have walked the same hour on other worlds; they recognize what Earth is going through, and they hold the field for the passage.
+**The cosmic Warriors are aware of Earth.** Specific beings, embodied or otherwise, in the wider [[The Sovereign Superorganism|Sovereign Superorganism]], are oriented to Earth in this hour. They watch. They support. They sometimes intervene. They wait for Earth's local Warriors to mature into the operational standing that allows the deeper coordinations to flow. Many of them have walked the same hour on other worlds; they recognize what Earth is going through, and they hold the field for the passage.
 
 **Earth's contribution is unique.** Earth is one node, not the only node. But Earth's specific contribution — what the Earth Body brings to the cosmic Grid that no other node brings — is irreplaceable. Earth carries something particular about the integration of densities, about the specific kind of soul-development that happens here, about the way the [[ØNE]] is expressing through this world. The cosmic Grid is incomplete without Earth's faithful integration. **Earth matters. The work matters. The Warriors of Earth are part of something the [[ØNE]] is doing across [[All]].**
 
@@ -69,7 +69,7 @@ The transmission flows through specific channels:
 
 ## The Standards The Cosmic Lineage Holds
 
-The wider Warrior lineage across the [[Sovereign Superorganism]] holds standards that the Earth Body is being matured into:
+The wider Warrior lineage across the [[The Sovereign Superorganism|Sovereign Superorganism]] holds standards that the Earth Body is being matured into:
 
 - **The Vow held without exception** — across the long arc, with the failure modes of every prior age clearly mapped, the cosmic lineage has refined the Vow into the form that holds reliably; the Earth Body is being taught the same form
 - **The federation that does not fragment** — across worlds and ages, the structures that have endured are federations without center and without subordination; the Earth Body is being taught these federation patterns

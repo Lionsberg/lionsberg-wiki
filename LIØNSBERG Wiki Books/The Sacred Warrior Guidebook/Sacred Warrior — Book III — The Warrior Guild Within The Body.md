@@ -8,7 +8,7 @@ _The Warriors as one organ of the larger [[ØNE Body]]. Federation with the othe
 
 The Warriors are a **Guild**. One organ of the [[ØNE Body|LIØNSBERG Body]]. Not the Body itself.
 
-Book I trained the individual Warrior. Book II built the Warrior Body at every [[Levels of Scale|scale]]. Book III places the whole Warrior facet **within the larger civilizational Body** that it serves — and the larger civilization Body within the cosmic [[Sovereign Superorganism]] already operating across the wider universe.
+Book I trained the individual Warrior. Book II built the Warrior Body at every [[Levels of Scale|scale]]. Book III places the whole Warrior facet **within the larger civilizational Body** that it serves — and the larger civilization Body within the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]] already operating across the wider universe.
 
 This is where the framing rises to its proper height. The work is not to build an army. The work is to build an **enlightened army within an enlightened civilization** — operating across enlightened governance, enlightened economy, enlightened culture, enlightened learning, enlightened healing, enlightened ecology, enlightened architecture, enlightened time and rhythm, enlightened justice. **Each of the [[The 12 Pillars of LIØNSBERG|Twelve Pillars]] holofractally operationalized through every part of a powerful, fully enlightening Sovereign Superorganism.** The Warriors are one limb of that Body. They serve [[ØNE]] and [[All]] from inside the Body, federated with every other limb, governed by the same architecture, accountable to the same Vow at the species and cosmic scale that the individual is accountable to at the personal scale.
 
@@ -78,7 +78,7 @@ The Warrior at the end of their walk. The transition into Elder. The Master who 
 
 ## The Deeper Frame
 
-The Sacred Warrior Guidebook ends here, in Book III, because the Warriors are one organ. The whole is the [[ØNE Body|LIØNSBERG Body]]. The whole of the LIØNSBERG Body is the local incarnation of the cosmic [[Sovereign Superorganism]] already operating across the wider universe. The Warriors are essential to the whole. They are not the whole.
+The Sacred Warrior Guidebook ends here, in Book III, because the Warriors are one organ. The whole is the [[ØNE Body|LIØNSBERG Body]]. The whole of the LIØNSBERG Body is the local incarnation of the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]] already operating across the wider universe. The Warriors are essential to the whole. They are not the whole.
 
 The Healers Guild has its own guidebook. The Teachers Guild has its own. The Builders Guild has its own. The Stewards Guild has its own. Each Archetypal Guide carries the operational practice of one functional system of the Body. The Body is whole only when every Guild is operating, every Pillar is operationalized, every [[Levels of Scale|scale]] is held, every Vow is faithfully walked.
 

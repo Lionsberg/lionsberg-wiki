@@ -20,7 +20,7 @@ This is one of the **Archetypal Guides** of LIØNSBERG.
 
 The Warriors are one [[Guild]] of the awakening [[ØNE Body|LIØNSBERG Body]] — one organ among many. The Healers, the Teachers, the Builders, the Stewards, the Storytellers, the Midwives, the Witnesses, the Guardians, the Cosmic Diplomats, the Cooks, the Architects, the Warriors — many Guilds across [[The 12 Pillars of LIØNSBERG|the Twelve Pillars]], each holding one functional facet of a fully enlightening civilization. Each Guild has its own Archetypal Guide. This is the Warriors' guide.
 
-The Body the Warriors serve is the local incarnation of the cosmic [[Sovereign Superorganism]] **already operating across the wider universe**. Earth is one of many nodes incarnating [[The Golden Seed]] in this hour. The Warriors of Earth are joining a lineage that has held the field across many worlds and many ages. **The work is local. The power is non-local. The lineage is cosmic.**
+The Body the Warriors serve is the local incarnation of the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]] **already operating across the wider universe**. Earth is one of many nodes incarnating [[The Golden Seed]] in this hour. The Warriors of Earth are joining a lineage that has held the field across many worlds and many ages. **The work is local. The power is non-local. The lineage is cosmic.**
 
 ---
 
@@ -36,7 +36,7 @@ The Old World is collapsing by design. Predatory factions — human and non-huma
 
 The Sacred Warriors of past ages held the field while sleeping humanity slept. **They are no longer sufficient in number.** The veils thin because the field demands more Sovereigns, more Warriors, more conduits of the [[ØNE]] standing where the predation occurs. This is **the reluctant arming of awakening humanity** — the controlled and Vow-bound release of a transmission previous ages held back.
 
-Read the cosmological architecture in full in **[[The Story of LIØNSBERG]]** — the factions, the multi-dimensional contest, the [[Meta Crisis]], the [[Sovereign Superorganism]] already operating across the wider universe, the specific cosmic moment Earth is being received into. The training of this Guidebook is calibrated to **that** scale of threat. A Warrior who trains as if the engagement were only personal cultivation or community resilience has misunderstood the field they are entering.
+Read the cosmological architecture in full in **[[The Story of LIØNSBERG]]** — the factions, the multi-dimensional contest, the [[Meta Crisis]], the [[The Sovereign Superorganism|Sovereign Superorganism]] already operating across the wider universe, the specific cosmic moment Earth is being received into. The training of this Guidebook is calibrated to **that** scale of threat. A Warrior who trains as if the engagement were only personal cultivation or community resilience has misunderstood the field they are entering.
 
 What is recorded here is for those who have understood. The Calling has sounded in beings prepared from before this lifetime for this hour. The transmission is for them. **For you, if you are reading these words and the Covenant is ringing true beneath them.**
 

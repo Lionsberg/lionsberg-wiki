@@ -74,8 +74,8 @@ When these signs appear, the lineage has been captured by lineage-capture; the [
 - **Self** — the individual [[Sovereign]]'s relationship to their primary lineage
 - **[[Circle]]** — the Circle's collective relationship to the lineages of its members
 - **[[Community]]** and **[[Bioregion]]** — the collective relationship to all lineages present in the locality; federation across them
-- **[[Planet]]** — the planetary [[Sovereign Superorganism]]'s integration across all lineages Earth carries
-- **Cosmic** — the cosmic [[Sovereign Superorganism]]'s integration across the lineages of every world that has produced faithful traditions
+- **[[Planet]]** — the planetary [[The Sovereign Superorganism|Sovereign Superorganism]]'s integration across all lineages Earth carries
+- **Cosmic** — the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]]'s integration across the lineages of every world that has produced faithful traditions
 
 ## Composes With
 

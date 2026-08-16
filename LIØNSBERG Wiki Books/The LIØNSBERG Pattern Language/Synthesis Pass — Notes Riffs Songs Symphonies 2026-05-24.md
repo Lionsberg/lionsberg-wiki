@@ -246,7 +246,7 @@ Ten distinct notes. Each carries wisdom the others do not. The chord played full
 - Federation at Community scale
 - Federation at Bioregional scale
 - Federation at Planetary scale
-- Federation at Cosmic scale (the [[Sovereign Superorganism]])
+- Federation at Cosmic scale (the [[The Sovereign Superorganism|Sovereign Superorganism]])
 - Federation at Guild scale (e.g., Warrior-Healer Pair as the smallest Guild-federation)
 
 The general note is one Pattern Card. The applications reference [[Levels of Scale]] and the relevant scale-document.

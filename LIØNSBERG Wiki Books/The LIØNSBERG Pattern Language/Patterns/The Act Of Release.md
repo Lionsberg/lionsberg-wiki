@@ -68,7 +68,7 @@ When these signs appear, the [[Sovereign]] is mid-drift toward the dark initiate
 - **[[Circle]]** — the Circle releases its collective work back to the [[ØNE]] rather than claiming it as the Circle's achievement
 - **[[Community]]** and **[[Bioregion]]** — wider Bodies release their work; cultures that hold this discipline do not develop tyrannical institutional structures
 - **Lineage** — lineages release each generation's contribution rather than concentrating it; the lineage continues because no single being or Circle becomes the bottleneck
-- **Cosmic** — the cosmic [[Sovereign Superorganism]] operates by continuous release; the [[ØNE]] gives, the Body receives and serves, the result returns to the [[ØNE]]
+- **Cosmic** — the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]] operates by continuous release; the [[ØNE]] gives, the Body receives and serves, the result returns to the [[ØNE]]
 
 ## Composes With
 

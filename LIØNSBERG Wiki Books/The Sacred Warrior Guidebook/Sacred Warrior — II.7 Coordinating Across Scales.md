@@ -84,7 +84,7 @@ The escalation protocol:
 
 **Planetary level.** Rare. The engagement that requires planetary coordination is significant — major predatory operations, planetary crises, the kind of engagement that affects multiple bioregions simultaneously. The planetary Council coordinates.
 
-**Cosmic level.** Rarer still. The engagement that requires cosmic coordination touches the wider [[Sovereign Superorganism]]. The cosmic lineage is engaged through the channels described in Chapter II.6. The intervention from the cosmic level operates at densities Earth Warriors typically cannot operate at alone.
+**Cosmic level.** Rarer still. The engagement that requires cosmic coordination touches the wider [[The Sovereign Superorganism|Sovereign Superorganism]]. The cosmic lineage is engaged through the channels described in Chapter II.6. The intervention from the cosmic level operates at densities Earth Warriors typically cannot operate at alone.
 
 The de-escalation protocol is symmetric. When the engagement has been addressed, the highest scale that was engaged releases its involvement first, returning the situation to the next scale down, until the situation has been fully resolved at the lowest scale that can hold its aftermath.
 

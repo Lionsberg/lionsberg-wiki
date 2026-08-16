@@ -72,7 +72,7 @@ A Way held faithfully across the seven layers is **transmittable, teachable, pra
 - **[[Community]]** — the Community's culture sustains the seven layers across decades
 - **[[Bioregion]]** — bioregional traditions hold the seven layers across the natural-systems boundaries of place
 - **[[Planet]]** — planetary civilizations either hold the seven layers and endure, or lose them and fall
-- **Cosmic** — the cosmic [[Sovereign Superorganism]]'s wisdom-traditions hold the seven layers across worlds and ages
+- **Cosmic** — the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]]'s wisdom-traditions hold the seven layers across worlds and ages
 
 ## Composes With
 

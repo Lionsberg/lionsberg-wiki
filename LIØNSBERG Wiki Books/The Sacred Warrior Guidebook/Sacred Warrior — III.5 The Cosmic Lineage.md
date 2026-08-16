@@ -6,7 +6,7 @@ _Earth's Warriors as participants in a lineage that extends across the wider uni
 
 ## The Lineage Received
 
-The Sacred Warrior tradition on Earth is **one local instance** of a cosmic lineage of Warriors who have held the protective field across the [[Sovereign Superorganism]] for ages beyond reckoning.
+The Sacred Warrior tradition on Earth is **one local instance** of a cosmic lineage of Warriors who have held the protective field across the [[The Sovereign Superorganism|Sovereign Superorganism]] for ages beyond reckoning.
 
 This was articulated at field-scale in [[Sacred Warrior — II.6 The Cosmic Grid And Lineage|Chapter II.6]]. This chapter approaches the same reality from the **Guild perspective** — what the Earth Warrior Guild's specific relationship is to the wider cosmic Guild of Warriors, what flows between them, what is asked.
 
@@ -58,7 +58,7 @@ What Earth is asked:
 
 ## The Standards Held To
 
-The cosmic lineage holds the Earth Body to standards refined across the wider [[Sovereign Superorganism]]:
+The cosmic lineage holds the Earth Body to standards refined across the wider [[The Sovereign Superorganism|Sovereign Superorganism]]:
 
 **The Vow held without exception.** Across the long arc, the cosmic lineage has identified every failure mode of the Vow and the structural protections that hold against them. The Earth Body is being taught the protections. Drift on Earth is corrected from the cosmic level if Earth's own correction mechanisms are insufficient.
 

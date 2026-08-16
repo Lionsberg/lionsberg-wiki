@@ -67,7 +67,7 @@ The withdrawal becomes operational the moment it is made. The capacity to withdr
 - **Self** — the individual Sovereign holds their own field
 - **[[Circle]]** — the Circle holds the shared Sovereignty of its members and a collective field-Sovereignty as a body
 - **[[Community]]**, **[[Bioregion]]**, **[[Planet]]** — wider Bodies hold their collective Sovereignty against predatory operations at their scale
-- **Cosmic** — the [[Sovereign Superorganism]]'s wider Body holds Sovereignty in [[Right Relationship]] with the [[ØNE]] across worlds and ages
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]]'s wider Body holds Sovereignty in [[Right Relationship]] with the [[ØNE]] across worlds and ages
 
 The Pattern operates identically at every scale.
 

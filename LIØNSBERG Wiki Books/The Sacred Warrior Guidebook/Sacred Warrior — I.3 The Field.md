@@ -69,7 +69,7 @@ You carry the same Potential. Walk faithfully. The Realization arises as the cul
 
 The field of energy and consciousness is not an empty container in which only embodied beings operate. It is a living ecosystem with many kinds of actors at many densities, scales, and orientations.
 
-The modern materialist dismissal of all of this is itself an operation in the field. The factions that benefit from the blindness maintain it. The Sacred Warrior cannot afford the inherited dismissal. The full articulation of the cosmic ecology — the beings at every density, the organized factions, the [[Sovereign Superorganism]] already operating, the multi-dimensional contest of [[Pattern]] and its inversion — lives in [[The Story of LIØNSBERG]]. Read it.
+The modern materialist dismissal of all of this is itself an operation in the field. The factions that benefit from the blindness maintain it. The Sacred Warrior cannot afford the inherited dismissal. The full articulation of the cosmic ecology — the beings at every density, the organized factions, the [[The Sovereign Superorganism|Sovereign Superorganism]] already operating, the multi-dimensional contest of [[Pattern]] and its inversion — lives in [[The Story of LIØNSBERG]]. Read it.
 
 What the Warrior must know now:
 

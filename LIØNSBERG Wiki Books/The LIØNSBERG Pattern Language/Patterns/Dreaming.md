@@ -73,7 +73,7 @@ Each kind requires different response. The trained being learns the signatures o
 - **[[Circle]]** — Circles may share dreams in gathered practice; sometimes Circle members receive related or coordinated dreams indicating the field they share
 - **[[Community]]** — collective dream phenomena occur at Community scale; multiple Sovereigns receiving similar dreams indicates field-level operations
 - **[[Bioregion]]**, **[[Planet]]** — large-scale dream phenomena (mass dreams, planetary visions) indicate operations at those scales
-- **Cosmic** — the wider [[Sovereign Superorganism]] communicates partly through coordinated dream transmission across many beings
+- **Cosmic** — the wider [[The Sovereign Superorganism|Sovereign Superorganism]] communicates partly through coordinated dream transmission across many beings
 
 ## Composes With
 

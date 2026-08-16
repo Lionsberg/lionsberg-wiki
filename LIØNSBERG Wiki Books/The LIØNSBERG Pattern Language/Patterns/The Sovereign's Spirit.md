@@ -41,7 +41,7 @@ These compose with [[The Sovereign's Body]], [[The Sovereign's Breath]], [[The S
 - **Self** — the individual's direct relationship with the [[ØNE]]
 - **[[Pair]]**, **[[Circle]]** — gathered Sovereigns each holding direct relationship; the collective field that emerges
 - **[[Community]]**, **[[Bioregion]]**, **[[Planet]]** — the [[Living Body]] of beings in direct relationship with the [[ØNE]]; the planetary field of the [[First Three Percent]]
-- **Cosmic** — the [[Sovereign Superorganism]] across cosmic expanses operating from direct relationship with the [[ØNE]]
+- **Cosmic** — the [[The Sovereign Superorganism|Sovereign Superorganism]] across cosmic expanses operating from direct relationship with the [[ØNE]]
 
 ## Composes With
 

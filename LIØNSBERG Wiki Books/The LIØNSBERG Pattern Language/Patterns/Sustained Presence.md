@@ -12,7 +12,7 @@ Sustained Presence is the trained capacity to **be present, continuously, with w
 
 ## Context
 
-This Pattern applies to every long-arc work the [[Sovereign]] undertakes — the seven-to-ten-year arc of Warrior cultivation, the lifetime walk of any Way, the multi-generational building of [[Community]] and [[Bioregion]], the cosmic-scale work of the [[Sovereign Superorganism]].
+This Pattern applies to every long-arc work the [[Sovereign]] undertakes — the seven-to-ten-year arc of Warrior cultivation, the lifetime walk of any Way, the multi-generational building of [[Community]] and [[Bioregion]], the cosmic-scale work of the [[The Sovereign Superorganism|Sovereign Superorganism]].
 
 It applies particularly to:
 
@@ -58,7 +58,7 @@ The trained being holds Sustained Presence through specific operational discipli
 - **[[Pair]]** and **[[Circle]]** — Sustained Presence applies to relationships and Circles; the [[Pair]] that has walked together for two decades carries something the new [[Pair]] does not yet have
 - **[[Community]]** — Communities sustained across generations carry layered presence; the [[Bioregion]] that has been faithfully tended for fifty years holds what an unattended bioregion cannot
 - **Lineage** — the lineage IS sustained presence across generations; the wisdom is held through continuous, faithful walking by successive Sovereigns
-- **Cosmic** — the cosmic [[Sovereign Superorganism]]'s work across ages is the largest expression of Sustained Presence; the [[ØNE]]'s patience holds work whose timing exceeds any single embodiment
+- **Cosmic** — the cosmic [[The Sovereign Superorganism|Sovereign Superorganism]]'s work across ages is the largest expression of Sustained Presence; the [[ØNE]]'s patience holds work whose timing exceeds any single embodiment
 
 ## Composes With
 

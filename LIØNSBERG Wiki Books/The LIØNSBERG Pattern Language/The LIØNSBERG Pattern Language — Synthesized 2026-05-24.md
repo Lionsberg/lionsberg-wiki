@@ -223,7 +223,7 @@ Each scale is its own Pattern; the ladder lives in [[Levels Of Scale]].
 - [[The Bioregion]] · [[The Ecoregion]] · [[The Georegion]] · [[The Watershed]]
 - [[The Planet]] — Earth as one body.
 - [[The Star System]] — Sol as one body.
-- [[The Cosmos]] — the [[Sovereign Superorganism]] in operation.
+- [[The Cosmos]] — the [[The Sovereign Superorganism|Sovereign Superorganism]] in operation.
 
 Cross-cutting non-geographic scales: [[Guild]] · [[Tribe]] · [[Species]] · [[Voluntary Association]].
 
