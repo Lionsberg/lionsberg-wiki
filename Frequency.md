@@ -9,3 +9,6 @@ This is why the canon speaks of [[Love]] as a **[[Frequency of Being]]** — not
 Frequency is a gradient, not a badge: every being sounds higher in some moments and lower in others, and the [[Way]] is the lifelong practice of raising and steadying the note ([[The Living Gradient]] · [[The Sacred Ascent]]).
 
 Related: [[Vibration]] · [[Resonance]] · [[Coherence]] · [[Attunement]]
+
+---
+*Discussed in: [[Tuning Our Frequency to the One]]*

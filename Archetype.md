@@ -12,9 +12,11 @@ Several things follow:
 
 **An Archetype is testable.** Because it has definite form, an Archetype can be examined for coherence, completeness, and conformance to its Ideal — before anything is built. This is where imagination becomes design.
 
+**Archetypes can be inverted.** The same power that articulates the sacred can articulate its counterfeit: the [[Old World]]'s machinery of deception runs on captured and inverted Archetypes — forms engineered to bind rather than free ([[Chapter 14 — The Archetypes and Architectures of Deception and Kontrolle]]). Discernment of an Archetype's actual signature — does it enliven and free, or diminish and bind? — is part of the craft ([[Associative And Dissociative Energy]]).
+
 **An Archetype is a made thing.** The ancients carved their Archetypes into statues and then worshipped them — and every such pantheon now lies in ruins. An Archetype deserves refinement, not reverence. It is held as [[Current Best Understanding]], revised the moment a truer articulation rings.
 
 In [[The Creative Cascade]], the Archetype passes downward into the [[Prototype]] — the first integrated embodiment — and receives upward the learnings that every [[Instantiation]] sends home.
 
 ---
-*Discussed in: [[6.15 Spirit, Archetypes, Prototypes, Instantiations]] · [[6.16 Concrete And Abstract Idolatry]]*
+*Discussed in: [[6.15 Spirit, Archetypes, Prototypes, Instantiations]] · [[6.16 Concrete And Abstract Idolatry]] · [[Chapter 14 — The Archetypes and Architectures of Deception and Kontrolle]]*

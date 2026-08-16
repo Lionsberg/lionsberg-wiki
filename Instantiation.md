@@ -16,4 +16,4 @@ For this reason, every Instantiation carries two obligations in exchange for wha
 Each Instantiation remains sovereign — a whole in its own right, not a branch office of the Prototype ([[Holon]]). The pattern connects; it never commands.
 
 ---
-*Discussed in: [[Instantiation Of The Prototype]] · [[2.0 Program Development]] · [[16.12 The Learning System]]*
+*Discussed in: [[Instantiation Of The Prototype]] · [[Availability And Priority Of Instantiation Domains]] · [[89. Polycentric Instantiation]] · [[2.0 Program Development]] · [[16.12 The Learning System]]*

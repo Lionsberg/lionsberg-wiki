@@ -14,4 +14,9 @@ Fear is the reading that something precious feels threatened.
 
 **The Move.** Feel the contraction without fleeing it. Read it: *what precious thing is this guarding? How real is the threat — and how large?* Right-size it — fear reports possibility, not certainty. Then choose as a Sovereign: guard what truly needs guarding, and where the fear marks a threshold rather than a danger, take [[Courage]] — which is not the absence of fear but the reading of it, followed by movement ([[Emotion]]'s six steps).
 
+The canon names both faces plainly: fear is a gift — we manifest it for a reason, and it keeps us alive — and a damned curse when unmanaged, for *many of us suffer far more from the fear of suffering than from suffering itself* ([[12.6 The Gift and Curse of Fear and Anxiety]]).
+
 Related: [[Courage]] · [[Trust]] · [[Excitement]] · [[Anxiety]] · [[Freedom From Fear]] · [[Emotion]]
+
+---
+*Discussed in: [[A Way Beyond Fear, Anxiety, And Depression]] · [[12.6 The Gift and Curse of Fear and Anxiety]] · [[200 - The Experience of Fear]] · [[16. Fear Not Death]]*

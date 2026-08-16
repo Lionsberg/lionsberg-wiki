@@ -9,3 +9,6 @@ Resonance is also how [[Truth]] is *recognized* before it can be proven. When a 
 What does not resonate is not thereby false, and what resonates is not thereby true — distortion can mimic the ring ([[Distortion]]). Hence resonance is read in community, intersubjectively ([[Let's Make Reality Intersubjective Again]]), where many honest instruments correct each other's tuning.
 
 Related: [[Vibration]] · [[Frequency]] · [[Attunement]] · [[Coherence]]
+
+---
+*Discussed in: [[Depth, Breadth and Spiritual Resonance - A Triaxial Methodology for Canonical Assessment]]*

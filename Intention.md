@@ -2,6 +2,8 @@
 
 Intention is the directed WHY — the aim that calls a work into being and holds it on course.
 
+The canon states its own at the root: *the intention of LIØNSBERG is the [[Creator's Intent]] — [[On Earth As it Is In Heaven]]* ([[LIØNSBERG Intention]]).
+
 All true Intention flows ultimately from [[ØNE]]: the [[Creator's Intent]] toward [[Heaven On Earth]], for [[All]], forever, expressing itself through every scale of [[Creation]] ([[Total Nested Holarchy of Goals]]). When an [[Individuals|Individual]], [[Group]], or [[Community]] forms an Intention in alignment with that flow, their work becomes part of the [[Meta Project]] — consciously. The universal aim is to bring the [[Highest Intention and Greatest Good]] into [[Reality]] for the benefit of All.
 
 Intention is the first rung of [[The Creative Cascade]], and the only rung that does not change as the work descends into form. The WHY is invariant; every WHAT and HOW below it is [[Current Best Understanding]] — disposable the moment a better way serves the Intention. This is the ancient discipline of Commander's Intent: state the aim so clearly that those doing the work can adapt everything else, everywhere, without losing the thread.
@@ -13,4 +15,4 @@ A work that has lost its Intention drifts, ossifies, or serves whatever captured
 Before beginning anything, therefore, the first question is not *what* or *how*, but: **what is the Intention — and does it serve [[The Goal]]?**
 
 ---
-*Discussed in: [[3.8 Intention Into Reality]] · [[3.7 The Universal Intention and Goal]]*
+*Discussed in: [[LIØNSBERG Intention]] · [[3.8 Intention Into Reality]] · [[3.7 The Universal Intention and Goal]] · [[9.39 The Order Of Intentions And The Meta Intention]] · [[Meta Intention]]*
