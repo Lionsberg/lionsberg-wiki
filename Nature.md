@@ -9,4 +9,4 @@ Nature carries two meanings in one word, and both are load-bearing.
 To act *according to nature*, in the deepest sense, is therefore one act: conforming to one's own true Essence, and to the Living System's ways, and to the Nature of the ØNE — for these are one Nature, expressed at three scales ([[Holarchy]]).
 
 ---
-*Discussed in: [[6.19 The Nature And Location Of The Source]] · [[Voice of Nature]] · [[Living System]]*
+*Discussed in: [[6.19 The Nature And Location Of The Source]] · [[Living System]]*
