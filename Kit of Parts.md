@@ -12,6 +12,9 @@ Three properties make a Kit of Parts alive rather than a parts bin:
 
 **The Kit learns.** Every Instantiation of every Part sends its learnings home, so the Kit is continuously improved and every future deployment inherits the total aggregated experience of all prior ones.
 
-In delivery terms, each Part is a [[General Solutions|General Solution]]: most problems any endeavor encounters are general, not unique, and it would be foolish to solve them as if encountering them for the first time — or to implement the solution as if implementing it for the first time. Each Part therefore carries its own infrastructure, process, and guidance as a complete [[Sub System]], with the lessons of every prior use attached to the Part itself at the point where they were learned ([[PDG - Conclusion and Prototype Control]]). The Kit matures through a deliberate lifecycle — development, instantiation, control, replication and scaling ([[2.0 Program Development]]) — under the active stewardship the Guide calls Prototype Control.
+In delivery terms, each Part is a [[General Solutions|General Solution]]: most problems any endeavor encounters are general, not unique, and it would be foolish to solve them as if encountering them for the first time — or to implement the solution as if implementing it for the first time. Each Part therefore carries its own infrastructure, process, and guidance as a complete [[Sub System]], with the lessons of every prior use attached to the Part itself at the point where they were learned. The Kit matures through a deliberate lifecycle — development, instantiation, control, replication and scaling — under the active stewardship of [[Prototype Control]].
 
 The Kit of Parts is how the [[New World]] gets built without a central factory and without uniformity: one continuously improving Prototype, a thousand sovereign expressions.
+
+---
+*Discussed in: [[An Ecosystem, Prototype, And Kit Of Parts]] · [[General Solutions]] · [[2.0 Program Development]] · [[PDG - Conclusion and Prototype Control]]*

@@ -52,6 +52,8 @@ As a basic [[Pattern Language]] for the Lexicon, the page for each term should i
 
 These are the **Root Keys** required to understand and speak [[The Language of LIØNSBERG]]. These terms form the primary **Conceptual DNA** of the entire System and Way, and are essential to understanding [[The Story of LIØNSBERG]] and playing [[The Great Game]]. Some terms are repeated below under the pillars.  
 
+The Meta level of every term in this layer points toward an ineffable referent ([[Essences, Renderings, And Ineffable Referents]]): the Reality behind each Root Key lies beyond our [[Current Best Understanding]], and further beyond the [[Current Best Articulation]] each entry provides. Every definition here is a humble rendering — a fingerpost toward what can be pointed at but never contained ([[Meta]]).  
+
 
 
 
