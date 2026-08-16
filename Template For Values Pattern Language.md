@@ -1,18 +1,18 @@
 # Template For Values Pattern Language
 
-_(For Continuous Inspiration and Improvement)_
+_(For Continuous Inspiration and Improvement — held as a [[Current Best Practice]])_
 
-The enhanced Values Pattern Language is designed to bring added inspiration and depth to our wiki pages on [[Values]] by incorporating powerful quotes, storytelling, and visual elements. This template will be applied to each of the [[Total Nested Holarchy of Values]] we have identified, ensuring a cohesive, engaging, and inspirational approach to presenting and exploring these values.
+Each page in the [[Total Nested Holarchy of Values]] grows toward the same living pattern, so that the [[The LIØNSBERG System of Values|System of Values]] becomes not a list of nouns but a practicable field of orientations ([[The Living Gradient]]). Exemplars: [[Truth]] · [[Love]] · [[Stewardship]].
 
-Each Value wiki page should include the following sections:
+Each Value page should grow to include:
 
-1.  **Value Name and Definition**: Clearly state the name of the value and provide a concise definition. Include a powerful quote or aphorism that captures the essence of the value.
-2.  **Context**: Explain the background, relevance, and importance of the value within the context of the [[Total Nested Holarchy of Values]] and the broader societal or cultural context. Share a brief narrative or story that illustrates the value's significance or historical evolution.
-3.  **Related Values**: List and briefly describe values that are closely related or interconnected with the value being discussed. Provide links to their respective wiki pages and, where possible, include a visual representation (e.g., a concept map or diagram) to showcase the relationships between the values.
-4.  **Key Principles**: Outline the main principles or guidelines associated with the value, describing how it can be understood and applied in various situations. Use real-life examples or anecdotes to bring these principles to life.
-5.  **Examples and Applications**: Provide real-world examples of the value being put into practice, as well as potential applications within different domains (e.g., personal life, community, governance, etc.). Include inspiring stories, images, or multimedia content to showcase the impact of the value.
-6.  **Challenges and Obstacles**: Discuss potential challenges, obstacles, or barriers to upholding or implementing the value. Offer suggestions on how to address or overcome these challenges, drawing on the wisdom of thought leaders, experts, or community members.
-7.  **Resources**: Include relevant resources (books, articles, videos, etc.) that provide further insight, guidance, or inspiration on the value. Consider highlighting key quotes, passages, or moments from these resources to spark curiosity and encourage further exploration.
-8.  **Community Contributions**: Provide a space for community members to share their own experiences, perspectives, or ideas related to the value. Encourage open and respectful dialogue, and invite members to share their own stories, insights, or creative expressions inspired by the value.
+1. **Essence** — the name, a concise definition, and a quote or aphorism that captures the note the Value sounds. The name is a [[Word Tool]]; the Value is a facet of the ultimately ineffable [[Meta Value]].
+2. **As Lived** — the Value as a *verb*: what practicing it actually looks and feels like, in the body, in a day, in a life. Its [[Frequency]] — what a person or place sounding this Value is like to be near.
+3. **Its Ideal** — the perfection at the center of this Category, held as north star, never as judge ([[Ideal]]); how this facet reflects [[ØNE]].
+4. **Its Gradient** — the continuous band from [[Inversion]] (the Value reversed into its parasitic opposite) through [[Distortion]] and absence to presence and fullness; where its neighboring and interwoven Values stand ([[The Living Gradient]]).
+5. **Its Distortions** — including the subtlest counterfeit: the Value *worshipped or weaponized* — truth without love, justice without mercy, loyalty against conscience — which is how good words are conscripted by the [[Old World]].
+6. **Practices** — the concrete moves of [[Attunement]] by which a Sovereign, a [[Circle]], and a community move one degree toward the Ideal; links to relevant Patterns and Plays.
+7. **Stories & Voices** — narratives, exemplars, quotes, and community contributions that let the Value be *felt*, not merely defined.
+8. **Related** — interwoven Values, Patterns, and pages.
 
-Using this enhanced Values Pattern Language Template for each of the [[Total Nested Holarchy of Values]] will create a comprehensive, engaging, and inspiring resource for the community, promoting a deeper understanding and exploration of these essential values.
+Using this pattern across the [[Total Nested Holarchy of Values]] turns the Book from a vocabulary into an instrument of practice: every page answering not only *what is this Value?* but *where do I stand on it, and how do I move?*

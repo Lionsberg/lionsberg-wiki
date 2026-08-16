@@ -9,6 +9,14 @@ This book is a [[Work In Progress]]. As we rediscover the universal [[Values]] t
 3. We are progressing towards a full Values [[Pattern Language]] 
 4. We are working to translate Values into Principles and Practices that can guide our lives, society and human operating system 
 
+## Values as Living Gradients
+
+A Value is not a possession, a badge, or a rule. It is a **sustained orientation of movement** — a direction along [[The Living Gradient]] toward one facet of the [[Meta Value]]. Lived, every Value is a verb: [[Truth]] is practiced as truth-seeking and truth-speaking; [[Love]] is sounded as a [[Frequency of Being]]; [[Stewardship]] is enacted as tending. No being *has* a Value; every being stands somewhere on its gradient of conformance and coherence — moving toward the [[Ideal]] at the center of that Category, or away from it.
+
+The Anti-Values are not a separate list but the same gradients read in the other direction — [[Distortion]] and [[Inversion]] within the one Field. And the practice of any Value is [[Attunement]]: reading honestly where we stand, and moving one degree toward the Ideal, again and again, for life.
+
+Exemplars of the living pattern: [[Truth]] · [[Love]] · [[Stewardship]].
+
 ## Values Pattern Language
 
 Our Aim is to continuously improve a Values Pattern Language to interrelate the [[Total Nested Holarchy of Values]], and link them to principles and behaviors to guide our co-creative endeavors. 

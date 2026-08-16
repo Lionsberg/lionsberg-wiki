@@ -29,3 +29,11 @@ Therefore, as [[ØNE]] Loves [[All]], so too should [[All]] strive to embody One
 This is the [[Universal Law]], and the single overarching and uniting design principle of the [[LIØNSBERG System]]. 
 
 [[Love]] [[One Another]]. 
+
+## As a Living Gradient
+
+Love is the [[Frequency of Being]] this page describes — which means it is not possessed but *sounded*, and every being stands somewhere on its gradient ([[The Living Gradient]]): from [[Inversion]] (contempt, cruelty — love's energy reversed) through [[Distortion]] (possessiveness, conditional affection, sentimentality that serves itself) and indifference, through kindness and affection, toward the fullness this page points to: [[Agape]] — Absolute and Unconditional Love, the note [[ØNE]] sounds toward [[All]].
+
+Its subtlest distortion is love *grasped* — affection that binds the beloved to our need instead of freeing them toward their [[Potential]]. True Love, as written above, longs and labors for the beloved's fullness, expecting nothing.
+
+**Practices:** [[Attunement]] first — receive the other's actual frequency before sounding toward them · will their highest [[Potential]] concretely, in action · give without precondition · let warmth carry every truth · practice on the difficult ones — the gradient only climbs where it is hard · return daily to the Source whose Love ours reflects.

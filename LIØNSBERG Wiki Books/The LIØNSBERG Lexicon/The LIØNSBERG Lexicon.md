@@ -71,6 +71,7 @@ The Meta level of every term in this layer points toward an ineffable referent (
 | **Alignment**          | Conformity of a system, being, or act with the Spirit and Logos                                                 |
 
 - Omniharmonic  
+- The Living Gradient  
 - Interoperability  
 - Pattern Language  
 - Quest  

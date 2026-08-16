@@ -11,3 +11,11 @@ The LIØNSBERG System recognizes that Absolute Truth is something that remains e
 Because Absolute Truth is beyond our grasp, the LIØNSBERG convention is to express things in the form of our [[Current Best Understanding]] or [[Hypothesis]], and to continuously improve the Quality of our Understanding and expression of That Which is is True, Wise, Right, and Good. 
 
 Recognizing that learning and understanding are a process, we commit to being patient with one another as we learn and grow in Community. 
+
+## As a Living Gradient
+
+Lived, Truth is a verb — truth-seeking, truth-speaking, truth-receiving — a sustained orientation toward [[Reality]] as it actually is ([[The Living Gradient]]). Its gradient runs from [[Inversion]] (the deliberate lie, the manufactured falsehood) through [[Distortion]] (spin, selective telling, comfortable self-deception) and carelessness, to honesty, accuracy, and the full practice: navigating toward Truth together, intersubjectively, holding every rendering as [[Current Best Understanding]] ([[Let's Make Reality Intersubjective Again]] · [[The LIØNSBERG Meta Science]]).
+
+Its subtlest distortion is truth *weaponized* — accuracy deployed without [[Love]] to wound rather than illuminate. Truth's fullness always arrives carried: honesty and warmth are not rivals but harmony.
+
+**Practices:** speak as CBU, not verdict · verify by [[Resonance]], confirm by discipline · welcome correction as a gift ([[Every Defect Is A Gift]]) · in [[Circle]], weave perspectives rather than defend positions · follow the Truth no matter where it leads.
