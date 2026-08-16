@@ -593,7 +593,7 @@ Each Pattern Card also carries this list locally (the **Plays That Invoke This P
 | [[Right Sized Response]] | • [[Play — Identify And Solve An Issue]] |
 | [[Surface The Issue]] | • [[Play — Identify And Solve An Issue]] |
 | [[Achievable Within A Season]] | • [[Play — Choose A Quest]] |
-| [[Total Nested Hierarchy of Goals]] | • [[Play — Stack Up And Align]] |
+| [[Total Nested Holarchy of Goals]] | • [[Play — Stack Up And Align]] |
 | [[Stacking Up And Aligning]] | • [[Play — Stack Up And Align]] |
 | [[Self-Replication]] | • [[Play — Grow Your Circle]]<br>• [[Play — Self-Replicate Your Circle]]<br>• [[Play — Pass The Flame]] |
 | [[Self-Sustenance and Self-Replication]] | • [[Play — Self-Replicate Your Circle]] |

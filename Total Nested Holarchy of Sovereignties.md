@@ -1,4 +1,4 @@
-# Total Nested Hierarchy of Sovereignties
+# Total Nested Holarchy of Sovereignties
 
 _The architecture of freedom — sovereignty protected at every scale from the individual to the planetary._
 
@@ -6,7 +6,7 @@ ___
 
 ## The Architecture
 
-The LIØNSBERG system is structured as a **total nested hierarchy of sovereignties** — each level a complete, self-governing whole, voluntarily integrated into larger wholes, all in service of [[ØNE]] and [[All]].
+The LIØNSBERG system is structured as a **total nested holarchy of sovereignties** — each level a complete, self-governing whole, voluntarily integrated into larger wholes, all in service of [[ØNE]] and [[All]].
 
 Sovereign individuals...  
 ...voluntarily associate into sovereign families...  

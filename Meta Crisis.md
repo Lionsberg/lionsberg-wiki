@@ -1,5 +1,7 @@
 # Meta Crisis
 
+*The Meta Crisis: the crisis of crises — the total nested pattern of dysfunction across the [[Total Nested Holarchy of Issues]], rooted ultimately in our disconnection from [[ØNE]] and the illusion of separateness. See [[Meta]].*
+
 The collective term for the complex, interconnected challenges facing humanity and the planet, including social injustice, environmental degradation, cyclical catastrophes, political and economic instability, and more. The Meta Crisis requires a comprehensive and systemic response to address these issues effectively.
 
 For a detailed description, see [[Beyond The Meta Crisis - A Blueprint for a Better Future]].  
@@ -18,7 +20,7 @@ The **Meta Crisis** is the comprehensive, interconnected set of challenges that 
 -   Spiritual and cultural crises such as a lack of meaning and purpose, loss of a sense of hope and agency, and the erosion of traditional religious and cultural practices and values. These challenges can have negative impacts on social cohesion, vision, and values, and thus dramatically exacerbate the crises. 
 - [[The Advance of The Giants]]  
 
-The Meta Crisis is not a single, isolated crisis, but rather a complex, interconnected web of challenges that are interdependent and mutually reinforcing. Addressing one challenge may have unintended consequences on another, or may be insufficient to address the root causes of a given problem, or the [[Total Nested Hierarchy of Issues]].  
+The Meta Crisis is not a single, isolated crisis, but rather a complex, interconnected web of challenges that are interdependent and mutually reinforcing. Addressing one challenge may have unintended consequences on another, or may be insufficient to address the root causes of a given problem, or the [[Total Nested Holarchy of Issues]].  
 
 The Meta Crisis demands a [[Meta Solution]]. To overcome the Meta Crisis, it is necessary to adopt a systems thinking approach that takes into account the interconnected nature of these challenges and seeks to address them in a comprehensive, holistic way, with each pillar and element of society playing their unique role. 
 

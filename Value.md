@@ -40,17 +40,17 @@ This leads to the possibility of also making it transactable by a multitude of d
 
 What is valuable can be thought of as a worthwhile [[Goal]] or an [[Aim]]. 
 
-### A [[Total Nested Hierarchy of Goals]]
-Producing anything of any reasonable level of complexity demands that we move beyond the concept of a single goal, to a [[Total Nested Hierarchy of Goals]] that must be achieved in order for the Good to come into reality. 
+### A [[Total Nested Holarchy of Goals]]
+Producing anything of any reasonable level of complexity demands that we move beyond the concept of a single goal, to a [[Total Nested Holarchy of Goals]] that must be achieved in order for the Good to come into reality. 
 
 The Good that is being produced, such as a building or a car, is one unified Goal, that contains within itself and order all the other sub-goals that must be achieved to bring it into reality. 
 
 ### Systems Lens
 The first discussion above spoke of the creation and exchange in general, from the standpoint of an economy or ecosystem without a specific guiding purpose. 
 
-The second discussion above zeroed in on the production of a specific valuable Good / Goal, and then articulated the reality that most Goods / Goals actually contain within themselves a [[Total Nested Hierarchy of Goals]]. 
+The second discussion above zeroed in on the production of a specific valuable Good / Goal, and then articulated the reality that most Goods / Goals actually contain within themselves a [[Total Nested Holarchy of Goals]]. 
 
-If the [[Total Nested Hierarchy of Goals]] is not accomplished, the higher order overarching and uniting Good / Goal will not be properly functioning reality. 
+If the [[Total Nested Holarchy of Goals]] is not accomplished, the higher order overarching and uniting Good / Goal will not be properly functioning reality. 
 
 Recent advances in the science of systems and manufacturing have revolutionized our understanding of the way that a System produces throughput of a Goal. 
 

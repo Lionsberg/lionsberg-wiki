@@ -10,6 +10,6 @@ In English, their underlying reality can be pointed towards with [[Word Tool|Wor
 [[Stewardship]]  
 [[Wisdom]]  
 
-The entire set of [[Values]], or the [[Total Nested Hierarchy of Values]], can be derived from the Spirit or Essence of [[Absolute And Unconditional Love]].  
+The entire set of [[Values]], or the [[Total Nested Holarchy of Values]], can be derived from the Spirit or Essence of [[Absolute And Unconditional Love]].  
 
-See [[Total Nested Hierarchy of Values]]. 
+See [[Total Nested Holarchy of Values]]. 

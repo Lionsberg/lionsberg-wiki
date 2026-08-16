@@ -226,7 +226,7 @@ _Each body-convening Play orchestrates a single operational moment — but invok
 | Play — Connect With Another Circle | • [[Connect and Collaborate With Other Circles]]<br>• Selectively Permeable Membrane<br>• Sacred Reciprocity<br>• [[Field of Agreements]] |
 | Play — Grow Your Circle | • [[Grow Your Circles]]<br>• Self-Replication<br>• [[Pass The Flame]]<br>• Voluntary Assent |
 | Play — Self-Replicate Your Circle | • [[Self-Replicate Your Circles]]<br>• [[Pass The Flame]]<br>• Holofractal Composition<br>• [[Self-Sustenance and Self-Replication]] |
-| Play — Stack Up And Align | • [[Stacking Up And Aligning]]<br>• Holofractal Composition<br>• [[Network of Commitments]]<br>• [[Total Nested Hierarchy of Goals]] |
+| Play — Stack Up And Align | • [[Stacking Up And Aligning]]<br>• Holofractal Composition<br>• [[Network of Commitments]]<br>• [[Total Nested Holarchy of Goals]] |
 | Play — Federate Across Scales | • [[Federate Everything]]<br>• [[Holofractal Omnifederation]]<br>• Federation Without Center<br>• Federation Without Subordination<br>• The Two-Stake Principle<br>• Subsidiarity |
 | Play — Convene A Council | • Wise Eldership<br>• The Gathered Circle<br>• Multi-Voice Constitutive Requirement<br>• Dialogos |
 

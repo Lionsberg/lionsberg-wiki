@@ -2,7 +2,7 @@
 
 Here is a guide to educating yourself on the issues and challenges facing humanity, and sharing your knowledge with others:
 
-1.  Identify the issues and challenges that are most important to you. This might include environmental disasters, economic inequality, social unrest, or other issues. See [[Total Nested Hierarchy of Issues]] as a starting point. 
+1.  Identify the issues and challenges that are most important to you. This might include environmental disasters, economic inequality, social unrest, or other issues. See [[Total Nested Holarchy of Issues]] as a starting point. 
     
 2.  Research and learn about these issues in depth. This might involve reading articles, books, and reports from credible sources, watching documentaries, or listening to podcasts.
     

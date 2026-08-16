@@ -102,11 +102,11 @@ Welcome to the [[Force For Good]]. We are glad you are here.
 
 ### [[Chapter 25 - The LIØNSBERG Work Breakdown Structure - From Strategy to Execution]] 
 
-### [[Chapter 26 - Identifying the Problems and Needs - The Total Nested Hierarchy of Issues]]
+### [[Chapter 26 - Identifying the Problems and Needs - The Total Nested Holarchy of Issues]]
 
-### [[Chapter 27 - Recognizing Positive Pathways - The Total Nested Hierarchy of Opportunities]]
+### [[Chapter 27 - Recognizing Positive Pathways - The Total Nested Holarchy of Opportunities]]
 
-### [[Chapter 28 - Mapping Solutions and Objectives - The Total Nested Hierarchy of Goals]]
+### [[Chapter 28 - Mapping Solutions and Objectives - The Total Nested Holarchy of Goals]]
 
 ### [[Chapter 29 - The LIØNSBERG System and Platform - Enabling Rapid Global Implementation and Learning]] 
 

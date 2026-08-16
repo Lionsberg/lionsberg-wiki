@@ -26,7 +26,7 @@ ___
 
 ## In LIØNSBERG
 
-This is described as the **[[Total Nested Hierarchy of Sovereignties]]**:
+This is described as the **[[Total Nested Holarchy of Sovereignties]]**:
 
 Sovereign individuals...  
 ...voluntarily associate into sovereign families...  

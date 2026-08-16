@@ -51,7 +51,7 @@ ___
 
 ## The Circle As Holon
 
-The Circle is the fractal unit of the [[Total Nested Hierarchy of Sovereignties]]:
+The Circle is the fractal unit of the [[Total Nested Holarchy of Sovereignties]]:
 
 - **Circles** federate into **Communities**
 - **Communities** federate into **Bioregional Networks**

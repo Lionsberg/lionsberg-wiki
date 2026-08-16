@@ -46,7 +46,7 @@ However an entire forest of mighty trees is already present in the DNA.
 
 These trees will soon cover the earth, providing food, water, shelter, community and abundance for [[All]].  
 ___  
-These seeds of a System that connects empowers a Community to co-create a [[New World]] are all present, and have been planted in a [[Total Nested Hierarchy of Conditions]] that is sufficient for the [[Life]] already present in their DNA to manifest itself.  
+These seeds of a System that connects empowers a Community to co-create a [[New World]] are all present, and have been planted in a [[Total Nested Holarchy of Conditions]] that is sufficient for the [[Life]] already present in their DNA to manifest itself.  
 ____  
 This week is significant because after an absolutely excruciating effort to give birth to the [[New]], the first green shoots in all three areas manifest themselves, and it is finally time to shift from the conception of the [[New World]] into working together to nurture and cultivate its development.  
 ___  

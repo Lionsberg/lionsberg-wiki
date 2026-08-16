@@ -33,7 +33,7 @@ Our System would need to have the capacity to:
 3. Harmonize All elements of the System into a functional and coherent Whole. 
 4. Align Individual work / development / goals... with team Organizational work / development / goals... with Community work / development / goals. 
 5. Heal and regenerate all damage to the Living System. 
-6. Co-create all the resources, knowledge, technology, and solutions required to accomplish the [[Total Nested Hierarchy of Goals]] implied by the [[Meta Goal]]. 
+6. Co-create all the resources, knowledge, technology, and solutions required to accomplish the [[Total Nested Holarchy of Goals]] implied by the [[Meta Goal]]. 
 
 We can imagine all the sub-systems of learning, development, governance, stewardship, community, culture, capital, purpose, training, infrastructure, services, and support that would be required. 
 
@@ -46,7 +46,7 @@ That is a good idea that has thus far proved not to be true in the amount of tim
 
 It is true that the [[New World]] will require [[New Marketplaces]]. 
 
-However we know from history that in order for Marketplaces to function properly you have to establish the [[Total Nested Hierarchy of Conditions]], "rules", and [[Values]] within which autonomous agents can act. 
+However we know from history that in order for Marketplaces to function properly you have to establish the [[Total Nested Holarchy of Conditions]], "rules", and [[Values]] within which autonomous agents can act. 
 
 ___
 
@@ -54,8 +54,8 @@ Establishing an economy in the modern world often requires something approximati
 
 For it is the security, the rule of law, the known expectations, the culture, the context, the infrastructure, the rules and aids and structure of the "game" a Nation provides that allows the "game" of the marketplace to be played persistently over time. 
 
-So even if the total set of [[Activity]] implied by the [[Total Nested Hierarchy of Goals]] in the [[Work]] is going to be accomplished by "others" in "marketplaces"... 
+So even if the total set of [[Activity]] implied by the [[Total Nested Holarchy of Goals]] in the [[Work]] is going to be accomplished by "others" in "marketplaces"... 
 
-[[We]] still have the duty to establish the [[Total Nested Hierarchy of Conditions]] in which that coordinated activity can manifest, and to participate in it with the fullness of our being. 
+[[We]] still have the duty to establish the [[Total Nested Holarchy of Conditions]] in which that coordinated activity can manifest, and to participate in it with the fullness of our being. 
 
 ___

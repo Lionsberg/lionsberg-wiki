@@ -429,9 +429,9 @@ Most ~140 values likely already in queue. Net-new candidates worth confirming:
 | Citizen-Led Transformation | The agency of awakened individuals | Blueprint Ch.13/23 |
 | The Ark and Bridge | LIØNSBERG as vessel past collapse | Blueprint Ch.23 |
 | The New Covenant | The spiritual/moral/social/ecological contract | Blueprint Ch.9 |
-| Total Nested Hierarchy of Issues | The problem-space map | Blueprint Ch.26 |
-| Total Nested Hierarchy of Goals | The objective-space map | Blueprint Ch.28 |
-| Total Nested Hierarchy of Opportunities | The pathway-space map | Blueprint Ch.27 |
+| Total Nested Holarchy of Issues | The problem-space map | Blueprint Ch.26 |
+| Total Nested Holarchy of Goals | The objective-space map | Blueprint Ch.28 |
+| Total Nested Holarchy of Opportunities | The pathway-space map | Blueprint Ch.27 |
 
 ### N. From The Orientation and Training System
 

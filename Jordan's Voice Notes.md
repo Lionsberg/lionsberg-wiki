@@ -1682,7 +1682,7 @@ Book Groups
 
   
 
-In different seasons, times, and places, different Values Themes will rise towards the top of the Total Nested Hierarchy of Values. Across Time and Space, 90% of humanity can agree on what constitutes the Way.  
+In different seasons, times, and places, different Values Themes will rise towards the top of the Total Nested Holarchy of Values. Across Time and Space, 90% of humanity can agree on what constitutes the Way.  
 
   
 
@@ -1766,7 +1766,7 @@ We think government simply is the way that it is, yet the world orders rise and 
 
   
 
-We spent a couple years as a community working to define our core values, before we realized how foolish it was to try to distill all that we value down to 4 to 6 things that could not exist where they not supported by a total nested hierarchy of values. Most of us speak English as our primary language. We realized that we were trying to choose 3 to 6 English words to distill down and discuss eternal concepts that were ultimately part of One Spirit. The total set of timeless Wisdom and cross-cultural shared Values expresses itself in a thousand languages and dozens of values, but its Spirit is One. The collective Wisdom that God has given us, across all cultures and times, cannot be distilled down and captured by 3 to 6 English words. We therefore picked the most transcendent term that we could find in the Wisdom traditions, which was the Way. The Way has been used by Christians, by Buddhists, by Taoists, and across a variety of Eastern and Western traditions, to encompass the totality of the Absolute that the faithful are pursuing, the road they are walking to get there, and the transformative results of walking that path towards The Goal.  
+We spent a couple years as a community working to define our core values, before we realized how foolish it was to try to distill all that we value down to 4 to 6 things that could not exist where they not supported by a total nested holarchy of values. Most of us speak English as our primary language. We realized that we were trying to choose 3 to 6 English words to distill down and discuss eternal concepts that were ultimately part of One Spirit. The total set of timeless Wisdom and cross-cultural shared Values expresses itself in a thousand languages and dozens of values, but its Spirit is One. The collective Wisdom that God has given us, across all cultures and times, cannot be distilled down and captured by 3 to 6 English words. We therefore picked the most transcendent term that we could find in the Wisdom traditions, which was the Way. The Way has been used by Christians, by Buddhists, by Taoists, and across a variety of Eastern and Western traditions, to encompass the totality of the Absolute that the faithful are pursuing, the road they are walking to get there, and the transformative results of walking that path towards The Goal.  
 
   
 
@@ -3474,7 +3474,7 @@ Advancing towards Vision, Intention, and Goal (step 1), we must rigorously analy
 
 This set Point A and Point B - FROM / TO.  
 ____  
-The Goal of a business community, when it comes to "sales", is actually relationship development, and understanding how we can best Serve those we relate to, as each element of the community advances towards its unique part of the Total Nested Hierarchy of Goals.  
+The Goal of a business community, when it comes to "sales", is actually relationship development, and understanding how we can best Serve those we relate to, as each element of the community advances towards its unique part of the Total Nested Holarchy of Goals.  
 
 Selling to someone, in order to induce them to consume something they do not need, that does not help them meet their goals, is unethical.  
 

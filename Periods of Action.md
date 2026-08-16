@@ -7,7 +7,7 @@ We suspect that a [[Meta Game]] that helps people learn how to [[Multiplex]] by 
 
 This concept of Periods of Action relates to the engineering concept of [[Multiplex|Multiplexing]]. 
 
-This allows a human being, as a System within a larger System designed to produce [[Throughput]] of [[The Goal]], to focus with 100% attention and clarity across the [[Total Nested Hierarchy of Goals]] that must [[Flow]] through them. 
+This allows a human being, as a System within a larger System designed to produce [[Throughput]] of [[The Goal]], to focus with 100% attention and clarity across the [[Total Nested Holarchy of Goals]] that must [[Flow]] through them. 
 
 It also draws us out abstract and vague worry, into near presence in the moment, wisely acting upon the next thing in our immediate Proximity. 
 

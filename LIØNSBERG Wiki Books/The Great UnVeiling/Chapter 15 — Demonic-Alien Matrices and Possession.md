@@ -149,7 +149,7 @@ who feed upon the low-vibrational
 emanations of suffering populations.  
 
 The deeper and Darker the entities  
-in the Total Nested Hierarchy of Darkness,  
+in the Total Nested Holarchy of Darkness,  
 the more sadistic the energetic blood-lust becomes.  
 It is for this reason that victims are often sacrificed  
 at the peak moment of Konsciously induced Terror,  

@@ -9,7 +9,7 @@ The concept of affordances in the LIØNSBERG System is applicable across multipl
 In the LIØNSBERG System, affordances are often discussed in relation to:
 
 1.  [[Tools]] and [[Anti-Tools]]: Objects, concepts, or systems that can be used to help or hinder the achievement of goals within the LIØNSBERG System.
-2.  [[Total Nested Hierarchy of Goals]]: The structured organization of goals and their relationships, where affordances can be used to facilitate the pursuit and achievement of these goals.
+2.  [[Total Nested Holarchy of Goals]]: The structured organization of goals and their relationships, where affordances can be used to facilitate the pursuit and achievement of these goals.
 3.  [[Conformance To The Ideal]]: Recognizing and utilizing affordances that align with the highest values and ideals within the LIØNSBERG System.
 4.  [[Relative Potential]]: Evaluating the value and utility of different affordances in relation to the specific goals, needs, and contexts within the LIØNSBERG System.
 

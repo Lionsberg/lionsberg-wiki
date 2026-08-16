@@ -1,5 +1,5 @@
-# Total Nested Hierarchy of Issues
-Inherent in every Community of Life is a Total Nested Hierarchy of Issues that must be solved if the elements of Community are to develop into the fullness of their [[Potential]] and Flourish in Harmony. 
+# Total Nested Holarchy of Issues
+Inherent in every Community of Life is a Total Nested Holarchy of Issues that must be solved if the elements of Community are to develop into the fullness of their [[Potential]] and Flourish in Harmony. 
 
 This is not an Absolute list, but the general themes are obvious. If we loved someone, we would want to address the inherent issues of: 
 
@@ -43,9 +43,9 @@ The vast majority of Issues that any Individual, Organization, or Community face
 
 If we developed [[General Solutions]] to these issues, problems, and challenges we would not need to continually "reinvent the wheel", and could instead cause the solutions available to All to [[Become]] [[A Little Better Every Day]]. 
 
-The Total Nested Hierarchy of Issues gives rise to a [[Total Nested Hierarchy of Goals]]. Goals are the positive expression of what can or should be done in response to the problems or desires we are facing. 
+The Total Nested Holarchy of Issues gives rise to a [[Total Nested Holarchy of Goals]]. Goals are the positive expression of what can or should be done in response to the problems or desires we are facing. 
 
-The [[Meta Project]] and [[Meta System]] exist to ensure that this [[Total Nested Hierarchy of Goals]] is accomplished for the Good of All. 
+The [[Meta Project]] and [[Meta System]] exist to ensure that this [[Total Nested Holarchy of Goals]] is accomplished for the Good of All. 
 
 The [[LIØNSBERG System]] is being co-created to instantiate / embody these solutions. 
 

@@ -52,7 +52,7 @@ The end result is not ephemeral - it is actually a New World composed of 8 billi
 
 ## Infrastructure
 
-We have spent the last 5 years synthesizing together lifetimes of infrastructure, technology, language, story, platform, and a [[Total Nested Hierarchy of Conditions]] we thought might be required for this to work. 
+We have spent the last 5 years synthesizing together lifetimes of infrastructure, technology, language, story, platform, and a [[Total Nested Holarchy of Conditions]] we thought might be required for this to work. 
 
 The infrastructure has been vetted and tested by ~170+ Impact Organizations in 17 countries over the last 12 months. 
 
@@ -96,7 +96,7 @@ The objective of [[The Great Game]] is for each Group to [[Progress]] towards [[
 
 [[The Goal]] is to help life develop towards the fullness of its potential and flourish in harmony. 
 
-This requires accomplishing the [[Total Nested Hierarchy of Goals]] and solving the [[Total Nested Hierarchy of Issues]] by co-creating the [[Total Nested Hierarchy of Conditions]] in which that can occur. 
+This requires accomplishing the [[Total Nested Holarchy of Goals]] and solving the [[Total Nested Holarchy of Issues]] by co-creating the [[Total Nested Holarchy of Conditions]] in which that can occur. 
 
 [[Progress]] is made in [[Small Groups]] of 3 to 20 people. 
 

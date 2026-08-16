@@ -10,7 +10,7 @@ It is the pattern by which the [[Creator's Intent]] moves through [[Creative Con
 
 **[[Intention]]** — the invariant WHY. The aim that calls the work into being, flowing ultimately from [[ØNE]] toward [[The Goal]]. Intention is the only rung that does not change as the work descends; everything below it is [[Current Best Understanding]], revisable the moment a better way appears.
 
-**[[Ideal]]** — the Intention imagined as perfection. The as-perfect-as-we-can-conceptualize standard that holds the center of the category, itself subcomposed of sub-Ideals that hold the centers of its sub-categories ([[Total Nested Hierarchy of Ideals]]). The Ideal is unattainable in embodied form by design; it is a clarifying north star, never a totalitarian judge.
+**[[Ideal]]** — the Intention imagined as perfection. The as-perfect-as-we-can-conceptualize standard that holds the center of the category, itself subcomposed of sub-Ideals that hold the centers of its sub-categories ([[Total Nested Holarchy of Ideals]]). The Ideal is unattainable in embodied form by design; it is a clarifying north star, never a totalitarian judge.
 
 **[[Archetype]]** — the Ideal articulated into definite, buildable form. Essence given shape, pattern, and interfaces — yet still free of any particular site, time, or constraint. More defined than the Ideal; less committed than the Prototype.
 
@@ -53,4 +53,4 @@ And the top rung is held with the most open hands of all. The ØNE Intention —
 The [[Way]] can never be boxed in. Only [[ØNE]] is worthy of worship; everything else is workmanship, offered in service, improved without end.
 
 ---
-*Discussed in: [[6.15 Spirit, Archetypes, Prototypes, Instantiations]] · [[3.8 Intention Into Reality]] · [[11.19 The Total Nested Hierarchy of Ideals]] · [[Instantiation Of The Prototype]] · [[2.0 Program Development]] · [[PDG - Conclusion and Prototype Control]] · [[16.12 The Learning System]]*
+*Discussed in: [[6.15 Spirit, Archetypes, Prototypes, Instantiations]] · [[3.8 Intention Into Reality]] · [[11.19 The Total Nested Holarchy of Ideals]] · [[Instantiation Of The Prototype]] · [[2.0 Program Development]] · [[PDG - Conclusion and Prototype Control]] · [[16.12 The Learning System]]*

@@ -1,5 +1,7 @@
 # Meta Aim
 
+*The Meta Aim: the ultimately ineffable top of the [[Total Nested Holarchy]] of aims — where the category rejoins [[ØNE]]. See [[Meta]].*
+
 The word [[Meta]] as it is used in the [[LIØNSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 Therefore the **Meta Aim** is the highest universal overarching and uniting "Aim of aims", that by definition contains within itself and orders all other possible Aims.

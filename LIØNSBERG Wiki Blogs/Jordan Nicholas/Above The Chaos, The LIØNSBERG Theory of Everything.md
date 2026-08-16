@@ -208,7 +208,7 @@ This area is reasonably well studied and well known.
 
 At the outer limits of the Classical Realm, encompassing the All, we return to the level of the Absolute / Ultimate, what we might term the Meta Realm. 
 
-The Meta Realm orders and encompasses the Total Nested Hierarchy of Realms that could be conceivably differentiated out within itself. It is, by definition, the Whole. 
+The Meta Realm orders and encompasses the Total Nested Holarchy of Realms that could be conceivably differentiated out within itself. It is, by definition, the Whole. 
 
 The entirety of the All manifesting from One Source could be considered the living embodiment of the Spirit and Intention of God. It flows from the Mind of God, lives and breathes through the Spirit of God, and ultimately is One Body, One Living System, created, animated, and sustained by, in, and through God. 
 

@@ -122,7 +122,7 @@ The Core Documents folder is **dense with Card-grade concepts**. Below are the s
 | **The Source Idea Carried From Conception** | J's archetypal mandate carried since conception, articulated by age 10-12 | History/Trust Manifesto |
 | **Worksite Earth** | Earth-as-construction-project metaphor | History/Trust Manifesto; throughout |
 | **Designer's Intent** | The intent inscribed in the Divine Blueprints | History/Trust Manifesto; Constitution |
-| **Total Nested Hierarchy of Goals** | The full WBS implied by Creator's/Designer's Intent | History/Trust Manifesto |
+| **Total Nested Holarchy of Goals** | The full WBS implied by Creator's/Designer's Intent | History/Trust Manifesto |
 | **Bringing Intention Into Reality** | The construction-engineering pattern applied to civilizational scope | History/Trust Manifesto |
 | **The Collapse and Rebirth (2019)** | The crucible that freed J for the broader mission | History/Trust Manifesto |
 | **The Phoenix Pattern — Something Powerful, New, and Good Always Rises** | The death/resurrection pattern explicit | History/Trust Manifesto |

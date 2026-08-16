@@ -20,7 +20,7 @@ The [[I Am]]. The [[Uncaused Cause]]. The [[Ultimate Reality]] upon which [[Real
 
 The [[LORD]]. [[God]]. [[Creator]]. 
 
-[[Creator]] and [[Creation]]. [[ØNE]] and [[All]]. The [[ØNE]] thing that occupies the [[Absolute]] Highest Place in the Total Nested Hierarchy of Creation, and encompasses, orders, and united [[All]] [[Creation]] within Itself. The [[ØNE]] [[Deepest]] thing, upon which [[All]] else arises and depends. The Foundation. The [[Ground of Being]]. The [[Alpha And Omega]]. The [[Beginning And End]]. The [[Source and Sustainer]] of [[All]]. 
+[[Creator]] and [[Creation]]. [[ØNE]] and [[All]]. The [[ØNE]] thing that occupies the [[Absolute]] Highest Place in the Total Nested Holarchy of Creation, and encompasses, orders, and united [[All]] [[Creation]] within Itself. The [[ØNE]] [[Deepest]] thing, upon which [[All]] else arises and depends. The Foundation. The [[Ground of Being]]. The [[Alpha And Omega]]. The [[Beginning And End]]. The [[Source and Sustainer]] of [[All]]. 
 
 If we are to become [[United As One]], *by definition* only [[God]], the [[Absolute]], can be placed at [[The Center]]. 
 

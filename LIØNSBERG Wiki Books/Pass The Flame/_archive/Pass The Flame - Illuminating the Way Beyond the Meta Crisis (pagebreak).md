@@ -625,7 +625,7 @@ Because very few people at that time had any desire to attempt to undergo the br
 
 ...I was introduced in relatively short form to the relatively few people that were attempting to think and engage in conversations at that level.  
 
-By 2016, we were having hours of weekly discussion attempting to grapple with the **Total Nested Hierarchy** of issues, needs, and aspirations on **Earth** and Beyond, and discern a **Critical Path** **FROM** Where We Were **TO** The Goal of a flourishing and abundant world, or set of worlds, that worked for **All** their current and future inhabitants.  
+By 2016, we were having hours of weekly discussion attempting to grapple with the **Total Nested Holarchy** of issues, needs, and aspirations on **Earth** and Beyond, and discern a **Critical Path** **FROM** Where We Were **TO** The Goal of a flourishing and abundant world, or set of worlds, that worked for **All** their current and future inhabitants.  
 
 Within the first year or two, we discerned that the most difficult challenge of a **Universal Joint Venture** to regenerate Worksite Earth and Beyond would be legal and governance systems and structure, because such a project would have to be initiated by Us, The People, relatively simultaneously around the world, *yet no one could own it.* Because the New supranational Structure would have to connect and empower billions of people, leaving no one involuntarily behind, it would be akin to forging a New Tribe of Tribes or Nation of Nations, unified around a New Covenant.  
 

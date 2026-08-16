@@ -1,5 +1,7 @@
 # Meta Game
 
+*The Meta Game: the ultimately ineffable top of the [[Total Nested Holarchy]] of games — where the category rejoins [[ØNE]]. See [[Meta]].*
+
 # Meta Game
 The word [[Meta]] as it is used in the [[LIØNSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
@@ -238,7 +240,7 @@ The exchange of [[Time Currency]] for [[Fiat Currency]] represents a "leakage" o
 Therefore the exchange of [[Time Currency]] for Old World Fiat Currency on the [[Time Currency x Fiat Currency Interface]] should be kept to an absolute minimum. 
 
 ## Maximizing the Inflow of Value From The Old World
-One of the [[Total Nested Hierarchy of Goals]] implied by [[The Goal]] is the progressive transfer of energy, resources, and value FROM the [[Old World]], TO the [[New World]] that the Game is co-creating. 
+One of the [[Total Nested Holarchy of Goals]] implied by [[The Goal]] is the progressive transfer of energy, resources, and value FROM the [[Old World]], TO the [[New World]] that the Game is co-creating. 
 
 Therefore, as meany creative "off-ramps" as possible should be created through which energy, resources, and value can EXIT the Old System, and ENTER the New System. 
 
@@ -353,7 +355,7 @@ We anticipate that the stewards of bodies of work such as those of Buckminister 
 And we anticipate that it ultimately will be what allows the elected leaders of all nations and institutions to make [[Wise Right]] decisions that advance the populations they serve, and All, towards [[The Goal]]. 
 
 ## Saving The World 
-It may be that rigorous [[Universal Scenario Modeling]] could be the means through which various Actors around the world could evaluate all the different pathways available to us a Human Species aboard [[Vessel: Earth]], choose the [[Best And Highest]] One, and then have a logical [[Network of Commitments]] that could be progressively implemented and measured through the [[Meta Project]] and [[Meta Game]] frameworks to accomplish of the [[Total Nested Hierarchy of Goals]] implied.
+It may be that rigorous [[Universal Scenario Modeling]] could be the means through which various Actors around the world could evaluate all the different pathways available to us a Human Species aboard [[Vessel: Earth]], choose the [[Best And Highest]] One, and then have a logical [[Network of Commitments]] that could be progressively implemented and measured through the [[Meta Project]] and [[Meta Game]] frameworks to accomplish of the [[Total Nested Holarchy of Goals]] implied.
 
 ## Why This Matters / What This Makes Possible If It Succeeds
 If it was possible to design a Game that could expand at that rate, it would empower every individual on earth to progressively rise towards their potential by engaging in the most meaningful work they could negotiate, for the benefit of All. 

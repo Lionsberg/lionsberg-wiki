@@ -10,7 +10,7 @@ In places like [[A New Sovereignty]], I outlined the hypothesis that what is try
 
 This 330 page [Beginner's Guide to Nation-Building]([https://www.rand.org/content/dam/rand/pubs/monographs/2007/RAND_MG557.pdf](https://www.rand.org/content/dam/rand/pubs/monographs/2007/RAND_MG557.pdf) from Rand provides a thoughtful analysis of the total set of conditions and order of implementation required to forge a functioning society on a small scale. 
 
-It outlines the beginning of an order of priorities, or [[Total Nested Hierarchy of Conditions]], that must be established in Proper Order before a functional society can manifest itself. 
+It outlines the beginning of an order of priorities, or [[Total Nested Holarchy of Conditions]], that must be established in Proper Order before a functional society can manifest itself. 
 
 It might not be enough, but why should we think that anything less is required for Nation: Earth as a Whole? 
 
@@ -24,7 +24,7 @@ Seeing the corruption and injustice still present in even our best examples of d
 
 It might not be enough, but Earth should have _at least_ as functional of a coordination model as those found in a large nation or corporation. Seeing what is at stake, we would be foolish not to [[Aim]] even higher. 
 
-It might not be enough, but Earth should have _at least_ as functional of a System to produce [[Throughput]] of our [[Total Nested Hierarchy of Goals]] as any basic manufacturing or building System has. 
+It might not be enough, but Earth should have _at least_ as functional of a System to produce [[Throughput]] of our [[Total Nested Holarchy of Goals]] as any basic manufacturing or building System has. 
 
 Seeing what is at stake, we would be foolish not to [[Aim]] even higher. 
 
@@ -36,7 +36,7 @@ Mountains are easy to move by Faith, and with Unity. If 8 billion of us simply d
 
 It might not be enough, but I have a reasonable idea of how we can accomplish this. It contains a thousand holes, and it requires your unique insights and help. Yet it is a [[Starting Point]], and [[It Might Work]] if we simply began and committed to [[Becoming]] [[A Little Better Every Day]].  
 
-"All" we have to do, is build a Philosophy, a Community, and a System, and a properly ordered [[Way of Being]], all defined and cohered by Love, purpose-built to create [[Throughput]] of the [[Work]] that must be done to accomplish the [[Total Nested Hierarchy of Goals]] and solve the [[Total Nested Hierarchy of Issues]], all of which are part of one continuously improving thing. 
+"All" we have to do, is build a Philosophy, a Community, and a System, and a properly ordered [[Way of Being]], all defined and cohered by Love, purpose-built to create [[Throughput]] of the [[Work]] that must be done to accomplish the [[Total Nested Holarchy of Goals]] and solve the [[Total Nested Holarchy of Issues]], all of which are part of one continuously improving thing. 
 
 It is quite simple, but it will require a tremendous amount of discipline, courage and [[Work]] to get it done. 
 

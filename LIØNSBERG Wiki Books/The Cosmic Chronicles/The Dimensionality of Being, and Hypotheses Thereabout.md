@@ -18,7 +18,7 @@ The dimensionality of being encompasses the vast, nested layers of existence tha
     - **Implication:** The transition between dimensions involves shifts in consciousness and energy alignment, not physical relocation.
 3. **Nested Layers:**
     
-    - Dimensions are not separate but interwoven, forming a nested hierarchy where higher dimensions encompass and influence lower ones, and lower dimensions stack up and align into higher order functional unities.
+    - Dimensions are not separate but interwoven, forming a nested holarchy where higher dimensions encompass and influence lower ones, and lower dimensions stack up and align into higher order functional unities.
 
 ---
 

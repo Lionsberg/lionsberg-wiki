@@ -19,7 +19,7 @@ Voluntary Associations include:
 
 ## In LIØNSBERG
 
-Voluntary Associations are **one of four cross-cutting axes** beyond the place-and-superorganism nested hierarchy:
+Voluntary Associations are **one of four cross-cutting axes** beyond the place-and-superorganism nested holarchy:
 
 - **[[Guild|Guilds]]** federate by **function** — practitioners of a shared craft
 - **[[Tribe|Tribes]]** federate by **lineage** — sovereigns of shared kinship and inherited tradition, including diasporas

@@ -678,9 +678,9 @@ This domain integrates:
 4. [[Accountability]] / [[Functional Accountability]] 
 ## Vision / Aim / Goal 
 
-5. [[Vision]] / [[Envision]] / [[Total Nested Hierarchy Of Visions]]   
-6. [[Aim]] / [[The Aim]] / [[Most Worthy Aim]] / [[Your Aim]] / [[Choosing A Worthy Aim]] / [[Total Nested Hierarchy of Aims]]  
-7. [[Goal]] / [[Goals]] / [[Most Worthy Goal]] / [[Total Nested Hierarchy of Goals]]  
+5. [[Vision]] / [[Envision]] / [[Total Nested Holarchy Of Visions]]   
+6. [[Aim]] / [[The Aim]] / [[Most Worthy Aim]] / [[Your Aim]] / [[Choosing A Worthy Aim]] / [[Total Nested Holarchy of Aims]]  
+7. [[Goal]] / [[Goals]] / [[Most Worthy Goal]] / [[Total Nested Holarchy of Goals]]  
 8. [[Where We Are Going]]  
 
 ## Alignment and Coherence 
@@ -769,7 +769,7 @@ This domain integrates:
 ## The System 
 
 64. In response to [[Meta Crisis]] and [[Meta Opportunity]], [[We]] have [[Work]] to do.  
-65. We call the [[Total Nested Hierarchy of Work]] required to accomplish the [[Total Nested Hierarchy of Goals]] the [[Meta Project]].  
+65. We call the [[Total Nested Holarchy of Work]] required to accomplish the [[Total Nested Holarchy of Goals]] the [[Meta Project]].  
 66. [[Work]] requires the transfer of [[Energy]] via the application of [[Force]] along a [[Vector]] towards an [[Aim]].  
 67. We call the [[Vector]] the [[Critical Path]] towards [[The Goal]].  
 68. [[Work]] at scale demands a [[System]].   

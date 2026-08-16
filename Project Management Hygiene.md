@@ -3,7 +3,7 @@
 - Set up [[Groups]], [[Teams]], and  [[Organizations The LIØNSBERG Way]]  
 - Understand [[Team of Teams]]   
 - Set [[SMART Goals]]
-- Understand the [[Total Nested Hierarchy of Goals]] that contains the project or puzzle piece you are working on.
+- Understand the [[Total Nested Holarchy of Goals]] that contains the project or puzzle piece you are working on.
 - Understand the sequence of [[Milestones]] and [[Tasks]] required to accomplish the [[Goals]]. 
 - Set realistic timeframes  
 - Create a [[Work Breakdown Structure]] 

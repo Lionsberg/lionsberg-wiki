@@ -1,16 +1,16 @@
-# Chapter 26 - Identifying the Problems and Needs - The Total Nested Hierarchy of Issues
+# Chapter 26 - Identifying the Problems and Needs - The Total Nested Holarchy of Issues
 
 ## Introduction
 
-Before we embark on the profound journey of societal transformation, it's vital to understand the terrain we tread upon. The labyrinthine complexities of current problems and needs are neither random nor isolated; they exist within a Total Nested Hierarchy of Issues that capture the intricate web of cause-and-effect relationships that permeate our social, economic, and spiritual systems. The Total Nested Hierarchy of Issues serves as a dimensional matrix that facilitates the understanding of complex challenges in a holistic manner. While it may appear hierarchical, it's crucial to understand that it functions as a dynamic web of interrelated issues. Each level, from the macro to the micro, offers different granularities of focus, all embedded within the same overarching reality. This multidimensional framework synergizes with The 12 Pillars of LIØNSBERG to offer a robust analytical grid. This model aims to deepen our understanding of systemic challenges, thereby guiding us in the intentional, Divine-guided transformation of society.
+Before we embark on the profound journey of societal transformation, it's vital to understand the terrain we tread upon. The labyrinthine complexities of current problems and needs are neither random nor isolated; they exist within a Total Nested Holarchy of Issues that capture the intricate web of cause-and-effect relationships that permeate our social, economic, and spiritual systems. The Total Nested Holarchy of Issues serves as a dimensional matrix that facilitates the understanding of complex challenges in a holistic manner. While it may appear hierarchical, it's crucial to understand that it functions as a dynamic web of interrelated issues. Each level, from the macro to the micro, offers different granularities of focus, all embedded within the same overarching reality. This multidimensional framework synergizes with The 12 Pillars of LIØNSBERG to offer a robust analytical grid. This model aims to deepen our understanding of systemic challenges, thereby guiding us in the intentional, Divine-guided transformation of society.
 
-## Why a Nested Hierarchy?
+## Why a Nested Holarchy?
 
-One might ask why we need a 'Nested Hierarchy' rather than a simple list of problems and challenges. The reason is rooted in the intricacies of systems thinking. Issues are rarely standalone; they exist within nested structures of mutual influence and causality. In short, everything is interconnected. To tackle any problem effectively, understanding this web of relationships is crucial.
+One might ask why we need a 'Nested Holarchy' rather than a simple list of problems and challenges. The reason is rooted in the intricacies of systems thinking. Issues are rarely standalone; they exist within nested structures of mutual influence and causality. In short, everything is interconnected. To tackle any problem effectively, understanding this web of relationships is crucial.
 
 ### The Meta Issue - Disconnection from the Divine and the Illusion of Separateness 
 
-At the top of this nested hierarchy lies the Meta Issue, which we might articulate as our Way of Being as a human species on Planet Earth; however upon closer examination we see that reason our way of being is fundamentally misaligned ultimately arises from our disconnection from the Divine and our Illusion of Separateness. 
+At the top of this nested holarchy lies the Meta Issue, which we might articulate as our Way of Being as a human species on Planet Earth; however upon closer examination we see that reason our way of being is fundamentally misaligned ultimately arises from our disconnection from the Divine and our Illusion of Separateness. 
 
 It is only through getting back in touch with the Meta Value and Meta Goal of God that all things can converge back towards Proper Order and Right Relationship. 
 
@@ -61,7 +61,7 @@ Each identified issue will find its place within the overall LIØNSBERG strategy
 
 ## Conclusion
 
-The Total Nested Hierarchy of Issues serves as a comprehensive diagnostic tool for identifying, analyzing, and understanding the multi-layered problems facing humanity. It is intended to work in tandem with its positive parallel, the Total Nested Hierarchy of Goals, underpinned by the same 12 Pillars of LIØNSBERG. This duality ensures a balanced approach, incorporating both the challenges to overcome and the opportunities to seize, as we collectively strive for the establishment of the Kingdom of God, on Earth as it is in Heaven.  
+The Total Nested Holarchy of Issues serves as a comprehensive diagnostic tool for identifying, analyzing, and understanding the multi-layered problems facing humanity. It is intended to work in tandem with its positive parallel, the Total Nested Holarchy of Goals, underpinned by the same 12 Pillars of LIØNSBERG. This duality ensures a balanced approach, incorporating both the challenges to overcome and the opportunities to seize, as we collectively strive for the establishment of the Kingdom of God, on Earth as it is in Heaven.  
 _____
 
 Community Notes: 

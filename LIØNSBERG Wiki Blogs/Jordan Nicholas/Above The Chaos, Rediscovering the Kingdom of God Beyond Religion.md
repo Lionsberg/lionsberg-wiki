@@ -14,7 +14,7 @@ Again, *by definition*, the [[Ultimate Unity]] that integrates the [[Plurality]]
 
 When it comes to the issue of [[Power]] and [[Authority]], we discover that the [[Way]] to rightly relate to the [[ØNE]] is on the basis of the Ultimately Benevolent Kingship of God. 
 
-We then discover that the Ultimate Sovereignty extant in [[God]] at the Unified Top of the [[Total Nested Hierarchy of Sovereignties]] flows directionally in an important Way that establishes [[Sovereignty]] at every level, from [[God]] directly to the [[Individual And Local]], and then up through each level of [[Voluntary Association]] on the basis of [[Free Will]] and ongoing [[Voluntary Consent]]. 
+We then discover that the Ultimate Sovereignty extant in [[God]] at the Unified Top of the [[Total Nested Holarchy of Sovereignties]] flows directionally in an important Way that establishes [[Sovereignty]] at every level, from [[God]] directly to the [[Individual And Local]], and then up through each level of [[Voluntary Association]] on the basis of [[Free Will]] and ongoing [[Voluntary Consent]]. 
 
 This crucially places each higher level of aggregated [[Power]] *in service to* the more automatized constituents that voluntarily consent to its aggregation and exercise, with the end logic that *the greatest in the Kingdom shall be the servant of All*.  It also creates the affirmative responsibility and authority of the [[All]] to progressively transform and conform any power or authority that is not serving them and God. 
 

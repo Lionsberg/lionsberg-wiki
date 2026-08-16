@@ -16,7 +16,7 @@ Source is not something we can fully comprehend with the mind or describe in wor
 
  Those who reach deeper states of consciousness or enlightenment describe it as a state of unity, a profound sense of omniharmonic oneness that transcends all distinctions, where the apparently individuated self dissolves into an all-encompassing awareness and love.
 
-From this [[ØNE]] Absolute and Ultimate Creative Source emanates the fundamental principles that govern existence, including **truth**, **love**, **justice**, **stewardship**, **wisdom**, **balance**, and **free will**. These principles points towards the total nested hierarchy of values that together as a Whole form the bedrock of co-creation, guiding the unfolding of universes, realms, and the countless beings who inhabit them.  
+From this [[ØNE]] Absolute and Ultimate Creative Source emanates the fundamental principles that govern existence, including **truth**, **love**, **justice**, **stewardship**, **wisdom**, **balance**, and **free will**. These principles points towards the total nested holarchy of values that together as a Whole form the bedrock of co-creation, guiding the unfolding of universes, realms, and the countless beings who inhabit them.  
 Though Source itself is beyond word, form, and expression, It expresses itself through a layered, multidimensional structure of co-creation and interexistence that allows Its All-Permeaning Spirit and Consciousness to experience and know ItSelf in an infinite variety of ways.
 
 ### The Spectrum of Realms: From Pure Consciousness to Physical Reality

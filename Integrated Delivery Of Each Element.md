@@ -1,6 +1,6 @@
 # Integrated Delivery Of Each Element
 
-Critically, it was discovered that not only could the total [[Program]] best be delivered on a lean integrated basis, but further that each of the [[Total Nested Hierarchy of Goals]] themselves should also be delivered, across time and in each local area, on the basis of integrated delivery.
+Critically, it was discovered that not only could the total [[Program]] best be delivered on a lean integrated basis, but further that each of the [[Total Nested Holarchy of Goals]] themselves should also be delivered, across time and in each local area, on the basis of integrated delivery.
 
 While slightly complexifying the idea of integrated delivery, the insight that total human and living systems flourishing could be accomplished through an overarching and uniting lean integrated delivery approach brought unprecedented coherence and integrity to the [[Program]] at every fractal level.
 

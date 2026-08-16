@@ -62,7 +62,7 @@ What help could you use? How can I best serve?
 
 ## A Non-Zero Probability of Systems Collapse
 
-This starting point of a clearly defined and universal Intention, Vision, Set of Values, [[Total Nested Hierarchy of Goals]], and presence of hundreds of groups who are already in motion and willing to gradually align and advance towards greater collaboration comes at the same time that evidence is growing that we face a [[Non-Zero Probability of Systems Collapse]] on multiple fronts, which could easily shatter the existing order. 
+This starting point of a clearly defined and universal Intention, Vision, Set of Values, [[Total Nested Holarchy of Goals]], and presence of hundreds of groups who are already in motion and willing to gradually align and advance towards greater collaboration comes at the same time that evidence is growing that we face a [[Non-Zero Probability of Systems Collapse]] on multiple fronts, which could easily shatter the existing order. 
 
 While a massive number of voices believe the [[Old System]] is so fundamentally broken and corrupted that its collapse is inevitable... 
 

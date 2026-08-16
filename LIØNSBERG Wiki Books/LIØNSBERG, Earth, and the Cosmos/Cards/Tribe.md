@@ -19,7 +19,7 @@ Tribes include their **diasporas**. A people scattered across many places by his
 
 ## In LIØNSBERG
 
-Tribes are **one of the three cross-cutting axes** beyond the place-and-superorganism nested hierarchy:
+Tribes are **one of the three cross-cutting axes** beyond the place-and-superorganism nested holarchy:
 
 - **[[Guild|Guilds]]** federate by **function** — practitioners of a shared craft across places
 - **Tribes** federate by **lineage** — sovereigns of shared kinship/cultural inheritance across places, including diaspora

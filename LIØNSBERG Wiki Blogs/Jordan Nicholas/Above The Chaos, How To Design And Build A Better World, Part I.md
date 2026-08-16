@@ -46,7 +46,7 @@ We chose a combination of a mythical / imaginative name for the [[Meta Idea]] an
 ### Part 4: Design and Build a System / Machine that Produces Throughput of the Goal into Reality 
 When any significant [[Work]] needs to be accomplished, it makes sense to build a [[System]] or Machine to accomplish it. 
 
-In this case, where a [[Total Nested Hierarchy of Goals]] must be delivered to accomplish the [[Meta Goal]], an [[Integrated Delivery System]] is required. 
+In this case, where a [[Total Nested Holarchy of Goals]] must be delivered to accomplish the [[Meta Goal]], an [[Integrated Delivery System]] is required. 
 
 We brought together lifetimes of work to co-create a provisional [[LIØNSBERG Integrated Delivery System]] as part of the [[LIØNSBERG System]]. 
 
@@ -90,7 +90,7 @@ Analyze the [[Existing Forces and Conditions]] bearing upon the domain to be tra
 Engage the Wise Right People and resources, at the Wise Right Time, for the Wise Right Reason, to accomplish [[The Goal]]. 
 
 ### Part 4: Planning 
-- Differentiate the [[Meta Goal]] into a [[Total Nested Hierarchy of Goals]] reflected in a [[Work Breakdown Structure]]. 
+- Differentiate the [[Meta Goal]] into a [[Total Nested Holarchy of Goals]] reflected in a [[Work Breakdown Structure]]. 
 - Use Pull Planning to break each element of the [[Work Breakdown Structure]] into executable tasks. 
 - Forge the tasks into a logical [[Network of Commitments]]. 
 - Discern the [[Critical Path]] / [[Critical Chain]] 

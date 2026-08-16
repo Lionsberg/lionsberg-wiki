@@ -1,3 +1,3 @@
 # Universal Problems and Needs
 
-For now, see [[Total Nested Hierarchy of Issues]]. 
+For now, see [[Total Nested Holarchy of Issues]]. 

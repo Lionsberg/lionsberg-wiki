@@ -27,7 +27,7 @@ However the only reason those rulers and thieves rose up like weeds in the soil 
 
 Society, in all its complexity, is like an ecosystem - a dynamic context within which complex interactions among participants result in an emergent reality. 
 
-When all the [[Participants]] in an ecosystem [[Hold The Line]], follow [[The Rules]], and [[Play The Game]] properly, it creates an *environment*, a [[Total Nested Hierarchy of Conditions]], in which evil cannot rise and flourish. 
+When all the [[Participants]] in an ecosystem [[Hold The Line]], follow [[The Rules]], and [[Play The Game]] properly, it creates an *environment*, a [[Total Nested Holarchy of Conditions]], in which evil cannot rise and flourish. 
 
 However when the participants in the ecosystem begin to lose their individual integrity, it creates cracks through which evil, like weeds, can begin to penetrate, gain footholds, and rise. In the dark corners left unattended, the parasitical forces that flourish in darkness creep in and begin to multiply. 
 

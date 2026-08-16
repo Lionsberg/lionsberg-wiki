@@ -36,7 +36,7 @@ Articulated principles help to give concrete form to the central animating spiri
 
 ## The One Meta Principle 
 
-For any personality or society to not be fragmented, anxious, and divided against itself, it must have One Supreme Unifying Principle that integrates, coheres, and orders within itself all other principles. This gives rise to the [[Total Nested Hierarchy of Principles]], integrated and cohered by the [[Meta Principle]]. 
+For any personality or society to not be fragmented, anxious, and divided against itself, it must have One Supreme Unifying Principle that integrates, coheres, and orders within itself all other principles. This gives rise to the [[Total Nested Holarchy of Principles]], integrated and cohered by the [[Meta Principle]]. 
 
 In the LIØNSBERG System, that [[Ultimate Principle]] is referred to as [[ØNE]].  
 

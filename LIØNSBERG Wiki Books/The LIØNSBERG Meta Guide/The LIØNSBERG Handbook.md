@@ -190,7 +190,7 @@ Wisdom Flow
 ## Problems, Needs, and Issues 
 
 [[Problems and Needs]]  
-[[Total Nested Hierarchy of Issues]]  
+[[Total Nested Holarchy of Issues]]  
 [[General Issues]]  
 [[General Solutions]]  
 [[Specific Issues]]  
@@ -204,7 +204,7 @@ Wisdom Flow
 [[Goals and Aspirations]]  
 [[Meta Aspiration]]  
 [[Meta Goal]]  
-[[Total Nested Hierarchy of Goals]]  
+[[Total Nested Holarchy of Goals]]  
 
 ## Transformation And Development  
 

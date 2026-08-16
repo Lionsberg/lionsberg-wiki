@@ -1,5 +1,7 @@
 # Meta Project
 
+*The Meta Project: the ultimately ineffable top of the [[Total Nested Holarchy]] of projects — where the category rejoins [[ØNE]]. See [[Meta]].*
+
 The [[Universal and Eternal]] program of action to accomplish our highest overarching and uniting [[Meta Goal]]. 
 
 The word [[Meta]] as it is used in the [[LIØNSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 

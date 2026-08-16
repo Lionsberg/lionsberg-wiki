@@ -225,10 +225,10 @@ The following Cards surface from this book. None are mapped to Volumes (per Pirs
 | **The Ordo Amoris** | The Order of Loves — what should be loved, in what order, to what degree | 11.12 |
 | **The Order of Responsibilities** | The corresponding architecture of duty | 11.13 |
 | **The Order of Goals** | Goals nested in their proper hierarchy | 11.14 |
-| **The Total Nested Hierarchy of Goals and Loves** | The integrated lattice of value-priority | 11.16 |
+| **The Total Nested Holarchy of Goals and Loves** | The integrated lattice of value-priority | 11.16 |
 | **Conformance to the Ideal** | The measurement of any thing against what it is intended to be | 11.18 |
-| **The Total Nested Hierarchy of Ideals** | The complete map of ideals at every level | 11.19 |
-| **Potential Relative to the Total Nested Hierarchy of Goals** | What latent potential the architecture is calling forth | 11.20 |
+| **The Total Nested Holarchy of Ideals** | The complete map of ideals at every level | 11.19 |
+| **Potential Relative to the Total Nested Holarchy of Goals** | What latent potential the architecture is calling forth | 11.20 |
 | **Optimizing For The One Vs Optimizing For One** | The grammatical/ethical distinction between serving ØNE and serving the self | 11.21 |
 | **Acceptance Criteria for the Meta Game** | What the New must demonstrate to qualify | 11.4 |
 | **Acceptance Criteria For Our New Lives and New World** | The personal-scale acceptance criteria | 11.25 |

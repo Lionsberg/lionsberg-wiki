@@ -191,9 +191,9 @@ Among the most powerful are [[The Reptilians]], which brings Us back to figures 
 
 But recall that the Deeper [[The Jedi]] venture into the halls of Darkness, the more and more disembodied, interdimensional, and ultradimensional the [[Forces of Darkness]] become, until they are very close to what We would conceptualize as archetypically demonic. 
 
-One could imagine that near the top of the [[Total Nested Hierarchy of Malevolence]] one would find an archetypical being approaching what We sometimes call Satan—by which We mean essentially the most powerful "fallen" or "antithetical" being in the Universe. 
+One could imagine that near the top of the [[Total Nested Holarchy of Malevolence]] one would find an archetypical being approaching what We sometimes call Satan—by which We mean essentially the most powerful "fallen" or "antithetical" being in the Universe. 
 
-We could then imagine that the [[Total Nested Hierarchy of Malevolence]] is a chaotic mess, with a diverse panoply of species and types of beings, each vying for position and power and stabbing one another in the back as they fractally and frantically live out the unenlightened pursuit of [[Full Spectrum Dominance]] at every level, in every domain. 
+We could then imagine that the [[Total Nested Holarchy of Malevolence]] is a chaotic mess, with a diverse panoply of species and types of beings, each vying for position and power and stabbing one another in the back as they fractally and frantically live out the unenlightened pursuit of [[Full Spectrum Dominance]] at every level, in every domain. 
 
 Now that We have an approximate narrative framework for mapping [[The Dark Empires]], We can begin to trace them throughout the Cosmos, across galaxies, dimensions, and star systems, and eventually back to [[The Fourth Reich]] here on Earth, who are the local puppets possessed by this spirit, who are locally carrying out the cosmic demonic drive towards [[Full Spectrum Dominance]] in service of the [[Forces of Darkness]]. 
 

@@ -76,7 +76,7 @@ The Meta Goal cannot be concretized, but could be described with word tools such
 
 In essence, All that is must be stacked up and aligned to produce flourishing and abundant Life. 
 
-All other systems are a part of the [[Total Nested Hierarchy of Systems]] contained by definition within the [[Meta System]]. 
+All other systems are a part of the [[Total Nested Holarchy of Systems]] contained by definition within the [[Meta System]]. 
 
 ### The Human System 
 Nested within this [[Meta System]] is the [[Living System]], or what some might point to with words such as "Nature". 

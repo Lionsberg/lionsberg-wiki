@@ -4,7 +4,7 @@ The [[LIØNSBERG System]] includes affordance for a continuously improving unive
 
 The Prototype occupies the fourth rung of [[The Creative Cascade]] — the pattern by which [[Intention]] descends through [[Ideal]] and [[Archetype]] into embodied [[Instantiation]], and learnings return home.
 
-The Prototype includes a [[Total Nested Hierarchy of Systems]] relating to fractal [[Individuals|Individual]], [[Group]], and [[Community]] [[Development]]. 
+The Prototype includes a [[Total Nested Holarchy of Systems]] relating to fractal [[Individuals|Individual]], [[Group]], and [[Community]] [[Development]]. 
 
 The [[Idea]] is for [[Individuals]] to be and become in a Way, that helps their [[Small Groups]] be and become, in a [[Way]] that helps the Whole [[Group Of Groups]] be and become, in such a [[Way]] that helps the entire [[Living System]] be and become the fullness of its [[Potential]]. 
 
@@ -19,7 +19,7 @@ Because of the uncertainty as to the size or shape of any given [[Instantiation]
 
 The [[Kit of Parts]] contains a number of different options that can be combined in a variety of different sequences and configurations to localize and adapt the System to any domain, to assist in remodeling current facilities and systems, and to guide future facility and system development.
 
-The Prototype is also being designed to optimize for long term operational efficiency in the production of [[Throughput]] of its [[Total Nested Hierarchy of Goals]]. This is critical inasmuch as the largest long term cost associated with the Program will be the cost of operating each [[Instantiation]] over time.
+The Prototype is also being designed to optimize for long term operational efficiency in the production of [[Throughput]] of its [[Total Nested Holarchy of Goals]]. This is critical inasmuch as the largest long term cost associated with the Program will be the cost of operating each [[Instantiation]] over time.
 
 "Lessons learned" are crucial in prototype development so that continuous learning and continuous improvement can take advantage of further developed operational efficiencies as they are realized.
 

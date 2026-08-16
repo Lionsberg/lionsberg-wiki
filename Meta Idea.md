@@ -1,5 +1,7 @@
 # Meta Idea
 
+*The Meta Idea: the ultimately ineffable top of the [[Total Nested Holarchy]] of ideas — where the category rejoins [[ØNE]]. See [[Meta]].*
+
 The **Meta Idea** of the [[LIØNSBERG System]] and the [[Meta Project]] is that [[All]] things flow from [[ØNE]] thing that contains and orders [[All]] things within Itself. 
 
 This notion points at the same [[Ultimate Reality]] that words like [[ØNE]], [[God]], and [[Absolute]] point to. 

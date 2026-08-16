@@ -14,6 +14,6 @@ The LIØNSBERG IDS is also designed to be highly adaptable, allowing for continu
 
 The LIØNSBERG Integrated Delivery System is a powerful tool for organizations, communities, and individuals who are working towards a shared Vision and Values. It provides a framework for delivering projects and initiatives in a highly collaborative and adaptable way, while aligning local progress with global goals and objectives. By adopting the LIØNSBERG IDS, organizations and communities can work together in an informed, wise, and effective way towards their shared goals and objectives, and can continuously improve the way that they work together over time.
 
-Technically, this approach is critical to producing [[Throughput]] of the [[Total Nested Hierarchy of Goals]] contained in the [[Meta Goal]]. 
+Technically, this approach is critical to producing [[Throughput]] of the [[Total Nested Holarchy of Goals]] contained in the [[Meta Goal]]. 
 
 The LIØNSBERG IDS is one system in the [[LIØNSBERG System]] of systems, which must be co-operated in its entirety to produce [[Throughput]] of [[The Goal]].  

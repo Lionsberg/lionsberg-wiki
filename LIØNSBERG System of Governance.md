@@ -18,7 +18,7 @@ Executive functions are carried out by the [[LIØNSBERG Core Enterprise]] under 
 
 Beyond the three general branches of governance listen above lie an array of functional Groups in the [[Regulatory Branch]] that hold the entire System within the [[Range of Tolerance]] for each [[Function]]. 
 
-These [[Functional Groups]] are responsible for regulating and balancing the [[Total Nested Hierarchy of Functions]] of the Whole within their specified [[Range of Tolerance]]. 
+These [[Functional Groups]] are responsible for regulating and balancing the [[Total Nested Holarchy of Functions]] of the Whole within their specified [[Range of Tolerance]]. 
 
 Beyond the [[LIØNSBERG Council of Elders]], the [[LIØNSBERG General Assembly]], the [[LIØNSBERG Core Enterprise]], and the [[LIØNSBERG Regulatory Groups]], which form the relatively small federal government, the LIØNSBERG System is composed of a vast array of self-governing, sovereign, and autonomous individuals, organizations and communities, each with their own self-governance structure that conforms to the [[Minimum Standards of Interoperability]]. 
 

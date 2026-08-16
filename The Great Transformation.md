@@ -6,7 +6,7 @@ Key aspects of [[The Great Transformation]] include:
 
 1.  **Shifting Paradigms**: Embracing new ways of thinking and understanding the world, based on the interconnectedness of all life, the importance of collaboration, and the recognition that the well-being of individuals, communities, and ecosystems are intrinsically linked.
     
-2.  **Personal Transformation**: Encouraging individuals to internalize and embody the [[Total Nested Hierarchy of Values]], engage in holistic spiritual, mental, and physical development, cultivate a growth mindset, and foster personal resilience, adaptability, and empathy.
+2.  **Personal Transformation**: Encouraging individuals to internalize and embody the [[Total Nested Holarchy of Values]], engage in holistic spiritual, mental, and physical development, cultivate a growth mindset, and foster personal resilience, adaptability, and empathy.
     
 3.  **Cultural Transformation**: Building a culture that values diversity, compassion, and wisdom, supports collective learning and collaboration, and prioritizes the health, well-being, and right relationship of all beings and ecosystems with one another and their Source. 
     

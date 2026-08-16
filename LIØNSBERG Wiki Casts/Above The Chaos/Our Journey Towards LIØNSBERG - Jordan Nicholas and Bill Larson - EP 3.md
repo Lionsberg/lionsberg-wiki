@@ -280,7 +280,7 @@ How that tribe of tribes rightly relates to creation, to the earth, to agricultu
 
 And you get the faint picture. Of what's trying to emerge that's then spoken to in the prophetic voice through Isaiah and others who are painting the picture of the world to come. And it's okay, we're grappling with these things. And if we could just sort it out, then this future that's better than we could possibly imagine of abundance and peace and harmony could result.
 
-And because we haven't figured it out, we're continually falling back into slavery and tyranny and all those different things. So, that concept of. Charity versus justice is one of has to be one of the drivers, and that's why, as we were trying to articulate what are values that's near, that are near the top of the total nested hierarchy of values that reflect the spirit of God, very near the top.
+And because we haven't figured it out, we're continually falling back into slavery and tyranny and all those different things. So, that concept of. Charity versus justice is one of has to be one of the drivers, and that's why, as we were trying to articulate what are values that's near, that are near the top of the total nested holarchy of values that reflect the spirit of God, very near the top.
 
 You, you keep coming back to justice, and that justice is basically the way to put charity out of business. That, that's one of the one of the goals of justice.
 

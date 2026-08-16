@@ -1,6 +1,6 @@
 # Cultivating The Green Shoots
 
-If the [[Total Nested Hierarchy of Conditions]] is correct, the first [[Green Shoots]] of [[That Which Is Trying to Emerge]] will burst through the soil and become visible. 
+If the [[Total Nested Holarchy of Conditions]] is correct, the first [[Green Shoots]] of [[That Which Is Trying to Emerge]] will burst through the soil and become visible. 
 
 From there, our role switches to one of [[Stewardship]] and [[Cultivating]] the emergent [[New Life]].  
 

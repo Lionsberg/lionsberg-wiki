@@ -1,5 +1,7 @@
 # Meta Model
 
+*The Meta Model: the ultimately ineffable top of the [[Total Nested Holarchy]] of models — where the category rejoins [[ØNE]]. See [[Meta]].*
+
 The word [[Meta]] as it is used in the [[LIØNSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 Therefore the [[Meta Game]] is the highest universal overarching and uniting "Game of games", that by definition contains within itself and orders all other possible games.

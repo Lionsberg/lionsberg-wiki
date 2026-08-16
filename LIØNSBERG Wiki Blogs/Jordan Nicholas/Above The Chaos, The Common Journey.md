@@ -20,7 +20,7 @@ If we are going to Progress together, the Question becomes: towards what? What i
 
 It is obvious that it should be something Good. It is is obvious that it should be somewhere Better. And if we get to choose, it would be foolish to choose anything less than the Best; the Most Good.
 
-*By Definition*, what stands at the Top of the [[Total Nested Hierarchy of Goods]] is the [[Ultimate Reality]] we point to when we say [[God]]. The One that integrates, coheres and orders all other Goods within Itself. This is not a religious statement; it is a statement of definition. 
+*By Definition*, what stands at the Top of the [[Total Nested Holarchy of Goods]] is the [[Ultimate Reality]] we point to when we say [[God]]. The One that integrates, coheres and orders all other Goods within Itself. This is not a religious statement; it is a statement of definition. 
 
 If the Object of our Quest is God, transcendent, universal, and eternal, then our aligning Prayer here in [[SpaceTime]] is something like: *Thy Kingdom come, Thy Will be done, on Earth as it is in Heaven.*
 

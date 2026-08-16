@@ -935,7 +935,7 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 
 ### We Identify, Dialogue, and Solve Issues and Threats 
 
-1. We forge a [[Total Nested Hierarchy of Issues]]  
+1. We forge a [[Total Nested Holarchy of Issues]]  
 2. We identify and prioritize the [[Existential Threats]] 
 	1. [[Collapse]]  
 	2. [[Pollution]] - Valuable chemicals and compounds in the wrong places  

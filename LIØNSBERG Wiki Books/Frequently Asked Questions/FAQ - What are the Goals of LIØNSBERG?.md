@@ -4,7 +4,7 @@ LIØNSBERG exists in service to [[The Goal]] of the total integrated wellbeing, 
 
 It's [[Purpose]] is perpetually renew and regenerate the world towards [[Heaven On Earth]].  
 
-The [[Total Nested Hierarchy of Goals]] required to accomplish [[The Goal]] are all included. 
+The [[Total Nested Holarchy of Goals]] required to accomplish [[The Goal]] are all included. 
 
 These are mapped against [[The 12 Pillars of LIØNSBERG]] as a [[Work Breakdown Structure]] for organization and collective action. 
 

@@ -21,10 +21,10 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 7. In a LIØNSBERG World, All Things are Helping One Another Rise towards the fullness of their Unique Potential and [[Flourish in Harmony]].  
 8. In a LIØNSBERG World, We and All Future Generations have an equal citizenship and stake in the Reality We co-create. 
 9. In a LIØNSBERG World, there is no “them” “out there”; there is only Us.  
-10. In a LIØNSBERG World, [[ØNE]] integrates, orders, and coheres within Itself every [[Total Nested Hierarchy of Goods]].  
-11. In a LIØNSBERG World, We balance and uphold the [[Total Nested Hierarchy of Values]].  
-12. In a LIØNSBERG World, We advance towards the [[Total Nested Hierarchy of Goals]].  
-13. In a LIØNSBERG World, We confront and overcome the [[Total Nested Hierarchy of Challenges]].  
+10. In a LIØNSBERG World, [[ØNE]] integrates, orders, and coheres within Itself every [[Total Nested Holarchy of Goods]].  
+11. In a LIØNSBERG World, We balance and uphold the [[Total Nested Holarchy of Values]].  
+12. In a LIØNSBERG World, We advance towards the [[Total Nested Holarchy of Goals]].  
+13. In a LIØNSBERG World, We confront and overcome the [[Total Nested Holarchy of Challenges]].  
 14. [[In a LIØNSBERG World]], there are no factions or divisions among [[Us]].  
 15. In a LIØNSBERG World, We [[Love]] Absolutely and Unconditionally.   
 16. In a LIØNSBERG World, We navigate towards Wisdom and Truth.  

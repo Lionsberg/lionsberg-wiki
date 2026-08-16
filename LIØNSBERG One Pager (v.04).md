@@ -8,7 +8,7 @@ As humanity embarks on the next stage of its [[Quest]] toward its [[Destiny]], w
 
 ## The Meta Crisis
 
-The [[Meta Crisis]] is not a single issue, but a Total Nested Hierarchy of existential threats stemming from one Meta Threat - our way of being and relating to one another, nature, and the Divine. This multifaceted challenge jeopardizes our civilization's foundations, our freedom, and life as we know it.
+The [[Meta Crisis]] is not a single issue, but a Total Nested Holarchy of existential threats stemming from one Meta Threat - our way of being and relating to one another, nature, and the Divine. This multifaceted challenge jeopardizes our civilization's foundations, our freedom, and life as we know it.
 
 ## The 7 Year Window 
 

@@ -1,4 +1,4 @@
-# Total Nested Hierarchy of Values
+# Total Nested Holarchy of Values
 
 See also [[Values]]. 
 
@@ -136,7 +136,7 @@ At various levels of detail and abstraction, these can be described in the Engli
 
 [[All]] values can be derived from the [[ØNE]] [[Meta Value]]. 
 
-The Total Nested Hierarchy of Values results in a [[Total Nested Hierarchy of Goals]], that emerge in response to a [[Total Nested Hierarchy of Issues]]. 
+The Total Nested Holarchy of Values results in a [[Total Nested Holarchy of Goals]], that emerge in response to a [[Total Nested Holarchy of Issues]]. 
 
 See also [[Value]]. 
 

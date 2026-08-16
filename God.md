@@ -4,7 +4,7 @@ In the [[LIØNSBERG System]], God is often referred to as [[ØNE]], [[Creator]] 
 
 It refers to the [[ØNE]] thing from, through, and to which [[All]] other things arise and return. 
 
-It refers to That Which Lies At The Absolute Top of the Total Nested Hierarchy of Values.
+It refers to That Which Lies At The Absolute Top of the Total Nested Holarchy of Values.
 
 It refers to That Which Is In The Highest Place. 
 

@@ -56,7 +56,7 @@ Therefore we could articulate a sentence such as:
 This is the Purpose, Aim, and Goal of the LIØNSBERG System. 
 #### Operationalizing the Divine - The Creator's Intent in The 12 Pillars of LIØNSBERG
 
-If all generations of life and consciousness are to develop towards the fullness of their potential and flourish in harmony, a Total Nested Hierarchy of Issues and Goals logically present themselves. 
+If all generations of life and consciousness are to develop towards the fullness of their potential and flourish in harmony, a Total Nested Holarchy of Issues and Goals logically present themselves. 
 
 How shall we govern our Selves in accordance with Divine Principles? How shall we nurture lifelong learning that imparts not just knowledge but wisdom? How shall we heal and maintain our Selves in a state of wholeness that reflects Divine Integrity? How shall we eradicate corruption and manifest justice as a tangible reality? How shall we ensure that our basic needs—clothing, shelter, food—are met in a manner that respects the Creator's bounty? And how shall we steward our planet in a way that recognizes its sacredness and nurtures its regenerative capacities?
 

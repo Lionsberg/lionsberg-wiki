@@ -105,7 +105,7 @@ In Mondragon, sovereignty is expressed through the **arm's-length federation**. 
 
 ### The Practical Expression
 
-LIØNSBERG describes this as the **[[Total Nested Hierarchy of Sovereignties]]**:
+LIØNSBERG describes this as the **[[Total Nested Holarchy of Sovereignties]]**:
 
 ØNE — ultimate Source of Sovereignty.  
 Flowing not through institutions but through **individuals**. 

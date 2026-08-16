@@ -1,5 +1,7 @@
 # Meta Goal
 
+*The Meta Goal: the ultimately ineffable top of the [[Total Nested Holarchy]] of goals — where the category rejoins [[ØNE]]. See [[Meta]].*
+
 In the [[LIØNSBERG System]], the term [[Meta]] signifies the eternal, universal, ultimate, self-referential, highest order, and most transcendent conception of an idea. Consequently, the **Meta Goal** represents the supreme, overarching, and unifying "Goal of goals" that inherently contains and organizes all other possible goals.
 
 The concept of the **Meta Goal** is crucial as it establishes a framework for aligning our individual goals with the goals of various things we participate in and the **Meta Goal** that is expansive enough to unite [[All]].
@@ -14,6 +16,6 @@ At a higher level of abstraction, it could be stated that the Meta Goal is the *
 
 At the highest level of abstraction, the Meta Goal _is_ [[ØNE]] / God. 
 
-Realizing this Goal would necessitate solving the [[Total Nested Hierarchy of Issues]] and achieving the [[Total Nested Hierarchy of Goals]].
+Realizing this Goal would necessitate solving the [[Total Nested Holarchy of Issues]] and achieving the [[Total Nested Holarchy of Goals]].
 
 This is our [[Current Best Understanding]] of the [[Aim]] of the [[ØNE]]. It is the perfect diverse [[Unity]] and [[Harmony]] that resides at the End of the [[Logic of Love]].

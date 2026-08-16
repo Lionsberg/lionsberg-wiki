@@ -135,7 +135,7 @@ Working through the master inventory, the following convergence clusters are vis
 
 **Adjacent Notes (preserve)**:
 - [[Creator's Intent]] — the divine-source aspect of the goal. Distinct note: ØNE's intent is upstream of what we call the Goal.
-- [[Total Nested Hierarchy Of Goals]] — the structural decomposition of the Goal across scales. Operational note.
+- [[Total Nested Holarchy Of Goals]] — the structural decomposition of the Goal across scales. Operational note.
 - [[The Quest]] — the journey-toward-the-Goal aspect. Distinct.
 - [[The Sacred Ascent]] — the eternal-upward dimension of the Goal. Distinct note about direction-of-travel.
 
@@ -266,7 +266,7 @@ Each is its own canonical Pattern Card. The ladder is canonical in [[Levels of S
 **Distinct notes (preserve)**:
 - [[Sovereignty]] — the foundational note (the Sovereign's birthright)
 - [[Sovereignty At Every Scale]] — the structural principle that Sovereignty is honored at all levels
-- [[Total Nested Hierarchy Of Sovereignties]] — the operational nesting
+- [[Total Nested Holarchy Of Sovereignties]] — the operational nesting
 - [[Fractal Sovereignty]] — the self-similar-at-every-scale property
 - [[The Sovereign]] — the actor noun
 - [[Fractal Sovereigns]] — the collective form

@@ -66,7 +66,7 @@ This is the end of the Path and the beginning of the Whole. The work from here i
 ## Going Deeper
 
 - [[Holofractal Omnifederation]] — how the Pattern federates at every scale
-- [[Total Nested Hierarchy of Sovereignties]] — the five principles in full
+- [[Total Nested Holarchy of Sovereignties]] — the five principles in full
 - [[Sovereignty At Every Scale]] — how the membrane protects each domain
 - [[Voluntary Tithing]] — the economics of inward flow
 

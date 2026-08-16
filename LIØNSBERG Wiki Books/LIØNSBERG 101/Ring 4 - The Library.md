@@ -65,7 +65,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 
 - **[[Field of Agreements]]** — The shared agreements that underpin every Domain of Responsibility and Authority
 - **[[Fractal Sovereignty]]** — How sovereignty is maintained at every level of voluntary association
-- **[[Total Nested Hierarchy of Sovereignties]]** — The full architecture from individual to universal
+- **[[Total Nested Holarchy of Sovereignties]]** — The full architecture from individual to universal
 - **[[Central Animating Spirit]]** — The Spirit of Love from which all patterns flow
 - **[[Meta Goal]]** — The overarching goal of goals
 - **[[Meaningful Work]]** — What makes work meaningful and therefore valuable

@@ -509,7 +509,7 @@
 - Together
 - Together As One
 - Tools
-- Total Nested Hierarchy
+- Total Nested Holarchy
 - Transformational Experiences
 - Trauma
 - Travelers

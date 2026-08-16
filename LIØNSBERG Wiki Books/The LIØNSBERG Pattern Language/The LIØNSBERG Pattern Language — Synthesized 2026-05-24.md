@@ -67,7 +67,7 @@ The first manifestations through which [[ØNE]] becomes nameable. Everything els
 - [[The Goal]] / [[Heaven On Earth For All]] — the destination toward which all things help all things rise.
 - [[The Quest]] — the journey toward the Goal taken in lived form.
 - [[The Sacred Ascent]] — the eternal upward direction.
-- [[Total Nested Hierarchy Of Goals]] — the structural decomposition of the Goal across scales.
+- [[Total Nested Holarchy Of Goals]] — the structural decomposition of the Goal across scales.
 - [[The Way]] — the totality of the path; the integrated form of life moving toward the Goal.
 - [[The Path]] — the specific trodden line; an individual Sovereign's expression of the Way.
 - [[The Daily Way]] — the Way in its daily form.
@@ -186,7 +186,7 @@ Each emotion is one Pattern. The Card for each names the state, distinguishes it
 
 - [[Sovereignty]] · [[The Sovereign]] · [[Fractal Sovereigns]]
 - [[Sovereignty At Every Scale]] · [[Fractal Sovereignty]]
-- [[Total Nested Hierarchy Of Sovereignties]]
+- [[Total Nested Holarchy Of Sovereignties]]
 - [[Sovereignty In The Populated Field]]
 - [[Standing Without Being Captured]]
 - [[Conscious Consent And Withdrawal]] · [[Withdrawal Of Consent]] · [[Exodus]]

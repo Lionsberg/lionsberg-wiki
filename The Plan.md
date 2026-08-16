@@ -8,9 +8,9 @@ In summary, The Plan is to connect up and empower one billion small groups of 3 
 
 For more detail, see [[The LIØNSBERG Blueprint - Manifesto For Worksite Earth 2.0]].  
 - [[Chapter 25 - The LIØNSBERG Work Breakdown Structure - From Strategy to Execution]]  
-- [[Chapter 26 - Identifying the Problems and Needs - The Total Nested Hierarchy of Issues]]   
-- [[Chapter 27 - Recognizing Positive Pathways - The Total Nested Hierarchy of Opportunities]]  
-- [[Chapter 28 - Mapping Solutions and Objectives - The Total Nested Hierarchy of Goals]]  
+- [[Chapter 26 - Identifying the Problems and Needs - The Total Nested Holarchy of Issues]]   
+- [[Chapter 27 - Recognizing Positive Pathways - The Total Nested Holarchy of Opportunities]]  
+- [[Chapter 28 - Mapping Solutions and Objectives - The Total Nested Holarchy of Goals]]  
 - [[Chapter 29 - The LIØNSBERG System and Platform - Enabling Rapid Global Implementation and Learning]]  
 - [[Chapter 30 - The LIØNSBERG Pattern Language - A Field Guide for Local Implementation of the New Vision and Plan]]   
 - [[Chapter 31 - The LIØNSBERG Prototype - A Living Laboratory for Continuous Improvement]]   

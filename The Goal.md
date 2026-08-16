@@ -17,7 +17,7 @@ We are progressing towards [[Heaven On Earth]].
 ____  
 The biggest single idea to grasp in [[Integrated Program Delivery]] is there is only [[ØNE]] overarching and uniting [[Goal]] of the [[System]].
 
-This One Highest [[Meta Goal]]  contains within itself and orders the total nested hierarchy of all other goals and objectives implied by [[The Goal]].
+This One Highest [[Meta Goal]]  contains within itself and orders the total nested holarchy of all other goals and objectives implied by [[The Goal]].
 
 In the [[LIØNSBERG System]], the highest overarching and uniting Goal is called the [[Meta Goal]].
 

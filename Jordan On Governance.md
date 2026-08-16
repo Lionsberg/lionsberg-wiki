@@ -41,7 +41,7 @@ Mondragon is unique in that it has:
 - Deep social ties among the community, that arise from community events, clubs, pubs, restaurants, cultural celebrations, and community building projects among the families of the community, who have deep roots in the place.  
 - Children are largely educated from pre-school in co-operatively run schools, have a co-operatively run university, and graduate from vocational training or university into co-operatively run businesses, in a co-operatively run society. 
 
-All of these elements, organically evolved over decades in response to the problems and needs that arose as the community struggled to liberate itself from governmental and capital oppression, created the [[Total Nested Hierarchy of Conditions]] necessary for such a unique and extraordinary form of life to manifest itself. 
+All of these elements, organically evolved over decades in response to the problems and needs that arose as the community struggled to liberate itself from governmental and capital oppression, created the [[Total Nested Holarchy of Conditions]] necessary for such a unique and extraordinary form of life to manifest itself. 
 
 My [[Current Best Understanding]] directly from the individuals involved in the efforts is that as Mondragon has made efforts to instantiate its system around the world, for instance in South America and Africa, it has struggled because the total set of conditions are not present for the model to work in the same way that it did in mid-50s, post WWII, in the deeply unique Basque region of Spain, with a deeply unique Founder who was able to hold the space for such an emergence to occur. 
 

@@ -1,4 +1,6 @@
 # Meta System
+
+*The Meta System: the ultimately ineffable top of the [[Total Nested Holarchy]] of systems — where the category rejoins [[ØNE]]. See [[Meta]].*
 The word [[Meta]] as it is used in the [[LIØNSBERG System]] is meant to point to the eternal, universal, ultimate, self-referential, highest order, most transcendent conception of an idea. 
 
 Therefore the **Meta System** is the highest universal overarching and uniting "System of systems", that by definition contains within itself and orders all other possible systems.

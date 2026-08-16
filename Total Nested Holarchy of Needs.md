@@ -1,3 +1,3 @@
-# Total Nested Hierarchy of Needs
+# Total Nested Holarchy of Needs
 
 See [[10.6 Suffering From Lack Of Solutions To Inherent Problems And Needs]] 

@@ -3,7 +3,7 @@
 
 [[Values]] form the foundation of the [[LIØNSBERG System]] and the [[New Vision and Plan]], guiding the actions and decisions of [[Citizens]] as they work together to confront and overcome the [[Meta Crisis]] and co-create the [[New World]]. These universal values are essential for fostering a unified, collaborative, and transformative [[Superorganism]] that embraces the diverse skills, knowledge, and passion of all citizens in pursuit of a more just, regenerative, and thriving future for All.
 
-The LIØNSBERG System articulates an overarching and uniting [[Total Nested Hierarchy of Values]], unified by the [[ØNE]] Absolute [[Meta Value]]. 
+The LIØNSBERG System articulates an overarching and uniting [[Total Nested Holarchy of Values]], unified by the [[ØNE]] Absolute [[Meta Value]]. 
 
 These are reflected in [[The LIØNSBERG System of Values]]. 
 
@@ -31,7 +31,7 @@ The [[Core Values]] of any System are like the guard rails or boundaries that pr
 
 The foundational values upon which the System rises must be [[Universal]] and [[Eternal]]. 
 
-They also must be integrated and cohered by a [[Total Nested Hierarchy of Values]], which must be unified by a single highest overarching and uniting [[Meta Value]]. In the [[LIØNSBERG System]], this is the [[ØNE]]. 
+They also must be integrated and cohered by a [[Total Nested Holarchy of Values]], which must be unified by a single highest overarching and uniting [[Meta Value]]. In the [[LIØNSBERG System]], this is the [[ØNE]]. 
 
 By maintaining the [[Meta Value]] at the level of the [[Absolute]], we can articulate what we perceive to be the [[Core Values]] that emanate from It in our own time and language, while affording freedom for community members around the world to explore, ponder, apply, and articulate their own local language and understanding. 
 
@@ -63,12 +63,12 @@ The [[Patterns of Failure]] bring forth that which the Community views as [[Anti
 ### Value 
 Our [[Current Best Understanding]] is that [[Value]] in the New World must be entirely redefined, and reconnected the Universal Values that flow from and are unified by the [[Meta Value]]. 
 
-It is _only_ by entirely reintegrating our [[Total Nested Hierarchy of Values]], and fundamentally and foundationally realigning our notion of [[Value]] with it, that we can bring forth the New Economy and the New Society of the New World. 
+It is _only_ by entirely reintegrating our [[Total Nested Holarchy of Values]], and fundamentally and foundationally realigning our notion of [[Value]] with it, that we can bring forth the New Economy and the New Society of the New World. 
 
 This is a critical notion _technically_ because we can now demonstrate rigorously using accepted principles such as [[Lean]] that the vast majority of human activity in the Old World produced [[Waste]] that actually _inhibited_ [[Value Creation]]. 
 
 ## The Meta Value
-At the absolute top of this [[Total Nested Hierarchy of Values]] is [[ØNE]] [[Meta Value]] that by definition unifies and coheres within Itself All other Values. 
+At the absolute top of this [[Total Nested Holarchy of Values]] is [[ØNE]] [[Meta Value]] that by definition unifies and coheres within Itself All other Values. 
 
 Across multiple traditions, the "Spirit" of the [[Meta Value]] has been most commonly articulated with what in English we might call Unconditional [[Love]], which is associated with the Spirit or Nature of That Which Creates and Sustains Life and Consciousness. In other languages, such as Greek that undergirds many systems of philosophy and religion, a more accurate and nuanced word might be [[Agape]]. Agape is used in texts such as the Bible for the reciprocal, unconditional, and ultimate Love of [[ØNE]] for [[All]], and [[All]] for [[ØNE]]. Or said differently of a Creator for Its Creation, and of Creation for Its Creator. 
 
@@ -90,8 +90,8 @@ This is the entire basis of the [[Meta Idea]]. The [[Meta Idea]], the [[Meta Val
 
 The Spirit / Logos / Logic of the One is the Spirit / Logos / Logic of the System, to extent that our [[Current Best Understanding]] is capable of reflecting that Ultimate Value and Good. 
 
-### The Total Nested Hierarchy of Values
-Cohered and ordered within the [[Meta Value]] is the [[Total Nested Hierarchy of Values]], or what we could consider "Universal Values." The total ordered set of All that is Good. 
+### The Total Nested Holarchy of Values
+Cohered and ordered within the [[Meta Value]] is the [[Total Nested Holarchy of Values]], or what we could consider "Universal Values." The total ordered set of All that is Good. 
 
 Humans [[Act As If]] what they value most (aside from [[ØNE]] / [[God]]) is Consciousness, and then Life. 
 
@@ -107,7 +107,7 @@ Secular and religious philosophers alike understand the need for any System to b
 
 The [[Absolute]] does not need to be articulated or concretized, and in fact should not be articulated or concretized, in order to be related to as the [[One Thing]] that orders and coheres [[All]] things within Itself. 
 
-The Question that leads to the articulation of the [[Total Nested Hierarchy of Values]] is perhaps something like: What is the Spirit or Essence of that which creates and sustains Life and Consciousness? What does it Value and consider Good? What does it consider Anti-Good? 
+The Question that leads to the articulation of the [[Total Nested Holarchy of Values]] is perhaps something like: What is the Spirit or Essence of that which creates and sustains Life and Consciousness? What does it Value and consider Good? What does it consider Anti-Good? 
 
 This question can be held alike by religious and non-religious thinkers. The Logic is the same. 
 

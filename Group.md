@@ -6,6 +6,6 @@ Groups in the LIØNSBERG System can take many forms, including cross-functional 
 
 Groups in the LIØNSBERG System are expected to work in a highly collaborative and adaptive way, using the LIØNSBERG System's guidelines and best practices for vision, analysis, planning, execution, and continuous improvement. They are also expected to engage in regular analysis and reflection, and to continuously improve their own practices and processes to better align with the shared Vision and Goals.
 
-The LIØNSBERG System provides Groups with the tools, resources, and guidance they need to work together effectively towards their specific goals and objectives. Groups play a vital role in the success of the system, and are critical to producing Throughput of the Total Nested Hierarchy of Goals contained in the Meta Goal.
+The LIØNSBERG System provides Groups with the tools, resources, and guidance they need to work together effectively towards their specific goals and objectives. Groups play a vital role in the success of the system, and are critical to producing Throughput of the Total Nested Holarchy of Goals contained in the Meta Goal.
 
 In the LIØNSBERG System, Groups work in a highly collaborative, adaptive, and informed way, and are expected to continuously improve the way that they work together over time. Together, Groups form a distributed [[Team of Teams]] that is united by a shared Vision and commitment to making that Vision a reality.

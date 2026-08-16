@@ -267,7 +267,7 @@ The book is dense with Card-grade material not yet captured. The following table
 | The 44 Acceptance Criteria | Objective tests the New System must satisfy — holistic, regenerative, citizen-led, multi-scale, etc. The criteria function as a discernment-instrument for Sovereigns weighing competing systems | 6.5 |
 | The 138 Aspects of the New World | The enumerated Vision-features (Spirituality, Inclusive Governance, Circular Economy, etc.) — operates as a "checklist of Heaven" the New Civilization is co-creating toward | 16.7 |
 | The 50 Anti-Values | The corresponding list of what does NOT belong in the New World (Tyranny, Chaos, Injustice, etc.) — pairs with the 138 as the filtering instrument | 16.7 |
-| The Total Nested Hierarchy of Issues | The taxonomic frame for organizing the meta-crisis into addressable layers | 16.7, 6.5 |
+| The Total Nested Holarchy of Issues | The taxonomic frame for organizing the meta-crisis into addressable layers | 16.7, 6.5 |
 | Root Causes vs Symptoms | The diagnostic discipline that distinguishes treating roots from treating manifestations | 3.2, 4.1-4.3 |
 | The LIØNSBERG Integrated Development Goals (IDGs) | The named successor to the UN SDGs — universal, just, holistic, adaptive | 16.5.8, 16.5.10 |
 | The Grand Challenges | The named set of macro-challenges the New System addresses | 16.5.9, multiple |

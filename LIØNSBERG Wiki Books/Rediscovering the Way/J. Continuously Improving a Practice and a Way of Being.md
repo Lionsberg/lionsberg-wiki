@@ -4,7 +4,7 @@ Martial arts and spiritual transformation is a lifelong journey of self-discover
 
 1.  **Embracing a Growth Mindset:** Cultivate a mindset that embraces continuous learning, growth, and adaptation. Recognize that mastery is a process rather than a destination, and be open to discovering new insights, refining your techniques, and deepening your understanding of the Way throughout your life.
     
-2.  **Setting and Reviewing Goals:** Regularly set and review personal goals related to your martial arts practice, as well as your physical, mental, and spiritual growth. Ensure that these are integrated into a [[Total Nested Hierarchy of Goals]], and use these goals as a framework to guide your efforts, track your progress, and identify areas for improvement.
+2.  **Setting and Reviewing Goals:** Regularly set and review personal goals related to your martial arts practice, as well as your physical, mental, and spiritual growth. Ensure that these are integrated into a [[Total Nested Holarchy of Goals]], and use these goals as a framework to guide your efforts, track your progress, and identify areas for improvement.
     
 3.  **Seeking Knowledge and Inspiration:** Continuously seek out new knowledge and inspiration from a variety of sources, including teachers, mentors, books, and experiences. Be open to learning from other martial arts styles, disciplines, and traditions, recognizing that wisdom can be found in many forms.
     

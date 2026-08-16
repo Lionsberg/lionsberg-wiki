@@ -11,13 +11,13 @@ This book is a [[Work In Progress]]. As we rediscover the universal [[Values]] t
 
 ## Values Pattern Language
 
-Our Aim is to continuously improve a Values Pattern Language to interrelate the [[Total Nested Hierarchy of Values]], and link them to principles and behaviors to guide our co-creative endeavors. 
+Our Aim is to continuously improve a Values Pattern Language to interrelate the [[Total Nested Holarchy of Values]], and link them to principles and behaviors to guide our co-creative endeavors. 
 
 [[Template For Values Pattern Language]]  
 
 ## The Highest Uniting Value / The Meta Value 
 
-By definition, the ultimately ineffable [[Meta Value]] we point to with [[Word Tools]] such as [[God]] / [[Creator]] / [[ØNE]] is what balances, orders and coheres the [[Total Nested Hierarchy of Values]] within Itself; the [[Central Animating Spirit]] that creates, sustains, and orders the [[Universe]]. 
+By definition, the ultimately ineffable [[Meta Value]] we point to with [[Word Tools]] such as [[God]] / [[Creator]] / [[ØNE]] is what balances, orders and coheres the [[Total Nested Holarchy of Values]] within Itself; the [[Central Animating Spirit]] that creates, sustains, and orders the [[Universe]]. 
 
 ## The Spirit and The Way of the One
 

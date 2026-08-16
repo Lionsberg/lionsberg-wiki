@@ -8,11 +8,11 @@ At the heart of the LIØNSBERG System is the Meta Goal, the overarching and unif
 
 The Meta Goal provides a framework for aligning our individual goals with the goals of various things we participate in, ultimately uniting all living beings in the pursuit of a shared purpose. By pointing toward the Absolute without concretizing it, the Meta Goal avoids the Pattern of Failure that arises when we concretize the Absolute.
 
-## The Total Nested Hierarchy of Goals: A Roadmap to the New World
+## The Total Nested Holarchy of Goals: A Roadmap to the New World
 
-The Total Nested Hierarchy of Goals is an interconnected and interdependent set of goals that collectively contribute to the progressive realization of the Meta Goal. These goals are organized within a properly integrated hierarchical structure, ensuring that our individual and collective efforts are aligned and coordinated.
+The Total Nested Holarchy of Goals is an interconnected and interdependent set of goals that collectively contribute to the progressive realization of the Meta Goal. These goals are organized within a properly integrated hierarchical structure, ensuring that our individual and collective efforts are aligned and coordinated.
 
-The Total Nested Hierarchy of Goals includes:
+The Total Nested Holarchy of Goals includes:
 
 1.  The Meta Goal
 2.  High-Level Goals (e.g., betterment of society, ecological regeneration, personal transformation)
@@ -22,7 +22,7 @@ The Total Nested Hierarchy of Goals includes:
 6.  Group Goals
 7.  Individual Goals
 
-By organizing our goals within this hierarchy, we can foster greater collaboration, cooperation, and coordination among diverse individuals, groups, and sectors in diverse times and places. The Total Nested Hierarchy of Goals serves as a roadmap for our journey toward the New World, guiding our collective efforts and ensuring that we stay focused, inspired, and united in our pursuit of a better future for all living beings.
+By organizing our goals within this hierarchy, we can foster greater collaboration, cooperation, and coordination among diverse individuals, groups, and sectors in diverse times and places. The Total Nested Holarchy of Goals serves as a roadmap for our journey toward the New World, guiding our collective efforts and ensuring that we stay focused, inspired, and united in our pursuit of a better future for all living beings.
 
 ## Elevate and Transform: A Guiding Principle for Personal and Collective Growth
 
@@ -70,6 +70,6 @@ By working together as co-creators to elevate and transform both society and the
 
 The LIØNSBERG System invites each of us to embrace our role as [[Co-Creators]], actively participating in the [[Quest]] towards the [[New World]]. By adopting the principles, practices, and aspirations outlined in the [[LIØNSBERG System]], we can contribute meaningfully to the collective effort of crossing the chasm and co-creating the Land of Promise.
 
-As co-creators, we must engage in ongoing self-reflection, learning, and growth, embodying the values and principles of the LIØNSBERG System in our everyday lives. By working together to elevate and transform ourselves, our communities, and society as a whole, we can help to ensure that our individual and collective actions align with the [[Total Nested Hierarchy of Goals]] and contribute to the [[Progressive Realization]] of the [[Meta Goal]].
+As co-creators, we must engage in ongoing self-reflection, learning, and growth, embodying the values and principles of the LIØNSBERG System in our everyday lives. By working together to elevate and transform ourselves, our communities, and society as a whole, we can help to ensure that our individual and collective actions align with the [[Total Nested Holarchy of Goals]] and contribute to the [[Progressive Realization]] of the [[Meta Goal]].
 
 Together, we can embark on the journey towards the New World, uniting in our shared vision, values, and aspirations, and co-creating a just, regenerative, and flourishing future for all living beings.

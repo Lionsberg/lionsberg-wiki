@@ -1,4 +1,4 @@
 # Universal Goals and Values
 
-See [[Total Nested Hierarchy of Values]]  
-See [[Total Nested Hierarchy of Goals]]  
+See [[Total Nested Holarchy of Values]]  
+See [[Total Nested Holarchy of Goals]]  

@@ -201,7 +201,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
     
 73. The [[Universe]] as such (the [[Meta Universe]]) is subcomposed of an array of Nested Universes  
     
-74. These are ordered in a [[Total Nested Hierarchy of Universes]]  
+74. These are ordered in a [[Total Nested Holarchy of Universes]]  
     
 75. The Universe continually births new Universes, and Universes continually die  
     

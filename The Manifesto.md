@@ -7,7 +7,7 @@ The LIØNSBERG Manifesto, along with the [[New Vision and Plan]], serves as a gu
 The Manifesto is grounded in the following principles:
 
 1.  **Acknowledgment of the Meta Crisis**: Recognizing the complex, interconnected challenges facing humanity and the urgency of taking collective action to address these issues.
-2.  **Commitment to Universal Values**: Embracing the [[Total Nested Hierarchy of Values]] as a unifying framework for guiding actions, decisions, and interactions within [[The Movement]] and [[The Battle]].
+2.  **Commitment to Universal Values**: Embracing the [[Total Nested Holarchy of Values]] as a unifying framework for guiding actions, decisions, and interactions within [[The Movement]] and [[The Battle]].
 3.  **Collective Action and Collaboration**: Encouraging cooperation, dialogue, and shared learning among [[Citizens]] to foster the co-creation of innovative, transformative, and systemic solutions to the [[Meta Crisis]].
 4.  **Empowerment and Participation**: Ensuring that all [[Citizens]] have the opportunity and support necessary to contribute their unique skills, knowledge, and perspectives to [[The Movement]] and [[The Battle]].
 5.  **Regenerative and Holistic Solutions**: Prioritizing the health and wellbeing of ecosystems, communities, and individuals, promoting a sustainable, regenerative, and thriving future for [[All]].

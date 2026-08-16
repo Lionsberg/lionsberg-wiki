@@ -1,6 +1,6 @@
 # System Wide Master Plan
 
-**_A coordinated [[System]] for developing and delivering the basic resources, infrastructure, and services that solve the problems inherent in every individual, organization and community is necessary to achieve the [[Total Nested Hierarchy of Goals]] of this Program; therefore a system-wide approach is needed.
+**_A coordinated [[System]] for developing and delivering the basic resources, infrastructure, and services that solve the problems inherent in every individual, organization and community is necessary to achieve the [[Total Nested Holarchy of Goals]] of this Program; therefore a system-wide approach is needed.
 
 The System Wide Master Plan is an output of the [[LIØNSBERG Planning System]], which is part of the [[LIØNSBERG Integrated Delivery System]]. 
 
