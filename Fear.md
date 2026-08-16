@@ -6,7 +6,7 @@ Fear is the reading that something precious feels threatened.
 
 **What It Signals.** Fear reports that something we hold precious — life, love, belonging, meaning, the work — stands in the path of possible harm. It is the [[Living System]]'s oldest guardian, and its reading is fast precisely because it must be. Fear also marks thresholds: it rises strongest at the edge of the [[Unknown]], which means it often stands exactly where growth is ([[Map of Reality]] — the hole in the map and the fall are guarded by fear before they are crossed).
 
-**Its Gradient.** One continuous band of intensity: unease → apprehension → [[Worry]] → [[Anxiety]] → fear → [[Dread]] → [[Terror]]. And across the band, a twin: [[Excitement]] runs on nearly the same current — the body aroused at a threshold — read with openness instead of aversion. Many crossings only require re-reading the same energy.
+**Its Gradient.** One continuous band of intensity: [[Unease]] → [[Apprehension]] → [[Worry]] → [[Anxiety]] → fear → [[Dread]] → [[Terror]]. And across the band, a twin: [[Excitement]] runs on nearly the same current — the body aroused at a threshold — read with openness instead of aversion. Many crossings only require re-reading the same energy.
 
 **Its Gift.** Protection, and precision about what we love. Fear is a map of our treasures: we fear only where we cherish. Read well, it tells us both *what to guard* and *where our next threshold stands*.
 

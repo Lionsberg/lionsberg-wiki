@@ -6,7 +6,7 @@ Grief is love reading a loss — the felt weight of a bond that remains after wh
 
 **What It Signals.** Grief reports that something woven into us — a beloved, a home, a season of life, a hoped-for future, a self we were — is no longer embodied where the bond expects it. The bond itself has not broken; that is why it hurts. Grief is not the opposite of love. Grief *is* love, continuing under conditions of absence.
 
-**Its Gradient.** [[Disappointment]] → [[Sadness]] → sorrow → grief → [[Anguish]] → [[Despair]]. Its long shore is mourning; its bittersweet edge, [[Nostalgia]]; grief witnessed and shared becomes lamentation — one of the oldest coherence-practices of human community.
+**Its Gradient.** [[Disappointment]] → [[Sadness]] → [[Sorrow]] → Grief → [[Anguish]] → [[Despair]]. Its long shore is [[Mourning]]; its bittersweet edge, [[Nostalgia]]; grief witnessed and shared becomes [[Lamentation]] — one of the oldest coherence-practices of human community.
 
 **Its Gift.** Grief is how a living being metabolizes loss without abandoning love. The waves are the slow re-weaving of the [[Map of Reality]] around an absence — each surge one stitch. Grief honored teaches the true worth of things; the griever knows, as no one else can, what mattered. And grief completes into a strange treasure: the beloved carried inward, love made portable, unkillable.
 
