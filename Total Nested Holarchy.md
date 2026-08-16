@@ -16,6 +16,6 @@ These are not seven separate structures. They are seven facings of the one Total
 
 Every rendering of a Total Nested Holarchy — including each of the pages above — is a [[Current Best Articulation]] of a structure that is ultimately more continuous, more alive, and more unified than any rendering can show ([[Essences, Renderings, And Ineffable Referents]]).
 
-*Note on the word: earlier articulations said "Total Nested Hierarchy." The structure was never a hierarchy of command; it was always wholes within wholes. The language was corrected to Holarchy in August 2026 — an example of [[Current Best Articulation]] improving while the [[Current Best Understanding]] it renders holds steady.*
-
 Within every Total Nested Holarchy, membership and value are read as gradients, not boxes — every embodied instance standing somewhere on the continuous field around the [[Ideal]] at the center of its Category ([[The Living Gradient]]).
+
+*Note on the word: earlier articulations said "Total Nested Hierarchy." The structure was never a hierarchy of command; it was always wholes within wholes. The language was corrected to Holarchy in August 2026 — an example of [[Current Best Articulation]] improving while the [[Current Best Understanding]] it renders holds steady.*

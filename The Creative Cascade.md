@@ -16,7 +16,7 @@ It is the pattern by which the [[Creator's Intent]] moves through [[Creative Con
 
 **[[Prototype]]** — the first integrated embodiment, still "in the cloud." The whole thing, composed and coherent, maintained as an interoperable [[Kit of Parts]] so it can be adapted to any domain — and continuously improved by the learnings of every Instantiation ([[The Prototype]]).
 
-**[[Instantiation]]** — the Prototype on the ground, in a specific place, among specific people, under specific constraints. Every Instantiation compromises the Ideal to some degree; local conditions demand it. The compromise is not failure. The compromise is the data.
+**[[Instantiation]]** — the Prototype on the ground, in a specific place, among specific people, under specific constraints. Every Instantiation compromises the Ideal to some degree — its conformance a position on [[The Living Gradient]], never a pass or fail; local conditions demand it. The compromise is not failure. The compromise is the data.
 
 ## The Return Flow
 
@@ -30,7 +30,7 @@ The mechanics of the Return Flow are not aspiration; they are drawn from proven 
 
 ## The Cascade Is Fractal
 
-The Cascade runs at every scale, and every rung contains cascades within it. Each Part in the [[Kit of Parts]] is itself a prototype, with its own Ideal, its own Archetype, its own Instantiations, and its own return flow. Prototypes of prototypes, wholes within wholes — the same pattern, all the way up and all the way down ([[Holon]]).
+The Cascade runs at every scale, and every rung contains cascades within it. And the descent is *pulled*, never pushed: each rung comes into being when real need and ripened opportunity call for it ([[Just In Time Co-Creation]]). Each Part in the [[Kit of Parts]] is itself a prototype, with its own Ideal, its own Archetype, its own Instantiations, and its own return flow. Prototypes of prototypes, wholes within wholes — the same pattern, all the way up and all the way down ([[Holon]]).
 
 At the highest level, the Cascade reads:
 
