@@ -10,7 +10,7 @@ At the center of every [[Categories|Category]] belongs an [[Ideal]]; at the cent
 
 1. Census the vault: extract every `[[link]]`, resolve against existing pages, rank missing targets by inbound count.
 2. Classify: **concept pages** (create, distilled from inbound contexts + corpus discussions, with *Discussed in* footers) · **variant repairs** (an existing page under a near-name — reconcile, don't duplicate) · **person pages** (separate track, consent-aware) · **grammatical words** (True, Become, Know… — leave incipient unless a real teaching calls).
-3. Work in phases of ~10–15 pages, highest-linked and most load-bearing first. Never from general knowledge: **the canon already knows; each page is a distillation.**
+3. Work in phases of ~10–15 pages, highest-linked and most load-bearing first. **Gather what the canon holds first; then cohere it with the wisest general knowledge and the inbound contexts into [[Current Best Understanding]].** Bypassing the canon's existing voice is the failure; synthesis is the work.
 
 ## Census — 2026-08-16 (Phase 1 baseline)
 
