@@ -8,7 +8,7 @@ Three properties make a Kit of Parts alive rather than a parts bin:
 
 **Each Part is whole.** A Part is not a fragment; it is a complete, coherent capability — and each Part is itself a prototype, with its own [[Ideal]], its own [[Archetype]], its own Instantiations, and its own learning loop ([[The Creative Cascade]] runs fractally within the Kit).
 
-**The Parts interoperate.** Any combination composes into a working whole, because the Parts share the same underlying pattern and interfaces — wholes within wholes ([[Holon]]).
+**The Parts interoperate.** Combinations compose into working wholes, because the Parts share the same underlying pattern and interfaces — wholes within wholes ([[Holon]]).
 
 **The Kit learns.** Every Instantiation of every Part sends its learnings home, so the Kit is continuously improved and every future deployment inherits the total aggregated experience of all prior ones.
 

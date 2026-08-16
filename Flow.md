@@ -4,7 +4,7 @@ Flow is the unobstructed movement of life through a system — and the state of 
 
 Flow moves at every scale, and all the scales are one pattern:
 
-**The Divine Flow** — the great current of [[InterExistence]] itself, the movement of [[Life]], [[Time]], and [[Energy]] through [[All]] things from and toward [[ØNE]]. To live well is not to dam or race this current but to join it — the oldest teaching of the [[Way]] ([[1.13 Harmony, Equilibrium, Right Relationship, Flow, Oneness]]).
+**The Divine Flow** — the great current of [[InterExistence]] itself, the movement of [[Life]], [[Time]], and [[Energy]] through [[All]] things from and toward [[ØNE]]. To live well is not to dam or race this current but to join it — the oldest teaching of the [[Way]].
 
 **The Sovereign's flow** — each being holds a daily, allocatable flow of [[Time]], [[Attention]], and [[Energy]]: the true currency of a life, and of every [[Commitments|Commitment]] made to others (a Circle pledging a tenth of its available flow is pledging its life-current, not an abstraction).
 

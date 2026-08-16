@@ -13,4 +13,4 @@ Three truths carry Story:
 **Stories nest.** Your Story lives within your Circle's, within your people's, within [[The Story of LIØNSBERG]], within the [[Meta Story]] — the highest overarching and uniting Story of stories, whose top, like every [[Meta]] top, is ultimately ineffable. Aligning our stories within the greater ones is how sovereign lives become one co-creation ([[Your Story]]).
 
 ---
-*Discussed in: [[Read The Story]] · [[The Story (Commentary)]] · [[Meta Story]] · [[0.4 The Meta Story]] · [[Every Story Is A Prophesy]]*
+*Discussed in: [[Read The Story]] · [[The Story (Commentary)]] · [[Meta Story]] · [[0.4 The Meta Story]]*

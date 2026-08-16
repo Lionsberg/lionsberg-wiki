@@ -8,7 +8,7 @@ Its facings, each with its own page:
 
 - **[[On Earth As it Is In Heaven]]** — the prayer become program: the [[Creator's Intent]] that the pattern of Heaven be embodied here, which is the intention of LIØNSBERG itself ([[LIØNSBERG Intention]]).
 - **[[Heaven On Earth]]** — the civilizational aim: [[The Goal]]'s destination, for All, forever.
-- **[[Heaven Here and Nøw]]** — the present-tense truth: Heaven is not only ahead; it inbreaks into any moment where the conduits are present ([[Inbreaking And Displacing]]) — tasted whenever [[Joy]], [[Peace]], and [[Love]] sound together.
+- **[[Heaven Here and Nøw]]** — the universal frame and present-tense truth: Heaven on any world, in any moment where the conduits are present ([[Inbreaking And Displacing]]), of which [[Heaven On Earth]] is Earth's local Chapter — tasted whenever [[Joy]], [[Peace]], and [[Love]] sound together.
 
 Held whole: Heaven is the [[Ideal]] at the very center of the category *how life can be* — approached forever, never exhausted, and genuinely present in every step taken toward it ([[The Creative Cascade]] · [[Progressive Realization]]).
 

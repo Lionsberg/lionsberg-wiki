@@ -6,7 +6,7 @@ Joy is the reading of resonance with what is — the felt sound of life agreeing
 
 **What It Signals.** Joy reports [[Coherence]]: this moment, this being, this work is in resonance with what we most deeply are and love — a taste, here and now, of [[Heaven Here and Nøw]]. Where joy rises reliably, the gradient is telling us where our life wants to grow. Joy is a compass needle that points by singing.
 
-**Its Gradient.** [[Contentment]] → [[Gladness]] → [[Happiness]] → Joy → [[Delight]] → [[Awe]] → [[Bliss]]. Its quiet floor is [[Peace]]; its relational face is [[Connection]]; met with another's good fortune it becomes shared celebration — joy is the most contagious frequency there is ([[Resonance]]).
+**Its Gradient.** [[Contentment]] → [[Gladness]] → [[Happiness]] → Joy → [[Delight]] → [[Awe]] → [[Bliss]]. Its quiet floor is [[Peace]]; its relational face is [[Connection]]; met with another's good fortune it becomes shared celebration — few frequencies are more contagious ([[Resonance]]).
 
 **Its Gift.** Orientation and fuel. Joy marks the path — *more life this way* — and simultaneously provides the energy to walk it. A person, Circle, or civilization that has located its true joys has located its [[Purpose]]; the Great Game is meant to be *played*, and joy is the sound of playing it well.
 
@@ -15,3 +15,6 @@ Joy is the reading of resonance with what is — the felt sound of life agreeing
 **The Move.** Let it in — fully, without hurry and without grasping. Read it: *what exactly is resonating here? What does this joy reveal about what I am for?* Give thanks — [[Gratitude]] is joy's amplifier. Share it — joy multiplies by division. Then follow it: let what reliably sings shape where the life is built ([[Emotion]]).
 
 Related: [[Gratitude]] · [[Peace]] · [[Awe]] · [[Contentment]] · [[Love]] · [[Emotion]]
+
+---
+*Discussed in: [[The LIØNSBERG Book of Emotions]] · [[Mastery Of Emotions]]*

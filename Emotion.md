@@ -10,7 +10,7 @@ One of the ones of the [[ØNE]], exploring [[Reality]] in embodied form, cannot 
 
 **Emotions are gradients, not boxes.** There is no wall between unease and worry, worry and fear, fear and dread, dread and terror — there is one continuous band of intensity, and a living being moves along it. The named emotions are [[Word Tool|Word Tools]]: bands in a continuous spectrum, named so we can answer one another's *"how do you feel?"* with enough precision to be met ([[The LIØNSBERG Book of Emotions]]). The name is for communication; the reality is flow.
 
-**No emotion is an enemy.** Every emotion carries a gift — the precise information it evolved to bring — and every emotion has a distortion: what it becomes when refused, frozen, or enthroned. Grief refused becomes depression; anger refused becomes resentment or explosion; even joy, grasped at, curdles into craving. The distortions come not from feeling, but from damming the flow ([[Distortion]]). Emotion is a river reading the landscape; the practice is to keep it moving.
+**No emotion is an enemy.** Every emotion carries a gift — the precise information it evolved to bring — and every emotion has a distortion: what it becomes when refused, frozen, or enthroned. Grief refused can sink into depression; anger refused hardens into resentment or erupts; even joy, grasped at, curdles into craving. The distortions come not from feeling, but from damming the flow ([[Distortion]]). Emotion is a river reading the landscape; the practice is to keep it moving.
 
 ## The Practice
 

@@ -2,7 +2,7 @@
 
 A Superorganism is a living whole composed of living wholes — an organism whose cells are themselves organisms ([[Holon]]).
 
-The beehive, the coral reef, the forest-and-fungal web — and the human being itself: trillions of "human" cells co-inhabiting with an even greater number of interexistent non-human intelligences, together forming one coherent unit of [[Life]] whose aggregate [[Intelligence]] is far more than the brain's ([[7.33 Superorganisms]]). The [[Living System]] builds at every scale by weaving sovereign lives into larger living unities, without dissolving the sovereignty of the parts — superorganisms made of superorganisms, all the way down ([[Holon]]).
+The beehive, the coral reef, the forest-and-fungal web — and the human being itself: trillions of "human" cells co-inhabiting with an even greater number of interexistent non-human intelligences, together forming one coherent unit of [[Life]] whose aggregate [[Intelligence]] is far more than the brain's. The [[Living System]] builds at every scale by weaving sovereign lives into larger living unities, without dissolving the sovereignty of the parts — superorganisms made of superorganisms, all the way down ([[Holon]]).
 
 A **[[The Sovereign Superorganism|Sovereign Superorganism]]** is what emerges when sovereigns *federate consciously*: a Body capable of unified action, sustained intention, and distributed sensing — that preserves the sovereignty of every constituent at every level, holds one-member-one-voice at every scale, and coordinates by [[Higher Order Functional Unity]], never by command.
 

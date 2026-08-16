@@ -1,6 +1,6 @@
 # Meta
 
-The word **Meta** as it is used in the [[LIØNSBERG System]] points toward the ultimately ineffable top of the [[Total Nested Holarchy]] of a category — the eternal, universal, ultimate, self-referential, highest order, all encompassing, most transcendent level of an idea, where the category rejoins [[ØNE]].
+**Meta** points toward the ultimately ineffable top of the [[Total Nested Holarchy]] of a category — the eternal, universal, ultimate, self-referential, highest order, all encompassing, most transcendent level of an idea, where the category rejoins [[ØNE]].
 
 Two things must be held together about every Meta term:
 

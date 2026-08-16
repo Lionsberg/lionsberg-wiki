@@ -1,6 +1,6 @@
 # Worry
 Worry is fear thinking in circles about a specific tomorrow.
-**Felt Sense.** A loop in the mind more than a storm in the body: the same scene replayed, revised, replayed again. Brow tight, jaw set, sleep thinned. The body idles in low contraction while the mind runs laps it has already run.
+**Felt Sense.** A loop in the mind more than a storm in the body: the same scene replayed, revised, replayed again. Brow tight, teeth held together, sleep thinned. The body idles in low contraction while the mind runs laps it has already run.
 **What It Signals.** Worry reports that something we care about has an uncertain outcome ahead — the appointment, the payment, the child on the road — and that the mind believes more thinking might secure it. It names its object precisely; that is what separates it from [[Anxiety]]. Worry is love's planner, working overtime.
 **Its Gradient.** Low on the band: [[Unease]] → [[Apprehension]] → Worry → [[Anxiety]] → [[Fear]] → [[Dread]] → [[Terror]]. Its productive twin is [[Concern]], which thinks the matter through once and then acts.
 **Its Gift.** Specificity. Worry hands you the exact name of what matters and the exact uncertainty surrounding it. A worry read to the bottom is a plan waiting to be written.

@@ -12,7 +12,7 @@ Fear is the reading that something precious feels threatened.
 
 **Its Distortion.** Refused or enthroned, fear stops flowing and starts governing: it hardens into [[Avoidance]], chronic [[Anxiety]], control of others, contempt disguised as prudence — a life organized around never feeling the reading again. The [[Old World]] ran civilizations on exactly this frozen fear. And fear suppressed does not leave; it goes underground and steers from there.
 
-**The Move.** Feel the contraction without fleeing it. Read it: *what precious thing is this guarding? How real is the threat — and how large?* Right-size it — fear reports possibility, not certainty. Then choose as a Sovereign: guard what truly needs guarding, and where the fear marks a threshold rather than a danger, take [[Courage]] — which is not the absence of fear but the reading of it, followed by movement ([[Emotion]]'s six steps).
+**The Move.** Feel the contraction without fleeing it. Read it: *what precious thing is this guarding? How real is the threat — and how large?* Right-size it — fear reports possibility, not certainty. Then choose as a Sovereign: guard what truly needs guarding, and where the fear marks a threshold rather than a danger, take [[Courage]] — which is not the absence of fear but the reading of it, followed by movement ([[Emotion]]'s seven steps).
 
 Both faces are true at once: fear is a gift — we manifest it for a reason, and it keeps us alive — and a damned curse when unmanaged, for *many of us suffer far more from the fear of suffering than from suffering itself* ([[12.6 The Gift and Curse of Fear and Anxiety]]).
 

@@ -10,7 +10,7 @@ It is a proven discipline of integrated program delivery, carried into the [[LI�
 
 **The loop itself is stewarded.** Someone tends the circulation between the field and the Prototype, and periodically evaluates the loop's own effectiveness and improves it. The learning system learns.
 
-Done this way, intelligence compounds: the first Instantiation learns from scratch; the hundredth begins from ninety-nine cycles of accumulated wisdom. This is how a pattern that begins with a handful of pioneers becomes, within years, wiser than institutions that have operated for decades — the learning circulates, what circulates compounds, and what compounds transforms.
+Done this way, intelligence compounds: the first Instantiation learns from scratch; the hundredth begins from ninety-nine cycles of accumulated wisdom. This is how a pattern that begins with a handful of pioneers can become, within years, wiser than institutions that have operated for decades — the learning circulates, what circulates compounds, and what compounds transforms.
 
 ---
 *Discussed in: [[PDG - Conclusion and Prototype Control]] · [[16.12 The Learning System]] · [[2.0 Program Development]]*

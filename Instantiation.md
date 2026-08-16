@@ -11,9 +11,9 @@ Instantiation takes three general forms: **building the [[New]] from the ground 
 For this reason, every Instantiation carries two obligations in exchange for what it receives:
 
 1. **Adapt honestly.** Take from the [[Kit of Parts]] what serves the local domain, in whatever combination and sequence fits — and let the local reality speak, rather than forcing the pattern.
-2. **Send the learnings home.** What was compromised, why, and what was learned flows back up to [[The Prototype]], so that every future Instantiation inherits the aggregated wisdom of all prior ones ([[The Creative Cascade]]'s Return Flow). Learning is coupled to action continuously — in the same breath, not in reviews conducted months later — and lessons attach to the specific Part where they were discovered ([[Prototype Control]]).
+2. **Send the learnings home.** What was compromised, why, and what was learned flows back up to [[The Prototype]], so that every future Instantiation inherits the aggregated wisdom of all prior ones ([[The Creative Cascade]]'s Return Flow). Learning couples to action in the same breath, and lessons attach to the Part where they were discovered ([[Prototype Control]]).
 
-Each Instantiation remains sovereign — a whole in its own right, not a branch office of the Prototype ([[Holon]]). The pattern connects; it never commands.
+Each Instantiation remains sovereign — a whole in its own right, not a branch office of the Prototype ([[Holon]]): connected, never commanded.
 
 ---
 *Discussed in: [[Instantiation Of The Prototype]] · [[Availability And Priority Of Instantiation Domains]] · [[89. Polycentric Instantiation]] · [[2.0 Program Development]] · [[16.12 The Learning System]]*

@@ -16,7 +16,7 @@ This is [[The Creative Cascade]] applied to practices. The ineffable Way descend
 
 ## The Discipline
 
-- Hold every practice as a recommendation, never a law — binding only until a better way rings truer.
+- Hold every practice as a recommendation, never a law — binding only until a better way proves truer.
 - Adapt honestly to the local domain; the adaptation is not deviance, it is the practice working.
 - Send the learnings home, so the recommendation improves for [[All]].
 - Never let a practice harden into identity or dogma; the moment "how we do things" becomes untouchable, it has become an idol ([[The Creative Cascade]]'s discipline).

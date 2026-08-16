@@ -6,6 +6,6 @@ A musician does not command a string into tune; she listens, adjusts, listens ag
 
 Attunement always runs in both directions. To attune to another is first to *receive* their actual frequency — not the one we assume — and only then to sound toward harmony. This is why attunement begins in stillness and humility: an instrument already sounding cannot hear.
 
-What is repeatedly attuned to, we become. Attention is the tuning hand; whatever we give it to — news or silence, contempt or gratitude, the [[Old World]]'s noise or the [[New World]]'s note — draws our [[Frequency]] toward itself. The discipline of attention is therefore the discipline of becoming ([[Frequency]]).
+The tuning hand is [[Attention]]: whatever we give it to — news or silence, contempt or gratitude — draws our [[Frequency]] toward itself. The discipline of attention is therefore the discipline of becoming.
 
 Related: [[Resonance]] · [[Vibration]] · [[Coherence]] · [[Alignment]] · [[The Sacred Ascent]]

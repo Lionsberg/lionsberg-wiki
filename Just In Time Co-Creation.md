@@ -1,14 +1,14 @@
 # Just In Time Co-Creation
 
-A living body never builds an organ before the body calls for it.
+A living body builds its organs as the developing whole calls for them.
 
-Development in the [[Living System]] does not execute a blueprint pushed forward from the past; it is **pulled** into being by present need and ripened opportunity. Capabilities, organs, and structures come online at the moment the living whole calls for them — not sooner, which is speculation and waste, and not later, which is suffering. This is Just In Time Co-Creation: the [[Way]] every [[Superorganism]] builds itself, and then builds its environment.
+Development in the [[Living System]] is never only the execution of a blueprint pushed forward from the past; it is **pulled** into being by present need and ripened opportunity. Capabilities, organs, and structures come online at the moment the living whole calls for them — not sooner, which is speculation and waste, and not later, which is suffering. This is Just In Time Co-Creation: the [[Way]] every [[Superorganism]] builds itself, and then builds its environment.
 
 ## Needs and Opportunities, Made Precise
 
 The two signals that pull creation into being are both readings of [[The Living Gradient]]:
 
-**A need** is a *felt deviation* — the lived distance between the present state and the [[Ideal]] at the center of its category. The [[Total Nested Holarchy of Issues]] is the superorganism's map of these readings. At the scale of a Sovereign, needs are felt as [[Emotion]] — hunger, longing, discomfort, grief: the body's instrumentation reporting *what is missing here*.
+**A need** is a *felt deviation* — the lived distance between the present state and the [[Ideal]] at the center of its category. The [[Total Nested Holarchy of Issues]] is the superorganism's map of these readings. At the scale of a [[Sovereign]], needs are felt as [[Emotion]] — hunger, longing, discomfort, grief: the body's instrumentation reporting *what is missing here*.
 
 **An opportunity** is a *ripeness* — a place where movement toward the Ideal has just become possible with what now exists. Every act of creation opens new possibilities adjacent to it that did not exist before (what some call the adjacent possible); opportunity is the reading that one of them has ripened. At the scale of a Sovereign, opportunities are felt as excitement, calling, [[Joy]] rising toward a path.
 
@@ -16,7 +16,7 @@ Neither is a noun to be listed once; both are living readings, taken continuousl
 
 ## Biology's Witness
 
-This is not metaphor borrowed from business; it is how embodiment actually works. Cells learn what to become by *reading gradients* — the morphogen fields of the developing body are [[The Living Gradient]] made flesh. Bone lays itself down along the lines of actual load. Vessels grow where flow is demanded. Muscle builds where effort is spent, and dissolves where none is. And the organism shapes its environment as it goes — the beaver's dam, the forest's soil — which then shapes the organism in return. Form follows need; capacity follows use; creation follows call.
+This is no metaphor borrowed from business; it is deeply how embodiment works. Cells learn what to become by *reading gradients* — the morphogen fields of the developing body are [[The Living Gradient]] made flesh. Bone lays itself down along the lines of actual load. Vessels grow where flow is demanded. Muscle builds where effort is spent, and dissolves where none is. And the organism shapes its environment as it goes — the beaver's dam, the forest's soil — which then shapes the organism in return. Form follows need; capacity follows use; creation follows call.
 
 To build this Way is [[Biomimicry]] in its deepest sense: not copying nature's gadgets, but co-creating in the way life co-creates — the Way the [[ØNE]] co-creates through the apparently discrete parts of ItSelf.
 

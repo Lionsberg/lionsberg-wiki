@@ -6,7 +6,7 @@ In its deepest register, Light is paired with the [[Logos]]: the [[Progressive R
 
 Three teachings carry its practice:
 
-**Walk by the Light you have.** No one is given the whole path illuminated. The available Light reveals the next stepping stone; taking that step brings the next into view. Waiting for full illumination before moving is how the [[Old World]] keeps the seeing standing still — one tiny step toward the Light, taken amid chaos, is how every crossing actually begins.
+**Walk by the Light you have.** No one is given the whole path illuminated. The available Light reveals the next stepping stone; taking that step brings the next into view. Waiting for full illumination before moving is a way of standing still — one tiny step toward the Light, taken amid chaos, is how every crossing actually begins.
 
 **Carry Light inward.** There is a Light within stronger than the surrounding darkness — the [[Spirit]]'s presence in a being — and cultivation strengthens it until the being becomes a bearer: someone whose arrival makes a room more visible to itself ([[Frequency]]).
 
