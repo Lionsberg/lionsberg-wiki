@@ -4,9 +4,9 @@ A Story is meaning, carried in time — the form by which consciousness holds wh
 
 We never start from a blank slate: every being is dropped midway into a Story and a [[Context]] already unfolding, and navigates by the [[Narrative Framework]] their Story provides ([[Map of Reality]]). This is why Story is not decoration on top of facts — it is the *operating layer* of a life and a civilization. Change the Story a people lives inside, and everything they can see, value, and do changes with it. The [[Old World]] knew this and ruled by captured stories; the [[New World]] begins with the recovery of true ones.
 
-The canon's teachings on Story:
+Three truths carry Story:
 
-**Stories are updated, not worshipped.** When Reality breaks through the current Story, the work is [[Updating Our Map]] and Story to match what is revealing itself — every Story held as [[Current Best Articulation]], including the canon's own ([[Essences, Renderings, And Ineffable Referents]]: the Story that can be told is not The Story).
+**Stories are updated, not worshipped.** When Reality breaks through the current Story, the work is [[Updating Our Map]] and Story to match what is revealing itself — every Story held as [[Current Best Articulation]] — including this one ([[Essences, Renderings, And Ineffable Referents]]: the Story that can be told is not The Story).
 
 **Every true Story is a prophecy.** Each pocket of coherence, each transformation, can be told as a Story — and [[Every Story Is A Prophesy]] of something greater that is possible. Telling them is how hope circulates on evidence.
 

@@ -42,7 +42,7 @@ Because Reality is living process, its native description is vibratory and relat
 - **[[Alignment]]** — conformity of a system, being, or act with the Spirit and [[Logos]]
 - **[[Distortion]]** and **[[Inversion]]** — the shadow gradient: pattern misaligned, then reversed into its parasitic opposite
 
-In this vocabulary, an emotion is a felt resonance-reading ([[Emotion]]); a value is a sustained orientation of movement ([[The LIØNSBERG System of Values]]); a community is a body of beings achieving coherence; and [[Love]] is — as the canon already says — a [[Frequency of Being]].
+In this vocabulary, an emotion is a felt resonance-reading ([[Emotion]]); a value is a sustained orientation of movement ([[The LIØNSBERG System of Values]]); a community is a body of beings achieving coherence; and [[Love]] is a [[Frequency of Being]].
 
 ## The Discipline
 

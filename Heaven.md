@@ -2,7 +2,7 @@
 
 Heaven is flourishing and abundant Life in perfect [[Right Relationship]] — what lies at the end of the [[Patterns of Life]], and what inbreaks wherever they are lived.
 
-The canon refuses the [[Old World]]'s postponement of Heaven to somewhere else and someday later. Heaven is the *state* — of a moment, a relationship, a community, a world — in which life is as it is meant to be: the reign of [[Peace]] and [[Justice]], the [[Universal Rule Of Law]] honored, every being developing into the fullness of its [[Potential]] in [[Harmony]] with [[All]]. It is the positive pole of the real choice always before [[Creative Consciousness]]: in every moment we are co-creating Heaven or [[Hell]] for ourselves and one another — the compass question of [[The Great Game]].
+Heaven was never meant to wait somewhere else, someday later — that postponement was among the [[Old World]]'s deepest thefts. Heaven is the *state* — of a moment, a relationship, a community, a world — in which life is as it is meant to be: the reign of [[Peace]] and [[Justice]], the [[Universal Rule Of Law]] honored, every being developing into the fullness of its [[Potential]] in [[Harmony]] with [[All]]. It is the positive pole of the real choice always before [[Creative Consciousness]]: in every moment we are co-creating Heaven or [[Hell]] for ourselves and one another — the compass question of [[The Great Game]].
 
 Its facings, each with its own page:
 

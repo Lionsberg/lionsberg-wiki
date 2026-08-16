@@ -2,7 +2,7 @@
 
 A Practice is repeated, deliberate doing that transforms the doer — the bridge by which understanding becomes being.
 
-Knowing the [[Way]] and walking it are different things, and Practice is the difference. The canon's teaching is pragmatic: choose a worthy [[Aim]], and engage in a Practice that advances you toward it *measurably* — for a practice that cannot be felt or seen to move anything is a comfort, not a practice. What is practiced, strengthens; what is repeatedly done becomes what one is ([[Attunement]]: what is repeatedly attuned to, we become).
+Knowing the [[Way]] and walking it are different things, and Practice is the difference. The teaching is pragmatic: choose a worthy [[Aim]], and engage in a Practice that advances you toward it *measurably* — for a practice that cannot be felt or seen to move anything is a comfort, not a practice. What is practiced, strengthens; what is repeatedly done becomes what one is ([[Attunement]]: what is repeatedly attuned to, we become).
 
 Its liberties and its disciplines:
 

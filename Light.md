@@ -2,7 +2,7 @@
 
 Light is what reveals — the illuminating presence by which anything is seen, known, or found.
 
-In the canon's deepest register, Light is paired with the [[Logos]]: the [[Progressive Realization]] of the Light is the progressive illumination of Reality's true Pattern, and to walk toward [[Truth]] is to walk toward Light. Its opposite, [[Darkness]], is not a rival power but a privation — the absence of illumination — which is why darkness cannot remain where Light is present, only flee it ([[Inbreaking And Displacing]]).
+In its deepest register, Light is paired with the [[Logos]]: the [[Progressive Realization]] of the Light is the progressive illumination of Reality's true Pattern, and to walk toward [[Truth]] is to walk toward Light. Its opposite, [[Darkness]], is not a rival power but a privation — the absence of illumination — which is why darkness cannot remain where Light is present, only flee it ([[Inbreaking And Displacing]]).
 
 Three teachings carry its practice:
 
