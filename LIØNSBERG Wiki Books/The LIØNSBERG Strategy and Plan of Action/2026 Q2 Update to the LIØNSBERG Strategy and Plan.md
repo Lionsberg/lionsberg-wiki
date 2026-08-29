@@ -68,7 +68,7 @@ The Movement's single front door comes online at **lionsberg.world**: a world to
 
 Each fellow: the Book (the whole code, readable by a mother and a fourth-grader — the Story, the compass, the five moves, the seven provisions, the protocols including grid-down) · the Cell practice (a weekly rhythm any kitchen table can run) · their share of the moon distributions · their Cell's hearth in the world · their nominator chain as living sponsors · and, for those who choose it, a [[LIØNSBERG Personal Agents|LIØNSBERG Personal Agent]] — always optional, never required.
 
-Each [[Cell]]: sovereignty (its own commons, its own agreements, its own legal skin or none) · a Quest chosen from the work of the [[The 12 Pillars of LIØNSBERG|12 Pillars]] · the seasonal rhythm · a [[LIØNSBERG Cell Agents|LIØNSBERG Cell Agent]] · and the standing quest of every mature Cell: **seed a new Cell** ([[Self-Replicate Your Circles]]).
+Each [[Cell]]: sovereignty (its own commons, its own agreements, its own legal skin or none) · a Quest chosen from the work of the [[The 12 Pillars of LIØNSBERG|12 Pillars]] · the seasonal rhythm · a [[LIØNSBERG Cell Agents|LIØNSBERG Cell Agent]] · and the standing quest of every mature Cell: **seed a new Cell** ([[Self-Replicate Your Cells]]).
 
 ---
 
