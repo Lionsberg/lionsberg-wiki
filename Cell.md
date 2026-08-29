@@ -30,7 +30,7 @@ The working specifications — the [[Minimum Standards of Interoperability]] at 
 
 | **Standard** | **Specification** |
 | --- | --- |
-| **Size** | 3 – 13 souls (ideal 5 – 7) |
+| **Size** | 3 – 13 souls (optimally 4 – 7) |
 | **Composition** | balanced by polarity, temperament, and gift; may mix households, vocations, ages |
 | **Covenant** | a [[Field of Agreements]] — spoken aloud and agreed, never assumed |
 | **Rhythm** | weekly gathering; monthly synthesis; seasonal [[Seasonal Quests|Quest]] choice, celebration, and retrospection ([[The Seasonal Cycle]]) |

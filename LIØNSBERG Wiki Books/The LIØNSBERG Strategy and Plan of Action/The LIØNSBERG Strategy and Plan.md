@@ -41,7 +41,10 @@
 [[34. The Record]]  
 [[35. The Anatomy of the Body]]  
 [[36. The Instantiation Hubs and the Commons]]  
-[[37. Planning at Every Scale]]
+[[37. Planning at Every Scale]]  
+[[38. The Shadow Work]]  
+[[39. The New Economy]]  
+[[40. Resilience and Emergency Response]]
 
 ---
 

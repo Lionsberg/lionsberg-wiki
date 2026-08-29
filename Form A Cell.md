@@ -32,7 +32,7 @@ These are the ones.
 - They need to share your **recognition** — that something profound is underway, and that we must rise to meet it together.
 - They need to be willing to **show up** and **commit**.
 
-Start with who is in front of you. Three is enough to begin. Thirteen is the natural upper limit before a Cell should divide and multiply. Five to seven is ideal.
+Start with who is in front of you. Three is enough to begin. Thirteen is the natural upper limit before a Cell should divide and multiply. Four to seven is optimal.
 
 ---
 

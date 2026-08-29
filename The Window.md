@@ -2,7 +2,7 @@
 
 **The Window** is the open interval in which a world can still choose — the span of [[Time]] during which the leap from the [[Old]] to the [[New]] remains possible before [[Collapse]] closes the way.
 
-No one knows how long The Window will remain open. It did not open on a schedule and it will not close on one. Its edges are not visible from within it. What is knowable is that it *is* open now, that it has been closing, and that every season spent feeding the old pattern narrows it further.
+In the tongue of comprehensive anticipatory design science it is the **Critically Effective Time Limit** — the interval within which effective action remains possible at all. No one knows how long The Window will remain open. It did not open on a schedule and it will not close on one. Its edges are not visible from within it. What is knowable is that it *is* open now, that it has been closing, and that every season spent feeding the old pattern narrows it further.
 
 This changes how time itself is held:
 

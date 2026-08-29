@@ -16,6 +16,8 @@ To meet these minimum standards of interoperability, all component systems must 
 
 Overall, the minimum standards of interoperability help to ensure that participants in the LIØNSBERG System are able to function as a cohesive and integrated whole, while working together as [[ØNE Body]] to  to effectively address the complex and multifaceted challenges facing humanity and the planet.
 
+Interoperability also runs through identity: every participant bears a [[New Identity]] that is both [[Sovereign]] and relational — owned by its bearer, portable across every [[Domain Of Responsibility And Authority]], empowered to assert and receive [[Attributes]] granted and revoked by communities on the basis of [[Mutual Consent]] and their own [[Field of Agreements]] — with [[Measured Compute]] among known participants keeping The System both strong and secure.
+
 At the human scale, the component that must meet these standards is the **[[Cell]]** — the living unit of the emerging [[Superorganism]]. A Cell's minimum standards (size, covenant, rhythm, facilitation, accountability, autonomy, safety) are set out in [[Cell]]; Cells that meet them can interoperate — communicate, share resources, coordinate, and federate ([[Superorganism of Cells]]) — without any center mediating.
 
 ____  

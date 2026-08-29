@@ -25,4 +25,6 @@ The Prototype is also being designed to optimize for long term operational effic
 
 Thus, each subsequent instantiation will "learn" from the total aggregated experience and wisdom of all prior instantiations.
 
+The learning flows through a living **submittal and continuous-improvement process**: any [[Cell]], locality, or instantiation may submit its solutions, adaptations, and lessons to the Prototype; submittals are reconciled and woven into the [[Kit of Parts]]; and every improvement is offered back to all. Through the [[10 Year Grand Strategy]] this process is stewarded by the [[Mission Control]] function — which also keeps the **two-way request-for-guidance system**: any domain may request guidance of Mission Control, and Mission Control may request guidance of the arrayed [[LIØNSBERG Ecclesia]] in turn. The center equips and serves; the called-out decide and do.
+
 The Prototype is also important in terms of understanding and establishing how each of the elements contained in the [[Meta Project Program Statement]] can actually be delivered on local sites within the overarching context of an interoperable higher order [[System of Systems]]. 
