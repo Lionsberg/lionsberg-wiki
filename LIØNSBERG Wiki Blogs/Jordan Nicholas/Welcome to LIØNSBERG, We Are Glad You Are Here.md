@@ -52,7 +52,7 @@ One of **[[The Watchwords of LIØNSBERG]]** is:
 
 ## **Next Steps: Orientation & Integration**
 
-As you **set your feet on [[The Path]]** and begin to **connect with your [[Circles]]**, you will find that **[[The LIØNSBERG Co-Creator's Handbook]] is an essential resource.** It is presently being merged into this [[The LIØNSBERG Playbook]].  
+As you **set your feet on [[The Path]]** and begin to **connect with your [[Cell|Cells]]**, you will find that **[[The LIØNSBERG Co-Creator's Handbook]] is an essential resource.** It is presently being merged into this [[The LIØNSBERG Playbook]].  
 
 The most important thing for now is to get into action with your Circles as immediately and powerfully as possible. Memories, insights, and deeper questions and understandings will surface as you take action and begin to connect with others who are playing **The Great Game**.  
 

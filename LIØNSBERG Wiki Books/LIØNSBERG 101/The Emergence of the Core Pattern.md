@@ -30,7 +30,7 @@ Seventy years of living proof. From 5 people in 1956 to 80,000+ worker-owners ac
 The insight that **the ownership structure of an organization is the deepest attractor in the system** — it determines behavior more powerfully than values statements, leadership intentions, or strategic plans. Boyd's contribution: designing the structural DNA so that the system's natural attractor is regeneration rather than extraction. Multi-stakeholder governance with multiple share classes (Founder, Coworkers, Investors, Community). The enterprise as a collaborative commons, not property. Purpose structurally sovereign, protected from capture by any stakeholder group.
 
 **4. The Great Game of LIØNSBERG and the Playbook**  
-The practical operational layer — how [[Circles]] form, how [[Quests]] are undertaken, how [[Meaningful Work]] is validated, how value flows through the system, how governance operates at every fractal scale, how the [[Fibonacci]] pattern of awakening spreads the movement from ØNE to All.
+The practical operational layer — how [[Cell|Cells]] form, how [[Quests]] are undertaken, how [[Meaningful Work]] is validated, how value flows through the system, how governance operates at every fractal scale, how the [[Fibonacci]] pattern of awakening spreads the movement from ØNE to All.
 
 **5. Eight Movements That Changed The World**  
 The most successful self-replicating patterns in human history:

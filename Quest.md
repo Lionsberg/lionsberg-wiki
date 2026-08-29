@@ -1,6 +1,6 @@
 # Quest
 
-A **Quest** is a tangible act of goodwill that a [[Circles|Circle]] undertakes together — real work that makes life measurably more like [[Heaven On Earth]], right here and now.
+A **Quest** is a tangible act of goodwill that a [[Cell|Circle]] undertakes together — real work that makes life measurably more like [[Heaven On Earth]], right here and now.
 
 It is not a discussion. It is not a plan. It is [[Meaningful Work]] — something you can point to and say: *we did this together, and the world is better for it.*
 

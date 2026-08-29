@@ -19,7 +19,7 @@ Every fellow walks the same five moves as every player of [[The Great Game of LI
 - **The trust graph.** The web of nominations is itself a harvest: a transparent map of trust across the awakening population — and, when the grid falters, a living contact-tree in which every member knows their three and is known by theirs.
 - **The resources.** Contributions from the many flow to the fellows doing the work — becoming [[Centers of Distribution]] in their communities — through structures that never pool power at any center.
 - **The governance.** As the first Cells of fellows mature, the Ecclesia nominates its own [[System Wide Master Planning Group]], convenes the first [[LIØNSBERG General Assembly]], and takes up the continuous refinement of the [[New Vision and Plan]]. The *how* belongs to the called-out, never to any single steward.
-- **The form.** Cells and communities of the Ecclesia take whatever legal skin serves — from no formal structure at all to ecclesiastical and membership associations — as set out in [[Properly Structure Your Circles]]. The Ecclesia itself manifests as countless sovereign, interoperable nodes: absolute unity, with no center to attack.
+- **The form.** Cells and communities of the Ecclesia take whatever legal skin serves — from no formal structure at all to ecclesiastical and membership associations — as set out in [[Properly Structure Your Cells]]. The Ecclesia itself manifests as countless sovereign, interoperable nodes: absolute unity, with no center to attack.
 
 ## The premise
 
@@ -27,4 +27,4 @@ Under universal law, sovereignty originates with the individual and the local, a
 
 ---
 
-*Discussed in: [[The First Three Percent]] · [[The 300]] · [[Properly Structure Your Circles]] · [[Private Ecclesiastical Voluntary Membership Association]] · the 2026 Q2 Update to [[The LIØNSBERG Strategy and Plan]]*
+*Discussed in: [[The First Three Percent]] · [[The 300]] · [[Properly Structure Your Cells]] · [[Private Ecclesiastical Voluntary Membership Association]] · the 2026 Q2 Update to [[The LIØNSBERG Strategy and Plan]]*

@@ -72,7 +72,7 @@ Choose a cadence you can sustain. Then sustain it. The rhythm will carry you fur
 Your rhythm is set.  
 Now, as your Circle grows and its work deepens, you may need to consider how it is structured.
 
-**The next play is [[Properly Structure Your Circles]].**
+**The next play is [[Properly Structure Your Cells]].**
 
 ---
 See [[The LIØNSBERG Playbook]] for the full navigation.

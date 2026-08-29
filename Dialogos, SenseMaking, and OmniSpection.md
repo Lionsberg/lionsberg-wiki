@@ -24,7 +24,7 @@ The discipline is threefold:
 - **Listen to understand** — not to respond, not to refute, but to receive. Let the other's meaning land before you move.
 - **Hold silence** — when clarity has not yet emerged, do not rush to fill the space. Wisdom often arrives in the pause.
 
-Dialogos is how [[Circles]] access collective wisdom beyond any individual's understanding. It is how a group of five or seven becomes more intelligent, more discerning, and more alive than any one of its members alone.
+Dialogos is how [[Cell|Cells]] access collective wisdom beyond any individual's understanding. It is how a group of five or seven becomes more intelligent, more discerning, and more alive than any one of its members alone.
 
 It is not a technique. It is a posture of the soul — practiced until it becomes natural.
 
@@ -44,7 +44,7 @@ The questions of SenseMaking:
 - **Where is the need?** — Where is suffering concentrated? Where is the gap between what is and what should be?
 - **What are the signals?** — What small shifts today might become large shifts tomorrow?
 
-Every [[Circles|Circle]] practices SenseMaking at its own scale — reading the neighborhood, the watershed, the region. As Circles share what they sense with one another and with the [[Commons]], a living picture of the Whole begins to form.
+Every [[Cell|Circle]] practices SenseMaking at its own scale — reading the neighborhood, the watershed, the region. As Circles share what they sense with one another and with the [[Commons]], a living picture of the Whole begins to form.
 
 SenseMaking is the **nervous system** of the [[New Civilization]] — distributed, alive, always listening.
 

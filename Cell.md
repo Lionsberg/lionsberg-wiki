@@ -16,6 +16,31 @@ What makes a Circle a Cell is what it *does*:
 - **It replicates.** The mark of a mature Cell is not its size but the new Cells it has helped birth. ([[Self-Replicate Your Cells]])
 - **It interexists.** Cells federate into communities, forge [[The 300]] of their localities, and weave the emerging Superorganism — many cells, ØNE Body.
 
+## What constitutes a Cell — the minimum standards
+
+A Cell is known not by its name but by its functions. Five make it complete — [[The Complete Holon|a complete holon]], dependent on no center:
+
+- **Governance** — self-governance through shared agreements and consent-based decisions ([[Govern Your Cells]])
+- **Economics** — value generated, exchanged, and distributed through [[Meaningful Work]]
+- **Education** — mutual formation through practice, reflection, and accountability
+- **Mission** — a living [[Quest]] advancing [[The Goal]]
+- **Replication** — passing [[The Flame]] and planting new Cells ([[Self-Replicate Your Cells]])
+
+The working specifications — the [[Minimum Standards of Interoperability]] at human scale:
+
+| **Standard** | **Specification** |
+| --- | --- |
+| **Size** | 3 – 13 souls (ideal 5 – 7) |
+| **Composition** | balanced by polarity, temperament, and gift; may mix households, vocations, ages |
+| **Covenant** | a [[Field of Agreements]] — spoken aloud and agreed, never assumed |
+| **Rhythm** | weekly gathering; monthly synthesis; seasonal [[Seasonal Quests|Quest]] choice, celebration, and retrospection ([[The Seasonal Cycle]]) |
+| **Facilitation** | rotating servant-stewards (two coordinators); decisions by consensus or consent |
+| **Accountability** | a living journal — one page per week; progress, impact, and transformation mutually witnessed |
+| **Autonomy** | self-governing and sovereign; free to federate ([[Superorganism of Cells]]) |
+| **Safety & Integrity** | peer support, transparency, immediate care protocols for overwhelm |
+
+How you know a Cell is *healthy* lives in [[Form A Cell]]: it shows up, does real work, holds each other, grows, and multiplies.
+
 The way in is simple, and it is the same for every person on Earth:
 
 **A Superorganism is emerging. [[Accept The Invitation]]. [[Form A Cell]]. [[Choose A Quest]]. [[Share Your Stories]]. [[Pass The Flame]].**

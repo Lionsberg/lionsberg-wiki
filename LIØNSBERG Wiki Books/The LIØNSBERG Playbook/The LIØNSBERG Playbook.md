@@ -223,9 +223,9 @@ _Each body-convening Play orchestrates a single operational moment — but invok
 | Play | Invokes |
 |---|---|
 | Play — Govern Your Circle | • [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]]<br>• Consent vs Consensus<br>• The Two-Coordinator Rhythm<br>• Wise Eldership<br>• Subsidiarity<br>• [[Sovereignty At Every Scale]] |
-| Play — Connect With Another Circle | • [[Connect and Collaborate With Other Circles]]<br>• Selectively Permeable Membrane<br>• Sacred Reciprocity<br>• [[Field of Agreements]] |
-| Play — Grow Your Circle | • [[Grow Your Circles]]<br>• Self-Replication<br>• [[Pass The Flame]]<br>• Voluntary Assent |
-| Play — Self-Replicate Your Circle | • [[Self-Replicate Your Circles]]<br>• [[Pass The Flame]]<br>• Holofractal Composition<br>• [[Self-Sustenance and Self-Replication]] |
+| Play — Connect With Another Circle | • [[Connect and Collaborate With Other Cells]]<br>• Selectively Permeable Membrane<br>• Sacred Reciprocity<br>• [[Field of Agreements]] |
+| Play — Grow Your Circle | • [[Grow Your Cells]]<br>• Self-Replication<br>• [[Pass The Flame]]<br>• Voluntary Assent |
+| Play — Self-Replicate Your Circle | • [[Self-Replicate Your Cells]]<br>• [[Pass The Flame]]<br>• Holofractal Composition<br>• [[Self-Sustenance and Self-Replication]] |
 | Play — Stack Up And Align | • [[Stacking Up And Aligning]]<br>• Holofractal Composition<br>• [[Network of Commitments]]<br>• [[Total Nested Holarchy of Goals]] |
 | Play — Federate Across Scales | • [[Federate Everything]]<br>• [[Holofractal Omnifederation]]<br>• Federation Without Center<br>• Federation Without Subordination<br>• The Two-Stake Principle<br>• Subsidiarity |
 | Play — Convene A Council | • Wise Eldership<br>• The Gathered Circle<br>• Multi-Voice Constitutive Requirement<br>• Dialogos |
@@ -276,7 +276,7 @@ The reverse index — each Pattern alongside the Plays that invoke it — lives 
 
 ## On The Existing Root Plays
 
-Many of the existing root-level "Plays" in the wiki ([[Form A Cell]], [[Pass The Flame]], [[Govern Your Circles]], [[Forge a Field of Agreements]], etc.) carry **substantial wisdom** — they read more as canonical Pattern articulations than as operational riff compositions. As the Pattern Language + Playbook rebuild proceeds, most of these will **migrate to the Patterns folder** as canonical Pattern Cards, with simple Play — Title riffs in the Plays folder that invoke them.
+Many of the existing root-level "Plays" in the wiki ([[Form A Cell]], [[Pass The Flame]], [[Govern Your Cells]], [[Forge a Field of Agreements]], etc.) carry **substantial wisdom** — they read more as canonical Pattern articulations than as operational riff compositions. As the Pattern Language + Playbook rebuild proceeds, most of these will **migrate to the Patterns folder** as canonical Pattern Cards, with simple Play — Title riffs in the Plays folder that invoke them.
 
 The migration is gradual. During the transition, both old root-Plays and new Play — Title Plays will coexist; broken links will be resolved as Patterns and Plays settle.
 

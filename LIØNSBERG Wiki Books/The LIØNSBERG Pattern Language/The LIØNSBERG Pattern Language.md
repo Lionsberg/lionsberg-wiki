@@ -217,12 +217,12 @@ _The canonical Patterns at Circle and individual scale. The wisdom-units that co
 **Circle Formation and Life**
 
 - [[Form A Cell]] — gather three to thirteen sovereign souls who choose to see, serve, and build together
-- [[Name Your Circles]] — the first shared act of co-creation
+- [[Name Your Cells]] — the first shared act of co-creation
 - [[Set Your Cadence]] — establish the weekly heartbeat that keeps the Circle alive
 - [[Forge a Field of Agreements]] — build the structure of trust from spoken, shared, honored commitments
 - [[Choose Your Roles]] — discover the part only each member can play
-- [[Properly Structure Your Circles]] — add structure as the Quests grow; a trellis, not a cage
-- [[Govern Your Circles]] — self-governance rooted in love and mutual accountability
+- [[Properly Structure Your Cells]] — add structure as the Quests grow; a trellis, not a cage
+- [[Govern Your Cells]] — self-governance rooted in love and mutual accountability
 - [[Establish Selectively Permeable Membranes]] — protect the interior while allowing vital exchange with the world
 - [[Establish Your Cellular Operating System and Way]] — the internal processes that keep the Circle alive, healthy, productive
 
@@ -242,12 +242,12 @@ _The canonical Patterns at Circle and individual scale. The wisdom-units that co
 
 **Federation and Scaling**
 
-- [[Connect and Collaborate With Other Circles]] — find the other living cells forming across city, region, and world
-- [[Grow Your Circles]] — tend the growth when new souls are drawn to the fire
-- [[Self-Replicate Your Circles]] — birth new sovereign Circles carrying the full DNA
-- [[Circle of Circles and Team of Teams]] — when cells connect, a Body begins to form
+- [[Connect and Collaborate With Other Cells]] — find the other living cells forming across city, region, and world
+- [[Grow Your Cells]] — tend the growth when new souls are drawn to the fire
+- [[Self-Replicate Your Cells]] — birth new sovereign Circles carrying the full DNA
+- [[Superorganism of Cells]] — when cells connect, a Body begins to form
 - [[Stacking Up and Aligning Quests]] — align individual Quests toward shared milestones for exponential impact
-- [[Stacking Up and Aligning Circles]] — from Circles to Tribes to Communities; the same DNA at every scale
+- [[Stacking Up and Aligning Cells]] — from Circles to Tribes to Communities; the same DNA at every scale
 - [[Stacking Up and Aligning Communities Into Bioregions]] — organize human cooperation along the living lines of the Earth itself
 - [[Federate Everything]] — sovereign beings and groups weaving themselves into something far greater, without surrendering autonomy
 
@@ -617,9 +617,9 @@ Each Pattern Card also carries this list locally (the **Plays That Invoke This P
 | [[Sacred Guardianship]] | • [[Play — Build An Ark]] |
 | [[Choose A Quest]] | • [[Play — Choose A Quest]] |
 | [[The Goal]] | • [[Play — Choose A Quest]] |
-| [[Connect and Collaborate With Other Circles]] | • [[Play — Connect With Another Circle]] |
-| [[Grow Your Circles]] | • [[Play — Grow Your Circle]] |
-| [[Self-Replicate Your Circles]] | • [[Play — Self-Replicate Your Circle]] |
+| [[Connect and Collaborate With Other Cells]] | • [[Play — Connect With Another Circle]] |
+| [[Grow Your Cells]] | • [[Play — Grow Your Circle]] |
+| [[Self-Replicate Your Cells]] | • [[Play — Self-Replicate Your Circle]] |
 | [[Federate Everything]] | • [[Play — Federate Across Scales]] |
 
 ### Wilderness And Strategic Plans

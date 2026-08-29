@@ -34,7 +34,7 @@ Communities within a Bioregion federate to coordinate what no single community c
 
 When Bioregions are functioning:
 
-- Each Community within the Bioregion maintains its full sovereignty — its own [[Circle of Circles and Team of Teams|Circle of Circles]], its own [[The 300|300]], its own internal governance
+- Each Community within the Bioregion maintains its full sovereignty — its own [[Superorganism of Cells|Circle of Circles]], its own [[The 300|300]], its own internal governance
 - The Bioregional federation coordinates what needs coordinating — and nothing more
 - Coordinators from each Community form the Bioregional council, rotating and serving as stewards, not rulers
 - The Bioregion connects outward to neighboring Bioregions, forming continental and planetary networks

@@ -1,76 +1,15 @@
 # Circle
 
-_The basic unit of the [[New Civilization]] — a complete, self-governing holon carrying the full DNA of [[The Core Pattern]]._
+A **Circle** is the gathered human form of the [[New Civilization]] — three to thirteen souls in a ring of trust. Faces toward one another. No head of the table. Every voice mattering.
 
-___
+People have gathered this way around every fire humanity has ever lit. The Circle is the warmth, the witness, the belonging — the ancient shape in which sovereign beings learn to love, trust, decide, and build together.
 
-## What A Circle Is
+And when a Circle takes up the whole code — covenanting in a [[Field of Agreements]], sustaining itself, choosing a [[Quest]], sharing its [[Share Your Stories|Stories]], passing [[The Flame]] — it becomes something more than a gathering: a **[[Cell]]** of the emerging [[Superorganism]], carrying the complete Pattern of [[Heaven On Earth]] at human scale.
 
-A Circle is a voluntary association of **3 to 13 people** united by shared purpose, shared agreements, and mutual accountability. It is the fundamental building block of everything in LIØNSBERG — from local action to planetary transformation.
+The Circle is the form; the Cell is the function. Begin with the form you have always known:
 
-A Circle is not a committee. It is not a task force. It is not a working group that reports to a larger body.
+**[[Form A Cell]]** — and see [[Cell]] for what your Circle is becoming, and [[Superorganism of Cells]] for how Cells weave into the Body.
 
-**A Circle is a [[The Complete Holon|complete holon]]** — a self-governing expression of the [[New Civilization]] at human scale. Within it, all the essential functions operate:
+---
 
-- **Governance**: Self-governance through shared agreements and consent-based decision-making
-- **Economics**: Value generated and exchanged through [[Meaningful Work]]
-- **Education**: Mutual formation through practice, reflection, and accountability
-- **Mission**: [[Quests]] — concrete projects advancing [[Meta Goal|The Meta Goal]]
-- **Replication**: Mature Circles pass [[The Flame]] and plant new Circles
-
-If a Circle can do all five, it carries the full DNA. It is not dependent on any center. It is a whole tree grown from the same Seed.
-
-___
-
-## How To Form A Cell
-
-**1. Identify 2-4 others who resonate.** Not everyone you know. Start with those who feel the same urgency and are willing to commit. Attraction, not promotion.
-
-**2. Share [[Ring 1 - The Seed]].** Read it together. Discuss it. Let it resonate.
-
-**3. Establish your [[Field of Agreements]]:**  
-- **Purpose**: What is this Circle for? (Must align with [[Meta Goal|The Meta Goal]])
-- **Principles**: What values do we commit to embody?
-- **Practices**: How often do we meet? How do we make decisions?
-- **Boundaries**: Who is in the Circle? How do new members join?
-- **Commitments**: What does each person commit to contribute?
-
-**4. Elect two coordinators.** Not bosses. Servant-leaders who keep the Circle functioning. [[Arizmendi]]'s instruction: _"Organize a group to do something — elect two coordinators, and I'll be back to check on you."_
-
-**5. Begin meeting regularly.** Weekly or biweekly. In person when possible. Consistency matters more than frequency.
-
-**6. Choose a [[Quest]].** A Circle without a Quest is a discussion group. A Circle with a Quest is a force of transformation.
-
-___
-
-## Specifications
-
-See [[Circles]] for detailed specifications on size, composition, rhythm, facilitation, accountability, and safety.
-
-___
-
-## The Circle As Holon
-
-The Circle is the fractal unit of the [[Total Nested Holarchy of Sovereignties]]:
-
-- **Circles** federate into **Communities**
-- **Communities** federate into **Bioregional Networks**
-- **Bioregional Networks** federate into **The Planetary Grid**
-
-At every level, the same DNA operates. The Circle is where that DNA is first planted and practiced.
-
-___
-
-## The Mathematics
-
-1 → 2 → 3 → 5 → 8 → 13 → 21 → 34 → 55 → 89 → 144 → ...
-
-Each Circle that matures passes [[The Flame]]. Each member helps form a new Circle. 33 to 50 cycles. 3.5 to 7 years. Every person on Earth receives an invitation.
-
-**The question is not whether the math works. The question is whether you will begin.**
-
-___
-
-_See [[Ring 5 - The Game]] for the full action sequence._  
-_See [[Holofractal Omnifederation]] for why the Circle carries the full DNA._  
-_See [[LIØNSBERG 101]]._
+*See [[Ring 1 - The Seed]] · [[Ring 5 - The Game]] · [[LIØNSBERG 101]] · [[Arizmendi]] — "Organize a group to do something — elect two coordinators, and I'll be back to check on you."*

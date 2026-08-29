@@ -66,7 +66,7 @@ When the fire is leaping from community to community without your hand on every 
 
 ## Going Deeper
 
-- [[Self-Replicate Your Circles]] — the replication pattern in full
+- [[Self-Replicate Your Cells]] — the replication pattern in full
 - [[Pass The Flame]] — the philosophy and practice of transmission
 - [[Self-Sustenance and Self-Replication]] — why each cell must be complete in itself
 

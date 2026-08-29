@@ -80,7 +80,7 @@ You will know the step is truly working not when your list is long, but when it 
 ## Going Deeper
 
 - [[The First Three Percent]] — the full teaching on the 300 and the planetary grid
-- [[Self-Replicate Your Circles]] — how invitation becomes multiplication
+- [[Self-Replicate Your Cells]] — how invitation becomes multiplication
 
 ---
 

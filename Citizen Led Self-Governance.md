@@ -52,7 +52,7 @@ ___
 
 Citizen Led Self-Governance is not a political theory. It is a lived practice that begins with **inner transformation** and extends outward through voluntary association.
 
-It does not require permission from existing authorities. It does not depend on reforming existing institutions. It grows from the ground up, through the formation of [[Circles]], the undertaking of [[Quests]], and the federated cooperation of sovereign communities.
+It does not require permission from existing authorities. It does not depend on reforming existing institutions. It grows from the ground up, through the formation of [[Cell|Cells]], the undertaking of [[Quests]], and the federated cooperation of sovereign communities.
 
 ___
 

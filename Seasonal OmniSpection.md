@@ -1,7 +1,7 @@
 # Seasonal OmniSpection
 
 Every solstice and equinox — roughly every 90 days —  
-Every [[Circles|Circle]], Community, and Guild pauses.  
+Every [[Cell|Circle]], Community, and Guild pauses.  
 Not to stop. To **see from above**.
 
 This is the **Seasonal OmniSpection** — a sacred rhythm of review, celebration, and renewal that keeps the living Body honest, learning, and aligned with [[The Goal]].

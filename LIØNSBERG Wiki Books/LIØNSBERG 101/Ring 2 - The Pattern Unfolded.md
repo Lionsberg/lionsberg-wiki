@@ -338,7 +338,7 @@ In the Architecture, Engineering, and Construction industry, IPD transformed how
 
 ### The Practical Expression
 
-In LIØNSBERG, Integrated Delivery operates through the federation of [[Circles]]:
+In LIØNSBERG, Integrated Delivery operates through the federation of [[Cell|Cells]]:
 
 - **Each Circle** is a self-governing team of builders executing [[Quests]] — concrete projects advancing [[Meta Goal|The Goal]]
 - **Circles federate** into communities, bioregions, and the planetary Whole — coordinating co-creative effort across all scales

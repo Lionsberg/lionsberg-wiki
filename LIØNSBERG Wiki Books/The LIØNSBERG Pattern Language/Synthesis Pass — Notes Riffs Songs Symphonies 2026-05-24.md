@@ -283,10 +283,10 @@ Each is its own canonical Pattern Card. The ladder is canonical in [[Levels of S
 **Adjacent Notes (preserve)**:
 - [[Form A Cell]] — the active practice of forming
 - [[Circle Coherence]] — the third-coherence that emerges in a held Circle
-- [[Self-Replicate Your Circles]] — the spread practice
+- [[Self-Replicate Your Cells]] — the spread practice
 - [[Federate Circles Into Communities]] — the scaling practice
-- [[Govern Your Circles]] — the inner-governance practice
-- [[Grow Your Circles]] — the deepening practice
+- [[Govern Your Cells]] — the inner-governance practice
+- [[Grow Your Cells]] — the deepening practice
 - [[Connect And Collaborate With Other Circles]] — the inter-circle practice
 
 The Circle is one note; the practices around the Circle are distinct notes that compose into the Playbook riffs.

@@ -281,7 +281,7 @@ ______
 1. Continuously improve the [[LIØNSBERG Wiki]] and derivative publications   
 2. Broadcast [[The Message]] to create a field of gravitational attraction 
 3. Extend [[The Invitation]] to those who resonate  
-4. Empower those who respond to form [[Circles]], engage in [[Quests]], and begin [[The Great Game of LIØNSBERG]].    
+4. Empower those who respond to form [[Cell|Cells]], engage in [[Quests]], and begin [[The Great Game of LIØNSBERG]].    
 5. Measure Time and Value via [[LIØNSBERG Units of Value (LUV)]]    
 6. Tell [[Stories of Transformation]] to fuel the [[Resourcing and Engagement Flywheel]]  
 7. Move the entire population [[FROM the Old TO the New]] in a single generation, with no one [[Involuntarily Left Behind]].  

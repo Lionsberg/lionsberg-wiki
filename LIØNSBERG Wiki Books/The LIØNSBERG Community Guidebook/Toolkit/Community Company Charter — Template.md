@@ -71,7 +71,7 @@
 
 ## 7. Legal Form — *the body the outside world can recognize*
 
-> Pick up only as much structure as your work requires. See **[[Step 2 — Establishing Legal Agency and Personhood]]** and the Tiers in [[Properly Structure Your Circles]].
+> Pick up only as much structure as your work requires. See **[[Step 2 — Establishing Legal Agency and Personhood]]** and the Tiers in [[Properly Structure Your Cells]].
 
 - **Current tier:** ‹Tier 0 (no formal structure) … Tier 5 (federated stewardship)›
 - **Legal entity, if any:** ‹none yet / voluntary association / fiscal sponsorship / LLC / non-profit / ecclesiastical association / cooperative …›

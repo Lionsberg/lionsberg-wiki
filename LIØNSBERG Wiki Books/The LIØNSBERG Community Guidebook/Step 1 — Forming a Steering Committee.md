@@ -102,7 +102,7 @@ Do not try to write a perfect, permanent constitution in your first season. You 
 ## Going Deeper
 
 - [[The LIØNSBERG Circle Guide]] — the full teaching on Circles
-- [[Properly Structure Your Circles]] — why the lightest structure is the right one
+- [[Properly Structure Your Cells]] — why the lightest structure is the right one
 - [[Field of Agreements]] — the anatomy of shared governance
 
 ---

@@ -40,7 +40,7 @@ There is a natural ladder. Most Community Companies begin at the bottom and clim
 - **Tier 4 — Legal stewardship entity.** For sustained, complex work — holding land, employing people, operating enterprises. Cooperatives, perpetual purpose trusts, benefit corporations, community land trusts, FairShares Commons, FSx. The key word is *stewardship*: these exist to steward and allocate resources in service of The Goal, never to accumulate power or wealth for its own sake.
 - **Tier 5 — Federated stewardship.** Multiple Companies sharing infrastructure, resources, and governance by agreement. This is how the New Civilization scales — not through central control, but through voluntary federation of self-governing bodies (the work of **[[Step 6 — Collective Governance of the Cosmic Superorganism]]**). We strongly recommend that all local companies federate with LIØNSBERG's Earth Chapter from the start, then locally as ecosystem relationships develop. 
 
-The full teaching lives in [[Properly Structure Your Circles]]. The single rule that governs every rung: **does this structure serve our Purpose?** If yes, keep it. If no, change it. If unsure, start simpler.
+The full teaching lives in [[Properly Structure Your Cells]]. The single rule that governs every rung: **does this structure serve our Purpose?** If yes, keep it. If no, change it. If unsure, start simpler.
 
 ## The Internal and the External
 
@@ -77,7 +77,7 @@ If you have these, your Company can act in the world. That is the purpose of thi
 
 - **[[Community Company Charter — Template]]** — Section 7 records your legal form and review trigger
 - **[[Corporate Structure]]** — the full menu of forms and how to request shared infrastructure
-- **[[Properly Structure Your Circles]]** — the Tiers 0–5 progression in depth
+- **[[Properly Structure Your Cells]]** — the Tiers 0–5 progression in depth
 
 ---
 

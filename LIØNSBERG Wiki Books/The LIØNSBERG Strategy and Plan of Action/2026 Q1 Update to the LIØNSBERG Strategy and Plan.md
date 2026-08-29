@@ -8,7 +8,7 @@ _This update reflects the beginning of work with agentic ai and is therefore mor
 
 **Where We Are:** Month 22 of the 84-month [[10 Year Grand Strategy]]. Month 22 of the critical 84-month [[The 7 Year Window of Crisis and Opportunity]].
 
-**Time Remaining to Critical Milestone:** 11 months until the end of 2026 deadline to reach [[The First Three Percent]] (~250 million awakened leaders self-organized into tens of millions of self-governing [[Circles]] / teams).
+**Time Remaining to Critical Milestone:** 11 months until the end of 2026 deadline to reach [[The First Three Percent]] (~250 million awakened leaders self-organized into tens of millions of self-governing [[Cell|Cells]] / teams).
 
 **The Journey So Far:**  
 Seven years of intensive preparation (2017-2024) laid the foundations—articulating [[The Golden Seed]], accomplishing [[The Great UnVeiling]], designing the systems, building the [[LIØNSBERG Pattern Language]], gathering tens of millions of dollars of value into [[The Commons]], and testing key infrastructure with hundreds of groups across dozens of nations.

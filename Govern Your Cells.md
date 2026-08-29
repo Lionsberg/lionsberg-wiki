@@ -1,4 +1,4 @@
-# Govern Your Circles
+# Govern Your Cells
 
 Governance in the [[New Civilization]] does not descend from above.  
 It rises from within —  
@@ -16,19 +16,19 @@ Not rule. Not hierarchy. Not control.
 
 Two methods. Both sacred. Both practical.
 
-**Consensus** — when possible. The Circle discusses until a way forward emerges that everyone can wholeheartedly support. This is the ideal. It is slower, and it produces deeper alignment.
+**Consensus** — when possible. The Cell discusses until a way forward emerges that everyone can wholeheartedly support. This is the ideal. It is slower, and it produces deeper alignment.
 
 **Consent** — when consensus is not reachable. Consent does not mean everyone agrees. It means no one holds a **fundamental objection** — an objection rooted in principle, not preference. If no member believes the proposal would cause genuine harm or violate shared agreements, the proposal moves forward.
 
 The difference matters. Consensus asks: *Does everyone say yes?* Consent asks: *Does anyone say this would be wrong?*
 
-Most decisions can be made by consent. Reserve consensus for the decisions that shape the Circle's identity and direction — its Purpose, its [[Field of Agreements]], its choice of [[Quest]].
+Most decisions can be made by consent. Reserve consensus for the decisions that shape the Cell's identity and direction — its Purpose, its [[Field of Agreements]], its choice of [[Quest]].
 
 ---
 
 ## Servant Leadership
 
-Every Circle elects **two coordinators** — not to lead in the old sense, but to serve.
+Every Cell elects **two coordinators** — not to lead in the old sense, but to serve.
 
 Their role is simple:
 
@@ -49,9 +49,9 @@ When a member objects, something important is being signaled.
 
 Do not dismiss it. Do not override it. **Listen.**
 
-Dissent is the immune system of the Circle. It detects what the majority may have missed. A Circle that suppresses dissent becomes brittle. A Circle that honors dissent becomes wise.
+Dissent is the immune system of the Cell. It detects what the majority may have missed. A Cell that suppresses dissent becomes brittle. A Cell that honors dissent becomes wise.
 
-When an objection arises, the Circle pauses and asks:
+When an objection arises, the Cell pauses and asks:
 
 - What is the concern beneath the objection?
 - Does this reveal something we have not considered?
@@ -65,7 +65,7 @@ This is not inefficiency. This is the practice of genuine self-governance — an
 
 Governance is not only about decisions. It is about **keeping commitments**.
 
-When a member consistently fails to honor their agreements — missing gatherings, not completing Quest work, breaking trust — the Circle addresses it. Not with punishment. With love and directness.
+When a member consistently fails to honor their agreements — missing gatherings, not completing Quest work, breaking trust — the Cell addresses it. Not with punishment. With love and directness.
 
 The pattern:
 
@@ -74,7 +74,7 @@ The pattern:
 - **Reaffirm the agreements** — remind one another what you committed to
 - **Decide together** — what needs to change, and what support is needed
 
-If, after genuine effort, a member cannot or will not honor the Circle's agreements, they may be released — with grace, without shame. This is not rejection. It is the Circle maintaining its integrity so that it can continue to serve.
+If, after genuine effort, a member cannot or will not honor the Cell's agreements, they may be released — with grace, without shame. This is not rejection. It is the Cell maintaining its integrity so that it can continue to serve.
 
 ---
 
@@ -82,7 +82,7 @@ If, after genuine effort, a member cannot or will not honor the Circle's agreeme
 
 This governance pattern repeats at every scale.
 
-A Circle of five governs itself this way. A federation of fifty Circles governs itself the same way. A bioregional council of five hundred Circles — the same way.
+A Cell of five governs itself this way. A federation of fifty Cells governs itself the same way. A bioregional council of five hundred Cells — the same way.
 
 Consent-based. Servant-led. Dissent-honoring. Accountability-keeping.
 
@@ -90,7 +90,7 @@ This is how a civilization of free souls governs itself — not by coercion, but
 
 ---
 
-Your Circle governs itself.  
+Your Cell governs itself.  
 Now it needs the living boundary that protects what grows within — while allowing vital exchange with the world outside.
 
 **The next play is [[Establish Selectively Permeable Membranes]].**

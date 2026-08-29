@@ -655,12 +655,12 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 #### Circle Formation and Life
 
 - [[Form A Cell]]
-- [[Name Your Circles]]
+- [[Name Your Cells]]
 - [[Set Your Cadence]]
 - [[Forge a Field of Agreements]]
 - [[Choose Your Roles]]
-- [[Properly Structure Your Circles]]
-- [[Govern Your Circles]]
+- [[Properly Structure Your Cells]]
+- [[Govern Your Cells]]
 - [[Establish Selectively Permeable Membranes]]
 - [[Establish Your Cellular Operating System and Way]]
 
@@ -680,12 +680,12 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 
 #### Federation and Scaling
 
-- [[Connect and Collaborate With Other Circles]]
-- [[Grow Your Circles]]
-- [[Self-Replicate Your Circles]]
-- [[Circle of Circles and Team of Teams]]
+- [[Connect and Collaborate With Other Cells]]
+- [[Grow Your Cells]]
+- [[Self-Replicate Your Cells]]
+- [[Superorganism of Cells]]
 - [[Stacking Up and Aligning Quests]]
-- [[Stacking Up and Aligning Circles]]
+- [[Stacking Up and Aligning Cells]]
 - [[Stacking Up and Aligning Communities Into Bioregions]]
 - [[Federate Everything]]
 

@@ -14,7 +14,7 @@ By joining [[LIØNSBERG]], each member affirm their willingness to embrace these
 
 ---
 
-3. **Form Sovereign [[Circles]], Engage in [[The LIØNSBERG Calendar]] and Share [[Stories of Transformation]]:**  
+3. **Form Sovereign [[Cell|Cells]], Engage in [[The LIØNSBERG Calendar]] and Share [[Stories of Transformation]]:**  
     Forge autonomous Circles, participate in aligned [[The LIØNSBERG Calendar]] that advance the [[Critical Path]], and share [[Stories of Transformation]] that inspire and amplify momentum. 
 
 ---

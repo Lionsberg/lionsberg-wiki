@@ -2,7 +2,7 @@
 
 Nothing in [[The Great Game of LIØNSBERG|The Great Game]] is fixed.  
 Everything is a work in progress.  
-Every [[Quest]], every [[Circles|Circle]], every practice, every agreement, every tool —  
+Every [[Quest]], every [[Cell|Circle]], every practice, every agreement, every tool —  
 All are subject to the same sacred discipline:  
 **Continuous improvement**.
 
@@ -30,7 +30,7 @@ The same cycle operates at every level of the living system:
 
 **At individual scale** — Daily reflection. What worked today? What didn't? What will I do differently tomorrow? Even five minutes of honest review compounds into transformation over weeks and months.
 
-**At [[Circles|Circle]] scale** — Weekly retrospective. At the end of each gathering, take ten minutes: What went well? What could be better? What will we try next time? This is how a Circle becomes more effective with every meeting.
+**At [[Cell|Circle]] scale** — Weekly retrospective. At the end of each gathering, take ten minutes: What went well? What could be better? What will we try next time? This is how a Circle becomes more effective with every meeting.
 
 **At Community scale** — Monthly and seasonal review cycles. The [[Seasonal OmniSpection]] is where communities step back, see the whole, and adjust their collective course.
 
