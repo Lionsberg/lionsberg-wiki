@@ -96,72 +96,10 @@ Therefore one of the most foundational among [[The 12 Pillars of LIØNSBERG]] is
 Because our purpose on Earth is to Become the fullness of who we are uniquely created to be by collaborating with the Creator and All Creation to Progressively Realize The Goal, the development of each diverse fractal aspect of Creation towards the fullness of [[Potential]] is paramount.  
 ## Measuring Throughput of The Goal 
 
-The System is designed to produce Throughput of [[The Goal]].  
+The System is designed to produce [[Throughput]] of [[The Goal]]. Because the [[Critical Path]] runs through the tipping-point strategy rooted in the transformation of [[Consciousness]] and [[Pattern Language]], Throughput is measured by how many Individuals have progressed how far on the Quest [[FROM the Old TO the New]].  
 
-Because the [[Critical Path]] runs through the tipping points strategy rooted in transformation of [[Consciousness]] and [[Pattern Language]]...  
+Quantity is measured by the [[LIØNSBERG Cycles of Growth]] — the Fibonacci spiral of Members joining and maturing — at the pace measured by [[LIØNSBERG Cycle Time]]. [[Progress]] additionally encompasses [[Quality]]. Together these form the basis of [[Measurement]] and [[Continuous Improvement]], reported at every season's turning in [[34. The Record]].  
 
-...[[Throughput]] can be measured by (something like) how many Individuals, have progressed how far, on [[The Quest]] [[FROM the Old TO the New]].  
-
-The LIØNSBERG [[LIØNSBERG Cycles of Growth]] predict that the [[New]] Organism may emerge through reciprocating cycles that can be best modeled along an exponential unfolding such as the [[Fibonacci]] sequence.  
-
-The LIØNSBERG Cycles of Expansion chart the fibonacci sequence, and relate to how many people have joined The Movement / The Game and are Progressing along the [[Critical Path]] [[FROM the Old TO the New]].  
-
-- Cycle 1: 2 Members  
-- Cycle 2: 3 Members  
-- Cycle 3: 5 Members  
-- Cycle 4: 8 Members (0.0000001%) 
-- Cycle 5: 13 Members  
-- Cycle 6: 21 Members  
-- Cycle 7: 34 Members  
-- Cycle 8: 55 Members  
-- Cycle 9: 89 Members (0.000001%) 
-- Cycle 10: 144 Members  
-- Cycle 11: 233 Members  
-- Cycle 12: 377 Members  
-- Cycle 13: 610 Members  
-- Cycle 14: 987 Members (0.00001%)   
-- Cycle 15: 1,597 Members  
-- Cycle 16: 2,584 Members  
-- Cycle 17: 4,181 Members  
-- Cycle 18: 6,765 Members  
-- Cycle 19: 10,946 Members (0.0001%)  
-- Cycle 20: 17,711 Members  
-- Cycle 21: 28,657 Members  
-- Cycle 22: 46,368 Members  
-- Cycle 23: 75,025 Members (0.001%)  
-- Cycle 24: 121,393 Members  
-- Cycle 25: 196,418 Members  
-- Cycle 26: 317,811 Members  
-- Cycle 27: 514,229 Members  
-- Cycle 28: 832,040 Members (0.01%)  
-- Cycle 29: 1,346,269 Members  
-- Cycle 30: 2,178,309 Members  
-- Cycle 31: 3,524,578 Members  
-- Cycle 32: 5,702,887 Members  
-- Cycle 33: 9,227,465 Members  (0.1%)  
-- Cycle 34: 14,930,352 Members  
-- Cycle 35: 24,157,817 Members  
-- Cycle 36: 39,088,169 Members  
-- Cycle 37: 63,245,986 Members  
-- Cycle 38: 102,334,155 Members (1%)   
-- Cycle 39: 165,580,141 Members  
-- Cycle 40: 267,914,296 Members (3%)  
-- Cycle 41: 433,494,437 Members  
-- Cycle 42: 701,408,733 Members  
-- Cycle 43: 1,134,903,170 Members (13%)  
-- Cycle 44: 1,836,311,903 Members  
-- Cycle 45: 2,971,215,073 Members (First 1/3)  
-- Cycle 46: 4,807,526,976 Members (Center Mass)  
-- Cycle 47: 7,778,742,049 Members (Last 1/3)  
-- Cycle 48: All Who Desire in Perpetuity (Holdouts + Emerging Future Generations)  
-- Cycle 49: 3 Year Trailing Citizenship (Joining + 3 Years, or Age 15 + 3 Years) 
-- Cycle 50: The New Era Begins  
-
-The [[LIØNSBERG Cycle Time]] measures the [[Rate]] at which the [[LIØNSBERG System]] produces [[Throughput]] of [[The Goal]].  
-
-Whereas the [[LIØNSBERG Cycles of Growth]] measure [[Quantity]], the dimensions of [[Progress]] / [[Throughput]] additionally encompass [[Quality]].  
-
-These two dimensions create the basis for [[Measurement]] and [[Continuous Improvement]].  
 ## Fractal Instantiation of The System from the Bottom Up
 
 As each Individual crosses through the [[Selectively Permeable Membrane]] and becomes a Co-Creator of The System...  
@@ -198,44 +136,13 @@ These three basic units form the basis of how [[The System]] is voluntarily and 
 3. [[Quests]] / [[Projects]]  
 
 On the [[Provisional Platform]], you will find these three objects as the basic units of organization and emergence.  
-## Milestone: 3% of the Population, ~250 Million Leaders, Organized Into Autonomous Teams, Engaged in Quarterly Quests 
+## Milestone: The First Three Percent 
 
-The LIØNSBERG Strategy and Plan, reflecting the wisdom of indigenous, eastern, and western thought, includes a significant early milestone of connecting and empowering 3% of the human population, roughly 250 million leaders, by 2026.  
-
-Assuming an average [[First Degree Group Size]] of 5 to 7 [[Individuals]], this is nominally 50 million [[Self-Governing, Self-Sustaining, and Self-Replicating]] Teams.  
+The great early milestone — [[The First Three Percent]]: roughly 250 million leaders organized into ~50 million [[Self-Governing, Self-Sustaining, and Self-Replicating]] [[Cell|Cells]] engaged in [[Seasonal Quests]] — is carried in [[8. Timing]], [[32. The Calling of the Ecclesia]], and [[34. The Record]].  
 
 ## Distribution 
 
-Assuming we avoid the [[Existential Threats]] at hand and the population grows out towards 10 Billion, we can set some broad breakpoints for understanding the distribution of Teams across the various Domains of [[SpaceTime]].  
-
-10 Billion People are Distributed Across Roughly:  
-
-- 12 to 24 [[Georegional|Georegions]]  
-- 150 to 200 [[Bioregion|Bioregions]]  
-- 750 to 1,000 [[Ecoregion|Ecoregions]]  
-- ~500 to 2,000 [[Macrocomplex|Macrocomplexes]] of 2 to 20 million Sovereigns  
-- 10,000 [[Macrolocality|Macrolocalities]] of 1,000,000 Sovereigns each  
-- 100,000 [[Mediolocality|Mediolocalities]] of 100,000 Sovereigns each  
-- 1,000,000 [[Community|Communities]] of 10,000 Sovereigns each (each anchored by [[The 300]])  
-- 10,000,000 [[Microlocality|Microlocalities]] of 1,000 Sovereigns each  
-- 100,000,000 [[Village|Villages]] of ~100 Sovereigns each  
-- Hundreds of millions of [[Neighborhood|Neighborhoods]] of 15 to 40 Sovereigns each  
-- 1,000,000,000 [[Circle|Circles]] of ~10 Sovereigns each  
-
-_The canonical articulation of these scales — including the cross-cutting axes of [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]] — lives in [[Levels of Scale]]._
-
-For comparison, some mapping sources have located approximately 4 million discrete towns and cities across the world.  
-
-Accomplishing this milestone would mean that by 2026, 50 Million teams, composed of the most [[Enlightened]] and Ready leaders we can identify, would be distributed as follows:  
-
-- ~50 Million Teams across The Whole  
-- ~2 Million to 4 Million Teams Per Georegion  
-- ~270,000 Teams Per Bioregion  
-- ~50,000 Teams Per Ecoregion   
-- ~5,000 Teams Per Major Population Center of 1,000,000 
-- ~500 Teams per Locality of 100,000 Citizens 
-- ~50 Teams per Community of 10,000 Citizens  
-- ~5 Teams per Microlocality of 1,000 Citizens 
+The distribution of [[Cell|Cells]] and Communities across every scale of [[SpaceTime]] — Georegions through [[Bioregion|Bioregions]] to [[Community|Communities]] of 10,000 (each anchored by [[The 300]]), [[Village|Villages]], [[Neighborhood|Neighborhoods]], and Cells — is articulated canonically in [[Levels of Scale]], including the cross-cutting axes of [[Guild|Guilds]], [[Tribe|Tribes]], [[Species]], and [[Voluntary Association|Voluntary Associations]]. At [[The First Three Percent]] this means on the order of fifty million Cells across the whole — roughly fifty Cells serving every Community of 10,000.  
 
 If we imagine a given physical place and time, with 10,000 Citizens, we could imagine that group determining, season by season, quarter by quarter, its most important priorities, challenges, needs, and opportunities...  
 
