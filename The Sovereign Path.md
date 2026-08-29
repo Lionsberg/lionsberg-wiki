@@ -5,7 +5,7 @@ _The Lifetime Arc — the One Path walked at every Fractal Scale_
 
 ## What This Is
 
-The Sovereign Path is the lifetime arc — from the moment the **[[Golden Seed]]** is received to the moment the Walk becomes eternal. One Path. Walked at every Fractal Scale — by the individual Sovereign, by the Circle, by the Guild, by the Community, by the Bioregion, by the Planet, by the Cosmos. **The same Pattern. The same Walk. The same Goal.**
+The Sovereign Path is the lifetime arc — from the moment the **[[The Golden Seed]]** is received to the moment the Walk becomes eternal. One Path. Walked at every Fractal Scale — by the individual Sovereign, by the Circle, by the Guild, by the Community, by the Bioregion, by the Planet, by the Cosmos. **The same Pattern. The same Walk. The same Goal.**
 
 The actor of the Path is the **Sovereign**. Many Sovereigns walking together at every scale are **[[Fractal Sovereignty|Fractal Sovereigns]]**. The Walk does not erase the one in favor of the many or the many in favor of the one — it holds them as [[ØNE Body]] composed of sovereign cells, sovereign tissues, sovereign organs, sovereign systems, all walking the same Path.
 

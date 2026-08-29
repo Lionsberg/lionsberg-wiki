@@ -20,7 +20,7 @@ Here is the sacred pattern:
 
 Every person in a Circle is also part of **a second Circle** — the one they form with the two or three others they invite. This is the **double helix** through which the DNA of the New Civilization replicates.
 
-You are the link between the Circle that received you and the Circle you will birth. You carry the full pattern — the complete [[Golden Seed]] — adapted to your own voice, your own people, your own place.
+You are the link between the Circle that received you and the Circle you will birth. You carry the full pattern — the complete [[The Golden Seed]] — adapted to your own voice, your own people, your own place.
 
 This is not delegation. It is not recruitment.  
 It is the oldest pattern of life: **a living thing reproducing itself**.
@@ -53,7 +53,7 @@ When you share [[The Invitation]] with them, the resonance will be immediate —
 Before your Circle's first gathering is over, name them. Write the names down. Within seven days of receiving the Seed yourself, pass it forward. This is the natural pace of fire between ready souls — and it is the pace that carries the movement from 144 to [[The First Three Percent]] within a single year.
 
 **2. Share [[The Invitation]].**  
-A single link is all it takes. Share the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Share your own story of what your Circle has done and what it has meant. Let the fire in your own experience do the speaking.
+A single link is all it takes. Share [[The Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Share your own story of what your Circle has done and what it has meant. Let the fire in your own experience do the speaking.
 
 **3. Help them form their own sovereign Circle.**  
 Not a branch of yours. Not a sub-committee. A **new, complete, self-governing expression** of the pattern — carrying the full DNA, adapted to their own context, their own people, their own community. Walk beside them as they take their first steps. Be present for their first gathering if they ask.

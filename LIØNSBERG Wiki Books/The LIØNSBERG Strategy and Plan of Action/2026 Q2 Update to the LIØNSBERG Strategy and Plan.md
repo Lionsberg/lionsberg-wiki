@@ -1,7 +1,6 @@
 # 2026 Q2 Update to the LIØNSBERG Strategy and Plan
 
-_August 2026, approaching the Fall Equinox. This update arrives late — issued at the season's end rather than its beginning; the lateness is itself part of the record below. The Q3 update will follow the Fall Equinox OmniSpection._
-_Prepared with agentic assistance and refined by the nameless one. It records what actually happened, why, and the strategic adjustment now underway. It is Current Best Understanding, held loosely and honestly._
+_August 2026, approaching the Fall Equinox. This update arrives late. The lateness is itself part of the record below. The Q3 update will follow the Fall Equinox OmniSpection._
 
 ---
 
@@ -112,7 +111,7 @@ And one truth stands above all the markers: **[[The Window]] may close at an unk
 
 _The center may equip; it must never operate. If every instrument of the center vanished tonight, the Ecclesia — its Book in hand, its trust-tree known, its Cells sovereign — continues. That is the design. That is the test of everything we now build._
 
-**A [[Superorganism]] is emerging. [[Accept The Invitation]]. [[Form A Cell]]. [[Choose A Quest]]. Share Your Stories. [[Pass The Flame]].**
+**A [[Superorganism]] is emerging. [[Accept The Invitation]]. [[Form A Cell]]. [[Choose A Quest]]. [[Share Your Stories]]. [[Pass The Flame]].**
 
 ---
 

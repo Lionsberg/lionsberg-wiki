@@ -13,4 +13,4 @@ The same laws bind it as bind every agent of the [[New Civilization]]: **soverei
 
 ---
 
-*Discussed in: the 2026 Q2 Update to [[The LIØNSBERG Strategy and Plan]] · [[LIØNSBERG Personal Agents]] · [[Form A Cell]]*
+*Discussed in: [[LIØNSBERG Agents]] · [[LIØNSBERG Personal Agents]] · [[Form A Cell]] · the 2026 Q2 Update to [[The LIØNSBERG Strategy and Plan]]*

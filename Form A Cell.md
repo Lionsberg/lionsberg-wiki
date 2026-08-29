@@ -32,13 +32,13 @@ These are the ones.
 - They need to share your **recognition** — that something profound is underway, and that we must rise to meet it together.
 - They need to be willing to **show up** and **commit**.
 
-Start with who is in front of you. Three is enough to begin. Twelve is the natural upper limit before a Cell should divide and multiply. Five to seven is ideal.
+Start with who is in front of you. Three is enough to begin. Thirteen is the natural upper limit before a Cell should divide and multiply. Five to seven is ideal.
 
 ---
 
 ## Share the Seed
 
-Once you have identified your resonant souls, share [[The Invitation]]. Give them the [[Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Read together. Let the words land. Let questions arise.
+Once you have identified your resonant souls, share [[The Invitation]]. Give them [[The Golden Seed]] — the core readings that illuminate the Story, the Game, and the Way. Read together. Let the words land. Let questions arise.
 
 Do not argue anyone into participation.  
 **Attraction, not promotion.**  

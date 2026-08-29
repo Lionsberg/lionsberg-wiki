@@ -12,7 +12,7 @@ In classical Greece, the *ekklēsia* (from *ek*, "out," and *kaleō*, "to call")
 
 **The narrow door — the called.** The first act of every voice is to **nominate**: out of the hundred people you know and trust most, the two or three you would most trust to help lead your tribe and community through the Nexus. Not family or romantic partners; not celebrities or strangers; never the self-promoting; people you have personally watched navigate hardship faithfully. When a person is surfaced by three trusted nominations, they receive **The Invitation**. Those who accept enter the Ecclesia as fellows.
 
-Every fellow walks the same five moves as every player of [[The Great Game of LIØNSBERG]]: **[[Accept The Invitation]] · [[Form A Cell]] · [[Choose A Quest]] · Share Your Stories · [[Pass The Flame]].** The Ecclesia is not separate from the Game; it is the Game's working body — [[The First Three Percent]], organized into living [[Cell|Cells]], resourced by the whole.
+Every fellow walks the same five moves as every player of [[The Great Game of LIØNSBERG]]: **[[Accept The Invitation]] · [[Form A Cell]] · [[Choose A Quest]] · [[Share Your Stories]] · [[Pass The Flame]].** The Ecclesia is not separate from the Game; it is the Game's working body — [[The First Three Percent]], organized into living [[Cell|Cells]], resourced by the whole.
 
 ## What the Ecclesia holds
 

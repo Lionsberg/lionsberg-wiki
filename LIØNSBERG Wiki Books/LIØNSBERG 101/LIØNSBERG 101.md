@@ -12,7 +12,7 @@ _LIØNSBERG 101 is one of the entries in **[[The LIØNSBERG Living Library|The L
 
 LIØNSBERG is **Story, Pattern, and Play**.
 
-It is not an organization, institution, or brand. There is no one to join, no dues to pay, no leader to follow. It is a **[[Golden Seed]]** — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world.
+It is not an organization, institution, or brand. There is no one to join, no dues to pay, no leader to follow. It is a **[[The Golden Seed]]** — a living pattern containing the DNA of Heaven, freely available to anyone, anywhere, in any world.
 
 **The Story** reveals where we are, how we got here, and what is at stake — spanning the cosmos and touching every world where beings face the great choice between fragmentation and flourishing.
 

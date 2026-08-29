@@ -2,7 +2,7 @@
 
 *A living work in active construction — rich ore, not yet cohered. Explore freely; hold lightly. The cohered path lives at [[AURELLIØN's Guide to LIØNSBERG|the Guide]]; the wider site at [[The LIØNSBERG Workshop]].*
 
-_The bound corpus of the New Civilization. One work, in twelve Volumes, freely accessible to All through one [[Golden Seed]]._
+_The bound corpus of the New Civilization. One work, in twelve Volumes, freely accessible to All through one [[The Golden Seed]]._
 
 ---
 

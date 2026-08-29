@@ -6,11 +6,11 @@ The Old World organizes value around accumulation: whoever can, gathers; whoever
 
 To become a Center of Distribution is a shift available to anyone, at any scale:
 
-- A **person** covers their genuine needs and directs the excess toward the [[Quest|Quests]] and neighbors they discern most need it — [[Waste]] transformed into provision.
+- A **person** covers their genuine needs and directs the excess toward the [[Quest|Quests]] and neighbors they discern most need it — stagnation and [[Waste]] transformed into provision.
 - A **fellow of the [[LIØNSBERG Ecclesia]]** receives their share of the common flows, sustains their work, and distributes the rest to the Quests they value — so that how resources move through the whole becomes the combined intelligence of all the fellows, not the decree of any center.
 - A **Cell or community** forges its own [[Commons]], receives with open books, and distributes on a rhythm that never lets wealth pool into a target or a temptation.
 
-Distribution is not charity added onto the system. It *is* the system's circulation — the way the emerging [[Superorganism]] feeds all of its cells, the way abundance is kept liquid, and the way power is kept from ever again condensing into the few.
+Distribution is not charity added onto the system. It *is* the system's circulation — [[Flow]] itself: the way the emerging [[Superorganism]] feeds all of its cells, the way abundance is kept liquid, and the way power is kept from ever again condensing into the few.
 
 ---
 

@@ -88,7 +88,7 @@ are not owned, branded, or controlled.
 They emerge organically from the [[Commons]].  
 They are nourished by All. They belong to All.  
 
-They are how the [[Golden Seed]] becomes a forest —  
+They are how [[The Golden Seed]] becomes a forest —  
 not through a single planting,  
 but through an ecosystem of learning, practice, and growth  
 that sustains itself across generations.  

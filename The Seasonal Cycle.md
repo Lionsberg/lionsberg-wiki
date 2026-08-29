@@ -4,7 +4,7 @@ The Movement moves in **Seasonal Cycles iterating toward [[The Goal]]** — Equi
 
 Each season, every Cell and the whole Body breathe together:
 
-- **At the turning** — [[OmniSpection]]: the whole field is read honestly (The Record, the Stories, the signs of the times, the width of [[The Window]]), and each Cell chooses its [[Quest]] for the season ahead.
+- **At the turning** — [[OmniSpection]]: the whole field is read honestly (The Record, the Stories, the signs of the times, the width of [[The Window]]), and each Cell chooses its [[Seasonal Quests|Seasonal Quest]] for the season ahead.
 - **Each week** — the Cell gathers: commitments spoken, commitments kept, the gap learned from.
 - **At every new moon and full moon** — resources divide across the fellows of the [[LIØNSBERG Ecclesia]], and Stories are shared into the [[Commons]].
 - **Before the season turns** — every mature Cell passes the Flame: a new Cell seeded, carrying the whole code. ([[Self-Replicate Your Circles]])
@@ -15,4 +15,4 @@ The Seasonal Cycle supersedes the earlier 90-day sprint framing (held in the gen
 
 ---
 
-*Discussed in: [[The LIØNSBERG Calendar]] · [[LIØNSBERG Cycles of Growth]] · [[8. Timing]] · [[Quest|Seasonal Quests]] · [[OmniSpection]]*
+*Discussed in: [[The LIØNSBERG Calendar]] · [[LIØNSBERG Cycles of Growth]] · [[8. Timing]] · [[Seasonal Quests]] · [[OmniSpection]]*
