@@ -3413,7 +3413,7 @@ By owning nothing we can gain access to the abundance of All Creation.
 
 Regenerative economy. Services not products. The continuously improving fulfillment of the functional necessities of life at ever higher Quality and ever lower marginal Cost.  
 
-Via - Citizen Led Joint Ventures dedicated to this cause, composed of a decentralized array of partners trained in the continuously improving Pattern Language of the Domain.  
+Via - Ecclesia Led Joint Ventures dedicated to this cause, composed of a decentralized array of partners trained in the continuously improving Pattern Language of the Domain.  
 ____  
 A section in the schedule for backlog - things waiting in the wings that we can pull in when the time is right.  
 ____  
@@ -3444,11 +3444,11 @@ Governance... for instance a Center serving 700 disadvantaged clients... when th
 
 A New Blank Space is needed - only 4 of 15 board members at the Center would get it, the rest would be scared to death.  
 
-Those who can see need to establish the Citizen Led Joint Venture to address the Whole issue; those need to be stacked up and aligned; and then others simply invited to connect, be empowered, share templates, processes, best practices, cross-pollinate solutions, technology, and knowledge, so that their valuable work can be replicated.  
+Those who can see need to establish the Ecclesia Led Joint Venture to address the Whole issue; those need to be stacked up and aligned; and then others simply invited to connect, be empowered, share templates, processes, best practices, cross-pollinate solutions, technology, and knowledge, so that their valuable work can be replicated.  
 
 A Pattern Language for each Domain.  
 
-A Citizen Led Joint Venture for each Domain.  
+A Ecclesia Led Joint Venture for each Domain.  
 
 Interoperability across Domains.  
 ____  

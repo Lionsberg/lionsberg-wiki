@@ -26,9 +26,9 @@ Around the world, [[Citizens of Goodwill]] are rallying to the front lines, stri
 
 In these crucial moments, it is our sacred responsibility as [[Citizens]] to arise as a diverse, united [[Force For Good]], safeguarding the freedom and prosperity of our families, communities, society, and planet. Achieving this necessitates voluntary uniting ourselves into a [[Higher Order Functional Unity]] capable of meeting needs, solving problems, and accomplishing goals.
 
-## An Unprecedented Citizen Led Response
+## An Unprecedented Ecclesia Led Response
 
-Realizing that the solutions to the [[Meta Crisis]] cannot emerge from the corrupt systems and structures causing it, we have diligently spent the past years laying the foundations for a historic [[Citizen Led Response]] through a new purpose-built platform known as [[LIØNSBERG]]. The platform is intended to serve and a backbone and neural network to connect and empower the [[Force For Good]]. 
+Realizing that the solutions to the [[Meta Crisis]] cannot emerge from the corrupt systems and structures causing it, we have diligently spent the past years laying the foundations for a historic [[Ecclesia Led Response]] through a new purpose-built platform known as [[LIØNSBERG]]. The platform is intended to serve and a backbone and neural network to connect and empower the [[Force For Good]]. 
 
 ## Raising a Standard 
 

@@ -14,7 +14,7 @@ In the context of the [[LIØNSBERG System]] and [[The Great Game of LIØNSBERG]]
 -   The loss of uniting Vision, Principles, and Values 
 -   [[The Advance of The Giants]]
 
-These challenges are interrelated and reinforcing, with the potential to trigger a catastrophic breakdown of civilization and life on earth as we know it. [[The Great Game of LIØNSBERG]], the [[New Vision and Plan]],  and the [[Citizen Led Response]] aim to address these challenges and co-create a more just, regenerative, and flourishing future for all.
+These challenges are interrelated and reinforcing, with the potential to trigger a catastrophic breakdown of civilization and life on earth as we know it. [[The Great Game of LIØNSBERG]], the [[New Vision and Plan]],  and the [[Ecclesia Led Response]] aim to address these challenges and co-create a more just, regenerative, and flourishing future for all.
 
 ## The Threat At Hand
 

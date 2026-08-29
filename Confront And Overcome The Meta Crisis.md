@@ -1,6 +1,6 @@
 # Confront And Overcome The Meta Crisis
 
-Confronting and overcoming the Meta Crisis is at the heart of the [[Citizen Led Response]] and [[The Great Game of LIØNSBERG]]. It requires a concerted effort by individuals, groups, and communities around the world to address the [[Root Causes]] of the crises and challenges facing humanity and the planet, and co-create the conditions through which the [[New World]] can emerge. 
+Confronting and overcoming the Meta Crisis is at the heart of the [[Ecclesia Led Response]] and [[The Great Game of LIØNSBERG]]. It requires a concerted effort by individuals, groups, and communities around the world to address the [[Root Causes]] of the crises and challenges facing humanity and the planet, and co-create the conditions through which the [[New World]] can emerge. 
 
 To confront and overcome the Meta Crisis, we must:
 
@@ -13,4 +13,4 @@ To confront and overcome the Meta Crisis, we must:
 
 Confronting and overcoming the Meta Crisis is not an easy task, but it is a necessary one. It requires us to step outside of our comfort zones and work together towards a common goal, with a shared sense of purpose, determination, and hope. It requires us to be bold, courageous, and persistent in the face of challenges and setbacks.
 
-Through the Citizen Led Response and The Great Game of LIØNSBERG, we can co-create a movement of individuals and communities that are committed to confronting and overcoming the Meta Crisis and forging a new future for humanity and the planet.
+Through the Ecclesia Led Response and The Great Game of LIØNSBERG, we can co-create a movement of individuals and communities that are committed to confronting and overcoming the Meta Crisis and forging a new future for humanity and the planet.

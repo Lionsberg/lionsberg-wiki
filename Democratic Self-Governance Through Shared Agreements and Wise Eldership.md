@@ -46,7 +46,7 @@ ___
 
 ## In LIØNSBERG
 
-Governance operates through [[Citizen Led Self-Governance]] — the same pattern applied fractally:
+Governance operates through [[Ecclesia Led Self-Governance]] — the same pattern applied fractally:
 
 - **Individual**: Self-governance first — inner transformation as the foundation
 - **Circle**: Shared agreements, consent-based decisions, elected coordinators, mutual accountability

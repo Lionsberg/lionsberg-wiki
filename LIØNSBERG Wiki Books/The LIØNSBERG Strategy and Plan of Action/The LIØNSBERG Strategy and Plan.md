@@ -907,10 +907,10 @@ Below is a growing list of steps we are taking to reach [[The Promised Land]].
 	11. Our World  
 	12. Our Solar System  
 	13. Our Long Term Journey Beyond This Life and Star System  
-### Citizen Led Society 
+### Ecclesia Led Society 
 
-1. Recognizing that many of the institutions of the [[Old World]] are functionally bankrupt and unlikely be able to meet the commitments we looked to them for in the past, we initiate [[Citizen Led Joint Ventures]] around each of the [[Core Functions of Life and Society]] / each of [[The 12 Pillars of LIØNSBERG]]    
-2. [[Citizen Led Joint Ventures]] will be responsible for continuously improving the quality and continuously decreasing the cost of the core functions of society, fractally, following the principle of subsidiarity, and leveraging the network of [[Instantiation Hubs]]  
+1. Recognizing that many of the institutions of the [[Old World]] are functionally bankrupt and unlikely be able to meet the commitments we looked to them for in the past, we initiate [[Ecclesia Led Joint Ventures]] around each of the [[Core Functions of Life and Society]] / each of [[The 12 Pillars of LIØNSBERG]]    
+2. [[Ecclesia Led Joint Ventures]] will be responsible for continuously improving the quality and continuously decreasing the cost of the core functions of society, fractally, following the principle of subsidiarity, and leveraging the network of [[Instantiation Hubs]]  
 3. A partial list of functions that institutions of the [[Old World]] may be unable to fulfill in the future include:  
 	1. Stewardship of Parks and Public Land  
 	2. Peace and Security  
@@ -1142,7 +1142,7 @@ Recognizing that Reality will shake in Unknown ways at Unknown [[SpatioTemporal 
 	7. [[The Voice of Nature]] to be heard  
 2. We celebrate and continuously improve our [[Precision Measurement]] capabilities  
 3. We integrate information from a vast array of [[Sensors]]  
-4. We engage millions in decentralized [[Citizen Led Science]]   
+4. We engage millions in decentralized [[Ecclesia Led Science]]   
 5. We archive all previous and emerging scientific and technological research and breakthroughs via a geolocated timeline / [[SpatioTemporal Context]]  
 6. We understand the dynamics and interdependencies of healthy, thriving systems 
 7. We understand the effects of various influences including changes in social and environmental conditions  
@@ -1974,7 +1974,7 @@ We of course might want to sweep the executive branch in the 2024 and 2026 US el
 
 There of course will need to be a new [[LIØNSBERG Alliance]] forged to succeed NATO, ensure universal strength and security, and oversee the responsible and balanced redirection of military and defense flows [[FROM Weaponry TO Livingry]].  
 
-There of course will need to be Wisdom Councils and [[Citizen Led Joint Ventures]] around each [[The 12 Pillars of LIØNSBERG]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities.  
+There of course will need to be Wisdom Councils and [[Ecclesia Led Joint Ventures]] around each [[The 12 Pillars of LIØNSBERG]] to aggregate the leading solutions, ideas, and technologies, cross-pollinate them, and empower the distributed array of teams and localities.  
 
 There of course will need to be 12,000 Individuals trained in each of 12 Core Functions of The Body just as a starting point to support the emergence of 50 Million connected and empowered Teams.  
 

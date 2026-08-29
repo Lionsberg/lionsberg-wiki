@@ -1,4 +1,4 @@
-# Citizen Led Self-Governance
+# Ecclesia Led Self-Governance
 
 _Governance that flows from the governed — not imposed from above, but emerging from below through shared agreements, consent, and elected servant-leadership._
 
@@ -10,7 +10,7 @@ In the [[Old World]], governance is something done TO people by authorities abov
 
 In the [[New World]], governance is something done BY people in voluntary association with one another. Agreements are shared. Decisions are consented to. Citizens are sovereigns.
 
-**This is Citizen Led Self-Governance** — the practice of communities governing themselves through the [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] pattern, without dependence on external authorities.
+**This is Ecclesia Led Self-Governance** — the practice of communities governing themselves through the [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] pattern, without dependence on external authorities.
 
 ___
 
@@ -50,12 +50,12 @@ ___
 
 ## The Foundation
 
-Citizen Led Self-Governance is not a political theory. It is a lived practice that begins with **inner transformation** and extends outward through voluntary association.
+Ecclesia Led Self-Governance is not a political theory. It is a lived practice that begins with **inner transformation** and extends outward through voluntary association.
 
 It does not require permission from existing authorities. It does not depend on reforming existing institutions. It grows from the ground up, through the formation of [[Cell|Cells]], the undertaking of [[Quests]], and the federated cooperation of sovereign communities.
 
 ___
 
-_See [[The LIØNSBERG Approach to Citizen Led Governance]] for the full governance pattern language._  
+_See [[The LIØNSBERG Approach to Ecclesia Led Governance]] for the full governance pattern language._  
 _See [[Democratic Self-Governance Through Shared Agreements and Wise Eldership]] and [[Total Nested Holarchy of Sovereignties]]._  
 _See [[LIØNSBERG 101]]._

@@ -284,7 +284,7 @@ Following Fibonacci pattern, each cycle invites the next:
 - Working capital: $10M → $100M range
 - Quarterly Quest resource flows begin
 - Joint Ventures form around each of [[The 12 Pillars of LIØNSBERG]]
-	- These were formerly described as "Citizen Led"... that language should be changed. 
+	- These were formerly described as "Citizen Led"... that language should be changed. *(Changed: Ecclesia Led.)* 
 
 **By end Q2 2026:** Achieve Cycle 20-22 (~20,000-40,000 participants)
 

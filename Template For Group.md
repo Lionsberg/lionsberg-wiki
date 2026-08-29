@@ -40,6 +40,6 @@ A process for evaluating the group's progress, learning from experience, and ada
 
 ## Conclusion
 
-A call to action that invites others to join the group in fulfilling its mission and contributing to the Citizen Led Response.
+A call to action that invites others to join the group in fulfilling its mission and contributing to the Ecclesia Led Response.
 
-This template provides a framework for individuals to build functional and effective [[Citizen Led]] groups that can make a meaningful impact. It emphasizes the importance of clear purpose, effective communication and coordination, and ongoing evaluation and adaptation to ensure that the group stays focused and effective in pursuing its goals.
+This template provides a framework for individuals to build functional and effective [[Ecclesia Led]] groups that can make a meaningful impact. It emphasizes the importance of clear purpose, effective communication and coordination, and ongoing evaluation and adaptation to ensure that the group stays focused and effective in pursuing its goals.

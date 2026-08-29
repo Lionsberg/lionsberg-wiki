@@ -70,7 +70,7 @@ These pages articulate the **specific patterns** that repeat at every scale:
 - **[[Meta Goal]]** — The overarching goal of goals
 - **[[Meaningful Work]]** — What makes work meaningful and therefore valuable
 - **[[LIØNSBERG Units of Value]]** — The internal currency of contribution and reciprocity
-- **[[Citizen Led Self-Governance]]** — Governance from the ground up
+- **[[Ecclesia Led Self-Governance]]** — Governance from the ground up
 - **[[The Flame]]** — The living transmission of the Pattern from hand to hand
 - **[[The 300]]** — The archetypal role in every community of 10,000
 - **[[Fair Shares Commons]]** — Multi-stakeholder ownership encoding regeneration into structural DNA

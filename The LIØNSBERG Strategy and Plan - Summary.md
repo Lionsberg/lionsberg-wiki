@@ -61,7 +61,7 @@ A just and regenerative economy is a key component of a flourishing and prospero
 
 #### D. Governance
 
-Effective and inclusive [[Citizen Led]] governance is crucial to creating a stable and just society. The Game emphasizes the importance of active citizenship, participation, and collaboration in decision-making processes at all fractal levels, empowering players to engage in shaping the policies and systems that affect their lives. By promoting transparency, accountability, and the development of innovative, citizen-led governance models, the Great Game of LIØNSBERG helps to build a world where power is widely distributed and justly shared, and where the voices of all are heard and respected.
+Effective and inclusive [[Ecclesia Led]] governance is crucial to creating a stable and just society. The Game emphasizes the importance of active citizenship, participation, and collaboration in decision-making processes at all fractal levels, empowering players to engage in shaping the policies and systems that affect their lives. By promoting transparency, accountability, and the development of innovative, Ecclesia-led governance models, the Great Game of LIØNSBERG helps to build a world where power is widely distributed and justly shared, and where the voices of all are heard and respected.
 
 ### IV. The Stewardship-Based Economic Model
 
@@ -79,13 +79,13 @@ The stewardship-based economic model seeks to realign resources and priorities, 
 
 In the LIØNSBERG economic model, rewards and incentives are designed to encourage purpose-driven actions that contribute to the well-being of people and the planet, and the growth of The Movement and The Game. The Game recognizes and celebrates the efforts of individuals, businesses, and organizations that prioritize long-term social and environmental impact over short-term financial gain, fostering a culture where purpose-driven actions are valued and rewarded. By creating an economic system that incentivizes stewardship, collaboration, and the pursuit of shared value, the Great Game of LIØNSBERG aims to inspire a global movement towards a more just, regenerative, and prosperous world for all. 
 
-### V. The Citizen-Led Governance Model
+### V. The Ecclesia-Led Governance Model
 
-The Great Game of LIØNSBERG promotes a citizen-led governance model that empowers individuals and communities to take charge of their own lives and participate actively in shaping their collective future. This model is built on the principles of participatory democracy, decentralization, and shared responsibility, ensuring that power and decision-making authority are distributed fairly among all stakeholders.
+The Great Game of LIØNSBERG promotes a Ecclesia-led governance model that empowers individuals and communities to take charge of their own lives and participate actively in shaping their collective future. This model is built on the principles of participatory democracy, decentralization, and shared responsibility, ensuring that power and decision-making authority are distributed fairly among all stakeholders.
 
-#### A. Principles of Citizen-Led Governance
+#### A. Principles of Ecclesia-Led Governance
 
-The citizen-led governance model is founded on several key principles that guide its implementation and operation:
+The Ecclesia-led governance model is founded on several key principles that guide its implementation and operation:
 
 1.  Inclusivity: All citizens have the right to participate in the decision-making processes that affect their lives and communities, regardless of their social, economic, or cultural background.
 2.  Transparency: Openness and honesty in all aspects of governance are essential to building trust, ensuring accountability, and fostering informed participation.
@@ -94,11 +94,11 @@ The citizen-led governance model is founded on several key principles that guide
 
 #### B. Empowering Local Groups and Communities
 
-Central to the citizen-led governance model is the empowerment of local groups and communities. The Great Game of LIØNSBERG encourages citizens to form self-organizing, locally-driven groups that identify and address the unique challenges and opportunities within their respective communities. By fostering a sense of ownership and agency, the game helps to create an environment in which citizens are actively engaged in shaping their own destinies and contributing to the collective well-being of society.
+Central to the Ecclesia-led governance model is the empowerment of local groups and communities. The Great Game of LIØNSBERG encourages citizens to form self-organizing, locally-driven groups that identify and address the unique challenges and opportunities within their respective communities. By fostering a sense of ownership and agency, the game helps to create an environment in which citizens are actively engaged in shaping their own destinies and contributing to the collective well-being of society.
 
 #### C. Distributed Decision-Making, Responsibility, and Accountability
 
-The citizen-led governance model promotes a decentralized approach to decision-making, allowing decisions to be made as close as possible to the people who are most affected by them. This model ensures that power and authority are distributed fairly, preventing the concentration of power and promoting shared responsibility and accountability. By embracing distributed decision-making, the Great Game of LIØNSBERG aims to create a more responsive, adaptive, and effective system of governance that is better equipped to address the complex and interconnected challenges facing society today.
+The Ecclesia-led governance model promotes a decentralized approach to decision-making, allowing decisions to be made as close as possible to the people who are most affected by them. This model ensures that power and authority are distributed fairly, preventing the concentration of power and promoting shared responsibility and accountability. By embracing distributed decision-making, the Great Game of LIØNSBERG aims to create a more responsive, adaptive, and effective system of governance that is better equipped to address the complex and interconnected challenges facing society today.
 
 ### VI. Collaboration and Partnership
 

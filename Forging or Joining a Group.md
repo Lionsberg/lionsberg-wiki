@@ -1,6 +1,6 @@
 # Forging or Joining a Group
 
-Forging or joining a group can be a powerful way to engage in the [[Citizen Led Response]] to the [[Meta Crisis]] and contribute to co-creating a more just, regenerative, and thriving future for all. Here are some steps to consider:
+Forging or joining a group can be a powerful way to engage in the [[Ecclesia Led Response]] to the [[Meta Crisis]] and contribute to co-creating a more just, regenerative, and thriving future for all. Here are some steps to consider:
 
 1.  **Define your purpose and vision**: Identify the reasons why you want to forge or join a group, and clarify your personal vision and values. What issues or challenges are you most passionate about, and what kind of change do you want to create? This will help you find or start a group that aligns with your purpose and provides meaningful opportunities for engagement and growth. 
     
@@ -16,6 +16,6 @@ Forging or joining a group can be a powerful way to engage in the [[Citizen Led 
     
 7. **Understand the [[New Vision and Plan]]**: Read and discuss the materials as a group, and explore how you can meaningfully engage within your own group, as well as connecting and federating with other groups to tackle every larger challenges. 
 
-By forging or joining a group, you can contribute to the larger effort of the [[Citizen Led Response]] and work towards co-creating a Just and Regenerative future for All.
+By forging or joining a group, you can contribute to the larger effort of the [[Ecclesia Led Response]] and work towards co-creating a Just and Regenerative future for All.
 
 See also [[Template For Group]] 
