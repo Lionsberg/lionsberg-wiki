@@ -1,6 +1,6 @@
 # The 90 Day Sprint
 
-*A launch plan from Q2 2024, held in the genealogy. The living rhythm is now [[The Seasonal Cycle]] — see the 2026 Q2 Update to [[The LIØNSBERG Strategy and Plan]].*
+*Superseded — the living rhythm is [[The Seasonal Cycle]].*
 
 ## **Purpose**
 

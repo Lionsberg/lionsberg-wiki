@@ -120,6 +120,8 @@ When in doubt, ask: _Does this word transmit the Logos more clearly? Does it res
 
 A content page never stands outside the wiki narrating it. Phrases like *"the canon says," "the canon speaks of," "the canon's teaching is"* are the voice of a commentator; these pages are not commentary — **they are the canon, speaking.** Write the teaching directly, in declarative voice, and let the *Discussed in* footer carry the sourcing.
 
+Nor does a content page narrate its own making. Birth dates, update notes, whose word called it forth, what instrument produced it, what remains undecided — these belong to the meta layer (project pages, the git record, the seasonal Updates), never to the page. The canon does the work; it does not explain the work. A page simply *is*.
+
 Self-reference belongs only to the meta layer — [[The LIØNSBERG Book of Conventions|conventions]], project pages, and the reflexive humility clauses of [[Essences, Renderings, And Ineffable Referents]] (a page may honestly say of itself, *including this one*).
 
 And link generously: every significant term whose concept carries weight — [[Work]], [[Value]], [[Time]], [[Attention]] — is linked at first meaningful occurrence, whether or not its page yet exists ([[The Incipient Link]] · [[Link to the Concept, Not the Coordinate]]).

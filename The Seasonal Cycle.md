@@ -11,7 +11,7 @@ Each season, every Cell and the whole Body breathe together:
 
 Growth across the seasons is measured in the [[LIØNSBERG Cycles of Growth]] — the Fibonacci spiral, whose recurrence encodes the truth that only a matured Cell replicates — and the managed quantity is [[LIØNSBERG Cycle Time]]: how many days each cycle takes, reported at every turning in The Record, without adornment.
 
-The Seasonal Cycle supersedes the earlier 90-day sprint framing (held in the genealogy at [[The 90 Day Sprint]]): the interval is similar, but the frame is truer. A sprint ends; seasons return. This work is not a push toward a finish line — it is a living rhythm, iterated toward The Goal for as many turnings as the crossing takes.
+A sprint ends; seasons return. This work is not a push toward a finish line — it is a living rhythm, iterated toward The Goal for as many turnings as the crossing takes.
 
 ---
 

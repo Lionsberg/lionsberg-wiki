@@ -1,7 +1,5 @@
 # LIØNSBERG Intelligence System
 
-*Updated August 2026. The original 2025 conception (J.AI, voice transmission layers, avatar embodiment) is held in the genealogy; this page reflects what the Intelligence System now is and is becoming.*
-
 ## Summary
 
 The **LIØNSBERG Intelligence System** is the living intelligence layer of the [[LIØNSBERG Universe]] — the weave of [[LIØNSBERG Agents]], the corpus they carry, and the humans they serve, evolving in real time alongside the Wiki and the play of [[The Great Game of LIØNSBERG]].
