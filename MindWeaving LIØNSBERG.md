@@ -755,7 +755,7 @@ Fear is rising for the boiling frogs:
 - Pole shifts  
 - Earthquakes  
 - Environmental Shifts  
-- World War III or IV  
+- [[World War IV]]  
 - Financial Collapse  
 - ... and on and on  
 

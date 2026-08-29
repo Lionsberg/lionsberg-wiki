@@ -34,13 +34,13 @@ These questions should be kept integrated and mutually updated with [[4.4 A New 
 	4. What would you like to do [[A Little Better]] today?  
 	5. What [[Value]] did Your efforts over the last 24 hours co-create?  
 10. **Review Your [[Navigation Dashboard]]**: 
-	1. **Alignment**: Review the Way your [[Quarterly Quest]] is advancing You towards the [[Milestones]] that mark the [[Way]] towards [[The Goal]].  
+	1. **Alignment**: Review the Way your [[Seasonal Quests|Seasonal Quest]] is advancing You towards the [[Milestones]] that mark the [[Way]] towards [[The Goal]].  
 	2. **Milestone**: Based on Your [[Current Best Understanding]], what is the next significant [[Milestones|Milestone]] that marks the [[Critical Path]] towards the [[Goal]]?  
-	3. **Work Breakdown**: Ensure that the Steps towards the [[Goals]] and [[Objectives]] of your [[Quarterly Quest]] are broken down into [[Action Steps]] that require no more than one week to complete, and are logically and sequentially organized with a visible [[Critical Path]].  
-	4. **Next Steps**: What do You [[Perceive]] as Your most important next steps? How do they align with the [[Plan for This Quarter]] for your [[Quarterly Quest]]?  
+	3. **Work Breakdown**: Ensure that the Steps towards the [[Goals]] and [[Objectives]] of your [[Seasonal Quests|Seasonal Quest]] are broken down into [[Action Steps]] that require no more than one week to complete, and are logically and sequentially organized with a visible [[Critical Path]].  
+	4. **Next Steps**: What do You [[Perceive]] as Your most important next steps? How do they align with the [[Plan for This Quarter]] for your [[Seasonal Quests|Seasonal Quest]]?  
 	5. **Obstacles**: What do You [[Perceive]] as Your most significant obstacles? Are they reflected on your [[Issue Tracker]]?  
 	6. **Greatness**: What Would Make Today Great?  
-	7. **Remembering Death**: If This Was Your Last Week On Earth, What Would You Do Today? If you were to die this week, would you be satisfied with [[Your Story]] and the [[Quarterly Quest]] and [[Meta Goal]] you died in pursuit of?  
+	7. **Remembering Death**: If This Was Your Last Week On Earth, What Would You Do Today? If you were to die this week, would you be satisfied with [[Your Story]] and the [[Seasonal Quests|Seasonal Quest]] and [[Meta Goal]] you died in pursuit of?  
 	8. **Commitments**: Review Your [[Commitment Tracker]] - Are You on track to keep all Commitments that You have **made**? Are Others on track to keep the Commitments that You have **secured**?  
 	9. **Top Three**: What Are Your [[Top Three]] for Today?  
 	10. **Top One**: What is Your [[Top One]] for Today?  

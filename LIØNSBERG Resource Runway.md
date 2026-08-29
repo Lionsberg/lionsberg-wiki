@@ -67,7 +67,7 @@ The second primary source of funds will be 10% of the flow from the projects and
 
 The design of the Operating System calls for us to use 1/10th of the Value Flow we are Co-Creating to continuously improve the infrastructure, systems, culture, and support of the ecosystem / Commons that is enabling all to flourish. 
 
-Assuming the first 3% are organized into Teams averaging 6 individuals tackling meaningful [[Quarterly Quests]] valued at an average of at least $10,000 / quarter, that is an additional $1,000 / quarter ($333 / month) of revenue per Team. 
+Assuming the first 3% are organized into Teams averaging 6 individuals tackling meaningful [[Seasonal Quests]] valued at an average of at least $10,000 per season, that is an additional $1,000 per season ($333 / month) of revenue per Team. 
 
 - Cycle 20: 17,711 Co-Creators / 6 = 2,951 Teams x $333 / month = $982,000 / month 
 - Cycle 25: 196,418 Co-Creators / 6 = 32,736 Teams x $333 / month = $11 Million / month  

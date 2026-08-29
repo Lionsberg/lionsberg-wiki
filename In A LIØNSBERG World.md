@@ -104,7 +104,7 @@ If We can Imagine it, We can Co-Create it. All things are possible.
 90. In a LIØNSBERG World, [[The System]] continuously learns and improves.  
 91. In a LIØNSBERG World, [[The System]] produces [[Throughput]] of Ever Greater Quality and Quantity of Life, while [[Driving Marginal Cost Towards Zero]].  
 92. In a LIØNSBERG World, We Co-Operate a [[System Wide Master Planning Process]] within and beyond each [[Fractal Levels|Fractal Level]].  
-93. In a LIØNSBERG World, We [[Stack Up And Align]] our [[Quarterly Quests]] from the [[Bottom Up]] in an [[Optimally Decentralized]] Way.  
+93. In a LIØNSBERG World, We [[Stack Up And Align]] our [[Seasonal Quests]] from the [[Bottom Up]] in an [[Optimally Decentralized]] Way.  
 94. In a LIØNSBERG World, All Possible Pursuits are subordinated to [[The Goal]].  
 95. In a LIØNSBERG World, We eternally remember that [[We Do Not Know]].  
 96. In a LIØNSBERG World, We embrace [[The Power of Today]].  

@@ -25,9 +25,9 @@ For the [[New System]] to function as designed, *something like* the following c
 
 1. Love [[ØNE]]. Love [[One Another]]. Love [[All]].  
 2. [[Help One Another]], and [[Do No Harm]]  
-3. Resources may only be applied to [[Value]] Producing and Aligned [[Quarterly Quests]]  
-4. [[Quarterly Quests]] must [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]]  
-5. [[Quarterly Quests]] must be undertaken by [[Teams]].  
+3. Resources may only be applied to [[Value]] Producing and Aligned [[Seasonal Quests]]  
+4. [[Seasonal Quests]] must [[Stack Up And Align]] to produce [[Throughput]] of [[The Goal]]  
+5. [[Seasonal Quests]] must be undertaken by [[Teams]].  
 6. Teams may not be smaller than 3 or larger than 16, and [[Should Be]] 5 to 12  
 7. Teams must be [[Self-Governing, Self-Sustaining, and Self-Replicating]]  
 8. To function effectively as [[ØNE Body]], [[Teams]] must co-operate and continuously improve the [[LIØNSBERG System]]  

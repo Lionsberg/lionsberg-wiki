@@ -14,7 +14,7 @@ But the Good News is there is Hope.
 
 If any part of you resonates and can hear this whisper, I beg you to wake up, arise, and [[Join The Movement]].  
 
-As World War III intensifies, supply lines are attacked, food prices skyrocket, currencies falter, ecosystems are destroyed, [[Values]] are sacrificed, populations are divided and conquered, and the [[Invisible Power Structures]] plot their final moves while the Good People Sleep, the time is short to [[Awaken, Arise, and Unite]] for the Adventure and Opportunity of a lifetime.  
+As [[World War IV]] intensifies, supply lines are attacked, food prices skyrocket, currencies falter, ecosystems are destroyed, [[Values]] are sacrificed, populations are divided and conquered, and the [[Invisible Power Structures]] plot their final moves while the Good People Sleep, the time is short to [[Awaken, Arise, and Unite]] for the Adventure and Opportunity of a lifetime.  
 
 Over the coming months, we will rediscover we are all billionaires, all [[One Family]] of [[ØNE]], whose [[Collective Inheritance]] and Identity has been robbed and concealed.  
 

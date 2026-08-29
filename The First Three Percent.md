@@ -27,7 +27,7 @@ This decentralized yet aligned structure is essential for humanity to pass [[The
 **Structure**  
 The First Three Percent will organize themselves into:
 
-1. **Impact Teams**: Autonomous teams of 3 to 13 individuals (optimally 4 to 7) actively engaged in [[The LIØNSBERG Calendar]]—focused, time-bound missions designed to generate transformative action.
+1. **Impact Teams**: Autonomous teams of 3 to 13 individuals (optimally 4 to 7) actively engaged in [[The LIØNSBERG Calendar]] and [[Seasonal Quests]]—focused, time-bound missions designed to generate transformative action.
 2. **Local Groups**: Anchor groups of 300 individuals within each community of 10,000, fostering resilience and coherence at the local level.
 3. **Regional and Bioregional Networks**: Interconnected clusters of local groups and teams, sharing knowledge, resources, and strategies to strengthen broader bioregional resilience.
 4. **Universal Alliance**: A planetary and cosmic network dedicated to co-creating harmony and flourishing on Earth and beyond.
@@ -42,7 +42,9 @@ The journey for the First Three Percent begins with simple, actionable steps:
 5. **Pass the Flame**: Invite others to step into their role as part of the First Three Percent.
 
 **Timeframe**  
-By 2026, the First Three Percent must be united and empowered globally. This timeline is critical as humanity faces accelerating crises.
+By 2026, the First Three Percent must be united and empowered globally. This timeline is critical as humanity faces accelerating crises — and where the Movement runs behind it, the lateness is recorded honestly and consumed knowingly from the [[20 Year Generational Contingency]], within [[The Window]] that may close at an unknown time ([[34. The Record]]).
+
+The First Three Percent are not self-appointed. They are **called out** — surfaced by the trust of the people who know them best, through the nomination of the [[LIØNSBERG Ecclesia]] ([[32. The Calling of the Ecclesia]]): every person on Earth invited to take up their voice, and the first act of every voice the naming of the two or three they would most trust to lead their community through [[The Collapse-Ascension Nexus]].
 
 **Key Role in Passing [[The Final Test]]**  
 The First Three Percent hold the potential to shift humanity’s trajectory. Their alignment, coordination, and courage will determine whether we fragment into chaos or rise together as [[ØNE Body]] to co-create [[Heaven on Earth]].
