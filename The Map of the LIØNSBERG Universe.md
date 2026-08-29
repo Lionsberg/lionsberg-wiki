@@ -23,7 +23,7 @@ tags: [map, seed, entry, agent-core]
 ## How to play — the Five Basic Moves
 
 The whole Game is five basic moves, at every scale, self to galaxy — and before them, the move you have already made: waking up.
-**Form a Circle · Choose a Quest · Learn and Grow · Share Your Stories · Pass The Flame.**
+**Form a Cell · Choose a Quest · Learn and Grow · Share Your Stories · Pass The Flame.**
 *A child can learn them in five minutes; a lifetime is not enough to master them.* → [[The Great Game of LIØNSBERG]]
 - part_of:: [[The Great Game of LIØNSBERG]]
 - informs_downstream:: [[Playing The Great Game — With Your Agent]] (the ready-to-play on-ramp)

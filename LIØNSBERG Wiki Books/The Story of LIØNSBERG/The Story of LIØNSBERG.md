@@ -98,7 +98,7 @@ The Window is short. The Time is Nøw. [[The First Three Percent]] are awakening
 The Path in is simple:
 
 Accept the Invitation.  
-Form a Circle.  
+Form a Cell.  
 Choose a Quest.  
 Share your Stories.  
 **[[Pass The Flame]]**.  

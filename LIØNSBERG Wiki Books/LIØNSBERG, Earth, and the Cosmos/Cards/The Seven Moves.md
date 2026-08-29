@@ -12,7 +12,7 @@ The gameplay loop of [[The Great Game of LIØNSBERG]].
 
 The canonical sequence:
 
-1. **Form a Circle** — 3-13 sovereign souls gather as the irreducible unit.
+1. **Form a Cell** — 3-13 sovereign souls gather as the irreducible unit.
 2. **Weave Spirit, Hearts, and Minds** — coherence is established before action; the Circle becomes one before it moves as one.
 3. **Choose a Quest** — pick real work that makes life measurably more like Heaven.
 4. **Do the Work** — discern, plan, act, keep promises, produce results.
@@ -22,6 +22,6 @@ The canonical sequence:
 
 The Seven Moves run on every cycle — daily, weekly, seasonally, and across lifetimes.
 
-The sequence is non-arbitrary. **Weave Spirit, Hearts, and Minds** sits between Form a Circle and Choose a Quest because a Circle that has not yet woven coherence will not choose well. **Celebrate, Learn, and Improve** sits before Share the Stories because what is celebrated and refined is what becomes worth telling. **Pass The Flame** comes last because the Fibonacci spread depends on what was Done, Celebrated, and Stored as Story.
+The sequence is non-arbitrary. **Weave Spirit, Hearts, and Minds** sits between Form a Cell and Choose a Quest because a Circle that has not yet woven coherence will not choose well. **Celebrate, Learn, and Improve** sits before Share the Stories because what is celebrated and refined is what becomes worth telling. **Pass The Flame** comes last because the Fibonacci spread depends on what was Done, Celebrated, and Stored as Story.
 
 The Moves are not phases of one big project. They are the breath of the Circle — one full cycle of inhale and exhale, repeatable indefinitely, deepening with practice.

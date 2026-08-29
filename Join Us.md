@@ -7,7 +7,7 @@ You are here for a reason.
 To **Join Us**:  
 
 1. Accept the Invitation  
-2. Form a Circle (2-3 others)  
+2. Form a Cell (2-3 others)  
 3. Choose a Quest  
 4. Identify your Roles  
 5. Share your Stories  

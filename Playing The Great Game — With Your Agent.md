@@ -24,7 +24,7 @@ You already know what Heaven looks like. A five-year-old knows: children fed and
 
 *(Before the first move there is the one you have already made: waking up — seeing what is real, and refusing to look away.)*
 
-1. **Form a Circle** — you cannot play alone. The living unit is a **Circle** of 3–13 who choose to see, serve, and build together — gathered at the pace of trust.
+1. **Form a Cell** — you cannot play alone. The living unit is a **Circle** of 3–13 who choose to see, serve, and build together — gathered at the pace of trust.
 2. **Choose a Quest** — a real, tangible act of goodwill that makes life measurably more like Heaven in a specific place, within a season. Feed the family on your street. Clean the river. Teach the children.
 3. **Learn and Grow** — do the work, week by week: *say what you will do; do what you said; learn from the difference.* And at the harvest: *What worked? What to continue? What didn't? What to do differently?* The gap between here and Heaven is not shame; it is the field of play.
 4. **Share Your Stories** — every Quest becomes a Story; every Story becomes a Prophesy of even greater things to come. Stories inspire, attract, and teach — the living pulse by which the Game grows.

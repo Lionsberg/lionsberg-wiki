@@ -129,7 +129,7 @@ The Game has five basic moves. A child can learn them in five minutes; a lifetim
 
 *(Before the first move there is the move you have already made: waking up — seeing the world as it truly is, the beauty and the suffering and what could be, and refusing to look away.)*
 
-**One — Form a Circle.** Gather three to thirteen souls, at the pace of trust. Seal the Circle with a name, simple agreements, and a first Quest.
+**One — Form a Cell.** Gather three to thirteen souls, at the pace of trust. Seal the Circle with a name, simple agreements, and a first Quest.
 
 **Two — Choose a Quest.** Together, choose one tangible act of goodwill for the season ahead — real, achievable, meaningful, and shared.
 

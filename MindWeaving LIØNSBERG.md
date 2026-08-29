@@ -254,7 +254,7 @@ This is important because [[If It Is True]]:
 ## What Can I Do To Help?  
 
 1. [[Accept The Invitation]] 
-2. [[Form A Circle]]  
+2. [[Form A Cell]]  
 3. [[Read The Story]]  
 4. [[Play The Game]]  
 5. [[Pass The Flame]]  

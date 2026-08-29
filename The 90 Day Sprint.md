@@ -1,5 +1,7 @@
 # The 90 Day Sprint
 
+*A launch plan from Q2 2024, held in the genealogy. The living rhythm is now [[The Seasonal Cycle]] — see the 2026 Q2 Update to [[The LIØNSBERG Strategy and Plan]].*
+
 ## **Purpose**
 
 To catalyze the LIØNSBERG movement by engaging the first cycles of growth, building foundational infrastructure, and setting the trajectory for engaging [[The First Three Percent]] by 2026. 

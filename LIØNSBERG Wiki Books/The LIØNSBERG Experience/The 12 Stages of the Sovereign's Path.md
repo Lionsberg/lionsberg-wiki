@@ -73,7 +73,7 @@ The Circle is formed. The Game begins.
 
 **Run.**
 
-The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
+The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Cell, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
 
 [[The LIØNSBERG Playbook]] ([[The LIØNSBERG Playbook]]) is the working document at the Circle scale. **[[The Daily Way]]** is the working rhythm at the individual scale. The Sovereign no longer studies the Way — they live it. Daily practice. Weekly Circle. Seasonal Quest.
 

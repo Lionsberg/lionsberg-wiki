@@ -1,9 +1,10 @@
 # The LIØNSBERG Strategy and Plan
 
-*Updated May 2024*  
+*Updated August 2026*  
 
 *This document is a [[Work In Progress]]. The original long format written document is being processed into the links below. The long format text below the links is the remaining unprocessed body of the document.*  
 
+[[2026 Q2 Update to the LIØNSBERG Strategy and Plan]]  
 [[2026 Q1 Update to the LIØNSBERG Strategy and Plan]]  
 [[2024 Q4 Update]]  
 [[1. Introduction to the LIØNSBERG Strategy and Plan]]  
@@ -37,6 +38,9 @@
 [[29. A New System of Systems]]  
 [[30. Unified by The Goal]]  
 [[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable]]  
+[[32. The Calling of the Ecclesia]]  
+[[33. Resourcing the Transformation]]  
+[[34. The Record]]  
 
 (The sections below are being gradually folded into the emergent table of contents above)  
 ### Waste, Value, and Throughput of The Goal 

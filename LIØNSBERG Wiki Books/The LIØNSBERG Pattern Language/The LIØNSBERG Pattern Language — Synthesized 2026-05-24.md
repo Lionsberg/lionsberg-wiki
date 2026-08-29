@@ -213,7 +213,7 @@ Containers (not Patterns; used by Patterns): [[The Sovereign's Path]] (lifetime 
 Each scale is its own Pattern; the ladder lives in [[Levels Of Scale]].
 
 - [[The Circle]] (3–13)
-- [[Form A Circle]]
+- [[Form A Cell]]
 - [[Circle Coherence]]
 - [[The Two-Stake Principle]]
 - [[The Microlocality]] · [[The Neighborhood]] · [[The Village]]

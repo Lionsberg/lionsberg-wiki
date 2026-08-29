@@ -22,7 +22,7 @@ If a Circle can do all five, it carries the full DNA. It is not dependent on any
 
 ___
 
-## How To Form A Circle
+## How To Form A Cell
 
 **1. Identify 2-4 others who resonate.** Not everyone you know. Start with those who feel the same urgency and are willing to commit. Attraction, not promotion.
 

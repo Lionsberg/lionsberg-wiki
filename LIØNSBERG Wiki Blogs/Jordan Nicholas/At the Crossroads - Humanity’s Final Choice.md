@@ -52,7 +52,7 @@ Over the next 60 days, we warmly invite you to participate in private small-grou
     
 3. **Guidance and strategic support** for preparing yourself, your loved ones, and your community to *safely navigate* and *positively shape* the critical transitions ahead.
     
-4. **Information on formally joining** the LIØNSBERG Community and Commons—designed to sustain and empower you and your loved ones through the coming collapse–ascension passage.
+4. **Information on formally joining** the LIØNSBERG Community and Commons—designed to sustain and empower you and your loved ones through the coming collapse-ascension passage.
     
 
 **If you feel called to unite in Spirit and Truth at this historic juncture, please respond now via the link below:**

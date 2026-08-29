@@ -60,7 +60,7 @@ Placed at Volume III for accessibility — once the reader has received the Stor
 
 _The player's handbook. How you actually play your part at the Circle and individual scale._
 
-The Playbook turns the Game into action. Form a Circle. Choose a Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate. Stack Up and Align. Federate Everything. Pass the Flame. The [[Seven Moves]] run as a living rhythm. Every Play points to a Pattern. Every Pattern lives in a Play.
+The Playbook turns the Game into action. Form a Cell. Choose a Quest. Set Your Cadence. Forge a Field of Agreements. Govern Your Circles. Grow Your Circles. Self-Replicate. Stack Up and Align. Federate Everything. Pass the Flame. The [[Seven Moves]] run as a living rhythm. Every Play points to a Pattern. Every Pattern lives in a Play.
 
 Placed at Volume IV for accessibility — once the reader knows the Game, the next step is the moves of play.
 

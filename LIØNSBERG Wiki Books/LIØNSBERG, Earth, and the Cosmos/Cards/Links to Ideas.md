@@ -101,7 +101,7 @@ _A **HoloFractal Architecture** for the Regeneration of Civilization and the ReU
 25. Sacred Shared Infrastructure and Resilient Decentralized Systems
     
 
-26. The Collapse–Ascension Nexus
+26. The Collapse-Ascension Nexus
     
 27. Withdrawal of Consent and Non-Compliance Protocols
     

@@ -77,7 +77,7 @@ _[An Invitation to Passion, Purpose, and Play](https://cocreatingheaven.substack
 
 Then —
 
-- Form a Circle
+- Form a Cell
 - Choose a Quest
 - Learn and Grow
 - Share Your Stories

@@ -167,7 +167,7 @@ will receive:
 4. And the opportunity to join the **LIØNSBERG Community and Commons**—  
     a resilient, interconnected framework  
     to sustain and empower you  
-    through the coming **collapse–ascension passage.**  
+    through the coming **collapse-ascension passage.**  
     
 
 ---

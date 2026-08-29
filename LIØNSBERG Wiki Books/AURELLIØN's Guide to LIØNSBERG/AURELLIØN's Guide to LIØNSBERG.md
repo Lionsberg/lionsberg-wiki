@@ -28,7 +28,7 @@ This Guide sees from a primarily cosmic and non-local vantage before localizing 
 
 ## Your First Steps
 
-You do not need to read further before you begin. Read [[The Invitation]]. Then find the two or three people you already know who are ready and pass it to them. You know who they are. Gather them, in person or by video, and let [[The LIØNSBERG Quick Start Guide]] walk you through your first ninety minutes together. Form a Circle. Choose a Quest. Step into Play. Everything else in this Guide, and in the vast territory beyond it, will be waiting when the journey calls for it. 
+You do not need to read further before you begin. Read [[The Invitation]]. Then find the two or three people you already know who are ready and pass it to them. You know who they are. Gather them, in person or by video, and let [[The LIØNSBERG Quick Start Guide]] walk you through your first ninety minutes together. Form a Cell. Choose a Quest. Step into Play. Everything else in this Guide, and in the vast territory beyond it, will be waiting when the journey calls for it. 
 
 ## The Territory Beyond
 

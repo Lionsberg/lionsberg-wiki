@@ -16,7 +16,7 @@
 
 **The Five Moves**
 
-1. **Form a Circle** — three to thirteen souls, gathered at the pace of trust; a name, a few simple agreements, a first Quest.
+1. **Form a Cell** — three to thirteen souls, gathered at the pace of trust; a name, a few simple agreements, a first Quest.
 2. **Choose a Quest** — one tangible act of goodwill for the season ahead: real, achievable, meaningful, together.
 3. **Learn and Grow** — do the work, week by week: *say what you will do; do what you said; learn from the difference.*
 4. **Share Your Stories** — every Quest becomes a Story; every Story becomes a Prophesy of even greater things to come.

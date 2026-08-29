@@ -79,8 +79,6 @@ The stewardship-based economic model seeks to realign resources and priorities, 
 
 In the LIØNSBERG economic model, rewards and incentives are designed to encourage purpose-driven actions that contribute to the well-being of people and the planet, and the growth of The Movement and The Game. The Game recognizes and celebrates the efforts of individuals, businesses, and organizations that prioritize long-term social and environmental impact over short-term financial gain, fostering a culture where purpose-driven actions are valued and rewarded. By creating an economic system that incentivizes stewardship, collaboration, and the pursuit of shared value, the Great Game of LIØNSBERG aims to inspire a global movement towards a more just, regenerative, and prosperous world for all. 
 
-[[Left Off Here]]  
-
 ### V. The Citizen-Led Governance Model
 
 The Great Game of LIØNSBERG promotes a citizen-led governance model that empowers individuals and communities to take charge of their own lives and participate actively in shaping their collective future. This model is built on the principles of participatory democracy, decentralization, and shared responsibility, ensuring that power and decision-making authority are distributed fairly among all stakeholders.
@@ -150,7 +148,7 @@ In order to create lasting change, it is essential to mobilize grassroots suppor
 
 The Great Game of LIØNSBERG is designed to be inclusive and empowering, providing opportunities for individuals from all walks of life to participate in the process of co-creating a better world. This includes offering various channels for engagement, such as online forums, local meetings, workshops, and events, as well as opportunities to contribute to specific projects or initiatives. By providing diverse opportunities for participation, the game can tap into the unique skills, knowledge, and perspectives of individuals from all sectors of society, fostering a sense of empowerment and collective ownership in the process.
 
-### X. Conclusion
+### IX. Conclusion
 
 The LIØNSBERG Strategy and Plan represents a bold, comprehensive approach to address the complex challenges facing humanity today. By uniting people around a shared vision and leveraging the power of gamification, the Great Game of LIØNSBERG has the potential to drive transformative change across all aspects of society. In this final section, we outline the path forward, the role of leadership, and issue a call to action.
 

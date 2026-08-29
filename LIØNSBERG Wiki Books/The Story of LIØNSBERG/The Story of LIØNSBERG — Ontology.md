@@ -77,7 +77,7 @@ _The named concepts The Story references — the working vocabulary of the cosmi
 
 | Concept | Resolves To |
 |---|---|
-| **Form a Circle / The Circle** | [[Circle]] · widespread |
+| **Form a Cell / The Circle** | [[Circle]] · widespread |
 | **Choose a Quest / The Quest** | [[Quest]] · [[The LIØNSBERG Playbook]] |
 | **Pass The Flame** | [[Pass The Flame]] |
 

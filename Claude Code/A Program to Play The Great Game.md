@@ -279,7 +279,7 @@ This project bridges the gap between:
 4. An AI guide (trained on all 2.5M words) helps them understand their context
 5. It suggests a first quest appropriate to their situation
 6. It connects them with 2-3 others nearby who are also awakening
-7. They form a circle, begin playing
+7. They form a cell, begin playing
 8. The platform tracks their progress, suggests next quests
 9. They coordinate with other circles in their community
 10. The 300 begin to emerge in their locality

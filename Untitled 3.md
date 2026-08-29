@@ -144,7 +144,7 @@ Everyone has a role. The question is not whether you have the right credentials.
 
 **Young people** — you are not the future. You are here now. The Game needs your energy, creativity, and refusal to accept what the previous generations tolerated.
 
-**Anyone who recognizes the pattern** — step in. Form a Circle. Pledge your 42 hours. Contribute what you can to the Commons. Choose real work. Pass the flame.
+**Anyone who recognizes the pattern** — step in. Form a Cell. Pledge your 42 hours. Contribute what you can to the Commons. Choose real work. Pass the flame.
 
 ---
 

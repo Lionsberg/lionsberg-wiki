@@ -6,7 +6,7 @@ _Three to thirteen Sovereigns in voluntary covenant. The irreducible collective 
 
 ## What The Circle Is
 
-The [[Circle]] is the canonical collective unit of LIØNSBERG — three to thirteen Sovereigns in voluntary covenant, walking together, holding a shared field, taking the [[Field of Agreements]] in mutual accountability. The Circle's full Pattern is articulated across the wider Codex; see [[Form A Circle]], [[Circle as Irreducible Unit]], the [[The LIØNSBERG Pattern Language|Pattern Language]] articulations.
+The [[Circle]] is the canonical collective unit of LIØNSBERG — three to thirteen Sovereigns in voluntary covenant, walking together, holding a shared field, taking the [[Field of Agreements]] in mutual accountability. The Circle's full Pattern is articulated across the wider Codex; see [[Form A Cell]], [[Circle as Irreducible Unit]], the [[The LIØNSBERG Pattern Language|Pattern Language]] articulations.
 
 The Warrior Circle is one specific application of the Circle Pattern: three to thirteen Sacred Warriors gathered as the operational unit for their facet of the work. The Circle holds the Vow. The Circle witnesses the Vow renewals. The Circle is the dojo's beating heart. The Circle's shared field is the foundation on which every higher Warrior scale rests.
 

@@ -32,7 +32,7 @@ The same discipline holds throughout: every Volume, every Card, every page that 
 
 ## Naming Convention
 
-- **Pattern Cards** carry name-based filenames: `Form A Circle.md`, `Spirit Precedes Pattern.md`, `Holofractal Omnifederation.md`. No numbering.
+- **Pattern Cards** carry name-based filenames: `Form A Cell.md`, `Spirit Precedes Pattern.md`, `Holofractal Omnifederation.md`. No numbering.
 - **Pattern Cards live in** `LIØNSBERG Wiki Books/The LIØNSBERG Pattern Language/Patterns/`
 - **Plays** in the Playbook use the `Play — Title.md` convention with em-dash separator: `Play — Create Or Join A Circle.md`, `Play — Run A Meeting.md`. The `Play —` prefix is self-describing and prevents duplicate-filename conflict with the same-named Pattern Card.
 - Same name can appear as both a Pattern and a (simple) Play — the Pattern holds the wisdom; the Play of the same name is the simplest riff that invokes just that Pattern.
@@ -216,7 +216,7 @@ _The canonical Patterns at Circle and individual scale. The wisdom-units that co
 
 **Circle Formation and Life**
 
-- [[Form A Circle]] — gather three to thirteen sovereign souls who choose to see, serve, and build together
+- [[Form A Cell]] — gather three to thirteen sovereign souls who choose to see, serve, and build together
 - [[Name Your Circles]] — the first shared act of co-creation
 - [[Set Your Cadence]] — establish the weekly heartbeat that keeps the Circle alive
 - [[Forge a Field of Agreements]] — build the structure of trust from spoken, shared, honored commitments

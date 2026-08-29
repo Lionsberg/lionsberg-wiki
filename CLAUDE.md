@@ -126,7 +126,7 @@ _Four Elements of Production:_
 
 **The Seven Moves** (the gameplay loop of The Great Game):
 1. **Wake Up** — recognize the collapse, feel the call, choose to act
-2. **Form a Circle** — gather 3-13 resonant souls as the irreducible unit
+2. **Form a Cell** — gather 3-13 resonant souls as the irreducible unit
 3. **Choose a Quest** — pick real work that makes life measurably more like Heaven
 4. **Do the Work** — discern, plan, act, keep promises, produce results
 5. **Share Your Stories** — testimony as the primary vehicle of culture and spread
@@ -187,7 +187,7 @@ The wiki follows a hierarchical content organization with three distinct content
 - **The LIØNSBERG Lexicon** — the semantic framework organized into a Meta Layer and 12 Pillars
 - **Pass The Flame** — the mechanics and mathematics of organic spread
 - **The LIØNSBERG Circle Guide** — complete operational guide for Circles
-- **The LIØNSBERG Playbook** — the operational playbook (Form A Circle, Choose A Quest, Pass The Flame, Federate Everything, etc.)
+- **The LIØNSBERG Playbook** — the operational playbook (Form A Cell, Choose A Quest, Pass The Flame, Federate Everything, etc.)
 
 **Voice of the work:** Prophetic register with operational precision — scripture that contains program management. Definitive, not tentative. Present-tense or prophetic certainty. Staccato for weight. Liturgical parallelism. Sensory and abstract in tension. The voice of a wise elder at a fire coupled with a general of cosmic armies, not a lecturer or AI.
 

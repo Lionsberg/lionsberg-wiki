@@ -604,7 +604,7 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 
 ### The Next Five Plays
 
-- [[Form A Circle]] — _Gather your first band of sovereign souls_
+- [[Form A Cell]] — _Gather your first band of sovereign souls_
 - [[Choose A Quest]] — _Give your Circle a body of meaningful work_
 - [[Choose Your Roles]] — _Discover the gifts each member brings_
 - [[Discern the Wise Right Next Steps]] — _Turn intention into reliable, faithful action_
@@ -654,7 +654,7 @@ _The Living Guide of The Great Game. Where the Pattern becomes Practice and the 
 
 #### Circle Formation and Life
 
-- [[Form A Circle]]
+- [[Form A Cell]]
 - [[Name Your Circles]]
 - [[Set Your Cadence]]
 - [[Forge a Field of Agreements]]

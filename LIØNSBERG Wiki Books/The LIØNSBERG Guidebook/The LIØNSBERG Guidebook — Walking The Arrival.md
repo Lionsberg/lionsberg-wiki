@@ -103,7 +103,7 @@ The first 90 minutes will not feel like much. It will feel like a meeting, with 
 
 ## Stage 6 — Weekly Practice _(Walk)_
 
-The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Circle, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
+The Circle meets weekly. The [[Seven Moves]] become the rhythm: Form a Cell, Weave Spirit Hearts and Minds, Choose a Quest, Do the Work, Celebrate Learn and Improve, Share the Stories, Pass the Flame.
 
 [[The LIØNSBERG Playbook]] becomes your working guide at the Circle scale. [[The Daily Way]] becomes the working rhythm at the individual scale. **You no longer study the Way — you live it.**  
 

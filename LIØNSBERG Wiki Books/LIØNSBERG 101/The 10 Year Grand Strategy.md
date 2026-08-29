@@ -134,7 +134,7 @@ See [[LIØNSBERG Cycles of Growth]] for the complete Fibonacci progression from 
 
 The entire strategy rests on **one irreducible action that must happen first**:
 
-**Form a Circle.**
+**Form a Cell.**
 
 Everything flows from this. Without it, nothing moves. With it, the Fibonacci sequence begins, and the mathematics of organic growth do the rest.
 

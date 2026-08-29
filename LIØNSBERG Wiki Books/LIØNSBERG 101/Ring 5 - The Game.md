@@ -56,11 +56,11 @@ This is not optional preparation before the "real" work. **This IS the real work
 
 ---
 
-## Step 3: Form A Circle
+## Step 3: Form A Cell
 
 You cannot do this alone. The Pattern is inherently relational. The basic unit is not the individual — it is the **[[Circle]]**: a voluntary association of 3 to 13 people united by shared purpose and agreements.
 
-### How To Form A Circle
+### How To Form A Cell
 
 **1. Identify 2-4 others who resonate.** Not everyone you know. Not your entire network. Start with those who feel the same urgency, share the same recognition, and are willing to commit.
 

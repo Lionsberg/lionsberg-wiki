@@ -556,7 +556,7 @@ _It is approximately True [[As Best We Can Currently Discern]], and We also are 
 **How We Get There**: By Becoming It (Being) and Co-Creating It (Doing) across every InterExistent Holofractal Domain of [[Experiential Reality]]   
 **How We Navigate**: We [[Continuously Improve]] Our [[Map of Reality]] and walk in the [[Way]] towards [[The Goal]] by taking the [[Wise Right Next Steps]] each moment of the Eternal Now EveryWhen and EveryWhere  
 **What are the Milestones?** The shift of consciousness and embodiment of a New Way of Being among a growing percentage of the Conscious Agents in Each Domain  
-**What is the First Milestone in Any Domain?** For The First Few to Form a Circle and Begin [[The Common Journey]] Together  
+**What is the First Milestone in Any Domain?** For The First Few to Form a Cell and Begin [[The Common Journey]] Together  
 **What is the Second Milestone in Any Domain?** For The First Few to engage [[The First Three Percent]]. From there, the [[Tipping Point Strategy]] unfolds.   
 **What are the [[Wise Right Next Steps]]?**  That depends on Who You Are and Where You Are on the [[Map of Reality]], and the Roles you are Playing in [[The Great Game]].    
 

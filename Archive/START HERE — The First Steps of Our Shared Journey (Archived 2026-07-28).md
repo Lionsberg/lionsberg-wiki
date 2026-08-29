@@ -101,7 +101,7 @@ Here is One Path:
     
 2. **[[Overview of the System & Way]]** — See the Pattern.
     
-3. **[[How to Form a Circle]]** — Begin the Journey with Others.
+3. **[[How to Form a Cell]]** — Begin the Journey with Others.
     
 4. **[[Seasonal Quest Starter Kit]]** — Take action, together.
     

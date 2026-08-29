@@ -20,7 +20,7 @@ A note is **atomic** — playing it requires the full note, not a piece of it. T
 
 ## Riff — The Small Composition
 
-A **riff** is a short, recognizable, repeatable composition of notes — a phrase that can be played in many songs. The Seven Moves of The Great Game is a riff: [[Form A Circle]] → [[Choose A Quest]] → [[Do The Work]] → [[Share The Stories]] → [[Learn And Improve]] → [[Pass The Flame]] (six notes; a complete riff).
+A **riff** is a short, recognizable, repeatable composition of notes — a phrase that can be played in many songs. The Seven Moves of The Great Game is a riff: [[Form A Cell]] → [[Choose A Quest]] → [[Do The Work]] → [[Share The Stories]] → [[Learn And Improve]] → [[Pass The Flame]] (six notes; a complete riff).
 
 Riffs live in the [[The LIØNSBERG Playbook]]. They are operational — the field practitioner reaches for a riff when a specific situation calls for one.
 
@@ -100,7 +100,7 @@ The discipline is **preserve nuance, eliminate noise**. The boundary:
 ## Eliminate (Redundancy Is Noise)
 
 - **Multiple agents naming the same wisdom-unit under near-synonyms** — e.g., "The Goal" / "The Meta Goal" / "The Aim" / "The Vision" / "The Better Future" / "The Worthy Goal" — these are one note ([[The Goal]] = [[Heaven On Earth For All]]) named six times. Canonical name selected; the others become aliases that redirect, not separate Cards.
-- **Same Pattern named with cosmetic variation** — "Form A Circle" vs "Forming A Circle" vs "Circle Formation" — one note ([[Form A Circle]]); aliases redirect.
+- **Same Pattern named with cosmetic variation** — "Form A Cell" vs "Forming A Circle" vs "Circle Formation" — one note ([[Form A Cell]]); aliases redirect.
 - **Specific application listed as if it were a separate Pattern** when it is governed by [[General Pattern, Specific Application]] — e.g., "Warrior-Healer Pair" is an application of [[Federation]], not a separate Pattern. Fold per the canonical diagnostic.
 - **Container mistaken for Pattern** — per [[patterns_vs_containers_of_experience]], stages, days, rings, specific moments are containers. Place in their proper canonical home, not as Pattern Cards.
 
@@ -281,7 +281,7 @@ Each is its own canonical Pattern Card. The ladder is canonical in [[Levels of S
 **Aliases (fold)**: Circle (3-13) · Circle as Irreducible Unit · The Gathered Circle.
 
 **Adjacent Notes (preserve)**:
-- [[Form A Circle]] — the active practice of forming
+- [[Form A Cell]] — the active practice of forming
 - [[Circle Coherence]] — the third-coherence that emerges in a held Circle
 - [[Self-Replicate Your Circles]] — the spread practice
 - [[Federate Circles Into Communities]] — the scaling practice
@@ -358,7 +358,7 @@ The riff that composes them: [[The Triadic Discipline]] (Fill / Improve / Remove
 
 **The Seven Moves as seven distinct notes (preserve all)**:
 - [[Wake Up]]
-- [[Form A Circle]]
+- [[Form A Cell]]
 - [[Choose A Quest]]
 - [[Do The Work]]
 - [[Share Your Stories]]

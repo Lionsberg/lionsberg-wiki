@@ -374,7 +374,7 @@ You do not need to read every pattern. You do not need to understand every domai
 
 Here is the path:  
 
-**Start with the Seven Moves.** The Seven Moves of [[The Great Game of LIØNSBERG]] tell you what to do first: Wake Up. Form a Circle. Choose a Quest. Do the Work. Share Your Stories. Learn and Improve. Pass the Flame. Everything else unfolds from these seven actions.  
+**Start with the Seven Moves.** The Seven Moves of [[The Great Game of LIØNSBERG]] tell you what to do first: Wake Up. Form a Cell. Choose a Quest. Do the Work. Share Your Stories. Learn and Improve. Pass the Flame. Everything else unfolds from these seven actions.  
 
 **Choose a Quest.** Every Quest lives within one or more of the twelve domains. A Quest to start a community garden? You need Domain VII (Life and Regeneration), Domain V (Economy and Stewardship), and Domain IX (Integration and Wholeness). A Quest to establish consent-based governance for your Circle? You need Domain IV (Governance and Wise Eldership) and Domain I (Purpose and Covenant). The Quest tells you which patterns you need. Start there.  
 

@@ -14,7 +14,7 @@ A **note** is the irreducible Pattern.
 
 It cannot be decomposed without loss of meaning. It carries one wisdom-unit — whole, atomic, alive.
 
-[[Silence And Stillness As The Ground]] is a note. [[Right Relationship]] is a note. [[Form A Circle]] is a note. [[Pass The Flame]] is a note. [[Fierce And Powerful Love]] is a note.
+[[Silence And Stillness As The Ground]] is a note. [[Right Relationship]] is a note. [[Form A Cell]] is a note. [[Pass The Flame]] is a note. [[Fierce And Powerful Love]] is a note.
 
 Each note has a name. Each has a meaning. Each has a character — the felt sense of the wisdom it carries. Each has a register — the scale at which it most naturally plays. Some notes are middle-C, foundational, sounding in nearly every composition: [[ØNE]] · [[The Goal]] · [[Love]] · [[The Way]]. Others are rare, used only when the moment calls them forth.
 
@@ -30,7 +30,7 @@ It is recognizable, repeatable, playable in many songs. A handful of notes sound
 
 The Seven Moves of the Great Game is a riff:
 
-> [[Wake Up]] → [[Form A Circle]] → [[Choose A Quest]] → [[Do The Work]] → [[Share Your Stories]] → [[Learn And Improve]] → [[Pass The Flame]].
+> [[Wake Up]] → [[Form A Cell]] → [[Choose A Quest]] → [[Do The Work]] → [[Share Your Stories]] → [[Learn And Improve]] → [[Pass The Flame]].
 
 Seven notes. One riff. Played anywhere on Earth, by any Circle, in any season. The notes are universal; the playing is local.
 

@@ -114,7 +114,7 @@ Every Pattern lives in **one** canonical place; every Play arranges them.
 ```
 Pattern Language (Vol V Part) — Architecturally Primary
    Patterns live at: LIØNSBERG Wiki Books/The LIØNSBERG Pattern Language/Patterns/
-   Each Pattern Card: name-based filename — Form A Circle.md, Spirit Precedes Pattern.md
+   Each Pattern Card: name-based filename — Form A Cell.md, Spirit Precedes Pattern.md
    Wisdom articulated ONCE per Pattern Card
 
 Playbook (Vol IV) — The Field Music-Book
@@ -125,7 +125,7 @@ Playbook (Vol IV) — The Field Music-Book
 
 A Play's form:
 
-- **Name** — the operational moment (Run a Meeting, Form a Circle, Pass the Flame, Make a Decision)
+- **Name** — the operational moment (Run a Meeting, Form a Cell, Pass the Flame, Make a Decision)
 - **Context** — when this riff fires; what situation calls for it
 - **The Sequence** — Patterns invoked in order or weave, with brief timing/transition notes
 - **Improvisation Notes** — common variations; when to adapt
@@ -150,7 +150,7 @@ The earliest Plays in a Sovereign's walk:
 
 1. **Play — Cross The Threshold** — Step beyond the boundary of the Old World into the New.
 2. **Anchor The First Practice** — Root yourself in the daily rhythm. (See Pattern: [[The Daily Way]].)
-3. **Play — Create Or Join A Circle** — Gather 3 to 13 sovereign souls. (See Play: Play — Create Or Join A Circle; invokes Pattern: [[Form A Circle]].)
+3. **Play — Create Or Join A Circle** — Gather 3 to 13 sovereign souls. (See Play: Play — Create Or Join A Circle; invokes Pattern: [[Form A Cell]].)
 4. **Play — Choose A Quest** — Give your Circle a body of meaningful work. (Play and Pattern of the same name.)
 5. **Enter The Game** — Do the work. Track commitments. Learn from every cycle. Grow.
 6. **Play — Pass The Flame** — Help others form their own Circles.
@@ -276,7 +276,7 @@ The reverse index — each Pattern alongside the Plays that invoke it — lives 
 
 ## On The Existing Root Plays
 
-Many of the existing root-level "Plays" in the wiki ([[Form A Circle]], [[Pass The Flame]], [[Govern Your Circles]], [[Forge a Field of Agreements]], etc.) carry **substantial wisdom** — they read more as canonical Pattern articulations than as operational riff compositions. As the Pattern Language + Playbook rebuild proceeds, most of these will **migrate to the Patterns folder** as canonical Pattern Cards, with simple Play — Title riffs in the Plays folder that invoke them.
+Many of the existing root-level "Plays" in the wiki ([[Form A Cell]], [[Pass The Flame]], [[Govern Your Circles]], [[Forge a Field of Agreements]], etc.) carry **substantial wisdom** — they read more as canonical Pattern articulations than as operational riff compositions. As the Pattern Language + Playbook rebuild proceeds, most of these will **migrate to the Patterns folder** as canonical Pattern Cards, with simple Play — Title riffs in the Plays folder that invoke them.
 
 The migration is gradual. During the transition, both old root-Plays and new Play — Title Plays will coexist; broken links will be resolved as Patterns and Plays settle.
 
