@@ -46,7 +46,8 @@
 [[39. The New Economy]]  
 [[40. Resilience and Emergency Response]]  
 [[41. The Historic Cultural Moment]]  
-[[42. The Great Stewardship]]
+[[42. The Great Stewardship]]  
+[[43. The Bets and the Stages]]
 
 ---
 
