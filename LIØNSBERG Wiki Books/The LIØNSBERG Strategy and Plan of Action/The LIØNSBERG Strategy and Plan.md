@@ -44,7 +44,9 @@
 [[37. Planning at Every Scale]]  
 [[38. The Shadow Work]]  
 [[39. The New Economy]]  
-[[40. Resilience and Emergency Response]]
+[[40. Resilience and Emergency Response]]  
+[[41. The Historic Cultural Moment]]  
+[[42. The Great Stewardship]]
 
 ---
 
