@@ -14,7 +14,9 @@ Tell the truth about the war, too. The world war did not end in 1945; it went un
 
 Hell on Earth is the default trajectory. Heaven on Earth is genuinely possible. Between them stands nothing but what we do now — which is why the question of this Part is not *whether the building is on fire*. It is: **who will you be, in a burning building, when a door opens?**
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[6. What Is At Stake If We Fail|What Is At Stake If We Fail]] · [[7. A Historic Opportunity|A Historic Opportunity]] · [[10. Planetary Context|Planetary Context]] · [[23. How Much Time Do We Have?|How Much Time Do We Have?]] — *the crisis books' chapters follow with the Context smelt*
 
 ---
 

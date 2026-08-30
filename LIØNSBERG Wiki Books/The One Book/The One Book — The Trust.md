@@ -14,7 +14,9 @@ That is the foundation of the trust being asked of you, and it is unlike any the
 
 Trust, here, means only this: the gift is real, the givers sought nothing, the books are open, and the door is not locked from either side. Test everything. Keep what is good.
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[9. History and Inception|History and Inception]] · [[The 100 Steps Towards The Promised Land (J, Spring 2024)|The Founding Testament]] — *the Manifesto and Chronicles follow with the Trust smelt*
 
 ---
 

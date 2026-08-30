@@ -14,7 +14,9 @@ So the Book does not end. It turns — and as it turns, notice what has happened
 
 **The next chapter is your life. Turn the page.**
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[34. The Record|The Record]] *(shared with Part V)* — *the retrospection and continuous-improvement works gather with the Emergence smelt*
 
 ---
 

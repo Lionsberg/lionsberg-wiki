@@ -12,7 +12,9 @@ And every word is held three ways, so that knowing never floats free of doing: t
 
 This is also the deepest defense the Movement has. Institutions can be seized and servers silenced — but a language, once alive in a million households, cannot be uninstalled. Carried in stories and songs, in the names children learn for things, the code outlives every platform and every persecution. Speak it, and you are already building.
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[14. Patterns of Success, and a Pattern Language of Success|Patterns of Success, and a Pattern Language of Success]] · [[15. Transforming the Human Pattern Language - FROM The Old, TO The New|Transforming the Human Pattern Language]] — *the Lexicon and Pattern Language gather with the Code smelt*
 
 ---
 

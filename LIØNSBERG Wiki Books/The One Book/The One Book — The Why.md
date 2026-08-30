@@ -16,7 +16,9 @@ Can it actually be done? Here the Why bows its head: any plan to regenerate a wo
 
 And because consciousness lays itself out as story, the Why comes to you finally not as doctrine but as **[[The Story of LIØNSBERG]]** — the ancient, archetypical tale you already know in your bones: the captives in [[The Caves]], the [[New Exodus]], the [[Wilderness]] between the Old and the New, and the Promised Land that recedes just enough to keep us growing forever. You are not reading about that story. You were born into its decisive chapter.
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[3. If One and All Will It to Be|If One and All Will It to Be]] · [[4. Our Highest Duty to One, All, Wisdom, and Truth|Our Highest Duty]] · [[5. Our Overarching and Uniting Aim and Goal|The Aim and Goal]] · [[13. Designer's Intent and Creator's Intent|Designer's Intent and Creator's Intent]] · [[18. No One Involuntarily Left Behind|No One Involuntarily Left Behind]] · [[19. None Of Us Until All Of Us|None Of Us Until All Of Us]] · [[22. The Story - The Quest Towards The Goal of Greatest Worth|The Story — The Quest Towards The Goal of Greatest Worth]]
 
 ---
 

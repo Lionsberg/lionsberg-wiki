@@ -14,7 +14,9 @@ Be honest about the horizon, because the Vision is credible only when it is hone
 
 Every piece of this Vision already exists somewhere on Earth, proven in some village, some watershed, some workshop. Nothing here requires new physics. It requires only what has always been missing: **all of it, everywhere, together** — which is precisely what the Plan is for.
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[12. Reintegration of the Human System and Living System|Reintegration of the Human System and Living System]] · [[24. Reimagining, Redesigning, and Rebuilding Our Lives and Our World|Reimagining, Redesigning, and Rebuilding]] — *the Vision books' chapters follow with their smelt*
 
 ---
 

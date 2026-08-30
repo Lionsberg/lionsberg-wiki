@@ -12,7 +12,9 @@ And it never asks more than you can grow by. The whole path is walked in the **[
 
 The secret of this Part is that it was never separate from the others. The Quest that regenerates your watershed is the same Quest that regenerates you. The Cell that feeds its neighborhood is the forge of its members' souls. You will set out to build the New World, and one ordinary evening — putting away the chairs after a Cell gathering — you will notice the New World has been building you.
 
-*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+
+**Chapters gathered so far:** [[16. Transforming Human Consciousness, Thought, Speech, Behavior|Transforming Human Consciousness, Thought, Speech, Behavior]] — *101, the Experience, and the formation books follow with their smelt*
 
 ---
 
