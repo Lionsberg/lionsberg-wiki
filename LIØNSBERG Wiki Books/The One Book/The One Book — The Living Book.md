@@ -14,6 +14,8 @@ So the Book does not end. It turns — and as it turns, notice what has happened
 
 **The next chapter is your life. Turn the page.**
 
+*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+
 ---
 
 *[[Accept The Invitation]] · [[Form A Cell]] · [[Choose A Quest]] · [[Share Your Stories]] · [[Pass The Flame]]*

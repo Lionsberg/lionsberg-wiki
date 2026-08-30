@@ -19,6 +19,10 @@ With **ØNE** word — from, within, and to which [[The LIØNSBERG Universe]] be
 
 Everything after is the deepening of that opening.
 
+## The shape of the Book
+
+Each Part is a whole territory, not a summary of one. **A Part opens with its turn** — the reading you can take in minutes — **and holds its chapters**: the full articulation, at complete integrity and detail, of everything gathered into it. The Book loses nothing of what folds into it; it is where each thing is said best, in whole. Read the turns in an evening; read the chapters for the depth of a life. And the architecture itself remains alive: the Parts stand presently at nine, and may yet grow — perhaps toward twelve, or twelve and one — as the gathering reveals the true joints of the whole.
+
 ## The Nine Parts
 
 ### [[The One Book — The Moment|Part I · The Moment]] — *Where are we?*

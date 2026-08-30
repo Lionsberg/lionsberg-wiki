@@ -14,6 +14,8 @@ Be honest about the horizon, because the Vision is credible only when it is hone
 
 Every piece of this Vision already exists somewhere on Earth, proven in some village, some watershed, some workshop. Nothing here requires new physics. It requires only what has always been missing: **all of it, everywhere, together** — which is precisely what the Plan is for.
 
+*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+
 ---
 
 *How we get there in time: [[The One Book — The Plan|Part V · The Plan]].*

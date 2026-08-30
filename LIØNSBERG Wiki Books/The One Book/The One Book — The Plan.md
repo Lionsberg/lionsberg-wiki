@@ -30,7 +30,15 @@ The [[10 Year Grand Strategy]] began in Spring 2024; a [[20 Year Generational Co
 
 Every person who joins walks three years of healing and formation into full [[New Citizenship]]; the youth begin at fifteen and rise at eighteen; and when the crossing is complete comes [[The Greatest Celebration and Jubilee In History]] — debts reset, captives freed, ancestral lands restored, the [[New Era]] begun. That is the whole road, from this evening to the feast.
 
-The full articulation — forty-three chapters: the timing, the anatomy, the resourcing, the guarding, the bets — stands open behind this Part: **[[The LIØNSBERG Strategy and Plan]]**. Consult it when you lead. But nothing in it changes what this Part has already told you:
+That is this Part's turn. Its chapters — the full articulation, at complete depth — follow:
+
+**The frame:** [[1. Introduction to the LIØNSBERG Strategy and Plan|Introduction]] · [[2. Executive Summary|Executive Summary]] · [[8. Timing|Timing]] · [[11. Scope of Work|Scope of Work]] · [[17. A Universal Movement|A Universal Movement]] · [[20. A Tipping Point Strategy Led By Transforming Consciousness and Cultural Norms|The Tipping Point Strategy]] · [[21. Pathways, Bridges, and Infrastructure|Pathways, Bridges, and Infrastructure]]
+**The system:** [[26. Work Breakdown Structure - The 12 Pillars of LIØNSBERG|The 12 Pillars]] · [[27. We Have a Lot of Work to Do|The Work]] · [[28.  This Much Work Requires a Purpose-Built System|A Purpose-Built System]] · [[29. A New System of Systems|A System of Systems]] · [[30. Unified by The Goal|Unified by The Goal]] · [[31. Conceptually Universal and Eternal, Fractally Localizable, Adaptable, and Implementable|Universal and Localizable]] · [[35. The Anatomy of the Body|The Anatomy of the Body]]
+**The engine:** [[32. The Calling of the Ecclesia|The Calling of the Ecclesia]] · [[33. Resourcing the Transformation|Resourcing the Transformation]] · [[36. The Instantiation Hubs and the Commons|The Instantiation Hubs and the Commons]] · [[37. Planning at Every Scale|Planning at Every Scale]] · [[39. The New Economy|The New Economy]] · [[41. The Historic Cultural Moment|The Historic Cultural Moment]]
+**The guarding:** [[38. The Shadow Work|The Shadow Work]] · [[40. Resilience and Emergency Response|Resilience and Emergency Response]] · [[42. The Great Stewardship|The Great Stewardship]]
+**The honesty:** [[34. The Record|The Record]] · [[43. The Bets and the Stages|The Bets and the Stages]]
+
+*(The remaining chapters of the founding volume carry other Parts' substance and take their places as those Parts gather their chapters; the founding articulations stand preserved in [[The LIØNSBERG Strategy and Plan]] and [[The 100 Steps Towards The Promised Land (J, Spring 2024)]].)* But nothing in it changes what this Part has already told you:
 
 The Plan is not waiting for anyone else. **It is your move.**
 

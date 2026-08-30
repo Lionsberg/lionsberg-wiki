@@ -12,6 +12,8 @@ And every word is held three ways, so that knowing never floats free of doing: t
 
 This is also the deepest defense the Movement has. Institutions can be seized and servers silenced — but a language, once alive in a million households, cannot be uninstalled. Carried in stories and songs, in the names children learn for things, the code outlives every platform and every persecution. Speak it, and you are already building.
 
+*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+
 ---
 
 *What the language builds in you: [[The One Book — The Becoming|Part VIII · The Becoming]].*

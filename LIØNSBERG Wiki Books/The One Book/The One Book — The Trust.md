@@ -14,6 +14,8 @@ That is the foundation of the trust being asked of you, and it is unlike any the
 
 Trust, here, means only this: the gift is real, the givers sought nothing, the books are open, and the door is not locked from either side. Test everything. Keep what is good.
 
+*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+
 ---
 
 *What the gift builds: [[The One Book — The Vision|Part IV · The Vision]].*

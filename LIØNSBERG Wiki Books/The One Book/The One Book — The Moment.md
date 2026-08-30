@@ -14,6 +14,8 @@ Tell the truth about the war, too. The world war did not end in 1945; it went un
 
 Hell on Earth is the default trajectory. Heaven on Earth is genuinely possible. Between them stands nothing but what we do now — which is why the question of this Part is not *whether the building is on fire*. It is: **who will you be, in a burning building, when a door opens?**
 
+*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+
 ---
 
 *The door opens in [[The One Book — The Why|Part II · The Why]].*

@@ -16,6 +16,8 @@
 
 All of it breathes with [[The Seasonal Cycle]] — Quests chosen at the equinoxes and solstices, resources dividing at the moons, the whole Body reading itself at each turning — synchronized not by any server but by the sky, which no one can switch off. And Cells do not remain alone: they federate into the [[Superorganism of Cells]], forge [[The 300]] of their communities, and weave the planetary grid — the same Pattern at every scale, so that in learning to run one faithful Cell you have already learned to help run a world.
 
+*That is this Part's turn. Its chapters — the full articulation, at complete integrity and detail — gather here as each territory's works are folded in, so that nothing of their depth is lost and everything is said best, once, in whole.*
+
 ---
 
 *The words that carry all of it: [[The One Book — The Language|Part VII · The Language]].*
