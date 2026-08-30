@@ -21,6 +21,10 @@ The canonical bound corpus. One work, in twelve movements, ordered accessible �
 11. **Volume XI** — [[The LIØNSBERG Living Library]]  _(curated index of the canonical body of work — the Codex as first entry, the Card-Book substrate, and substantive companion works)_
 12. **Volume XII** — [[The LIØNSBERG Universe Guide]]  _(the Inheritance Manual; six Parts)_
 
+**[[The One Book]]** — the complete turn of the whole: everything the library holds, in one evening's read that opens downward all the way — the book placed in every hand, continuously improving, never final.
+
+**Living companion books** (beside the Volumes, tended continuously): [[The LIØNSBERG Book of Emotions]] · [[The LIØNSBERG Book of Concepts]] · the Book of Values *(in gestation)*.
+
 The full canonical articulation, the Sovereign's Path, the Canonical Discipline, the Voice Standard, and the Living Discipline live at [[The LIØNSBERG Sacred Codex|the Sacred Codex main page]].
 
 ---
