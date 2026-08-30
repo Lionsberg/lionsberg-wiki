@@ -14,9 +14,7 @@ That is the foundation of the trust being asked of you, and it is unlike any the
 
 Trust, here, means only this: the gift is real, the givers sought nothing, the books are open, and the door is not locked from either side. Test everything. Keep what is good.
 
-*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
-
-**Chapters gathered so far:** [[9. History and Inception|History and Inception]] · [[The 100 Steps Towards The Promised Land (J, Spring 2024)|The Founding Testament]] — *the Manifesto and Chronicles follow with the Trust smelt*
+*That is this Movement's turn. Its chapters are not collected — they are **composed**: each one written fresh through the great gathering, the best and highest synthesis of its territory in the Book's one voice, deduplicated against the whole, opening outward to [[The First 999 Concepts|the concepts]] and beyond. Until each source gives up its gold, its full depth stands behind this Movement in: [[LIØNSBERG - History, Inception, and Trust Manifesto]] · [[The Chronicles of J]] · [[The 100 Steps Towards The Promised Land (J, Spring 2024)|the Founding Testament]].*
 
 ---
 

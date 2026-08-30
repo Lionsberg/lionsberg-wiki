@@ -14,9 +14,7 @@ Tell the truth about the war, too. The world war did not end in 1945; it went un
 
 Hell on Earth is the default trajectory. Heaven on Earth is genuinely possible. Between them stands nothing but what we do now — which is why the question of this Movement is not *whether the building is on fire*. It is: **who will you be, in a burning building, when a door opens?**
 
-*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
-
-**Chapters gathered so far:** [[6. What Is At Stake If We Fail|What Is At Stake If We Fail]] · [[7. A Historic Opportunity|A Historic Opportunity]] · [[10. Planetary Context|Planetary Context]] · [[23. How Much Time Do We Have?|How Much Time Do We Have?]] — *the crisis books' chapters follow with the Context smelt*
+*That is this Movement's turn. Its chapters are not collected — they are **composed**: each one written fresh through the great gathering, the best and highest synthesis of its territory in the Book's one voice, deduplicated against the whole, opening outward to [[The First 999 Concepts|the concepts]] and beyond. Until each source gives up its gold, its full depth stands behind this Movement in: [[Most People Have No Idea What Is Coming]] · [[Beyond The Meta Crisis]] · [[The Last Chance - A Revolutionary Approach to Averting Global Collapse|The Last Chance]] · [[An Alternative to Apocalypse - The New Covenant|An Alternative to Apocalypse]] · the founding chapters of [[The LIØNSBERG Strategy and Plan]].*
 
 ---
 

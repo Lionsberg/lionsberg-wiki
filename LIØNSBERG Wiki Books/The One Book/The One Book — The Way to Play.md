@@ -16,9 +16,7 @@
 
 All of it breathes with [[The Seasonal Cycle]] — Quests chosen at the equinoxes and solstices, resources dividing at the moons, the whole Body reading itself at each turning — synchronized not by any server but by the sky, which no one can switch off. And Cells do not remain alone: they federate into the [[Superorganism of Cells]], forge [[The 300]] of their communities, and weave the planetary grid — the same Pattern at every scale, so that in learning to run one faithful Cell you have already learned to help run a world.
 
-*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
-
-**Chapters gathered so far:** [[25. The Art and Science of Co-Creation|The Art and Science of Co-Creation]] — *the Game and Playbook chapters follow with the Action smelt*
+*That is this Movement's turn. Its chapters are not collected — they are **composed**: each one written fresh through the great gathering, the best and highest synthesis of its territory in the Book's one voice, deduplicated against the whole, opening outward to [[The First 999 Concepts|the concepts]] and beyond. Until each source gives up its gold, its full depth stands behind this Movement in: [[The Great Game of LIØNSBERG]] · [[The LIØNSBERG Playbook]] · [[Pass The Flame - Illuminating the Way Beyond the Meta Crisis|Pass The Flame]].*
 
 ---
 

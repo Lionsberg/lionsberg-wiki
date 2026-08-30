@@ -14,9 +14,7 @@ So the Book does not end. It turns — and as it turns, notice what has happened
 
 **The next chapter is your life. Turn the page.**
 
-*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
-
-**Chapters gathered so far:** [[34. The Record|The Record]] *(shared with Part V)* — *the retrospection and continuous-improvement works gather with the Emergence smelt*
+*That is this Movement's turn. Its chapters are not collected — they are **composed**: each one written fresh through the great gathering, the best and highest synthesis of its territory in the Book's one voice, deduplicated against the whole, opening outward to [[The First 999 Concepts|the concepts]] and beyond. Until each source gives up its gold, its full depth stands behind this Movement in: [[34. The Record|The Record]] · [[The Program Delivery Guide]]'s learning engine · the retrospection works.*
 
 ---
 

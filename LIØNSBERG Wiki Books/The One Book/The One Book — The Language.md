@@ -12,9 +12,7 @@ And every word is held three ways, so that knowing never floats free of doing: t
 
 This is also the deepest defense the Movement has. Institutions can be seized and servers silenced — but a language, once alive in a million households, cannot be uninstalled. Carried in stories and songs, in the names children learn for things, the code outlives every platform and every persecution. Speak it, and you are already building.
 
-*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
-
-**Chapters gathered so far:** [[14. Patterns of Success, and a Pattern Language of Success|Patterns of Success, and a Pattern Language of Success]] · [[15. Transforming the Human Pattern Language - FROM The Old, TO The New|Transforming the Human Pattern Language]] — *the Lexicon and Pattern Language gather with the Code smelt*
+*That is this Movement's turn. Its chapters are not collected — they are **composed**: each one written fresh through the great gathering, the best and highest synthesis of its territory in the Book's one voice, deduplicated against the whole, opening outward to [[The First 999 Concepts|the concepts]] and beyond. Until each source gives up its gold, its full depth stands behind this Movement in: [[The LIØNSBERG Lexicon]] · [[The LIØNSBERG Pattern Language]] · [[The Language of LIØNSBERG]] and [[The First 999 Concepts|the 999]].*
 
 ---
 

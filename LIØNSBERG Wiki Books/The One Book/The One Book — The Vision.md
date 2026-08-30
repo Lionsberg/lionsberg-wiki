@@ -14,9 +14,7 @@ Be honest about the horizon, because the Vision is credible only when it is hone
 
 Every piece of this Vision already exists somewhere on Earth, proven in some village, some watershed, some workshop. Nothing here requires new physics. It requires only what has always been missing: **all of it, everywhere, together** — which is precisely what the Plan is for.
 
-*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
-
-**Chapters gathered so far:** [[12. Reintegration of the Human System and Living System|Reintegration of the Human System and Living System]] · [[24. Reimagining, Redesigning, and Rebuilding Our Lives and Our World|Reimagining, Redesigning, and Rebuilding]] — *the Vision books' chapters follow with their smelt*
+*That is this Movement's turn. Its chapters are not collected — they are **composed**: each one written fresh through the great gathering, the best and highest synthesis of its territory in the Book's one voice, deduplicated against the whole, opening outward to [[The First 999 Concepts|the concepts]] and beyond. Until each source gives up its gold, its full depth stands behind this Movement in: [[The LIØNSBERG Blueprint - Manifesto for Worksite Earth 2.0|The LIØNSBERG Blueprint]] · [[LIØNSBERG, Simple and Clear]] · [[The Kingdom of LIØNSBERG — Plans and Specifications]] · the vision chapters of [[The LIØNSBERG Strategy and Plan]].*
 
 ---
 
