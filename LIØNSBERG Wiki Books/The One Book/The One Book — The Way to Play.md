@@ -1,6 +1,6 @@
-# Part VI · The Way to Play
+# Movement VI · The Way to Play
 
-*The Plan told you the road. This Part puts your feet on it. Everything reduces to five moves — simple enough for a kitchen table, deep enough for a lifetime.*
+*The Plan told you the road. This Movement puts your feet on it. Everything reduces to five moves — simple enough for a kitchen table, deep enough for a lifetime.*
 
 **A [[Superorganism]] is emerging. Accept The Invitation. Form a Cell. Choose a Quest. Share Your Stories. Pass The Flame.**
 
@@ -16,10 +16,10 @@
 
 All of it breathes with [[The Seasonal Cycle]] — Quests chosen at the equinoxes and solstices, resources dividing at the moons, the whole Body reading itself at each turning — synchronized not by any server but by the sky, which no one can switch off. And Cells do not remain alone: they federate into the [[Superorganism of Cells]], forge [[The 300]] of their communities, and weave the planetary grid — the same Pattern at every scale, so that in learning to run one faithful Cell you have already learned to help run a world.
 
-*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
 
 **Chapters gathered so far:** [[25. The Art and Science of Co-Creation|The Art and Science of Co-Creation]] — *the Game and Playbook chapters follow with the Action smelt*
 
 ---
 
-*The words that carry all of it: [[The One Book — The Language|Part VII · The Language]].*
+*The words that carry all of it: [[The One Book — The Language|Movement VII · The Language]].*

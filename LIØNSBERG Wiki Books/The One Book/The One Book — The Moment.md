@@ -1,6 +1,6 @@
-# Part I · The Moment
+# Movement I · The Moment
 
-*Before the why, the where. This Part asks nothing of you but honesty: look.*
+*Before the why, the where. This Movement asks nothing of you but honesty: look.*
 
 Around the world, people are awakening to the knowing that [[Something Is Deeply Wrong]] — and then discovering that it is not one thing. The failing farms and the failing banks, the poisoned waters and the poisoned words, the loneliness and the wars and the vanishing species — [[Root Cause Analysis]] reveals they are connected: not ten thousand crises but **one [[Meta Crisis]]**, rising from one root — the way we have been being, as a species, aboard this world. [[The Building Is On Fire]], and the fire is not in one room.
 
@@ -12,12 +12,12 @@ Tell the truth about the war, too. The world war did not end in 1945; it went un
 
 **How long do we have?** Only [[ØNE]] knows. Our honest reckoning: this decade — perhaps the next twenty-four months — will tell. The interval in which the leap remains possible is [[The Window]], the Critically Effective Time Limit: no one can calculate it, and it may close at an unknown time. So the wise stance is neither panic nor patience but [[Act As If]] — moving as fast as love allows, resting in the truth that the same unknowability that could close The Window early may hold it open longer than any fear predicts.
 
-Hell on Earth is the default trajectory. Heaven on Earth is genuinely possible. Between them stands nothing but what we do now — which is why the question of this Part is not *whether the building is on fire*. It is: **who will you be, in a burning building, when a door opens?**
+Hell on Earth is the default trajectory. Heaven on Earth is genuinely possible. Between them stands nothing but what we do now — which is why the question of this Movement is not *whether the building is on fire*. It is: **who will you be, in a burning building, when a door opens?**
 
-*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
 
 **Chapters gathered so far:** [[6. What Is At Stake If We Fail|What Is At Stake If We Fail]] · [[7. A Historic Opportunity|A Historic Opportunity]] · [[10. Planetary Context|Planetary Context]] · [[23. How Much Time Do We Have?|How Much Time Do We Have?]] — *the crisis books' chapters follow with the Context smelt*
 
 ---
 
-*The door opens in [[The One Book — The Why|Part II · The Why]].*
+*The door opens in [[The One Book — The Why|Movement II · The Why]].*

@@ -1,6 +1,6 @@
-# Part III · The Trust
+# Movement III · The Trust
 
-*You are right to ask. Every voice in the Old World that said "trust me" wanted something from you. So this Part earns trust the only way it can be earned — by telling the whole truth, including the parts that cost.*
+*You are right to ask. Every voice in the Old World that said "trust me" wanted something from you. So this Movement earns trust the only way it can be earned — by telling the whole truth, including the parts that cost.*
 
 The Vision this Book carries belongs to no one. It is universal and eternal, reflected in the prophetic traditions of every people; no one invented it, no one owns it, and — mark this — **no one profits from it.** What can be told is how this particular incarnation of it came to be.
 
@@ -14,10 +14,10 @@ That is the foundation of the trust being asked of you, and it is unlike any the
 
 Trust, here, means only this: the gift is real, the givers sought nothing, the books are open, and the door is not locked from either side. Test everything. Keep what is good.
 
-*That is this Part's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
+*That is this Movement's turn. Its chapters gather here — the full articulation at complete integrity and detail, deduplicated as each work is folded in, every chapter opening outward to [[The First 999 Concepts|the concepts]] and beyond.*
 
 **Chapters gathered so far:** [[9. History and Inception|History and Inception]] · [[The 100 Steps Towards The Promised Land (J, Spring 2024)|The Founding Testament]] — *the Manifesto and Chronicles follow with the Trust smelt*
 
 ---
 
-*What the gift builds: [[The One Book — The Vision|Part IV · The Vision]].*
+*What the gift builds: [[The One Book — The Vision|Movement IV · The Vision]].*
