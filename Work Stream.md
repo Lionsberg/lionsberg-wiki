@@ -6,6 +6,6 @@ The Work Breakdown Structure gives a Work Stream its shape: it says *what* the w
 
 A Work Stream is the unit a person, a [[Cell]] or a [[Team of Teams|Team]] actually carries. One folder, one person or one Team may hold several at once, and knowing which stream a piece of work belongs to is how it is found, sorted and handed on. Where one stream hands work to another, the [[Network of Commitments]] tracks the [[Handoff Points]] between them.
 
-This is how [[Integrated Delivery]] holds the Whole as one plan without anyone owning all of it: many Work Streams, each carried by those closest to the work, linked across Cells into one logical network, whose [[Critical Path]] leads toward [[The Goal]]. Seen whole, a Work Stream is a value stream, where [[Waste]] shows and can be removed ([[Value Stream Mapping]]).
+This is how [[Integrated Delivery]] holds the Whole as one plan without anyone owning all of it: many Work Streams, each carried by those closest to the work, linked across Cells into one logical network and nested into the [[System Wide Master Plan]], whose [[Critical Path]] leads toward [[The Goal]]. Work Streams lie between the Work Cards that make them up and the Work Breakdown Structure that informs them. Seen whole, a Work Stream is a value stream, where [[Waste]] shows and can be removed ([[Value Stream Mapping]]).
 
 See also: [[Work Card]], [[Activity]], [[Work Breakdown Structure]], [[Network of Commitments]], [[Critical Path]], [[Pull Planning]], [[LIØNSBERG Integrated Delivery System]], [[Everything Is A Project]]
