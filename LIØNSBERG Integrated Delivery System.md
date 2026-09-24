@@ -14,6 +14,10 @@ The LIØNSBERG IDS is also designed to be highly adaptable, allowing for continu
 
 The LIØNSBERG Integrated Delivery System is a powerful tool for organizations, communities, and individuals who are working towards a shared Vision and Values. It provides a framework for delivering projects and initiatives in a highly collaborative and adaptable way, while aligning local progress with global goals and objectives. By adopting the LIØNSBERG IDS, organizations and communities can work together in an informed, wise, and effective way towards their shared goals and objectives, and can continuously improve the way that they work together over time.
 
+## How the work is carried
+
+All the work is broken down once, in the [[Work Breakdown Structure]], whose first level is [[The 12 Pillars of LIØNSBERG]]. Each branch of the breakdown is carried forward as a [[Work Stream]]. Every [[Activity]] in a Work Stream has its own [[Work Card]]; every card has at least one [[Predecessor]] and at least one [[Successor]]; and no card is larger than five days of ten-hour work, fifty hours. Linked across Cells and Teams, the cards form one [[Network of Commitments]], from which the [[Critical Path]] toward [[The Goal]] is calculated.
+
 Technically, this approach is critical to producing [[Throughput]] of the [[Total Nested Holarchy of Goals]] contained in the [[Meta Goal]]. 
 
 The LIØNSBERG IDS is one system in the [[LIØNSBERG System]] of systems, which must be co-operated in its entirety to produce [[Throughput]] of [[The Goal]].  

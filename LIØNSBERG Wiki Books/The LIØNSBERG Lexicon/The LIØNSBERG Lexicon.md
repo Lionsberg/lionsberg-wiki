@@ -778,7 +778,7 @@ This domain integrates:
 70. The [[Meta Project]] demands a [[Meta System]].  
 71. We call the [[Incarnation]] of this the [[LIØNSBERG System]].  
 72. [[Theory Of Constraints]] / [[Lean]] / [[Waste]] / [[Value]] / [[Value Stream Mapping]]
-73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]]
+73. [[Predecessor]] / [[Successor]] / [[Network of Commitments]] / [[Pull Planning]] / [[Activity]] / [[Work Card]] / [[Work Stream]]
 74. The [[LIØNSBERG System]] is designed as an Interoperable [[System of Systems]]
 75. It is designed to be a [[New Earth Operating System]], and it includes a [[LIØNSBERG Human System Living System Interface]].
 76. [[The System]] is what enables [[The Whole]] to co-operate as [[ØNE Body]].

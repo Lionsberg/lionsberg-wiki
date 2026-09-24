@@ -24,3 +24,5 @@ It is important to note that the WBS should be reviewed and updated regularly th
 By using a WBS, project managers and teams can ensure that all project activities are properly defined and accounted for, and that the project is delivered within the desired time, budget, and quality constraints.
 
 The first level of the LIØNSBERG Work Breakdown Structure is [[The 12 Pillars of LIØNSBERG]]. 
+
+In the [[LIØNSBERG Integrated Delivery System]], each branch of the breakdown, carried forward as linked [[Work Card|Work Cards]], is a [[Work Stream]]: the breakdown says what the work is, and the [[Predecessor]] and [[Successor]] links say in what order. Every [[Activity]] has its own Work Card, and no card is larger than fifty hours.
