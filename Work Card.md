@@ -13,4 +13,4 @@ The card is how the Activity is seen and kept. Its face says what the Activity i
 
 From the links between cards, the [[Critical Path]] and every card's float are calculated, not guessed. A card is a [[Commitments|Commitment]] made visible, so it serves [[Making And Securing Commitments]] and [[Tracking Commitments]]. The Work Card is the *promising* side of the network; the TEA Card is its *spending* side — each person's daily record of time, energy and attention, kept by Work Stream and Quest, and rolling up into the [[System Wide Master Plan]]. Cards are plain text, readable by a person with no machine and just as usable by an agent.
 
-See also: [[Activity]], [[Work Stream]], [[Work Breakdown Structure]], [[Network of Commitments]], [[Critical Path]], [[Card Types]], [[LIØNSBERG Integrated Delivery System]]
+See also: [[Activity]], [[Work Stream]], [[Work Breakdown Structure]], [[Network of Commitments]], [[Critical Path]], [[LIØNSBERG Integrated Delivery System]]
