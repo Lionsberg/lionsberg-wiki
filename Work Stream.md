@@ -8,4 +8,6 @@ A Work Stream is the unit a person, a [[Cell]] or a [[Team of Teams|Team]] actua
 
 This is how [[Integrated Delivery]] holds the Whole as one plan without anyone owning all of it: many Work Streams, each carried by those closest to the work, linked across Cells into one logical network and nested into the [[System Wide Master Plan]], whose [[Critical Path]] leads toward [[The Goal]]. Work Streams lie between the Work Cards that make them up and the Work Breakdown Structure that informs them. Seen whole, a Work Stream is a value stream, where [[Waste]] shows and can be removed ([[Value Stream Mapping]]).
 
+A Work Stream is also where the orienting questions get their working answer. *Where am I?* is read from the cards: their state, what each waits on, and what waits on it. *What is mine to do next?* is the constraint-free card with the least float — one next step, not a list. The same questions are asked at every scale: the day, the stream, the [[Quest]], and the whole.
+
 See also: [[Work Card]], [[Activity]], [[Work Breakdown Structure]], [[Network of Commitments]], [[Critical Path]], [[Pull Planning]], [[LIØNSBERG Integrated Delivery System]], [[Everything Is A Project]]
