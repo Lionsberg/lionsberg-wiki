@@ -12,7 +12,7 @@ At the top of every holarchy of practice stands an ineffable referent ([[Essence
 
 This is [[The Creative Cascade]] applied to practices. The ineffable Way descends through our best conception of it into a recommended practice, which is adapted in a thousand local domains — and the learnings of every adaptation flow back up, refining the recommendation for all who come after. A practice that cannot learn from its practitioners is not a practice; it is a dogma.
 
-**This is why we say "good practice," never "best practice."** To call a practice *best* is to claim the top of the holarchy — to declare the search finished and the Ideal possessed, which no one can truthfully do. A *good* practice claims only what can be honestly claimed: that it serves, that it is the current best we know, and that it expects to be surpassed. The humility is not decoration; it is what keeps the practice alive and the [[Way]] open.
+**The word *current* carries the humility.** A Current Best Practice never claims the top of the holarchy; it claims only to be the best we presently know, and it expects to be surpassed. For many things we track the **top two or three good practices** side by side, each with what it serves best and where it falls short, and we **recommend one**: a continuously improving [[Current Best Understanding]] of the matter, and the Current Best Practice that goes with it. The others stay in view, so that when the context changes or a better way proves truer, the body can move without starting over. The humility is not decoration; it is what keeps the practice alive and the [[Way]] open.
 
 ## The Discipline
 
